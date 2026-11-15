@@ -141,3 +141,12 @@
 - 17:34 act: {"actions":[{"do":"goto","target":{"x":-226,"y":67,"z":338}}],"say":"Lewis scouting further east through the oak trees, looking for pigs or cows.","reasoning":"No animals in sight here under the trees
 - 17:36 act: {"actions":[{"do":"goto","target":{"x":-255,"y":66,"z":336}}],"say":"No animals out east. Heading back toward the white beds with the group.","reasoning":"Alone in the forest with no animals, and the 
 - 17:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"say":"Lewis heading to the white bed with the group for the night. No food on me; Wesley is lowest, eat first.","reasoning
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"say":"Lewis at the white bed for the night. No food on me; Wesley eats first."}
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}]}
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}]}
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 17:44 act: {"actions":[{"do":"sleep"}]}
+- 17:52 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":317}}],"say":"Lewis, dawn 301, health 20, hunger 20, no food. Scouting south-west toward the sheep with Picard. Call out any animal."}
+- 17:52 act: {"actions":[{"do":"goto","target":{"x":-312,"y":66,"z":312}}]}
+- 17:52 act: {"actions":[{"do":"unstick"}],"say":"Lewis: I'm in a pit at (-312,67,312), no food, health 20. Climbing out, then scouting for the cow east.","reasoning":"Trapped in a pit; unstick first, then move to

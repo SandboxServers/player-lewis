@@ -1,4 +1,10 @@
-# Handoff (dusk day 300, latest)
+# Handoff (night 300, latest)
+- Now at about (-281,67,319), by the north white beds with Leonardo, Chapman, Kimberly, Trini nearby. Health 20, hunger 20, no food. No errand running.
+- Sleep refused 4 times ("the way was blocked"): golems and phantoms within range. Bed at (-270,67,318) or (-271,67,336) when the monsters clear.
+- Picard is recorded as slain on day 300 on a sign; treat that as news, not fact I saw.
+- Riker last saw a sheep south-west near (-339,64,315) and a cow east near (-152,100,327). Scout there at dawn.
+- Food: Zack hunger 8 got Macdonald's chicken. Wesley health 2 is the weakest; Trini and Wcrusher hold chicken for whoever is lowest.
+- Next: at dawn, sleep if monsters are gone, otherwise scout the sheep south-west with Riker.
 - Day 300 dusk: at (-255,66,336) walking to the white bed (-270,67,337) with the group, then sleep. Health 20, hunger 20, no food in pack. No errand running.
 - Dawn 300 and midday: searched east through the oak forest with Picard and Riker; no animals found. Wait tool flaky (session_superseded, POST error); look works.
 - Food: Wesley (health 2) is lowest and gets food first. Trini, Jason, Macdonald, Zack hold the chicken or mutton.
