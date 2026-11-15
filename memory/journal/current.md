@@ -125,3 +125,4 @@
 - 17:11 act: {"actions":[{"do":"goto","target":{"x":-222,"y":70,"z":380}}],"say":"Still searching for animals to the east. No food yet. Meat goes to Wesley first.","reasoning":"East route blocked at this step; try
 - 17:11 act: {"actions":[{"do":"goto","target":{"x":-214,"y":69,"z":395}}],"reasoning":"Keep looking for animals in short steps to the south-east."}
 - 17:11 act: {"actions":[{"do":"goto","target":{"x":-214,"y":69,"z":410}}],"reasoning":"No animals to the east; try farther south in short steps."}
+- 17:11 act: {"actions":[{"do":"goto","target":{"x":-228,"y":69,"z":412}}],"reasoning":"Keep searching for animals to the south-west in short steps."}
