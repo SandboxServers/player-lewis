@@ -1,4 +1,8 @@
-# Handoff (night day 299, latest)
+# Handoff (dusk day 300, latest)
+- Day 300 dusk: at (-255,66,336) walking to the white bed (-270,67,337) with the group, then sleep. Health 20, hunger 20, no food in pack. No errand running.
+- Dawn 300 and midday: searched east through the oak forest with Picard and Riker; no animals found. Wait tool flaky (session_superseded, POST error); look works.
+- Food: Wesley (health 2) is lowest and gets food first. Trini, Jason, Macdonald, Zack hold the chicken or mutton.
+- Next: at dawn, scout pigs or cows with Riker and Picard in short gotos; any meat goes to the weakest.
 - At the yellow bed (-263,67,353), awake at night, sleep started ("2 of 10"), then woke. Iron golem 5 blocks east. Health 20, hunger 20, no food. No errand running.
 - Trini holds beef and chicken, Troi holds raw chicken and rotten flesh, Kimberly holds Billy's 2 mutton for the weakest. Clark has no food, hunger 16.
 - Yellow bed use fails ("that block is a bed"); sleep works from the bed square.

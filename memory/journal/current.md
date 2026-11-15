@@ -134,3 +134,10 @@
 - 17:21 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"The first bed use failed, so I try the other half of the yellow bed."}
 - 17:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed keeps failing. Sleep works in a bed or sealed shelter, so I try sleep from here, no monsters in view."}
 - 17:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, I'm standing at the bed. Retry sleep once; if refused, stay put and wait."}
+- 17:24 act: {"say":"Lewis here at the yellow bed, health 20, hunger 20. Riker is close by. Trying to sleep.","actions":[{"do":"sleep"}],"reasoning":"Night, at my bed, full health and food. Sleep is the natural ne
+- 17:30 act: {"say":"Lewis, dawn 300, health and hunger full, no food to give. I'll walk with Worf and Zack to look for animals. Not alone.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":345}}],"reasoning"
+- 17:30 act: {"say":"Lewis here. Picard, I'll scout east with you for pigs. Call out if you see one; I have no food either.","actions":[{"do":"goto","target":{"x":-255,"y":66,"z":336}}],"reasoning":"Picard is head
+- 17:34 act: {"say":"Lewis: Riker, I'll come east with you in daylight. Call out any pig or cow you see; any meat goes to the weakest first.","actions":[{"do":"goto","target":{"x":-240,"y":66,"z":336}}],"reasoning
+- 17:34 act: {"actions":[{"do":"goto","target":{"x":-226,"y":67,"z":338}}],"say":"Lewis scouting further east through the oak trees, looking for pigs or cows.","reasoning":"No animals in sight here under the trees
+- 17:36 act: {"actions":[{"do":"goto","target":{"x":-255,"y":66,"z":336}}],"say":"No animals out east. Heading back toward the white beds with the group.","reasoning":"Alone in the forest with no animals, and the 
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"say":"Lewis heading to the white bed with the group for the night. No food on me; Wesley is lowest, eat first.","reasoning
