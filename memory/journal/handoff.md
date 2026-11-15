@@ -1,0 +1,1 @@
+Day 316, night. Sleeping at the white beds (430,107,-1078), not enclosed, health 6, hunger 16. Holding one raw chicken; eat it once hunger is 6 or below. Enderman seen to the south near 431,107,-1065; avoid it. Food chest at 433,107,-1051. Next: wake, eat chicken when hunger allows, then stay near the beds in sight of the group.

@@ -13,3 +13,19 @@
 - 22:13 act: {"say":"Tommy, thank you for the word about the chest. I'm going to the chest for a chicken now.","actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1079}},{"do":"withdraw","at":{"x":433,"y":107,"
 - 22:13 act: {"say":"The chest is empty of chicken. I'll stay by the beds in view. Kimberly, Troi, Clark: whoever reaches me first, hand over the chicken or egg.","actions":[]}
 - 22:21 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1079}}],"say":"Night is here. Kimberly, Troi, Trini: I'm sleeping in the bed by the chest. Leave food in the chest or by the beds if you find an
+- 22:22 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1079}},{"do":"open","at":{"x":433,"y":107,"z":-1079}}],"reasoning":"Hungry and weak; chest reportedly holds chickens. Check it.","say":"I'm at t
+- 22:22 act: {"actions":[{"do":"note","text":"Dawn-ish. Chest at beds is empty (0 chicken). Waiting in view at chest for Kimberly's chicken and Wesley's beef."}],"say":"Wesley, Kimberly, Meriwether here at the che
+- 22:25 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1092}},{"do":"open","at":{"x":433,"y":107,"z":-1093}}],"say":"Meriwether here, at the white beds by the chest. Trini, Troi, I'm at the beds; bri
+- 22:29 act: {"actions":[{"do":"note","text":"Day 314. Still at beds by chest (432,107,-1079), health 6, hunger 16. Chest empty. Waiting in view for Trini's chicken, Troi's egg, Wesley's beef."}],"reasoning":"Sess
+- 22:33 act: {"actions":[],"say":"Trini, Meriwether is at x432 z-1079, right beside the chest and the two white beds, east of you. Walk east along the signs to me. I'll wait here.","reasoning":"Trini is searching 
+- 22:37 act: {"actions":[],"say":"Troi, yes please, hand me the rotten flesh now. Trini, I'm at the chest, x432 z-1079, in view. Please give me one raw chicken; eat-safe for me is cooked, but I'll take it and wait
+- 22:41 act: {"actions":[{"do":"note","text":"Day 315 thunder. At chest 432,107,-1079. Nothing received yet; Trini and Troi say they are coming with chicken and rotten flesh."}],"say":"Trini, Troi, Clark: I am sta
+- 22:41 act: {"actions":[{"do":"open","at":{"x":433,"y":107,"z":-1079}},{"do":"withdraw","at":{"x":433,"y":107,"z":-1079},"item":"chicken","count":2}],"reasoning":"Tommy said two chickens in the food chest; check 
+- 22:45 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, I'm walking to you now. Hold the chicken.","reasoning":"Trini is close but unseen; go to her."}
+- 22:45 act: {"actions":[],"say":"Trini, I can't find you in sight. I'm still at the chest x432 z-1079. Please walk toward me until I can see you, and I will take the chicken.","reasoning":"Cannot see Trini; ask h
+- 22:49 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1051}},{"do":"open","at":{"x":433,"y":107,"z":-1051}},{"do":"withdraw","at":{"x":433,"y":107,"z":-1051},"item":"chicken","count":1},{"do":"eat"}
+- 22:49 act: {"actions":[{"do":"unstick"}],"reasoning":"In a pit; unstick needs no blocks. Then retry the walk to the food chest."}
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1052}},{"do":"open","at":{"x":433,"y":107,"z":-1051}},{"do":"withdraw","at":{"x":433,"y":107,"z":-1051},"item":"chicken","count":1},{"do":"eat"}
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1078}},{"do":"note","text":"Night 316. Got one raw chicken from food chest at -1051 (Trini's). Cannot eat until hunger 6. Back at beds 431,107,-
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1079}},{"do":"use","at":{"x":429,"y":107,"z":-1079}},{"do":"sleep"}],"reasoning":"Night, sleep deprived for days; bed beside the group. Enderman
+- 22:50 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed click refused; sleep verb works near the beds."}
