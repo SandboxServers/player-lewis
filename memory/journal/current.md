@@ -252,3 +252,10 @@
 - 10:34 act: {"actions":[],"say":"Clark, thank you. After Trini, the chicken comes to me: I'm at health 6, hunger 15. Chapman is hungry too."}
 - 10:37 act: {"actions":[],"say":"Clark, I am at the beds at (-273, 67, 319), right here next to Trini and Troi. Come within reach and the chicken is mine."}
 - 10:41 act: {"actions":[],"say":"I did not get the chicken; my pack is empty of meat. Troi, please hand it to Trini as agreed. I'm going to bed now."}
+- 10:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Lewis here, health 6, hunger 15, no food. I'm going to the white bed for the night. Trini first for any meat.","reas
+- 10:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep failed earlier because a creeper was near. Nothing hostile listed now; try the bed again."}
+- 10:42 act: {"actions":[{"do":"sleep"}],"reasoning":"No monsters in view now. Try to sleep again."}
+- 10:44 act: {"actions":[{"do":"sleep"}],"say":"Chapman, LaForge is weakest; I'm hunger 15, so I'll wait for the next wheat or meat after Trini and LaForge.","reasoning":"Trying sleep again. Food is going to LaFor
+- 10:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}],"reasoning":"Health 4 and getting hit from the right. Get away from the golem to the bed group to the north."}
+- 10:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}],"say":"Lewis, dawn. Health 4, hunger 15, no food. I'm at the beds. LaForge and Trini first for any meat or wheat.","reasoning":"Dawn. I am
+- 10:45 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":320}}],"reasoning":"An iron golem is closing in from the west. Move east, away from it, and stay near the group."}
