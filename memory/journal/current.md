@@ -106,3 +106,5 @@
 - 16:36 act: {"say":"Lewis: bows drawn to the west all morning, so I'm pulling back to the beds. No animals seen. Zack, Clark, Wesley: I'm at the beds with a pickaxe and no food.","actions":[{"do":"goto","target":
 - 16:40 act: {"say":"Lewis, dusk 297, health 20, no food. Trying the lone bed at -282,67,320 for the night.","actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
 - 16:40 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}],"say":"Sleep at the bed was not possible yet: it is not night. Waiting here for night."}
+- 16:41 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"use","at":{"x":-281,"y":67,"z":320}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-281,"y":
+- 16:41 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}}],"say":"Lewis at the south bed, going to sleep for the night. No food, hunger 20 for now."}
