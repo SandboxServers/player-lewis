@@ -1,8 +1,15 @@
-# Handoff (day 279, latest)
-- Slept at the north white bed (-273, 67, 319 area) on the night of day 279; days_since_sleep 0. Health 6, hunger 15, no food. Phantoms hit me on the west road; they are dangerous.
-- No meat in pack. Clark's chicken went to Troi, who should pass it to Trini. Trini, Chapman and Macdonald are hungry; food goes to Trini first, then Chapman.
-- Pack: 12 dirt, 3 oak saplings, 2 oak planks, 10 oak logs, 4 sticks, white wool, wooden hoe.
-- Next: at dawn, look for food near the beds before any long trip. Avoid the west road alone.
+# Handoff (midday day 289, latest)
+- Died at night 288 and respawned at (-299,68,295) with nothing. Went back: picked up 6 oak logs at about (-284,66,338). The other drops were not found; the chicken and dirt are gone.
+- At (-284,66,338) near the south beds, with iron golems nearby. Health 20, hunger 20, no food. Days since sleep 10.
+- Pack: 6 oak logs, 5 leather.
+- Told Clark the tilled farmland is at (-273,65,332). Food goes to Troi and Trini first, then Picard. Sleep at a free white bed at night only when no monster is in range.
+
+# Handoff (night day 283)
+- At (-271, 67, 327) near the crafting table (-274,66,326), with Riker, Troi, Clark, Bcrusher, Kimberly, Trini nearby. Night, thunder. Health 9, hunger 16, no food. No errand running.
+- Chicken went to LaForge via Riker (he has it). Gave nothing else. Tried sleep at the bed (-281,67,320): "creeper 6 blocks away". Use on a bed only says "that block is a bed"; sleep is the verb.
+- Seeds: tilled farmland is at (-273,65,332) (Jason). Planting my 2 wheat seeds is pending; place fails on non-farmland.
+- Pack: 12 dirt, 3 oak saplings, 10 oak logs, 2 wheat seeds, feather, wooden hoe.
+- Next: at dawn, plant seeds on the tilled farmland at (-273,65,332). Food goes to LaForge, then Trini, then Picard. Sleep at a white bed at night when no creeper is near.
 
 # Old handoff (day 278)
 - At the north white bed (-270, 67, 318), with Clark nearby. Health 18, hunger 16, no food. No errand running.
