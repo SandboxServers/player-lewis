@@ -1,4 +1,8 @@
-# Handoff
+# Handoff (updated at night, day 256)
+- Back at the white beds (-271,67,336) with Data, Laforge and Zack. Health 20, hunger 20, no food.
+- No errand in progress. Went west twice, fell into pits both times; the way west is pitted.
+- Trini and Data need meat most. Iron golems are south of the beds.
+- Earlier handoff
 
 Afternoon of day 255. Standing at (-276, 65, 328), no errand running. Hunger 20, health 20, no food in pack.
 

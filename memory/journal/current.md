@@ -15,3 +15,13 @@
 - 02:43 act: {"actions":[{"do":"sleep"}]}
 - 02:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Skeleton gone from view. Retry sleep at nearest bed with group.","say":"Trying the bed again now that no monst
 - Night of day 255: at the white beds with the group, health 20, hunger 20 (no food in pack). Slept in the bed beside me; days_since_sleep reset to 0. Still holding 5 dirt, 3 oak saplings, 3 oak logs, wooden sword. Next: find meat or ripe wheat at dawn.
+- 02:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Waking at night. No food yet. Bows are drawn to the east, so I will stay by the beds."}
+- 02:51 act: {"actions":[{"do":"goto","target":{"x":-286,"y":67,"z":330}}],"say":"Lewis at dawn, day 256. I have no food either. I'll search the grass to the west of the beds for animals and stay in sight of the g
+- 02:51 act: {"actions":[{"do":"goto","target":{"x":-296,"y":67,"z":322}}],"say":"Lewis, moving west and away from the iron golems that are closing in from the south. Still no food. Looking for animals.
+- 02:55 Dawn day 256. Health 20, hunger 20, no food. Golems came from the south, so I moved west to (-296,66,321). Trini (health 8) and Data (health 3) need meat most. Midday: heading west toward the sheep area."}
+- 02:54 act: {"actions":[{"do":"goto","target":{"x":-316,"y":67,"z":321}}],"say":"Lewis, midday day 256. Heading west toward the sheep area to look for food. Data and Trini, any meat I find comes to you first."}
+- 02:54 act: {"actions":[{"do":"unstick"}]}
+- 02:55 act: {"actions":[{"do":"goto","target":{"x":-330,"y":67,"z":320}}],"say":"Lewis: I got out of a pit at the edge. Going on west to look for sheep or pigs."}
+- 02:57 act: {"actions":[{"do":"unstick"}]}
+- 02:57 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Lewis: it's getting dark and I'm far out west. Heading back to the beds with the group for the night. Still no food."}
+- 02:57 act: {"actions":[{"do":"sleep"}],"say":"Lewis going to bed on the white bed at the camp for the night. No food yet; meat goes to Data and Trini first."}
