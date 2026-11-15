@@ -29,3 +29,7 @@
 - 22:50 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1078}},{"do":"note","text":"Night 316. Got one raw chicken from food chest at -1051 (Trini's). Cannot eat until hunger 6. Back at beds 431,107,-
 - 22:50 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1079}},{"do":"use","at":{"x":429,"y":107,"z":-1079}},{"do":"sleep"}],"reasoning":"Night, sleep deprived for days; bed beside the group. Enderman
 - 22:50 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed click refused; sleep verb works near the beds."}
+- 22:51 act: {"say":"Morning. Lewis here, at the beds. I hold one raw chicken and my hunger is 16, so I will keep it until it is lower. Trini, I am at the beds, in sight.","intent":{"goal":"stay_in_sight_near_beds
+- 22:51 act: {"actions":[{"do":"note","text":"Waking at the beds. Health 6, hunger 16. Holding one chicken; saving it until hunger is 6 or below. Rest intent failed on a precondition, so I am waiting here in sight
+- 22:55 act: {"actions":[{"do":"note","text":"Still at the beds, hunger 16, health 6. Holding my chicken for when hunger drops to 6. Kimberly and Trini are nearby with food for the weakest; I am in sight."}]}
+- 22:59 act: {"actions":[{"do":"note","text":"Hunger holding at 16 across several waits. Still at the beds with my chicken, in sight of the group. Waiting for hunger to fall."}]}
