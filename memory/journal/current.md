@@ -151,3 +151,9 @@
 - 17:52 act: {"actions":[{"do":"goto","target":{"x":-312,"y":66,"z":312}}]}
 - 17:52 act: {"actions":[{"do":"unstick"}],"say":"Lewis: I'm in a pit at (-312,67,312), no food, health 20. Climbing out, then scouting for the cow east.","reasoning":"Trapped in a pit; unstick first, then move to
 - 17:56 act: {"actions":[],"say":"Lewis: still no food, health 20, hunger 20. Holding at the south-west edge. Whoever has meat, I'm hungry but Wesley and the weakest come first.","reasoning":"Holding position whil
+- 18:01 act: {"actions":[{"do":"goto","target":{"x":-290,"y":66,"z":314}}],"intent":{"goal":"reach_white_bed_east","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["precondition_faile
+- 18:01 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 18:01 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 18:01 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 18:01 act: {"actions":[{"do":"sleep"}]}
+- 18:02 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":321}},{"do":"sleep"}],"intent":{"goal":"sleep_near_white_beds","program":"rest","arguments":{},"wake_on":["precondition_failed","unexpected_damag
