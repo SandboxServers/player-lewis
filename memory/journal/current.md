@@ -1,4 +1,7 @@
 # Journal
+- Day 267 midday: recovered some dropped items (3 oak logs, 3 saplings, 5 wheat seeds, stick, 2 dirt) but not the planks or sword. Skeleton NW of the beds. Hunger 20, health 20. Billy is at health 3, no food; I have nothing edible. Searched grass south-west (-310,300): no animals. Next: check with the group, look for cows, and sleep at a bed when night comes.
+- Day 266 dawn: a skeleton shot me on the north-west grass near (-290,270). Health 8, then I died. Woke at the beds (-297,68,295) with nothing. Dropped at -290,67,270: 2 dirt, 5 wheat seeds, 3 oak saplings, stick, oak planks, worn wooden sword, 3 oak logs. Not going back until the skeleton is gone. Staying at the beds with Troi. Hunger 20, health 20. Food first.
+- Night, day 266: at west cow lake (-288,67,258) with Billy, Clark, Tommy, Ellen, Wesley. No food, hunger 14, health 12. Holding until dawn, then cow search with the group. Last bed sleep was 9 days ago; need a bed soon.
 - Day 258 afternoon: scouted north-east to (-225,285), found no animals. Travel intent failed after one step, so I used a direct goto and reached the white beds (-271,67,319). Health 20, hunger 20, no food. Troi is nearby. Next: wait near the beds for an errand or meat, and sleep at dusk.
 - Day 260 dawn: woke at the south bed (-272,67,336) with Trini, Data, Troi, Kimberly close. Health 20, hunger 20, no food. Scouting east of the beds with the group. Meat goes to Trini, then Data.
 - Day 259 dusk: at the north bed; sleep refused as not night yet. Night: sleep blocked by "the way was blocked" with a golem 5 blocks away. Staying with Troi and Kimberly until dawn. Health 20, hunger 20, no food.
@@ -116,3 +119,9 @@
 - 06:15 act: {"say":"I'm at the cow lake now, -288, 67, 258. No cows in sight yet. I'll look around the shore."}
 - 06:17 say: {"text":"Lewis at the cow lake, no food, hunger 14. I'll look west and north for cows with Troi and Billy. Meat goes to Jason first."}
 - 06:21 say: {"text":"Lewis: dusk at the cow lake, no cow seen. I'll stay by Billy's shelter with the group tonight and search at dawn. Meat goes to Jason first."}
+- 06:27 act: {"say":"Lewis here, at the west cow lake with the group. No food, no bed. I'll stay put until dawn, then search for cows with you.","intent":{"goal":"hold_at_group_until_dawn","program":"rest","argume
+- 06:28 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":272}}],"say":"Lewis: skeleton 6 blocks north is shooting me, health 8. Moving south out of its line to the group."}
+- 06:28 act: {"say":"Lewis: a skeleton shot me and I died near -290,270. I woke at the beds with nothing. My dropped items lie near -290,67,270. I'll stay at the beds with Troi until it is clear.","intent":{"goal"
+- 06:28 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":276}},{"do":"goto","target":{"x":-290,"y":67,"z":271}},{"do":"goto","target":{"x":-290,"y":67,"z":270}}],"say":"Lewis: going to pick up my droppe
+- 06:28 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":292}}],"say":"Lewis: got back some of my things. A skeleton is closing from the north-west, so I'm going south to the beds."}
+- 06:33 act: {"say":"Lewis at the beds, midday. I'm fed (20) but have no food. Billy, you go first for any meat or apples. I'll search the grass to the south-west for cows now.","intent":{"goal":"search_sw_grass_f
