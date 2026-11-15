@@ -1,4 +1,22 @@
-# Handoff (night day 276, latest)
+# Handoff (day 279, latest)
+- Slept at the north white bed (-273, 67, 319 area) on the night of day 279; days_since_sleep 0. Health 6, hunger 15, no food. Phantoms hit me on the west road; they are dangerous.
+- No meat in pack. Clark's chicken went to Troi, who should pass it to Trini. Trini, Chapman and Macdonald are hungry; food goes to Trini first, then Chapman.
+- Pack: 12 dirt, 3 oak saplings, 2 oak planks, 10 oak logs, 4 sticks, white wool, wooden hoe.
+- Next: at dawn, look for food near the beds before any long trip. Avoid the west road alone.
+
+# Old handoff (day 278)
+- At the north white bed (-270, 67, 318), with Clark nearby. Health 18, hunger 16, no food. No errand running.
+- Searched the cow spot (-228, 68, 209), the sheep area (-214, 236) and farther south-east and east: no animals. Dropped dirt picked up (17 dirt in pack).
+- Sleep only at night at a free white bed, with no monsters near. If sleep fails, try (-271, 67, 318) or (-270, 67, 336).
+- Food goes to Trini first, then the hungriest near (Bcrusher, Riker, Chapman).
+
+# Handoff (dusk day 277)
+- At (-270, 68, 320) by the north white beds (-270/-271, 67, 318), with Bcrusher, LaForge, Wcrusher adjacent. Health 18, hunger 16, no food. No errand running.
+- Going to sleep at a free white bed tonight. Trini still not found. Food goes to Trini first, then Chapman and Riker.
+- Pack: 2 dirt, 3 oak saplings, 10 oak logs, 4 stick, 2 oak planks, white wool, wooden hoe.
+- Next: if sleep fails, try (-270, 67, 336) or (-282, 67, 320). Do not repeat the same bed a third time.
+
+# Handoff (night day 276)
 - Slept at the north white bed (-271, 67, 318) on the night of day 276. days_since_sleep is 0 now. Mutton given to Troi (she ate it). No mutton is held.
 - Trini still not found. LaForge holds 2 beef for her. Food goes to Trini first, then Chapman (hunger 15) and Riker (hunger 17).
 - Pack: 2 dirt, 3 oak saplings, 4 oak logs, 3 sticks, white wool, wooden hoe.

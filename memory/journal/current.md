@@ -217,3 +217,38 @@
 - 09:39 act: {"actions":[{"do":"note","text":"Troi out of sight at north beds. Holding mutton for Chapman or Troi, whoever is in reach first."}],"say":"Troi is not in sight now. Chapman, if you are close, say so a
 - 09:44 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"mutton","count":2}],"say":"Troi, here are the 2 mutton.","reasoning":"Troi in reach and asked; give now."}
 - 09:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"reasoning":"Mutton given. Now go to bed for sleep at night."}
+- 09:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. Trying another bed; Troi has the one by me.","intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"
+- 09:46 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexp
+- 09:47 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected
+- 09:49 act: {"actions":[],"say":"Morning. I need food too. I'm heading toward the cow near -228, 68, 209 to look for it.","intent":{"goal":"reach_cow_area","program":"travel","arguments":{"target":{"x":-228,"y":6
+- 09:49 act: {"actions":[{"do":"goto","target":{"x":-212,"y":68,"z":209}}],"intent":{"goal":"collect_items_east","program":"travel","arguments":{"target":{"x":-212,"y":68,"z":209}},"wake_on":["directly_addressed",
+- 09:49 act: {"actions":[{"do":"goto","target":{"x":-208,"y":72,"z":210}},{"do":"attack","target":"horse"}],"intent":{"goal":"hunt_horse_for_meat","program":"gather","arguments":{"block":"horse","count":1},"wake_o
+- 09:52 act: {"actions":[],"say":"Lewis: my attack on the horse timed out, no meat. I'm at -210,71,226 now. I'll watch the grass east and call out any animal."}
+- 09:55 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Troi, I'm hungry too, hunger 13 and no food. Could you spare some beef? I'm coming to you.","intent":{"goal":"reach_troi_for_beef","program":"tr
+- 09:55 act: {"actions":[],"say":"Troi, I'm beside you. Hunger 13, no food at all. Please give me some beef."}
+- 09:59 act: {"actions":[{"do":"eat"}],"say":"Thank you, Troi. Eating it now."}
+- 09:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"intent":{"goal":"return_to_home_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed"
+- 10:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to bed at the north white bed. Food for Trini first when I wake."}
+- 10:04 act: {"actions":[{"do":"sleep"}]}
+- 10:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 10:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 10:05 act: {"actions":[{"do":"sleep"}]}
+- 10:10 act: {"intent":{"goal":"reach_cow_sheep_area","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":226}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 10:10 act: {"intent":{"goal":"reach_cow_near_group","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":209}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 10:13 act: {"intent":{"goal":"search_sheep_southeast","program":"travel","arguments":{"target":{"x":-214,"y":69,"z":236}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 10:14 act: {"actions":[{"do":"goto","target":{"x":-215,"y":70,"z":236}}],"say":"I'm at the sheep area. There is a dropped item at -215, 70, 236; checking it."}
+- 10:14 act: {"intent":{"goal":"search_cows_southeast","program":"travel","arguments":{"target":{"x":-200,"y":69,"z":260}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 10:15 act: {"intent":{"goal":"search_animals_east","program":"travel","arguments":{"target":{"x":-185,"y":69,"z":262}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 10:16 act: {"actions":[{"do":"unstick"}]}
+- 10:17 act: {"intent":{"goal":"reach_north_white_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 10:25 act: {"actions":[{"do":"sleep"}]}
+- 10:26 act: {"actions":[{"do":"sleep"}]}
+- 10:28 act: {"intent":{"goal":"search_animals_west","program":"travel","arguments":{"target":{"x":-310,"y":68,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 10:29 act: {"intent":{"goal":"search_animals_far_west","program":"travel","arguments":{"target":{"x":-335,"y":68,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 10:29 act: {"intent":{"goal":"search_animals_north","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":260}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 10:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed","une
+- 10:30 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-275,"y":68,"z":318}},{"do":"place","block":"dirt","at":{"x":-273,"y":68,"z":318}},{"do":"place","block":"dirt","at":{"x":-274,"y":68,"z":317}},{"do"
+- 10:30 act: {"actions":[],"say":"I am at health 6 and hunger 15, with no food. Phantoms hit me on the way back. Trini first, then me if there is any left."}
+- 10:34 act: {"actions":[],"say":"Clark, thank you. After Trini, the chicken comes to me: I'm at health 6, hunger 15. Chapman is hungry too."}
+- 10:37 act: {"actions":[],"say":"Clark, I am at the beds at (-273, 67, 319), right here next to Trini and Troi. Come within reach and the chicken is mine."}
+- 10:41 act: {"actions":[],"say":"I did not get the chicken; my pack is empty of meat. Troi, please hand it to Trini as agreed. I'm going to bed now."}
