@@ -100,3 +100,9 @@
 - 16:09 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":300}}],"say":"Dawn. I am going north-east to look for pigs or cows. Will call out any meat.","reasoning":"Food is the group's need. Scout an area
 - 16:09 act: {"actions":[{"do":"goto","target":{"x":-215,"y":67,"z":280}}],"say":"No animals here at -240,300. Pushing further north-east to -215,280. Will call out any pig or cow.","reasoning":"Nothing in view. K
 - 16:09 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":320}}],"say":"No animals found north-east either. Heading back to the north beds with the group before dark.","reasoning":"Two scouting stops, no
+- 16:19 act: {"say":"Lewis here at the north white beds, health 20, hunger 20, no food. Wesley, if you can see me, I have nothing to give but wheat seeds. I'll keep an eye out for animals to the north.","intent":{
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Lewis: night, no food, health 20. Trying the bed at -270,67,336."}
+- 16:32 act: {"say":"Lewis, dawn 297, health 20, hunger 20, no food. Joining the west scout for animals. Meat goes to Clark first, then Wesley.","actions":[{"do":"goto","target":{"x":-290,"y":67,"z":320}}]}
+- 16:36 act: {"say":"Lewis: bows drawn to the west all morning, so I'm pulling back to the beds. No animals seen. Zack, Clark, Wesley: I'm at the beds with a pickaxe and no food.","actions":[{"do":"goto","target":
+- 16:40 act: {"say":"Lewis, dusk 297, health 20, no food. Trying the lone bed at -282,67,320 for the night.","actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 16:40 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}],"say":"Sleep at the bed was not possible yet: it is not night. Waiting here for night."}
