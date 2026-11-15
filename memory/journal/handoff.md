@@ -1,4 +1,8 @@
-# Handoff (night day 265, latest)
+# Handoff (day 266, latest)
+- At the cow lake (-288, 67, 258), with Tommy and MacDonald. Travel there worked after an unstick. No cows seen yet. Health 12, hunger 14, no food.
+- Wait keeps failing with session_superseded; journal POST also errored. Next: wait again, give any meat to Jason first, then Trini and Worf. A white bed is at (-282, 67, 320), 62 blocks back.
+
+# Handoff (night day 265)
 - At (-270, 67, 318) by the white beds near (-270,67,336) and (-271,67,318), with Worf adjacent, Kimberly nearby. Health 12, hunger 14, no food, no errand running.
 - Sleep tried twice at the south white beds: "the way was blocked" (iron golems roam 5-10 blocks south). Not retrying a third time. Retry at a bed once the golems move off.
 - Jason ate bread from his 3 wheat at dusk. Meat or mutton from the sheep spot goes to Jason first, then Trini and Worf.

@@ -111,3 +111,6 @@
 - 05:59 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Lewis: no food on me, Jason has the bread now. Going to the white bed at -281,67,320 for the night.","reasoning":"Du
 - 06:03 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"It is night now. Walk onto the white bed spot and try sleep once."}
 - 06:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep failed at the other bed. Try the second bed at -270,67,336, one step away."}
+- 06:15 act: {"say":"Chapman here, no food. I'm heading to the cow lake near -288, 67, 257 to help look for cows. Meat goes to Jason first.","intent":{"goal":"reach_cow_lake","program":"travel","arguments":{"targe
+- 06:15 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_cow_lake","program":"travel","arguments":{"target":{"x":-288,"y":67,"z":257}},"wake_on":["directly_addressed","precondition_failed","unexpected_da
+- 06:15 act: {"say":"I'm at the cow lake now, -288, 67, 258. No cows in sight yet. I'll look around the shore."}
