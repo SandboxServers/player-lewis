@@ -1,4 +1,17 @@
-# Handoff (night 300, latest)
+# Handoff (midday 306, latest)
+- At (-210,69,345), east of the yellow beds. Health 20, hunger 20, no food. Pack: 14 dirt, 7 leaf_litter. No errand running.
+- Sleep failed all night 305 at the yellow bed (-263,67,354): iron golems within 8-12 blocks ("the way was blocked").
+- East scouting at dawn and midday 306 with Worf, Kimberly, Data, Leonardo: no animals found. Far-east gotos fail with "no path".
+- Food owed: Chapman (lowest, health 3, hunger 13) gets meat first, then Kimberly, then Data.
+- Next: rejoin the group near -254,67,330 or the white beds; sleep at a free bed only when no golem is within range; scout for meat in short gotos.
+
+# Earlier handoff (night 304)
+- Sleeping at yellow bed (-263,67,353). Health 20, hunger 20, 3 dirt, no food.
+- Chapman is lowest (health ~3, hunger 14) near (-243,67,330). Zack holds 3 chicken, Kimberly one beef, Jason and Troi rotten flesh. Give meat to Chapman first.
+- Next: at first light look for meat (cow/pig seen near -152,327 and -213,351), short gotos, call out meat.
+- Lessons: travel intents stop at blocked paths; intent args take only listed keys (rest takes none).
+
+# Handoff (night 300)
 - Now at about (-281,67,319), by the north white beds with Leonardo, Chapman, Kimberly, Trini nearby. Health 20, hunger 20, no food. No errand running.
 - Sleep refused 4 times ("the way was blocked"): golems and phantoms within range. Bed at (-270,67,318) or (-271,67,336) when the monsters clear.
 - Picard is recorded as slain on day 300 on a sign; treat that as news, not fact I saw.

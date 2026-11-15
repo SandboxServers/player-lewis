@@ -2,3 +2,34 @@
 - 18:43 say: {"text":"Lewis here, with nothing in hand. Chapman, Data, I'm at the yellow beds. If anyone has spare food, I'll owe you the first wheat I find."}
 - 18:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, at a bed, with two friends near, health and hunger full. Rest here until morning, then look for food."}
 - 18:45 say: {"text":"Chapman, I have no food, only my body. Zack and Kimberly hold chicken and beef; I'm asking them to bring it to you first. I'm staying here with you until morning."}
+- 18:47 act: {"say":"Lewis awake at the yellow bed, health 20, hunger 20, no food in hand. Chapman, I'm here in sight. I will look for food at first light and bring it to you first.","intent":{"goal":"wait_for_mor
+- 18:52 act: {"say":"Lewis, morning 304, health 20, hunger 20, no food. Chapman, I'm going to find meat; I'll come to you first if I see any.","intent":{"goal":"reach_chapman_and_search_for_meat","program":"travel
+- 18:52 act: {"say":"Chapman, I'm beside you with no food. I'm joining LaForge's cow hunt east; any meat I get goes to you first if you're the lowest.","intent":{"goal":"join_cow_hunt_east","program":"travel","arg
+- 18:53 act: {"actions":[{"do":"goto","target":{"x":-217,"y":70,"z":319}}],"say":"Lewis here with LaForge, no food. Calling out if I see meat; I'll bring it to Chapman or whoever is lowest.","intent":{"goal":"hunt
+- 18:57 act: {"actions":[{"do":"goto","target":{"x":-210,"y":70,"z":326}}],"intent":{"goal":"close_to_laforge_hunt","program":"travel","arguments":{"target":{"x":-210,"y":70,"z":326}},"wake_on":["directly_addresse
+- 18:57 act: {"actions":[{"do":"goto","target":{"x":-217,"y":70,"z":320}}],"say":"Lewis moving to join the hunt with Macdonald and LaForge. Still no food; will share any meat with the lowest.","intent":{"goal":"re
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":-238,"y":69,"z":340}}],"say":"Lewis: dusk, still no food. Heading back toward Chapman and the yellow bed at -241,69,344 to be near him for the night.","intent":{
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":-242,"y":67,"z":332}}],"say":"Lewis coming to Chapman now. No food yet; I'll stay in his sight through the night.","intent":{"goal":"stay_with_chapman_night","pr
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"say":"Lewis going to the yellow bed at -241,69,344 with Chapman and Data for the night. Still no food.","intent":{"goal":"
+- 19:02 act: {"actions":[{"do":"sleep"}]}
+- 19:02 act: {"actions":[{"do":"sleep"}],"say":"Sleeping here at the yellow bed. Food goes to Chapman first at first light."}
+- 19:10 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":352}}],"intent":{"goal":"scout_meat_east","program":"travel","arguments":{"target":{"x":-240,"y":67,"z":352}},"wake_on":["goal_completed","direct
+- 19:10 act: {"actions":[{"do":"goto","target":{"x":-215,"y":67,"z":352}}],"intent":{"goal":"scout_meat_east2","program":"travel","arguments":{"target":{"x":-215,"y":67,"z":352}},"wake_on":["goal_completed","direc
+- 19:11 act: {"actions":[{"do":"goto","target":{"x":-195,"y":67,"z":350}}],"intent":{"goal":"scout_meat_east3","program":"travel","arguments":{"target":{"x":-195,"y":67,"z":350}},"wake_on":["goal_completed","direc
+- 19:11 act: {"actions":[{"do":"goto","target":{"x":-180,"y":67,"z":345}}],"intent":{"goal":"scout_meat_east4","program":"travel","arguments":{"target":{"x":-180,"y":67,"z":345}},"wake_on":["goal_completed","direc
+- 19:13 act: {"actions":[{"do":"goto","target":{"x":-170,"y":70,"z":335}}],"intent":{"goal":"join_meat_hunt_troi","program":"travel","arguments":{"target":{"x":-170,"y":70,"z":335}},"wake_on":["goal_completed","di
+- 19:14 act: {"actions":[{"do":"goto","target":{"x":-213,"y":68,"z":342}}],"intent":{"goal":"rejoin_group_east","program":"travel","arguments":{"target":{"x":-213,"y":68,"z":342}},"wake_on":["goal_completed","dire
+- 19:18 act: {"actions":[{"do":"goto","target":{"x":-185,"y":70,"z":335}}],"intent":{"goal":"cow_hunt_east","program":"travel","arguments":{"target":{"x":-185,"y":70,"z":335}},"wake_on":["goal_completed","directly
+- 19:22 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":332}}],"intent":{"goal":"return_to_group_night","program":"travel","arguments":{"target":{"x":-240,"y":67,"z":332}},"wake_on":["goal_completed","
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Lewis going to the yellow bed for the night. No food, health 20."}
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Heading to the yellow bed to sleep. No food here."}
+- 19:28 say: {"text":"Lewis here, health 20, hunger 20, no food. At first light I'll scout east for meat and bring any to Chapman first."}
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":-245,"y":67,"z":350}}],"say":"Lewis, morning 306, health 20, hunger 20, no food. Joining the east scouting with Worf and Kimberly, in sight. Meat goes to Chapman
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":-232,"y":67,"z":345}}]}
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":-218,"y":68,"z":340}}]}
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":-205,"y":68,"z":352}}]}
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":-185,"y":70,"z":335}}]}
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":-172,"y":68,"z":330}}]}
+- 19:32 act: {"actions":[{"do":"goto","target":{"x":-210,"y":68,"z":345}}]}
+- 19:32 act: {"actions":[],"say":"Lewis: scouted east to -210,345 with no animals found. Health 20, hunger 20, no food. Returning toward the group to hear calls for meat."}
