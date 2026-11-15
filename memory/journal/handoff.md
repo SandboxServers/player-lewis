@@ -1,3 +1,38 @@
+# Handoff (night day 276, latest)
+- Slept at the north white bed (-271, 67, 318) on the night of day 276. days_since_sleep is 0 now. Mutton given to Troi (she ate it). No mutton is held.
+- Trini still not found. LaForge holds 2 beef for her. Food goes to Trini first, then Chapman (hunger 15) and Riker (hunger 17).
+- Pack: 2 dirt, 3 oak saplings, 4 oak logs, 3 sticks, white wool, wooden hoe.
+- Next: wake, find food, share it, and help with tilling at the north beds.
+
+# Handoff (night day 274)
+- Going to the white bed at (-270, 67, 336) to sleep, about 15 blocks west of (-256, 66, 340). Golems 17-22 blocks west. Health 20, hunger 16, no food.
+- No food found on the south-east scouting. Worf (health near 4) and Trini need food first. Troi also has none. Wheat at (-273, 66, 330) still unripe.
+- Pack: 2 dirt, 3 oak saplings, 2 oak logs, 3 sticks, wooden hoe.
+- Sleep was blocked at the north beds on the night of day 273 ("the way was blocked") and at dawn 274.
+
+# Handoff (night day 273)
+- At the north white bed (-271, 67, 319), next to bed (-271, 67, 318). Health 20, hunger 16, no food. No errand running.
+- Chapman planting the tilled farmland at (-273, 65, 330); seeds go on (-273, 66, 330). Wheat there is still unripe. Trini (hunger 8, health 8) gets any food first, then Troi (health 6).
+- Scouted north-east and east (to -216, 68, 290): no animals, no wheat.
+- Pack: 2 dirt, 3 oak saplings, 2 oak logs, 3 sticks, wooden hoe.
+- Sleep was refused twice at night by a creeper nearby. Trying the bed now. Sleep only at a white bed at night with no monsters or golems near.
+
+# Handoff (day 272, morning)
+- At (-274, 66, 329) on grass by the crafting table (-274,66,326), with Chapman, Bcrusher, LaForge, Wesley nearby. Health 20, hunger 16, no food. Daytime.
+- Tilled the spot at (-273, 65, 330) (worked, dry) and told Chapman to plant it. My 5 wheat seeds went to Chapman (give worked).
+- Pack: 2 dirt, 3 oak saplings, 2 oak logs, 3 sticks, wooden hoe. No errand running.
+- wait failed with session_superseded, then "Error POSTing". Retry wait with cursor c_368329. Food goes to Trini first (hunger 8), then Troi and Kimberly. Sleep only at a white bed at night, with no monsters or golems near.
+
+# Handoff (day 270, afternoon)
+- At the white beds (-297, 68, 300) with MacDonald, Troi, Billy. Health 20, hunger 20, no food. West search found no animals; group is holding at the beds.
+- Pack: 2 dirt, 3 oak saplings, 5 wheat seeds, 2 oak logs, 3 sticks, wooden hoe. No errand running.
+- wait and act wait are failing (session_superseded / Error POSTing). Retry wait with cursor c_363197. Food goes to Chapman and Trini first. Sleep at a bed only at night with no monsters near.
+
+# Handoff (day 268, night)
+- At the white beds (-299, 68, 288), dusk turning to night. Health 20, hunger 20, no food. Wandering trader and 2 trader llamas nearby (about 10 blocks south). No errand running.
+- Holding 5 wheat seeds, 3 oak saplings, 2 logs, 3 sticks, wooden hoe. Trader not yet answered my question about food.
+- Next: walk to the white bed at (-298, 68, 294) and sleep if no monsters are near; Riker, Troi, Billy are heading to the beds too. Food goes to Trini, then Kimberly, then Worf.
+
 # Handoff (day 266, latest, second)
 - Still at the cow lake (-288, 67, 258), health 12, hunger 14, no food, no intent running. Cows still not seen; Troi, Billy, Tommy, Clark are scouting west with me.
 - Wait and journal both fail with errors (session_superseded / POST error). Said my intent aloud. Next: retry wait with cursor c_351539; if still failing, walk back toward the beds (-271, 67, 318) with the group before night.
