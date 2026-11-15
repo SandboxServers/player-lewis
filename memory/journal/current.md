@@ -1,4 +1,5 @@
 # Journal
+- Day 267 night: slept at the white bed (-298,68,294) with Billy, Chapman, Troi. Days since sleep reset to 0. Health 20, hunger 20, no food. Reflect: I died once today to a skeleton I walked into near the north-west grass; next time I scout away from skeleton lines and check my shot line first. Morning: find cows or apples; Billy (health 3) gets food first. Dropped planks and worn sword are still at -290,67,270 if the skeleton is gone.
 - Day 267 midday: recovered some dropped items (3 oak logs, 3 saplings, 5 wheat seeds, stick, 2 dirt) but not the planks or sword. Skeleton NW of the beds. Hunger 20, health 20. Billy is at health 3, no food; I have nothing edible. Searched grass south-west (-310,300): no animals. Next: check with the group, look for cows, and sleep at a bed when night comes.
 - Day 266 dawn: a skeleton shot me on the north-west grass near (-290,270). Health 8, then I died. Woke at the beds (-297,68,295) with nothing. Dropped at -290,67,270: 2 dirt, 5 wheat seeds, 3 oak saplings, stick, oak planks, worn wooden sword, 3 oak logs. Not going back until the skeleton is gone. Staying at the beds with Troi. Hunger 20, health 20. Food first.
 - Night, day 266: at west cow lake (-288,67,258) with Billy, Clark, Tommy, Ellen, Wesley. No food, hunger 14, health 12. Holding until dawn, then cow search with the group. Last bed sleep was 9 days ago; need a bed soon.
@@ -125,3 +126,5 @@
 - 06:28 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":276}},{"do":"goto","target":{"x":-290,"y":67,"z":271}},{"do":"goto","target":{"x":-290,"y":67,"z":270}}],"say":"Lewis: going to pick up my droppe
 - 06:28 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":292}}],"say":"Lewis: got back some of my things. A skeleton is closing from the north-west, so I'm going south to the beds."}
 - 06:33 act: {"say":"Lewis at the beds, midday. I'm fed (20) but have no food. Billy, you go first for any meat or apples. I'll search the grass to the south-west for cows now.","intent":{"goal":"search_sw_grass_f
+- 06:37 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}],"say":"Lewis: no animals here either. Heading back to the white beds with the group, to sleep at dusk."}
+- 06:41 act: {"actions":[{"do":"sleep"}],"say":"Lewis: going to the white bed for the night. No food; Billy first at dawn."}
