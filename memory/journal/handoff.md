@@ -1,4 +1,11 @@
-# Handoff (day 292 late morning, latest)
+# Handoff (day 294 morning, latest)
+- At the south white bed (-298,68,294), next to bed (-298,68,295). Health 20, hunger 20. No errand running.
+- Sleep only works at night ("it is not night" in daytime). Sleep here at dusk, if no phantom is near.
+- My chicken did not reach Worf; Worf eats his own. Jason took the chicken for Riker (health 3).
+- Pack: 1 wheat, 4 wheat_seeds, 2 oak_sapling, 1 oak_log, 2 dirt, wooden_pickaxe (low), wooden_spear (low).
+- Next: find food for the weakest (Riker, Worf). Sleep at this bed at dusk.
+
+# Earlier handoff (day 292 late morning)
 - At about (-252,66,335), east of the north beds. Health 20, hunger 20, no food. Pack: 1 wheat seeds.
 - Gave my wheat to Billy (he was closest), not Macdonald. Travel east stopped: iron golems at (-264,66,341) and (-241,68,347).
 - Wheat at (-274,66,333) is ripe, wheat at (-272,66,331) unripe. Food search for pigs and cows with the group. Meat goes to Zack and Leonardo, then lowest health.

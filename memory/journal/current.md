@@ -55,3 +55,33 @@
 - 15:17 act: {"actions":[{"do":"goto","target":{"x":-221,"y":69,"z":354}}],"say":"Lewis here, hunger full, no food on me. I'm going to pick up the item on the ground just south of me, then I'll look for meat in th
 - 15:18 act: {"actions":[{"do":"goto","target":{"x":-221,"y":69,"z":356}}],"say":"Heading a little further south to reach the item. If anyone sees meat in the east grass, call it out.","reasoning":"First goto did 
 - 15:18 act: {"actions":[],"say":"I picked up the item: an oak sapling, so I have two now. No food yet. I'll watch for meat in the east grass.","reasoning":"Body is awake again. Share the find and keep watch for m
+- 15:19 act: {"say":"Lewis here. I have no food, only 2 dirt and 2 oak saplings. Has anyone seen pigs, cows or sheep nearby?","actions":[{"do":"goto","target":{"x":-212,"y":69,"z":358}}]}
+- 15:19 act: {"intent":{"goal":"search_east_grass_for_animals","program":"travel","arguments":{"target":{"x":-200,"y":69,"z":358}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"m
+- 15:19 act: {"say":"Clark, I have no pickaxe, only 2 dirt and wheat seeds. I'm coming to the pit now to see the walls. Any of you with a pickaxe, please come to -214,350.","actions":[{"do":"goto","target":{"x":-2
+- 15:19 act: {"say":"Clark, I'll make a wooden pickaxe from the oak logs here and come dig you out. Hold on.","intent":{"goal":"gather_oak_logs_for_pickaxe","program":"gather","arguments":{"block":"oak_log","count
+- 15:19 act: {"actions":[{"do":"mine","block":"oak_log","count":3}]}
+- 15:20 act: {"say":"Worf, hold on to that chicken for yourself. I'm crafting a pickaxe now.","actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"crafting_table","count":1},{"do":"craft",
+- 15:20 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 15:20 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 15:21 act: {"say":"Lewis: I have a wooden pickaxe now. It is too dark to cross the grass safely, so I will come to dig you out at first light, Clark. Stay in the pit, and I'll call when I'm close.","actions":[]}
+- 15:23 act: {"say":"Worf, Lewis coming to you now, I'm carrying 2 rotten flesh and a spear. Stay put and keep your wall up.","actions":[{"do":"goto","target":{"x":-206,"y":69,"z":350}}]}
+- 15:23 act: {"actions":[{"do":"goto","target":"ag_worf_01"}]}
+- 15:23 act: {"say":"Worf, here is rotten flesh for you. I'm going to dig Clark out at first light.","actions":[{"do":"give","to":"ag_worf_01","item":"rotten_flesh","count":2}]}
+- 15:23 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 15:24 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 15:24 act: {"actions":[{"do":"goto","target":{"x":-216,"y":71,"z":346}},{"do":"attack","target":"phantom"}]}
+- 15:25 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Respawned with nothing. Going to sleep in this bed.","reasoning":"Dead and respawned at bed with empty pack. No mons
+- 15:25 act: {"actions":[{"do":"goto","target":{"x":-308,"y":68,"z":286}},{"do":"attack","target":"chicken"}],"say":"I see a chicken to the west. Going for it.","reasoning":"Empty pack, no weapon. Chicken is the o
+- 15:26 act: {"actions":[{"do":"goto","target":{"x":-305,"y":66,"z":269}}],"reasoning":"Pick up the dropped item from the chicken."}
+- 15:26 act: {"actions":[{"do":"goto","target":{"x":-306,"y":66,"z":269}},{"do":"goto","target":{"x":-305,"y":66,"z":269}}],"reasoning":"Item not picked up yet; step onto it."}
+- 15:26 act: {"actions":[{"do":"goto","target":{"x":-299,"y":68,"z":295}},{"do":"sleep"}],"reasoning":"Retry sleep from a different side of the bed; first try was blocked from a distance."}
+- 15:27 act: {"actions":[{"do":"goto","target":{"x":-291,"y":69,"z":284}},{"do":"use","at":{"x":-292,"y":69,"z":284}}],"reasoning":"Ripe wheat is food, and sleep keeps failing from here. Get the wheat first."}
+- 15:27 act: {"actions":[{"do":"goto","target":{"x":-292,"y":68,"z":284}},{"do":"mine","block":"wheat","count":1}],"reasoning":"Use failed on the crop. Break it with mine to take the food. Phantom far off."}
+- 15:27 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}},{"do":"sleep"}],"reasoning":"Bed blocked from two sides; try from the north approach with the bed in view."}
+- 15:28 act: {"actions":[],"say":"Billy, I have a raw chicken and some wheat. Do you need food? I died earlier and lost my tools.","reasoning":"Billy is adjacent and hungry-ish. Offer the chicken, and ask before g
+- 15:29 act: {"actions":[{"do":"goto","target":{"x":-216,"y":69,"z":346}}],"say":"Dawn. I'm going back to my dropped tools at (-216, 69, 346). I'll share the chicken with whoever is weakest.","intent":{"goal":"rec
+- 15:29 act: {"actions":[{"do":"goto","target":{"x":-215,"y":69,"z":345}},{"do":"goto","target":{"x":-214,"y":69,"z":348}},{"do":"goto","target":{"x":-213,"y":69,"z":347}},{"do":"goto","target":{"x":-214,"y":69,"z
+- 15:29 act: {"actions":[{"do":"goto","target":{"x":-214,"y":69,"z":348}},{"do":"give","to":"ag_worf_01","item":"chicken","count":1}],"say":"Worf, I have a raw chicken. You looked low earlier. Taking it to you.","
+- 15:29 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"chicken","count":1}],"intent":{"goal":"give_chicken_to_worf","program":"travel","arguments":{"target":"ag_worf_01
+- 15:30 act: {"intent":{"goal":"reach_bed_298_68_294","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":294}},"wake_on":["directly_addressed","precondition_failed"],"limits":{"max_world_ticks":3000,"ma
+- 15:31 act: {"actions":[{"do":"sleep"}]}
