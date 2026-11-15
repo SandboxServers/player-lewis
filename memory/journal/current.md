@@ -108,3 +108,20 @@
 - 16:40 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}],"say":"Sleep at the bed was not possible yet: it is not night. Waiting here for night."}
 - 16:41 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"use","at":{"x":-281,"y":67,"z":320}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-281,"y":
 - 16:41 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}}],"say":"Lewis at the south bed, going to sleep for the night. No food, hunger 20 for now."}
+- 16:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Lewis at the white bed, night 297, health 20, hunger 20. No food, only wheat seeds. Wesley, I have none to spare, bu
+- 16:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Previous sleep blocked by crowd; try the other bed of this pair once."}
+- 16:51 act: {"actions":[{"do":"goto","target":{"x":-250,"y":67,"z":345}}],"say":"Lewis, dawn 298, health 20, hunger 20, no food. Going east with the pig hunt; I carry a spear. Meat goes to Wesley first, then Clar
+- 16:52 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":350}}],"reasoning":"Group went east toward pigs; follow in short steps."}
+- 16:52 act: {"actions":[{"do":"goto","target":{"x":-215,"y":69,"z":350}}],"say":"Lewis at -229,68,350 following the hunt east. No food yet, health 20. Call out any pig.","reasoning":"Keep close to the hunting gro
+- 17:00 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":345}}],"say":"Lewis going back west to the white beds with Billy, Zack, Chapman, Riker for the night. No food.","reasoning":"Dusk, no pigs east, 
+- 17:00 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":340}},{"do":"goto","target":{"x":-268,"y":67,"z":338}}],"reasoning":"Continue west in short steps toward the white beds at (-270,67,336) before f
+- 17:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":338}},{"do":"sleep"}],"say":"Going to sleep at the white bed here. No food, health 20.","reasoning":"Group is at the beds. Golem nearby but not h
+- 17:05 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, bed next to me. Try sleep once more; if blocked, wait for dawn."}
+- 17:09 act: {"actions":[{"do":"goto","target":{"x":-265,"y":67,"z":345}}],"say":"Lewis awake at dawn 299, no food. Going south with the group to look for animals. Any meat: Wesley first, then Picard.","reasoning"
+- 17:09 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":358}},{"do":"goto","target":{"x":-280,"y":66,"z":368}}],"reasoning":"Search south-west for animals in short steps with the group nearby."}
+- 17:10 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":385}}],"say":"Lewis searching south for animals, no food yet. Call out any pig, cow or sheep.","reasoning":"No animals near. Keep searching south
+- 17:10 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":380}}],"reasoning":"Golem is in the way south-west. Turn east, away from it, and keep searching for animals."}
+- 17:10 act: {"actions":[{"do":"goto","target":{"x":-245,"y":67,"z":385}},{"do":"goto","target":{"x":-228,"y":67,"z":385}}],"say":"Lewis searching east-south for animals. Still no food, health 20.","reasoning":"Co
+- 17:11 act: {"actions":[{"do":"goto","target":{"x":-222,"y":70,"z":380}}],"say":"Still searching for animals to the east. No food yet. Meat goes to Wesley first.","reasoning":"East route blocked at this step; try
+- 17:11 act: {"actions":[{"do":"goto","target":{"x":-214,"y":69,"z":395}}],"reasoning":"Keep looking for animals in short steps to the south-east."}
+- 17:11 act: {"actions":[{"do":"goto","target":{"x":-214,"y":69,"z":410}}],"reasoning":"No animals to the east; try farther south in short steps."}

@@ -1,4 +1,11 @@
-# Handoff (day 295 dusk, latest)
+# Handoff (day 299 late morning, latest)
+- At (-214,69,410), south-east of the north beds, alone. Health 20, hunger 20, no food. No errand running.
+- Searched west, east and south-east on day 299: no animals, no food. Golems and blocks only.
+- Pack: 4 wheat_seeds, 2 oak_sapling, 12 dirt, wooden pickaxe (low), wooden spear (low).
+- Owed: Wesley is owed food held by Billy and Troi (2 wheat, 4 rotten flesh).
+- Next: keep short gotos to find animals. Meat goes to Wesley first, then Clark or Picard. Sleep at a free yellow bed (-263,67,353) or (-241,69,344) at night when no monster is near.
+
+# Handoff (day 295 dusk)
 - At the north white bed (-270,67,318) with Macdonald, Riker, Clark, Bcrusher. Health 20, hunger 20, no food. No errand running. days_since_sleep 16.
 - Scouted west for animals at dawn 295: only bows heard, none found. Food for Wesley came from Laforge, Billy, Kimberly, Jason.
 - Next: sleep here tonight; at first light look for pigs or cows south or east and call out any meat.
