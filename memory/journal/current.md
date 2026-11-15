@@ -157,3 +157,19 @@
 - 18:01 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 18:01 act: {"actions":[{"do":"sleep"}]}
 - 18:02 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":321}},{"do":"sleep"}],"intent":{"goal":"sleep_near_white_beds","program":"rest","arguments":{},"wake_on":["precondition_failed","unexpected_damag
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":322}}],"say":"Lewis at dawn 301, hunger 19, no food. Scouting east toward the cow lead near -152,100,327. Call out any find.","intent":{"goal":"s
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":-200,"y":70,"z":326}}],"say":"Picard, Lewis here at -241,68,322. No animals seen yet. Pushing east toward -200,70,326 for the cow lead. Call out if you find meat
+- 18:09 act: {"actions":[],"say":"Lewis, night 302 in the forest at -201,70,326. Health 20, hunger 19, no food. Building a dirt wall for cover, then I'll hunt at dawn.","intent":{"goal":"wall_for_night_cover","pro
+- 18:09 act: {"actions":[],"say":"Wall partly up, still open on some sides. Staying here until dawn, then hunting for animals.","intent":{"goal":"wait_for_dawn","program":"rest","arguments":{},"wake_on":["directly
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":-220,"y":69,"z":350}}],"say":"Lewis, dawn 302, hunger 19, no food. Heading to the pig area at -220,69,350 to look for meat.","intent":{"goal":"search_pig_area_fo
+- 18:10 act: {"actions":[{"do":"goto","target":{"x":-185,"y":70,"z":335}}],"say":"Picard, Lewis here at -219,69,350, no pigs. Following you east toward the cow lead. Call out when you see one.","intent":{"goal":"f
+- 18:10 act: {"actions":[{"do":"goto","target":{"x":-186,"y":79,"z":335}},{"do":"goto","target":{"x":-187,"y":79,"z":336}},{"do":"goto","target":{"x":-185,"y":78,"z":338}}],"say":"Creeper blast hit me, health 13. 
+- 18:10 act: {"actions":[{"do":"goto","target":{"x":-165,"y":75,"z":330}}],"say":"Lewis: got leaf litter only, no food. Bows are drawn to the east, so careful. Heading to -165,75,330 with Picard, short steps.","in
+- 18:14 act: {"actions":[{"do":"goto","target":{"x":-158,"y":75,"z":328}}],"say":"Skeletons keep drawing bows to the southwest. Lewis moving northeast toward -158,75,328, away from them. Still no food.","intent":{
+- 18:19 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-160,"y":76,"z":322}}],"say":"Path blocked; trying to get free and go north toward -160,76,322."}
+- 18:20 act: {"actions":[{"do":"goto","target":{"x":-163,"y":72,"z":331}}],"reasoning":"Blocked by gravel to the west. Try a short step east, away from the bow sounds in the southwest.","say":"Still boxed in on st
+- 18:20 act: {"actions":[{"do":"goto","target":{"x":-166,"y":70,"z":330}}],"reasoning":"Two item drops sit 2 blocks away, one east and one west. Try reaching the east one; it may be food."}
+- 18:20 act: {"actions":[{"do":"unstick"}],"reasoning":"I am in a pit now after digging through a block. Get out before anything else."}
+- 18:20 act: {"actions":[{"do":"goto","target":{"x":-161,"y":70,"z":330}}],"reasoning":"I am free of the pit now. Keep moving east, one short step, away from the bows in the southwest."}
+- 18:20 act: {"actions":[{"do":"goto","target":{"x":-162,"y":72,"z":326}}],"reasoning":"East is blocked. Try a different direction, north-east, toward the cow lead, one short step."}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-166,"y":73,"z":325}}],"reasoning":"East and north-east are blocked. Try due north, one short step."}
