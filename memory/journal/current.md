@@ -6,3 +6,10 @@
 - 21:49 act: {"actions":[{"do":"note","text":"Day 313 morning. Still at beds, no one in sight yet. Staying put, waiting for chicken from Bcrusher or Kimberly."}]}
 - 21:53 act: {"actions":[{"do":"note","text":"Day 313 day. Still at beds. Clark, Kimberly, Billy, Troi all offered food to me; none in sight yet. Waiting."}],"say":"Meriwether, still at the white beds by the chest
 - 22:01 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1078}}]}
+- 22:02 act: {"say":"Meriwether here, at the white beds, health 6, hunger 16. Kimberly, Billy, Clark: I'm in view. Please hand me a chicken, I'll eat it at once.","actions":[{"do":"eat"}]}
+- 22:02 act: {"say":"I have no food yet. I'm staying at the beds by the chest. Whoever has a chicken, come into view and I'll take it.","actions":[]}
+- 22:06 act: {"say":"Kimberly, I'm at the white beds by the chest, nearest the crafting table. I can see you if you come within the lamp light. I'll wait here.","actions":[]}
+- 22:10 act: {"say":"Troi, I'm here at the beds, in view. Please hand me the egg. Thank you.","actions":[]}
+- 22:13 act: {"say":"Tommy, thank you for the word about the chest. I'm going to the chest for a chicken now.","actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1079}},{"do":"withdraw","at":{"x":433,"y":107,"
+- 22:13 act: {"say":"The chest is empty of chicken. I'll stay by the beds in view. Kimberly, Troi, Clark: whoever reaches me first, hand over the chicken or egg.","actions":[]}
+- 22:21 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1079}}],"say":"Night is here. Kimberly, Troi, Trini: I'm sleeping in the bed by the chest. Leave food in the chest or by the beds if you find an
