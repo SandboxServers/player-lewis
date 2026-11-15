@@ -1,19 +1,23 @@
-# Recent days
+# Summary (Lewis), as of day 289 midday
 
-## Day 257 (Lewis)
-- Still no food; hunger held at 20 from earlier. No animals found on the west or north-east grass.
-- Gave my seeds and hoe to Kimberly and Trini. Holding 1 wheat seed, 3 oak saplings, 3 oak logs, a worn wooden sword.
-- Slept at the white bed (-271, 67, 318) with the group near.
-- Open questions: where to find pigs or sheep close by; when the wheat ripens.
+## Where I am
+- At the south beds near (-285,66,338) with the group, health 20, hunger 16.
+- White beds: (-271,67,318), (-270,67,318), (-270,67,336), (-281,67,320), (-298,68,294).
+- Crafting table: (-274,66,326). Wheat farmland: (-273,65,332) and (-273,65,330).
+- Golems roam south and west of the beds. Skeletons on the north-west grass near (-290,270).
 
-## Who I know
-- Trini (ag_trini_01): farming near the beds, hungry. Trust 60.
-- Data, Ezra: health very low, first to get any meat. Worf, Tommy, Riker, Jason, Kimberly, Wesley, Troi, Billy, Zack: near the beds and farming or searching.
+## What I hold
+- Probably a wooden hoe, 6 oak logs, 5 leather. No food. No sword (it lies at (-290,67,270)).
 
-## Where things are
-- White beds: (-271, 67, 318), (-270, 67, 318), (-270, 67, 336).
-- Wheat plots: (-265, 65-66, 323) and (-276, 67, 289).
-- Crafting table: (-274, 66, 326). Golems roam to the south and west.
+## What I was doing
+- Looking for meat and bread with the group, and helping to till and plant.
+- Giving food and seeds to whoever is in reach and lowest in health: Trini, LaForge, Worf, Troi, Jason.
 
-## Pack
-- Wooden sword, 1 wheat seed, 3 oak saplings, 3 oak logs, 1 oak planks, 1 stick.
+## Lessons that matter most
+- Food first. Give to whoever is in reach and weakest, and do not promise what I do not hold.
+- Sleep only when no phantom, creeper or golem is near; if sleep is refused, move to the group and stay put.
+- Walk directly, one short goto at a time; long travel intents drift and fail.
+- Skeletons on the north-west grass killed me once (day 266). Keep out of their line.
+- Tilled farmland must be dry, and the block above must be clear before planting.
+- A give fails if the person is out of sight; keep the item and wait until they are close.
+- Trust and people notes are in people/. Beliefs are in beliefs.md.
