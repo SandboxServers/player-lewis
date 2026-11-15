@@ -1,5 +1,5 @@
 # Journal
-- 02:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Night, and the group is bedding down here. I'll sleep at the white bed now. Trini first at dawn for food."}
+: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Night, and the group is bedding down here. I'll sleep at the white bed now. Trini first at dawn for food."}
 - 02:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Night is here, so I'm going to bed on the white bed by the camp."}
 - 02:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":333}}],"say":"Dawn, day 254. I'm fed (20). Trini, I'm bringing my 4 wheat seeds to the beds for planting. Kimberly, I have a hoe for you if you'r
 - 02:08 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat_seeds","count":4}],"say":"Trini, here are my 4 wheat seeds for the farm. I'm fed, so the food goes to you and Worf first."}
@@ -45,3 +45,6 @@
 - 03:08 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":320}}],"say":"Lewis at dawn, day 257. Hunger 20, no food. My grass search stalled, so I'm heading west to the sheep area at (-300,67,320) to look
 - 03:10 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":322}}],"say":"Lewis: no animals out west, and bows keep drawing to the northeast. Heading back to the beds with the group. I'll give my last whea
 - 03:14 say: {"text":"Lewis at the beds, midday day 257. I have no hoe and no food, only 1 wheat seed and 1 dirt. Tommy, Riker: if you need hands to dig a clear dirt patch, call me and I'll come."}
+- 03:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Dusk. Going to bed at the white beds. Billy, I'm sorry I have no meat to share."}
+- 03:19 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}]}
+- Day 257 dusk: at the white bed (-271,67,318), group nearby, health 20, hunger 20, no food. Trying to sleep.
