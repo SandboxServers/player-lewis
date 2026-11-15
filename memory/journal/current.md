@@ -126,3 +126,11 @@
 - 17:11 act: {"actions":[{"do":"goto","target":{"x":-214,"y":69,"z":395}}],"reasoning":"Keep looking for animals in short steps to the south-east."}
 - 17:11 act: {"actions":[{"do":"goto","target":{"x":-214,"y":69,"z":410}}],"reasoning":"No animals to the east; try farther south in short steps."}
 - 17:11 act: {"actions":[{"do":"goto","target":{"x":-228,"y":69,"z":412}}],"reasoning":"Keep searching for animals to the south-west in short steps."}
+- 17:17 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":400}}],"say":"Nobody here. I'm looking for animals to the west.","reasoning":"Alone, no food. Short step west to search for animals."}
+- 17:17 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":385}}],"reasoning":"No animals here. Continue short steps south-west toward the bed area, watching for animals."}
+- 17:17 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":362}}],"say":"Still looking for food or animals. Anyone near?","reasoning":"Still no animals or people. Move short step toward the yellow beds, k
+- 17:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"say":"Lewis here, hunger is 20, so give to whoever is weaker. Trini, Troi, I'm heading to the yellow bed for the night.","reasoning":"Dus
+- 17:21 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Dusk, no monsters in view, no errand running. Get into the bed and sleep."}
+- 17:21 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"The first bed use failed, so I try the other half of the yellow bed."}
+- 17:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed keeps failing. Sleep works in a bed or sealed shelter, so I try sleep from here, no monsters in view."}
+- 17:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, I'm standing at the bed. Retry sleep once; if refused, stay put and wait."}

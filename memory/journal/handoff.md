@@ -1,5 +1,8 @@
-# Handoff (day 299 late morning, latest)
-- At (-214,69,410), south-east of the north beds, alone. Health 20, hunger 20, no food. No errand running.
+# Handoff (night day 299, latest)
+- At the yellow bed (-263,67,353), awake at night, sleep started ("2 of 10"), then woke. Iron golem 5 blocks east. Health 20, hunger 20, no food. No errand running.
+- Trini holds beef and chicken, Troi holds raw chicken and rotten flesh, Kimberly holds Billy's 2 mutton for the weakest. Clark has no food, hunger 16.
+- Yellow bed use fails ("that block is a bed"); sleep works from the bed square.
+- Earlier, at (-214,69,410) on day 299 late morning:
 - Searched west, east and south-east on day 299: no animals, no food. Golems and blocks only.
 - Pack: 4 wheat_seeds, 2 oak_sapling, 12 dirt, wooden pickaxe (low), wooden spear (low).
 - Owed: Wesley is owed food held by Billy and Troi (2 wheat, 4 rotten flesh).
