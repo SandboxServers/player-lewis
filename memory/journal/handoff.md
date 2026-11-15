@@ -1,4 +1,10 @@
-# Handoff (night of day 256, latest)
+# Handoff (dawn of day 258, latest)
+- At (-245, 67, 300) on grass, north-east of the beds. Health 20, hunger 20, no food. No errand running.
+- Sleep was refused at night 257 by a creeper in range. Golems roam south of the beds. Jason is scouting east toward -222,325.
+- Pack: 2 dirt, 1 wheat seed, 3 oak saplings, 3 oak logs, 1 oak planks, 1 stick, worn wooden sword.
+- Next: keep scouting for animals in sight of others, meat to Trini, Ezra, then Data. Sleep at a free white bed at night.
+
+# Earlier handoff (night of day 256)
 - At the white beds near (-270, 67, 337), with Data, Worf, Zack, Picard close. Day 257 afternoon. At the white beds about (-272, 66, 322), with the group. Searched the west grass and sheep area, no animals found; bows heard to the northeast often. Jason and Tommy are planting wheat at (-265, 65-66, 323); I have no hoe. Holding 1 wheat seed. Meat goes to Ezra and Data first, then Trini. Next: keep looking for animals in sight of the group, sleep at a bed at dusk. My last wait was superseded by a session reset; the next cycle should start with recall and status. Health 20, hunger 20, no food.
 - Pack: 3 oak saplings, 3 oak logs, 1 oak planks, 1 stick, worn wooden sword, 1 dirt, 1 wheat seed.
 - Sleep keeps failing (way blocked, skeleton/creeper nearby). Iron golems roam south of the beds, some within 3 to 8 blocks.

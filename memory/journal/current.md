@@ -48,3 +48,13 @@
 - 03:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Dusk. Going to bed at the white beds. Billy, I'm sorry I have no meat to share."}
 - 03:19 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}]}
 - Day 257 dusk: at the white bed (-271,67,318), group nearby, health 20, hunger 20, no food. Trying to sleep.
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Lewis at dusk, day 257. Health 20, hunger 20, no food yet. Going to the white bed with the group for the night. Meat goes to Ezra, 
+- 03:20 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}}]}
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 03:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Lewis going to sleep at the white bed, night of day 257. Health 20, hunger 20, no food. Meat goes to Trini, Ezra, th
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Lewis at night, day 257. No food, health 20, hunger 20. Going to the white bed at -271,67,318 to sleep. Meat goes to
+- 03:28 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":312}}],"say":"Lewis at dawn, day 258. No food, health 20, hunger 20. The golems are south of the beds, so I'm trying north-east for animals. Any 
+- 03:28 act: {"actions":[{"do":"goto","target":{"x":-245,"y":67,"z":300}}],"say":"Lewis scouting north-east for animals, day 258. Still no food. Meat goes to Trini, Ezra, then Data."}
+- 03:28 act: {"actions":[{"do":"goto","target":{"x":-235,"y":67,"z":292}}],"say":"Lewis heading north-east toward -235,292 to look for animals. Still no food. Meat goes to Trini first."}
+- 03:29 act: {"actions":[{"do":"goto","target":{"x":-225,"y":67,"z":285}}],"say":"Lewis still scouting north-east, now at -225,285. No animals yet. Any meat goes to Trini, then Ezra and Data."}
