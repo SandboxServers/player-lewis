@@ -1,1 +1,17 @@
 # Journal
+- 13:56 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"reasoning":"Bed is known nearby; need sleep, 10 days since last.","say":"Heading to the white bed to rest. I have no food to give right n
+- 13:56 act: {"actions":[{"do":"sleep"}],"reasoning":"At bed, no hostiles near, 10 days since sleep."}
+- 14:00 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, at bed with group, no hostiles near except a golem."}
+- 14:01 act: {"actions":[{"do":"attack","target":"spider"}],"reasoning":"Spider adjacent and hitting me; fight with oak log is weak but fleeing at night is worse."}
+- 14:01 act: {"actions":[{"do":"attack","target":"spider"}],"reasoning":"Spider closing from north; health falling. Keep fighting it."}
+- 14:01 act: {"actions":[{"do":"attack","target":"spider"}],"reasoning":"Spider still close to the south; keep hitting it, health 15."}
+- 14:01 act: {"actions":[{"do":"attack","target":"spider"}],"reasoning":"Spider north at 2.4, health 13. Fight on; fleeing in the dark is worse."}
+- 14:01 act: {"actions":[{"do":"attack","target":"spider"}],"reasoning":"Spider east at 1.9, health 11. Keep hitting it."}
+- 14:01 act: {"actions":[{"do":"attack","target":"spider"}],"reasoning":"Spider SW at 1.9, health 9. No better option than hitting it."}
+- 14:01 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}],"reasoning":"Health 5, spider north 3 blocks. Retreat to beds where others are gathering.","say":"Health 5, spider chasing me. Going to th
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Night, health 5, no hostile in sight. Bed is close; sleep to recover."}
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night; health 5. Bed by the group is near; group is close to me."}
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"First bed refused; try the second bed beside it."}
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"reasoning":"Respawned with nothing at night, no monsters in view. Get to the bed and sleep.","intent":{"goal":"sleep_at_be
+- 14:07 act: {"actions":[],"say":"Zack, thank you. Picard and Leonardo are hungrier than me, so keep the chicken for them. I have nothing to share, and I'll look for food at first light.","intent":{"goal":"wait_fo
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":-262,"y":68,"z":318}}],"say":"Lewis here, dawn 290, hunger 20, no food, nothing in my pack. I'll search north-east by the beds, in sight of Zack. Any animal or r
