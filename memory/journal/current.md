@@ -1,4 +1,8 @@
 # Journal
+- Day 258 afternoon: scouted north-east to (-225,285), found no animals. Travel intent failed after one step, so I used a direct goto and reached the white beds (-271,67,319). Health 20, hunger 20, no food. Troi is nearby. Next: wait near the beds for an errand or meat, and sleep at dusk.
+- Day 260 dawn: woke at the south bed (-272,67,336) with Trini, Data, Troi, Kimberly close. Health 20, hunger 20, no food. Scouting east of the beds with the group. Meat goes to Trini, then Data.
+- Day 259 dusk: at the north bed; sleep refused as not night yet. Night: sleep blocked by "the way was blocked" with a golem 5 blocks away. Staying with Troi and Kimberly until dawn. Health 20, hunger 20, no food.
+- Day 259 dawn: slept no night (creeper and crowded beds), stayed with the group at the beds. Went east to (-246,67,325). No animals in view, only an iron golem far south-west and wheat still unripe. Troi gave Trini a seed. Still no food, health 20, hunger 20. Next: wait here, look for animals, meat goes to Trini first.
 : {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Night, and the group is bedding down here. I'll sleep at the white bed now. Trini first at dawn for food."}
 - 02:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Night is here, so I'm going to bed on the white bed by the camp."}
 - 02:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":333}}],"say":"Dawn, day 254. I'm fed (20). Trini, I'm bringing my 4 wheat seeds to the beds for planting. Kimberly, I have a hoe for you if you'r
@@ -58,3 +62,52 @@
 - 03:28 act: {"actions":[{"do":"goto","target":{"x":-245,"y":67,"z":300}}],"say":"Lewis scouting north-east for animals, day 258. Still no food. Meat goes to Trini, Ezra, then Data."}
 - 03:28 act: {"actions":[{"do":"goto","target":{"x":-235,"y":67,"z":292}}],"say":"Lewis heading north-east toward -235,292 to look for animals. Still no food. Meat goes to Trini first."}
 - 03:29 act: {"actions":[{"do":"goto","target":{"x":-225,"y":67,"z":285}}],"say":"Lewis still scouting north-east, now at -225,285. No animals yet. Any meat goes to Trini, then Ezra and Data."}
+- 03:37 act: {"reasoning":"Return to the beds area before dusk, near the group and the wheat plots.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":
+- 03:37 act: {"reasoning":"Travel intent failed after one step; try a direct goto to the beds.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 03:37 say: {"text":"Lewis here, back at the beds. I have no food yet, but I'm looking for animals. Any meat goes to whoever is lowest first."}
+- 03:44 act: {"reasoning":"Night, beside a white bed with the group. Sleep now.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Lewis going to sleep at the white bed. No food on
+- 03:44 act: {"reasoning":"Sleep refused by creeper; golems closing from south. Move north to the bed and retry.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 03:45 act: {"reasoning":"Creeper gone from view. Retry sleep near the group.","actions":[{"do":"sleep"}]}
+- 03:46 act: {"reasoning":"Drifted south-east near a golem; go to the north bed at -270,67,318 and sleep.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 03:46 act: {"reasoning":"Bed north of me may be taken. Try the bed at -271,67,336 next to me.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:51 act: {"reasoning":"Dawn. No food. Try the unexplored east side past the beds for animals, staying in reach of the group.","actions":[{"do":"goto","target":{"x":-245,"y":67,"z":325}}],"say":"Lewis at dawn, 
+- 03:58 act: {"reasoning":"Dusk, no food, no animals seen. Go to the north bed with the group and sleep.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Lewis going to the north
+- 04:03 act: {"reasoning":"Night has come. Sleep in the bed I am beside, with the group.","actions":[{"do":"sleep"}],"say":"Lewis going to sleep now. No food. Meat goes to Trini first at dawn."}
+- 04:03 act: {"reasoning":"Sleep blocked, golem close. Stay with group, do not retry the same thing.","actions":[],"say":"Lewis: sleep was blocked and a golem is close to the north-west. I'm staying with Troi and 
+- 04:08 act: {"reasoning":"Dawn day 260, no food. Scout the grass east in sight of the group for animals.","actions":[{"do":"goto","target":{"x":-255,"y":67,"z":330}}],"say":"Lewis at dawn, day 260. No food. Scout
+- 04:09 act: {"reasoning":"Being hit by an unseen attacker (phantom NW), golem SW. Retreat to the group at the beds.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Lewis: something is hitting
+- 04:09 act: {"reasoning":"Health 12 from unseen phantom hits. Golems south. Follow Jason to the north bed with the group.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Lewis: health 12 from
+- 04:22 act: {"reasoning":"It is night. Bed is 2 blocks north-east at (-270,67,318). Handoff is written. Move to bed, then sleep.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 04:23 act: {"reasoning":"Sleep was blocked at the south bed, golem 14 blocks south. Try the adjacent white bed at (-271,67,336), once.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]
+- 04:23 act: {"reasoning":"A creeper 7 blocks away blocked sleep. Move to the north bed with the group and try once more.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 04:26 act: {"reasoning":"No creeper in view now. One more sleep try at the north bed with the group.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 04:27 act: {"reasoning":"Sleep blocked again with golems 7 blocks south. There is a dropped item 2 blocks north; I will check it, it may be food.","actions":[{"do":"goto","target":{"x":-270,"y":68,"z":335}}]}
+- 04:32 act: {"reasoning":"Billy got beef from a west cow. I have no food and health 12. Ask where the cow is, and go west with the group to find more.","actions":[],"say":"Lewis at dawn, day 261. Health 12, hunge
+- 04:34 act: {"reasoning":"A cow was seen west near (-288,67,257). Troi and Billy are going there. I have no food, health 12. Go with them to look for meat, staying in sight.","actions":[{"do":"goto","target":{"x"
+- 04:35 act: {"say":"Lewis at -288,67,258. No cow here now, only grass and the lake to the south-west. I'll scout a little further west, then head back to the beds if nothing turns up.","reasoning":"No cow at the 
+- 04:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":330}}],"say":"Lewis heading back to the beds at night, with Jason. No meat found at the west cow spot.","reasoning":"Night on open grass. Return 
+- 04:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Back with the group at night. Try the south white bed once, then handoff."}
+- 04:51 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":318}}],"say":"Lewis at dawn day 262, no food, health 12. Joining the west search in sight of the group. Any meat goes to LaForge or Worf first, t
+- 04:51 act: {"actions":[],"say":"Troi, you hold the mutton, I think. Worf is walking to the beds at -274,67,320 and is weak. Please give it to Worf or Trini, not to me. I have no food.","reasoning":"Troi is next 
+- 05:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk, with the group at the north bed. Try sleep once."}
+- 05:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Blocked at the south bed. Try the other north bed, as Jason suggested."}
+- 05:08 act: {"say":"Lewis at dawn, day 262. No food; health 12, hunger 15. I will scout the grass north-west for animals and stay in sight of the group. Meat goes to Worf, then Trini.","intent":{"goal":"scout_for
+- 05:08 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":295}},{"do":"sleep"}],"say":"Lewis: no animals found on the north-west grass. Trying the white bed at -298,68,295, a new bed, since the others we
+- 05:12 act: {"actions":[{"do":"goto","target":{"x":-299,"y":66,"z":319}}],"say":"Lewis joining the west search with Data and Troi, day 263. No food. Meat goes to Worf, then Trini."}
+- 05:12 act: {"actions":[{"do":"goto","target":{"x":-290,"y":68,"z":284}},{"do":"mine","block":"wheat","count":3}],"say":"Lewis: ripe wheat at -291,69,284. Going to harvest it, and it goes to Worf first."}
+- 05:13 act: {"actions":[{"do":"goto","target":{"x":-297,"y":67,"z":310}}],"say":"Lewis: harvested 1 ripe wheat and 5 seeds at the water pond. Looking for Worf to give the wheat to; Trini after."}
+- 05:17 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":296}},{"do":"sleep"}],"say":"Lewis: phantoms are out west. Going to the bed at -298,68,295 with the group. I have 1 wheat and no meat; Worf first
+- 05:17 act: {"actions":[{"do":"goto","target":{"x":-290,"y":68,"z":284}},{"do":"mine","block":"wheat","count":2}],"say":"Lewis: going back to the ripe wheat at -291,69,284 to gather more for bread. Worf first."}
+- 05:17 act: {"actions":[{"do":"goto","target":{"x":-296,"y":67,"z":298}}],"say":"Lewis: the ripe wheat is gone; I hold 1 wheat and 5 seeds. Going back to the beds to find Worf and give the wheat, then Trini."}
+- 05:21 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Night. I'm going to try the white bed here. Worf and Trini get the wheat first when I see them."}
+- 05:22 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
+- 05:32 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}],"say":"Lewis here, day 264. I'm heading to the group at the north beds with my one wheat for Worf."}
+- 05:32 act: {"actions":[],"say":"Lewis here. I have 1 wheat. Jason is weakest, so he gets it first, then Worf. Tommy, please bring your porkchops to Jason. Tell me where you are."}
+- 05:36 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":319}},{"do":"give","to":"Jason","item":"wheat","count":1}],"say":"Jason, I'm bringing you my 1 wheat. With it you have 3 for bread."}
+- 05:36 act: {"actions":[],"say":"Jason, I'm at the north beds with 1 wheat for you. Where are you? I'll hold it until you're in sight."}
+- 05:40 act: {"actions":[],"say":"Jason, I'll stay at the north beds with my 1 wheat. Walk up to me when it's safe; golems are south-west of you."}
+- 05:53 act: {"actions":[{"do":"give","to":"Jason","item":"wheat","count":1}],"say":"Jason, here is my 1 wheat. With your 2 that makes 3 for bread. Eat it when you can."}
+- 05:53 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wheat","count":1}]}
+- 05:59 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Lewis: no food on me, Jason has the bread now. Going to the white bed at -281,67,320 for the night.","reasoning":"Du
+- 06:03 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"It is night now. Walk onto the white bed spot and try sleep once."}
+- 06:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep failed at the other bed. Try the second bed at -270,67,336, one step away."}
