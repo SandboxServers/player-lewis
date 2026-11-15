@@ -85,3 +85,7 @@
 - 15:29 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"chicken","count":1}],"intent":{"goal":"give_chicken_to_worf","program":"travel","arguments":{"target":"ag_worf_01
 - 15:30 act: {"intent":{"goal":"reach_bed_298_68_294","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":294}},"wake_on":["directly_addressed","precondition_failed"],"limits":{"max_world_ticks":3000,"ma
 - 15:31 act: {"actions":[{"do":"sleep"}]}
+- 15:37 act: {"intent":{"goal":"take_wheat_to_wcrusher","program":"travel","arguments":{"target":"ag_bcrusher_01"},"wake_on":["directly_addressed","precondition_failed"],"limits":{"max_world_ticks":3000,"max_block
+- 15:38 act: {"intent":{"goal":"reach_north_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":320}},"wake_on":["directly_addressed","precondition_failed"],"limits":{"max_world_ticks":3000,"max_bl
+- 15:38 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":1}],"say":"Trini, I have one wheat for you; Wcrusher is out of sight. Eat it if you are hungry."}
+- 15:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. I'm sleeping at the white bed here with the group."}
