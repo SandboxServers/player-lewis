@@ -52,3 +52,6 @@
 - 15:15 act: {"actions":[{"do":"goto","target":{"x":-221,"y":69,"z":354}}],"say":"Picking up the items on the ground here. Will say what they are."}
 - 15:15 act: {"actions":[{"do":"goto","target":{"x":-221,"y":69,"z":354}}]}
 - 15:15 act: {"actions":[],"say":"I picked up an oak sapling here. The last item one step south will not come to me, so I'm leaving it. No pigs or cows here. Calling out to the group."}
+- 15:17 act: {"actions":[{"do":"goto","target":{"x":-221,"y":69,"z":354}}],"say":"Lewis here, hunger full, no food on me. I'm going to pick up the item on the ground just south of me, then I'll look for meat in th
+- 15:18 act: {"actions":[{"do":"goto","target":{"x":-221,"y":69,"z":356}}],"say":"Heading a little further south to reach the item. If anyone sees meat in the east grass, call it out.","reasoning":"First goto did 
+- 15:18 act: {"actions":[],"say":"I picked up the item: an oak sapling, so I have two now. No food yet. I'll watch for meat in the east grass.","reasoning":"Body is awake again. Share the find and keep watch for m
