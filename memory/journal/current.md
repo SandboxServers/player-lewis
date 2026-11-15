@@ -36,3 +36,19 @@
 - 14:50 act: {"intent":{"goal":"take_wheat_to_macdonald","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
 - 14:51 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"},{"do":"give","to":"ag_macdonald_01","item":"wheat","count":1}],"say":"Macdonald, here is my wheat. Eat it."}
 - 14:51 act: {"intent":{"goal":"join_pig_hunt_east","program":"travel","arguments":{"target":{"x":-240,"y":68,"z":344}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
+- 14:56 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":333}}],"say":"Lewis here, no food. Walking to the ripe wheat at -274, 66, 333 for whoever is lowest."}
+- 14:56 act: {"actions":[{"do":"mine","block":"wheat","count":1}]}
+- 14:56 act: {"actions":[],"say":"The ripe wheat here is gone, someone already took it. I have no food; I'm carrying only wheat seeds. I'll search north-east grass for pigs or cows, and call out any I see."}
+- 15:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Lewis: dusk, no food, but health and hunger are 20. Going to the white bed at -270, 67, 336 to sleep with the group.
+- 15:02 act: {"actions":[{"do":"sleep"}]}
+- 15:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}]}
+- 15:03 act: {"actions":[],"say":"Lewis: sleep keeps failing at the beds (the way is blocked). I'm staying here with Trini and Wesley. No food for me; call out any meat at dawn."}
+- 15:07 act: {"actions":[{"do":"sleep"}]}
+- 15:12 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":346}}],"say":"Lewis at dawn 293, health 20, hunger 20, no food. Joining the pig hunt east. Any meat goes to Riker, LaForge and the weakest first.
+- 15:12 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":350}}],"say":"Lewis scouting east toward the pig area. Calling out any pig or cow I see."}
+- 15:12 act: {"actions":[{"do":"goto","target":{"x":-215,"y":69,"z":350}}]}
+- 15:13 act: {"actions":[],"say":"Lewis at the pig area (-215,69,349). No pigs or cows in sight yet. I'm holding here; call out where you see meat."}
+- 15:15 act: {"actions":[{"do":"goto","target":{"x":-221,"y":69,"z":351}}],"say":"There is an item on the ground to the west. I am going to check whether it is food."}
+- 15:15 act: {"actions":[{"do":"goto","target":{"x":-221,"y":69,"z":354}}],"say":"Picking up the items on the ground here. Will say what they are."}
+- 15:15 act: {"actions":[{"do":"goto","target":{"x":-221,"y":69,"z":354}}]}
+- 15:15 act: {"actions":[],"say":"I picked up an oak sapling here. The last item one step south will not come to me, so I'm leaving it. No pigs or cows here. Calling out to the group."}
