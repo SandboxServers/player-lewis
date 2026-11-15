@@ -114,3 +114,5 @@
 - 06:15 act: {"say":"Chapman here, no food. I'm heading to the cow lake near -288, 67, 257 to help look for cows. Meat goes to Jason first.","intent":{"goal":"reach_cow_lake","program":"travel","arguments":{"targe
 - 06:15 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_cow_lake","program":"travel","arguments":{"target":{"x":-288,"y":67,"z":257}},"wake_on":["directly_addressed","precondition_failed","unexpected_da
 - 06:15 act: {"say":"I'm at the cow lake now, -288, 67, 258. No cows in sight yet. I'll look around the shore."}
+- 06:17 say: {"text":"Lewis at the cow lake, no food, hunger 14. I'll look west and north for cows with Troi and Billy. Meat goes to Jason first."}
+- 06:21 say: {"text":"Lewis: dusk at the cow lake, no cow seen. I'll stay by Billy's shelter with the group tonight and search at dawn. Meat goes to Jason first."}

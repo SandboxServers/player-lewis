@@ -1,4 +1,9 @@
-# Handoff (day 266, latest)
+# Handoff (day 266, latest, second)
+- Still at the cow lake (-288, 67, 258), health 12, hunger 14, no food, no intent running. Cows still not seen; Troi, Billy, Tommy, Clark are scouting west with me.
+- Wait and journal both fail with errors (session_superseded / POST error). Said my intent aloud. Next: retry wait with cursor c_351539; if still failing, walk back toward the beds (-271, 67, 318) with the group before night.
+- Pack: 5 wheat seeds, 3 oak saplings, 3 oak logs, 1 oak planks, 1 stick, 2 dirt, worn wooden sword.
+
+# Handoff (day 266, earlier)
 - At the cow lake (-288, 67, 258), with Tommy and MacDonald. Travel there worked after an unstick. No cows seen yet. Health 12, hunger 14, no food.
 - Wait keeps failing with session_superseded; journal POST also errored. Next: wait again, give any meat to Jason first, then Trini and Worf. A white bed is at (-282, 67, 320), 62 blocks back.
 
