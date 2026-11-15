@@ -1,3 +1,13 @@
 # Journal
 - 18:28 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addres
 - 18:28 act: {"actions":[{"do":"sleep"}]}
+- 18:29 act: {"actions":[{"do":"unstick"}],"reasoning":"Retry unstick to climb out of pit."}
+- 18:30 act: {"actions":[{"do":"goto","target":{"x":-180,"y":70,"z":326}}],"say":"I'm out of the pit and hungry. Heading west toward the beds to look for food and the group.","reasoning":"Out of pit at dawn, hunge
+- 18:30 act: {"actions":[{"do":"mine","block":"dirt","count":2}],"reasoning":"Enclosed by stone. Dirt can be dug by hand; mine out the dirt walls to open a way."}
+- 18:30 act: {"actions":[{"do":"goto","target":{"x":-168,"y":72,"z":328}}],"reasoning":"Mining by hand gained nothing. Try walking to the dropped item tile, which is open ground."}
+- 18:30 act: {"actions":[{"do":"goto","target":{"x":-190,"y":68,"z":322}}],"reasoning":"Free now. Short goto west toward beds and the group, food is the aim."}
+- 18:30 act: {"actions":[{"do":"mine","block":"gravel","count":3}],"reasoning":"Walls are gravel; dig through gravel by hand to open a path west."}
+- 18:30 act: {"actions":[{"do":"unstick"}],"reasoning":"Health falling from falling gravel and I am trapped. Unstick to get clear."}
+- 18:31 act: {"actions":[],"say":"I'm Lewis. I died in a gravel pit and woke here with nothing. Does anyone have spare food?","reasoning":"Respawned with empty hands, near three people. Ask for food openly; I have
+- 18:32 act: {"actions":[],"say":"Thanks Jason. My hunger is 20 after respawn, so I'm not in need yet. I have no weapon or food. I'll go north with LaForge to look for pigs and cows.","reasoning":"Respawned, hunge
+- 18:34 act: {"actions":[],"say":"Lewis here, health 20, hunger 20, nothing in hand. LaForge, I'll stay near the yellow bed and keep watch so you can rest. I'll scout north with Data when you're steadier.","reason
