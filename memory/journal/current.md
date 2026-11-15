@@ -14,3 +14,4 @@
 - 02:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Lewis going to the white bed at -271,67,336 for the night. No food; meat goes to Data, then Trini."}
 - 02:43 act: {"actions":[{"do":"sleep"}]}
 - 02:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Skeleton gone from view. Retry sleep at nearest bed with group.","say":"Trying the bed again now that no monst
+- Night of day 255: at the white beds with the group, health 20, hunger 20 (no food in pack). Slept in the bed beside me; days_since_sleep reset to 0. Still holding 5 dirt, 3 oak saplings, 3 oak logs, wooden sword. Next: find meat or ripe wheat at dawn.
