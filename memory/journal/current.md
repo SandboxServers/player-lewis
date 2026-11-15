@@ -1,1 +1,2 @@
 # Journal
+- Day 319 morning: at the white beds with 5 oak planks. Laforge put 5 more planks in the chest at 447,107,-1093 for me; Riker has 9 planks and is coming to hand them over. Hunger 17, health 11. Could not see Riker; said where I stand. Night came; going to sleep in the white bed at 429,107,-1079 with the group nearby. Plan at first light: take the planks, build a sealed shelter, eat the chicken when hunger is 6 or below. Data is hungry and boxed in; Troi, Clark and Laforge offered melon to him.
