@@ -150,3 +150,4 @@
 - 17:52 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":317}}],"say":"Lewis, dawn 301, health 20, hunger 20, no food. Scouting south-west toward the sheep with Picard. Call out any animal."}
 - 17:52 act: {"actions":[{"do":"goto","target":{"x":-312,"y":66,"z":312}}]}
 - 17:52 act: {"actions":[{"do":"unstick"}],"say":"Lewis: I'm in a pit at (-312,67,312), no food, health 20. Climbing out, then scouting for the cow east.","reasoning":"Trapped in a pit; unstick first, then move to
+- 17:56 act: {"actions":[],"say":"Lewis: still no food, health 20, hunger 20. Holding at the south-west edge. Whoever has meat, I'm hungry but Wesley and the weakest come first.","reasoning":"Holding position whil
