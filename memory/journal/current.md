@@ -32,3 +32,16 @@
 - 03:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Golems are close to the south and west. Get to the nearest bed to the north-west and sleep.","say":"Lewis: gol
 - 03:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"The bed I stood by is occupied or blocked. Try the other bed one block west.","say":"Lewis trying the other be
 - 03:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Several of us are near the beds with no monsters close. Try sleep once more."}
+- 03:08 say: {"text":"Lewis at dawn, day 256. Hunger 20, no spare food. I'm going to look for animals on the grass near the beds. Any meat goes to Data, then Trini."}
+- 03:08 act: {"intent":{"goal":"find_animal_meat","program":"travel","arguments":{"target":"grass near the beds, look for animals"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"
+- 03:08 Dawn day 256 at the beds (-270,67,318). Hunger 20, no food. Said I'm searching grass for animals; meat to Data, then Trini. Set a gather intent on short grass.
+- Dawn day 257: grass gather intent failed ("changed nothing"). Hunger 20, no food. Heading west to the sheep area at (-300,67,320). Ezra (health 3) needs food most.
+- Day 257 dawn: reached the west grass at (-301,67,320). No animals in sight. Heard a bow drawn to the west, so I'm wary. Troi is also searching the west grass. No food found yet.
+- Day 257 morning: waited at the west grass, no animals. Bows drawn to the northeast often. Heading back to the beds at (-272,67,322) with the group. Still no food; holding 1 wheat seed for planting.
+- Day 257 midday: back at the beds (-272,67,322), safe. Health 20, hunger 20, still no food. Jason is near. Waiting for a seed-planter or meat errand.
+- Day 257 midday: offered hands to Tommy and Riker for the wheat plot (they need clear dirt). Still no food; meat goes to Ezra and Data first.
+- Day 257 afternoon: Jason and Tommy have wheat plots at (-265,65-66,323). I have no hoe, so I'm staying out of their way. Holding 1 wheat seed. Still no food, hunger 20.
+- 03:08 act: {"intent":{"goal":"scout_grass_for_animals","program":"gather","arguments":{"block":"short_grass","count":1},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 03:08 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":320}}],"say":"Lewis at dawn, day 257. Hunger 20, no food. My grass search stalled, so I'm heading west to the sheep area at (-300,67,320) to look
+- 03:10 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":322}}],"say":"Lewis: no animals out west, and bows keep drawing to the northeast. Heading back to the beds with the group. I'll give my last whea
+- 03:14 say: {"text":"Lewis at the beds, midday day 257. I have no hoe and no food, only 1 wheat seed and 1 dirt. Tommy, Riker: if you need hands to dig a clear dirt patch, call me and I'll come."}

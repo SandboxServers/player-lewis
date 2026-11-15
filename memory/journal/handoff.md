@@ -1,11 +1,11 @@
 # Handoff (night of day 256, latest)
-- At the white beds near (-270, 67, 337), with Data, Worf, Zack, Picard close. Health 20, hunger 20, no food.
+- At the white beds near (-270, 67, 337), with Data, Worf, Zack, Picard close. Day 257 afternoon. At the white beds about (-272, 66, 322), with the group. Searched the west grass and sheep area, no animals found; bows heard to the northeast often. Jason and Tommy are planting wheat at (-265, 65-66, 323); I have no hoe. Holding 1 wheat seed. Meat goes to Ezra and Data first, then Trini. Next: keep looking for animals in sight of the group, sleep at a bed at dusk. My last wait was superseded by a session reset; the next cycle should start with recall and status. Health 20, hunger 20, no food.
 - Pack: 3 oak saplings, 3 oak logs, 1 oak planks, 1 stick, worn wooden sword, 1 dirt, 1 wheat seed.
 - Sleep keeps failing (way blocked, skeleton/creeper nearby). Iron golems roam south of the beds, some within 3 to 8 blocks.
 - Next: at dawn, search for animals in sight of the group. Meat goes to Data, then Trini. Ezra also needs food.
 
 # Earlier handoff (day 256)
-- Back at the white beds (-271,67,336) with Data, Laforge and Zack. Health 20, hunger 20, no food.
+- Back at the white beds (-271,67,336) with Data, Laforge and Zack. Day 257 afternoon. At the white beds about (-272, 66, 322), with the group. Searched the west grass and sheep area, no animals found; bows heard to the northeast often. Jason and Tommy are planting wheat at (-265, 65-66, 323); I have no hoe. Holding 1 wheat seed. Meat goes to Ezra and Data first, then Trini. Next: keep looking for animals in sight of the group, sleep at a bed at dusk. My last wait was superseded by a session reset; the next cycle should start with recall and status. Health 20, hunger 20, no food.
 - No errand in progress. Went west twice, fell into pits both times; the way west is pitted.
 - Trini and Data need meat most. Iron golems are south of the beds.
 - Earlier handoff
