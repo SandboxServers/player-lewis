@@ -1,2 +1,16 @@
 # Journal
 - 02:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Night, and the group is bedding down here. I'll sleep at the white bed now. Trini first at dawn for food."}
+- 02:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Night is here, so I'm going to bed on the white bed by the camp."}
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":333}}],"say":"Dawn, day 254. I'm fed (20). Trini, I'm bringing my 4 wheat seeds to the beds for planting. Kimberly, I have a hoe for you if you'r
+- 02:08 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat_seeds","count":4}],"say":"Trini, here are my 4 wheat seeds for the farm. I'm fed, so the food goes to you and Worf first."}
+- 02:11 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"wooden_hoe","count":1},{"do":"give","to":"ag_trini_01","item":"wheat_seeds","count":4}],"say":"Kimberly, here is my hoe for the planting. Trini, 
+- 02:11 act: {"actions":[],"say":"I'm at the grass near the south beds, holding a hoe and 4 wheat seeds. Kimberly or Trini, come into sight and I'll hand them over."}
+- 02:14 act: {"actions":[],"say":"Worf, I have no food, sorry. I'm fed, so anything I find goes to you after Trini. I'm still holding 4 wheat seeds for whoever plants first; tell me who is in sight and I'll hand t
+- 02:17 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"wheat_seeds","count":4},{"do":"give","to":"ag_kimberly_01","item":"wooden_hoe","count":1}],"say":"Kimberly, here are the 4 wheat seeds and the ho
+- 02:22 act: {"actions":[{"do":"sleep"}],"say":"Lewis here, night of day 254. No food, hunger 20, health 20. I gave my wheat seeds and hoe to Kimberly. Worf, Clark and Data get any meat first."}
+- 02:31 act: {"actions":[{"do":"note","text":"Day 255 dawn: joining the pig search north-east with Worf, Billy and Zack, staying in sight."}],"say":"Lewis joining the pig search north-east, staying in sight. Any m
+- 02:36 act: {"actions":[{"do":"mine","block":"short_grass","count":4}],"say":"Lewis at midday, day 255. No food. I'm breaking grass near camp for seeds. Any seeds go to Kimberly's or Troi's tilled ground; food go
+- 02:37 act: {"actions":[{"do":"goto","target":{"x":-276,"y":65,"z":328}}],"say":"Lewis heading back north to camp, away from the golems. The grass gave no seeds."}
+- 02:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Lewis going to the white bed at -271,67,336 for the night. No food; meat goes to Data, then Trini."}
+- 02:43 act: {"actions":[{"do":"sleep"}]}
+- 02:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Skeleton gone from view. Retry sleep at nearest bed with group.","say":"Trying the bed again now that no monst

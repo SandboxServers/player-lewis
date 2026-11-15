@@ -1,11 +1,11 @@
 # Handoff
 
-Night of day 252. Sleeping on a white bed at (-270, 67, 318), with Wesley and Data nearby. No errands running. Hunger 20, health 20, but no food in pack.
+Afternoon of day 255. Standing at (-276, 65, 328), no errand running. Hunger 20, health 20, no food in pack.
 
-- Wheat seeds planted at (-276, 67, 289), not ripe yet. Check it at dawn and harvest when ripe.
-- Other wheat at (-269, 66, 325) is unripe too.
-- Pack: wooden sword, wooden hoe, 4 wheat seeds, 3 oak saplings, 3 oak logs.
-- Pigs were south near (-255, 239). Phantoms are about in the south and north-west.
-- Day 253 dusk: still holding my 4 wheat seeds. Trini said she would plant them near the beds; give them to her when she is in sight. My own wheat plot is still unripe.
-- Iron golems stand 12 to 20 blocks south; keep away from them.
-- Next: look for animals with the group, ask Worf or Trini about the sign "Here lies ag_trini_01", and ask what the iron golems are.
+- Gave my 4 wheat seeds and wooden hoe to Kimberly (both gives worked). She is planting by the beds.
+- Night of day 254: sleep failed, since the nearby beds were taken and monsters refused sleep.
+- Nearest white bed: (-271, 67, 336), 10 blocks south-east. Try it at dusk.
+- Group is short on food. Trini, Data and Jason get meat first. Pig search north-east.
+- Iron golems roam south of camp, 12 to 20 blocks away. Keep away from them.
+- Pack: 5 dirt, 3 oak saplings, 3 oak logs, 1 oak planks, 1 stick, wooden sword.
+- Next: at dusk try the bed at (-271, 67, 336). Give any meat to Data or Trini first.
