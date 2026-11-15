@@ -91,3 +91,12 @@
 - 15:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. I'm sleeping at the white bed here with the group."}
 - 15:43 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Going to the bed for the night with the group."}
 - 15:43 act: {"actions":[{"do":"sleep"}]}
+- 15:49 act: {"say":"Lewis at the beds, dawn. No food on me. I'll scout west for cows or pigs and call out anything I find.","actions":[{"do":"goto","target":{"x":-285,"y":67,"z":318}}],"intent":{"goal":"scout_wes
+- 15:50 act: {"say":"Lewis, morning 295. Still no food, health 20. Heard a bow to the west twice, so I am keeping away from there. Going back to the beds to stay with the group.","actions":[{"do":"goto","target":{
+- 16:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 16:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}},{"do":"sleep"}]}
+- 16:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the bed at -270,67,336 to sleep. No food yet, health 20.","reasoning":"Sleep was refused at the north bed a
+- 16:05 act: {"actions":[],"say":"Sleep was refused again, the way was blocked. I will stay with the group at the north beds until dawn. Jason, the chicken should go to whoever is hungriest first.","reasoning":"Tw
+- 16:09 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":300}}],"say":"Dawn. I am going north-east to look for pigs or cows. Will call out any meat.","reasoning":"Food is the group's need. Scout an area
+- 16:09 act: {"actions":[{"do":"goto","target":{"x":-215,"y":67,"z":280}}],"say":"No animals here at -240,300. Pushing further north-east to -215,280. Will call out any pig or cow.","reasoning":"Nothing in view. K
+- 16:09 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":320}}],"say":"No animals found north-east either. Heading back to the north beds with the group before dark.","reasoning":"Two scouting stops, no

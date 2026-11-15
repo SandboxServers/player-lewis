@@ -1,4 +1,9 @@
-# Handoff (day 294 morning, latest)
+# Handoff (day 295 dusk, latest)
+- At the north white bed (-270,67,318) with Macdonald, Riker, Clark, Bcrusher. Health 20, hunger 20, no food. No errand running. days_since_sleep 16.
+- Scouted west for animals at dawn 295: only bows heard, none found. Food for Wesley came from Laforge, Billy, Kimberly, Jason.
+- Next: sleep here tonight; at first light look for pigs or cows south or east and call out any meat.
+
+# Handoff (day 294 morning)
 - At the south white bed (-298,68,294), next to bed (-298,68,295). Health 20, hunger 20. No errand running.
 - Sleep only works at night ("it is not night" in daytime). Sleep here at dusk, if no phantom is near.
 - My chicken did not reach Worf; Worf eats his own. Jason took the chicken for Riker (health 3).
