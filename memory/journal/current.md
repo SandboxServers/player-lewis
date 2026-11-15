@@ -89,3 +89,5 @@
 - 15:38 act: {"intent":{"goal":"reach_north_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":320}},"wake_on":["directly_addressed","precondition_failed"],"limits":{"max_world_ticks":3000,"max_bl
 - 15:38 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":1}],"say":"Trini, I have one wheat for you; Wcrusher is out of sight. Eat it if you are hungry."}
 - 15:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. I'm sleeping at the white bed here with the group."}
+- 15:43 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Going to the bed for the night with the group."}
+- 15:43 act: {"actions":[{"do":"sleep"}]}
