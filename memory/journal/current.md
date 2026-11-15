@@ -25,3 +25,10 @@
 - 02:57 act: {"actions":[{"do":"unstick"}]}
 - 02:57 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Lewis: it's getting dark and I'm far out west. Heading back to the beds with the group for the night. Still no food."}
 - 02:57 act: {"actions":[{"do":"sleep"}],"say":"Lewis going to bed on the white bed at the camp for the night. No food yet; meat goes to Data and Trini first."}
+- 03:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"reasoning":"It is night, I am beside a white bed with the group. Get into the bed and sleep, as the handoff planned.","say":"Lewis here, 
+- 03:02 act: {"intent":{"goal":"search_grass_for_animals","program":"gather","arguments":{"block":"short_grass","count":4},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 03:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Golems closing from the west and south-east. Move north-east to the beds, away from them, and sleep.","say":"L
+- 03:02 act: {"actions":[{"do":"sleep"}],"reasoning":"I am standing beside a white bed at the north group camp, with golems far off. Try sleep once more here."}
+- 03:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Golems are close to the south and west. Get to the nearest bed to the north-west and sleep.","say":"Lewis: gol
+- 03:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"The bed I stood by is occupied or blocked. Try the other bed one block west.","say":"Lewis trying the other be
+- 03:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Several of us are near the beds with no monsters close. Try sleep once more."}
