@@ -1,7 +1,8 @@
-# Handoff (night day 291, latest)
-- At (-270,66,330) with Jason, Picard, Troi, and the group by the white beds at (-270/-271,67,336). Health 20, hunger 20, no food. No errand running.
-- Sleep failed twice at the beds ("the way was blocked") with golems 4-10 blocks away. Waiting here for dawn with the group, then food search east for pigs. Meat goes to Zack and Leonardo first.
-- Days since sleep: 12.
+# Handoff (day 292 late morning, latest)
+- At about (-252,66,335), east of the north beds. Health 20, hunger 20, no food. Pack: 1 wheat seeds.
+- Gave my wheat to Billy (he was closest), not Macdonald. Travel east stopped: iron golems at (-264,66,341) and (-241,68,347).
+- Wheat at (-274,66,333) is ripe, wheat at (-272,66,331) unripe. Food search for pigs and cows with the group. Meat goes to Zack and Leonardo, then lowest health.
+- Days since sleep: 13. Sleep at a bed only when no golem or phantom is near.
 
 # Old handoff (midday day 289)
 - Died at night 288 and respawned at (-299,68,295) with nothing. Went back: picked up 6 oak logs at about (-284,66,338). The other drops were not found; the chicken and dirt are gone.
