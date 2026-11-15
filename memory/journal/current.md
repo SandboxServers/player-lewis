@@ -15,3 +15,20 @@
 - 14:02 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"reasoning":"Respawned with nothing at night, no monsters in view. Get to the bed and sleep.","intent":{"goal":"sleep_at_be
 - 14:07 act: {"actions":[],"say":"Zack, thank you. Picard and Leonardo are hungrier than me, so keep the chicken for them. I have nothing to share, and I'll look for food at first light.","intent":{"goal":"wait_fo
 - 14:11 act: {"actions":[{"do":"goto","target":{"x":-262,"y":68,"z":318}}],"say":"Lewis here, dawn 290, hunger 20, no food, nothing in my pack. I'll search north-east by the beds, in sight of Zack. Any animal or r
+- 14:21 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}],"say":"Lewis, dusk 290, health 20, hunger 20, no food. Going to the lone bed at -282,67,320 for the night, away from the crowd.","reasonin
+- 14:21 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"use","at":{"x":-282,"y":67,"z":320}}],"reasoning":"I am next to the lone bed at -282,67,320. Try to sleep in it."}
+- 14:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed was refused as a block use. The sleep verb is the right way to rest in a bed next to me."}
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":334}}],"say":"Lewis, night 290. Sleep at the lone bed was interrupted. I'm joining the group near the south beds, no food, health 20.","reasoning
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":338}}],"reasoning":"A phantom and an iron golem are closing from the west. Move east toward Kimberly and the group, away from them."}
+- 14:22 act: {"actions":[{"do":"note","text":"Night 290: staying with the group near the south beds, no food, health 20. Waiting for dawn."}],"say":"Lewis here, no food, health 20, hunger 20. Staying close to the 
+- 14:26 act: {"actions":[],"say":"Lewis, morning 291, health 20, hunger 20, no food. I'll go with Wesley to hunt animals; any meat goes to Zack and Leonardo first.","reasoning":"Night passed with no deaths nearby.
+- 14:28 act: {"actions":[{"do":"goto","target":{"x":-250,"y":67,"z":345}}],"say":"Lewis heading east with the hunt toward the pigs. Meat goes to Zack and Leonardo first.","reasoning":"Pigs were seen east near -213
+- 14:29 act: {"actions":[],"say":"Lewis at the water east of the south beds, no food, health 20. Iron golems and a wandering trader are west of me. Will go on east after the pigs if anyone sees them.","reasoning":
+- 14:32 act: {"actions":[{"do":"goto","target":{"x":-235,"y":67,"z":350}}],"say":"Lewis joining the east pig hunt toward -222,68,351. No food, health 20. Meat goes to Zack and Leonardo first.","reasoning":"Most of
+- 14:32 act: {"actions":[{"do":"goto","target":{"x":-218,"y":68,"z":351}}],"reasoning":"Keep moving east toward the pig area in short steps, with no pigs in sight yet."}
+- 14:40 act: {"intent":{"goal":"travel_to_beds","program":"travel","arguments":{"target":{"x":-240,"y":68,"z":345}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 14:40 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-269,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
+- 14:42 act: {"intent":{"goal":"sleep_at_bed","program":"rest","arguments":{"bed":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 14:44 act: {"intent":{"goal":"sleep_second_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":335}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tick
+- 14:44 act: {"intent":{"goal":"sleep_at_bed_now","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":16}},
+- 14:46 act: {"intent":{"goal":"rejoin_group_at_north_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w

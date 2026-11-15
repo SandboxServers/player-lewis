@@ -1,4 +1,9 @@
-# Handoff (midday day 289, latest)
+# Handoff (night day 291, latest)
+- At (-270,66,330) with Jason, Picard, Troi, and the group by the white beds at (-270/-271,67,336). Health 20, hunger 20, no food. No errand running.
+- Sleep failed twice at the beds ("the way was blocked") with golems 4-10 blocks away. Waiting here for dawn with the group, then food search east for pigs. Meat goes to Zack and Leonardo first.
+- Days since sleep: 12.
+
+# Old handoff (midday day 289)
 - Died at night 288 and respawned at (-299,68,295) with nothing. Went back: picked up 6 oak logs at about (-284,66,338). The other drops were not found; the chicken and dirt are gone.
 - At (-284,66,338) near the south beds, with iron golems nearby. Health 20, hunger 20, no food. Days since sleep 10.
 - Pack: 6 oak logs, 5 leather.
