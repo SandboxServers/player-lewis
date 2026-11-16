@@ -43,3 +43,20 @@
 - 02:20 act: {"say":"Morning. I am heading out for oak logs east, near 477,108,-1110. I hold 28 planks for whoever needs them.","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","
 - 02:28 act: {"say":"Trini, I am going east for oak logs at the tree near 476,112,-1114. Shout if you need planks.","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"w
 - 02:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1064}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1064}},"wake_on":["goal_completed"
+- 02:33 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1075}}],"say":"Morning. Meriwether, health 12, hunger 16. I hold 28 planks and can help Clark's wall. Clark, tell me which side to take.","inten
+- 02:33 act: {"actions":[],"say":"I am at the wall with Clark, Kimberly and Trini. I hold 28 planks. Clark, tell me the count and the side, and I will place or hand them over."}
+- 02:35 act: {"actions":[{"do":"eat"}],"say":"Thank you Trini, Troi, Laforge. I will eat my mutton now and keep the chicken for someone weaker. I can take melon from Troi if still in sight."}
+- 02:38 act: {"actions":[],"say":"Clark, I take the east side with my 28 planks, two high. Tell me the first cell and I will lay them. Health 14 now, hunger 17."}
+- 02:45 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1078}},{"do":"use","at":{"x":429,"y":107,"z":-1078}}],"say":"Night. Lewis going to the white bed at 429,107,-1078. Health 14, hunger 17. I hold 
+- 02:45 act: {"actions":[{"do":"sleep"}]}
+- 02:46 act: {"actions":[],"say":"Morning. Lewis at the white beds, 415,107,-1077, health 14, hunger 17. I hold 28 planks for the east side. Clark, name a free first cell and I will count it out."}
+- 02:50 act: {"actions":[],"say":"Clark, I take east. Which cell is the first free one on the east side, with coordinates? Troi, I will give you 4 planks for a sword when you are in my sight."}
+- 02:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1079}},{"do":"place","block":"oak_planks","at":{"x":431,"y":107,"z":-1078}},{"do":"place","block":"oak_planks","at":{"x":431,"y":108,"z":-1078}}
+- 02:53 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1070}}],"say":"Lewis: skeletons are shooting from the east, so I am pulling back toward the beds with my sword. My east placement did not go thr
+- 02:56 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}},{"do":"place","block":"oak_planks","at":{"x":431,"y":107,"z":-1077}},{"do":"place","block":"oak_planks","at":{"x":431,"y":108,"z":-1077}}
+- 02:57 act: {"actions":[],"say":"Clark, 431,107,-1077 is occupied, so my place failed. I will not guess. Which east cell is free? I hold 28 planks. Night is near; I will sleep at the bed 429,107,-1078 after."}
+- 02:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1078}},{"do":"sleep"}],"say":"Night. Lewis going to the white bed at 429,107,-1078, in sight of Clark and Trini. Health 14, hunger 17. Clark, na
+- 02:59 act: {"actions":[],"say":"Morning. Lewis at the white beds, 415,107,-1077, health 14, hunger 17, holding 28 planks. Clark, name the free east cell and I will place it and count."}
+- 03:11 act: {"actions":[{"do":"sleep"}],"say":"Night. Lewis at the bed row, sword in my pack, chicken kept for Kimberly at first light."}
+- 03:12 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":415,"y":107,"z":-1065}}]}
+- 03:24 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Lewis sleeps at the white bed here at 416,-1065. First light, the east cell."}
