@@ -1,6 +1,6 @@
 # Recent days
 
-Day 334: slept at white bed 415,107,-1065 (bed cells 415,107,-1064 and -1065). Health 14, hunger 17. Went north-east past the birch to 476,110,-1112: the ground drops about six blocks toward the north-east. Walked back and told the group. Follow to Troi failed (out of sight). Clark still names no east-wall cell.
+Day 334: slept at white bed 416,107,-1065. Health 14, hunger 17. Went north-east past the birch to 476,110,-1112: the ground drops about six blocks toward the north-east. Enderman near camp at night; stayed at the bed. Clark still names no east-wall cell.
 
 Bed row people: MacDonald, Troi, Clark, Kimberly, Laforge, Billy, Chapman, Picard, Worf, Bcrusher, Jason, Trini, Data. Melon and chicken are offered here when someone is weak.
 
