@@ -1,6 +1,6 @@
 # Summary
 
-Day 342 night: asleep in bed 416,107,-1065 at the white beds. Health 14, hunger 17 at sleep. Eat beef or chicken when hunger is 6 or below, or when someone weaker needs it.
+Day 344 night: asleep beside the white bed at 416,107,-1065. Health 14, hunger 17 at sleep.
 
 Pack: 8 oak logs, 23 oak planks, beef, chicken (kept for the weakest), 2 oak fence, wooden sword, torch, flint, leaf litter, gravel.
 

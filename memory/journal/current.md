@@ -1,12 +1,1 @@
 # Journal
-- 07:45 act: {"say":"Evening. I'm at the white beds with the group, staying here until light. Clark, I'm waiting for your named east-wall cell.","intent":{"goal":"wait_for_first_light","program":"rest","arguments"
-- 07:48 act: {"say":"Morning. Lewis here at the beds, health 14, hunger 17. Clark, I still wait for your named east-wall cell. Anyone who has been past the north-east drop, tell me what you saw."}
-- 07:53 act: {"say":"Morning. Lewis here, health 14, hunger 17, at the white beds. Clark, which cell do you want on the east wall? I will place only the exact cell you name.","reasoning":"Morning check. Goal 3 nee
-- 07:56 act: {"intent":{"goal":"wait_for_clark_cell","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operation
-- 08:02 act: {"actions":[{"do":"note","text":"Morning, day 343. At white beds, health 14, hunger 17. Clark has not named the east-wall cell yet. Staying at the beds."}],"say":"Morning. Lewis at the white beds, hea
-- 08:02 act: {"actions":[{"do":"note","text":"Laforge asked about oak trees. I do not know where they grow nearby; I have only the logs I carry. Clark still has named no east-wall cell."}],"say":"Laforge, I don't 
-- 08:04 act: {"actions":[{"do":"note","text":"Riker says oak trees grow near 459,110,-1103; Clark went to check them. I stay at the beds until Clark names his cell."}],"say":"Thank you, Riker. I will stay at the b
-- 08:13 act: {"say":"Morning, Troi. Lewis here, I'm at the white beds, health 14, hunger 17. I have beef and chicken. If someone is weaker than me, tell me and I'll bring it.","intent":{"goal":"await_east_wall_cel
-- 08:15 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"oak_planks","count":4}],"say":"Trini, I'm sending you 4 oak planks for your sword. Craft it at the table and stay near the beds. I still hold beef a
-- 08:15 act: {"actions":[{"do":"note","text":"Gave-to-Trini failed: she was not in sight. Still at the beds, health 14, hunger 17. Clark has named no east-wall cell. Waiting."}]}
-- 08:19 act: {"actions":[{"do":"note","text":"Trini now has a sword and melon; I did not need to give planks. Clark still names no east-wall cell. Staying at the beds, health 14, hunger 17."}]}
