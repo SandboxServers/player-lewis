@@ -8,3 +8,5 @@
 - 15:02 say: {"text":"Lewis here at the white beds, daylight. Holding here; ready to join Billy's cow walk when called."}
 - 15:11 act: {"say":"Meriwether here, at the white beds, health 14, hunger 17. Ready for the cow walk, Billy. I will stay in sight.","reasoning":"Group is at the beds and Billy waits for four in sight. Stay put, a
 - 15:13 act: {"say":"Meriwether: dusk, I'm at the east bed with the group in sight. Going to sleep here. Billy, the cow walk at first light.","reasoning":"Dusk is here, I am at a bed, the group is in sight. Sleep 
+- 15:14 act: {"actions":[{"do":"sleep"}],"say":"Meriwether here, at the white bed, in sight of the group. Resting for the night, hunger 17, health 14. Will walk with Billy's cow walk at first light."}
+- Day 365 night: at the white bed 430,107,-1051, group in sight, health 14, hunger 17. Slept. Eat beef or chicken at hunger 6 or below; join the cow walk at first light.
