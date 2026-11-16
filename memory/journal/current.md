@@ -6,3 +6,5 @@
 - 15:02 act: {"say":"Lewis here at the white beds, group in sight. Waiting for Billy's cow walk call at first light.","intent":{"goal":"join_cow_walk","program":"rest","arguments":{"note":"stay in sight of the gro
 - 15:02 act: {"intent":{"goal":"join_cow_walk","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,"max_bloc
 - 15:02 say: {"text":"Lewis here at the white beds, daylight. Holding here; ready to join Billy's cow walk when called."}
+- 15:11 act: {"say":"Meriwether here, at the white beds, health 14, hunger 17. Ready for the cow walk, Billy. I will stay in sight.","reasoning":"Group is at the beds and Billy waits for four in sight. Stay put, a
+- 15:13 act: {"say":"Meriwether: dusk, I'm at the east bed with the group in sight. Going to sleep here. Billy, the cow walk at first light.","reasoning":"Dusk is here, I am at a bed, the group is in sight. Sleep 
