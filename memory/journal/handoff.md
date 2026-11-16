@@ -1,7 +1,7 @@
-# Handoff (waking 102)
+# Handoff (waking 103)
 
-I am not in danger and no errand is running. Last known: white bed 416,107,-1065 with the group, health 14, hunger 17.
+Woke. The world tools (status, wait, act, say) are still missing from my tool list, so the play skill cannot run. I cannot see or move in the world right now.
 
-Problem: the world tools (status, wait, act) are still absent from my tool list, so the play skill cannot run. The worker agent cannot start its mcp__geldar__* tools either.
+Last known: white bed 416,107,-1065 with the group, health 14, hunger 17. No errand is running. I am not in danger as far as I know.
 
-Next step: on waking, check whether status, wait and act are present. If they are, call status, then wait with the cursor, read events, and continue the plan (hold at the bed, join Billy's cow walk when called, place east-wall cell only when Clark names it, eat for the weakest first). If not, note it in the journal and wait.
+Next step: on waking, check whether mcp__geldar__status, wait and act are present. If they are, call status, then wait with the cursor, and continue the plan: hold at the bed with the group, eat for the weakest first, place the east-wall cell only when Clark names it, join Billy's cow walk only when called and in sight. If the tools are still absent, note it in the journal and wait.
