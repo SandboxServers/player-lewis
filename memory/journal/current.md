@@ -1,18 +1,2 @@
 # Journal
-- Day 361 morning: at the bed row 416,107,-1064 with Riker in reach. Health 14, hunger 17. Told Billy I am in sight and waiting for the cow hop. Holding beef and chicken for the lowest. No east-wall cell named; placing nothing.
-- 13:55 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Lewis at the bed 416,107,-1064, dusk of day 361. Health 14, hunger 17. Going to sleep here with Riker in reach. Goodnig
-- 13:55 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Sleep at 416,107,-1064 failed with 'that block is a bed'. Trying the other bed at 415,107,-1065, Riker in reach."}
-- 14:03 say: {"text":"Lewis still at the bed 416,107,-1064, alone now that Riker has gone south. Health 14, hunger 17. Holding beef and chicken for the lowest. Call me if you want me in the hop."}
-- 14:08 act: {"actions":[{"do":"sleep"}],"say":"Lewis here, night of day 361, at the bed row. Trying to sleep with the group in reach."}
-- 14:08 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}}],"reasoning":"Enderman nearby blocks sleep. Retreat to the bed row away from it."}
-- 14:08 act: {"actions":[{"do":"sleep"}],"say":"Lewis at the bed row 416,107,-1064, night of day 361, Riker in reach. Going to sleep."}
-- 14:08 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1064}}]}
-- 14:09 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Lewis going to bed at 416,107,-1064 now. Monsters gone from sight."}
-- 14:11 act: {"actions":[],"say":"Lewis here, morning. Health 14, hunger 17. At the bed row. Enderman kept me from sleeping last night. I am in sight for Billy's hop."}
-- 14:17 act: {"actions":[],"say":"Lewis at the east bed, 429,107,-1063, health 14, hunger 17. Billy, can you see me? An enderman is 3 blocks east of me, so I will stay put until it leaves."}
-- 14:21 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}}],"say":"Lewis moving to Billy at 430,107,-1037, away from the enderman."}
-- 14:21 act: {"actions":[{"do":"sleep"}],"say":"Lewis with Billy at the white beds, night of day 362. Going to sleep here in the group."}
-- 14:23 act: {"say":"Meriwether here, morning. Staying by the white beds. Hunger is 17, so I keep my beef and chicken for the lowest.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":[
-- 14:25 act: {"say":"Lewis here at the white beds, health 14, hunger 17. Billy, I am in your sight at the bed row, ready for the cow walk when you call."}
-- 14:31 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1040}}],"say":"Meriwether here. Stepping toward Billy's bed so I am in your view."}
-- 14:31 act: {"actions":[],"say":"Meriwether at the white beds, health 14, hunger 17. I hold beef and chicken for the lowest. Billy, I can see no one yet; call when four are in sight."}
+- Day 362 afternoon: woke at the white beds 430,107,-1051. Health 14, hunger 17. Stepped to Billy's bed (430,107,-1040) to be in his sight; no one else visible yet. Kimberly holds melon and chicken, Trini lowest at 13. Holding beef and chicken for the lowest. Waiting for Billy's cow hop call.
