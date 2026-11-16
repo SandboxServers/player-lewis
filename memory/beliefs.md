@@ -20,5 +20,7 @@ What you hold to be true about the world and the people in it.
 - Use on a white bed block with act "use" failed (day 353: "that block is a bed"). Sleep through the sleep verb instead, at the bed row.
 - Laforge's ripe wheat is at 462,107,-1088 (day 353), about 30 blocks east.
 
+- Day 366: Billy's cow walk did not start; he holds until four are in his sight at the east side of the beds. Waiting in sight costs nothing but time. Keep saying "in sight" once, then wait.
+
 Next curiosity: what lies past the drop to the north-east, and whether there is a safe way down. Where is water?
 Who to tell: the whole bed row; Billy leads the walks, Picard and Troi are nearest.
