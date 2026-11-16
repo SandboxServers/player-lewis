@@ -1,2 +1,2 @@
 # Journal
-- 06:14 act: {"actions":[{"do":"sleep"}],"say":"Night. I'm at white bed 415,107,-1065 with my sword in the pack. Zack, I'll walk the cows with you at first light."}
+- Day 338 morning: MacDonald at health 4 by the beds. Gave him 2 melon and 1 beef (both worked). Kept 1 beef and 1 chicken for the weakest. Health 14, hunger 17. Night now: going to sleep at the white bed. East wall: no cell named, placed nothing.
