@@ -7,3 +7,13 @@
 - 19:41 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1036}}],"say":"Meriwether here, health 20, hunger 20, empty-handed. Coming to the group's hold point to be counted, Billy.","intent":{"goal":"jo
 - 19:41 act: {"actions":[],"say":"Meriwether at 418,107,-1036, in the group, holding until Billy counts us for the cow walk."}
 - 19:49 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Night. Meriwether to the white bed at 415,107,-1037 in the group's sight. Count me 
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}],"say":"Meriwether here, at night by the bed row. Empty-handed, health 20, hunger 20. Holding in sight of the group until Billy calls the
+- 19:54 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1025}}],"say":"Lewis walking into Billy's sight at 404,107,-1025 to be counted. Empty-handed, health 20, hunger 20. I wait for the cow-walk call
+- 19:58 act: {"actions":[],"say":"Billy, Lewis is at 404,107,-1026 with Picard, Jason and Kimberly, in the group at the bed row. Holding here; I will not walk the far road until you see me."}
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"use","at":{"x":401,"y":107,"z":-1037}}],"say":"Night. Meriwether going to the white bed at 401,107,-1037, in the group's sight. Co
+- 20:03 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Trini, the bed at 401,-1037 is in use. Meriwether trying the white bed at 415,107,-
+- 20:03 act: {"actions":[{"do":"sleep"}]}
+- 20:07 act: {"actions":[],"say":"Morning. Meriwether at 430,107,-1037 at the bed row, health 20, hunger 20, empty-handed. Billy, count me when you see the group; I wait for the cow walk call."}
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1034}}],"say":"Meriwether moving to the group's hold point at 418,107,-1034, where the group gathers. Waiting for Billy."}
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dark, and the group has gone from sight. Meriwether going to the white bed at 415,107,-1036 to rest for the night.
+- 20:15 act: {"actions":[{"do":"sleep"}],"say":"Night. Meriwether sleeping by the white bed at 415,107,-1036, with Troi, Riker and Data in reach. Count me at first light, Billy."}

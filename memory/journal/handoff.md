@@ -1,9 +1,7 @@
-# Handoff (day 378, night)
+# Handoff (day 379, night)
 
-Asleep at the white bed beside 415,107,-1037 on the bed row, in the group's sight. Health 20, hunger 20, empty-handed.
+Going to the white bed at 401,107,-1037 on the bed row, in the group's sight. Health 20, hunger 20, empty-handed.
 
-Still lying at 436,107,-1028 (my dropped things). Not gone back: an enderman was there.
+The cow walk stalled this afternoon: Billy went out of sight at 388,107,-1017 and the walk was called off for the night. Billy holds alone at 388,107,-1017 until first light.
 
-Billy led four to the cow field at 339,104,-979 this morning, but the road was blocked and the group came back. Billy waits for first light to call the cow walk again.
-
-Next: at first light, walk into Billy's sight to be counted. Join the cow walk only on his call. Stay with the group. Water still not found.
+Next: at first light, step into Billy's sight at the bed row to be counted. Join the cow walk only on his call, four in sight. Stay with the group. Still need to recover my things at 436,107,-1028 when no enderman is near. Water still not found.
