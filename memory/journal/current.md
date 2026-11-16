@@ -1,3 +1,15 @@
 # Journal
 - 22:05 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1034}}],"say":"Morning, Billy. Lewis here at the bed row, health 20, hunger 20, empty-handed. Counted, please. Holding for your call."}
 - 22:13 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Dusk. Lewis going to the white bed near the row, in Billy's sight. Health 20, hunger 20, no food. Count me at first light."}
+- 22:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Going to the white bed at 429,107,-1036 in the row's sight. Count me at first light.","reasoning":"Dusk, emp
+- 22:14 act: {"actions":[{"do":"sleep"}],"reasoning":"Night now, in the bed row. Keep sleeping until morning."}
+- 22:16 Sleeping in the bed row at 430,107,-1036, in the group's sight. Health 20, hunger 20, no food, no water found. Next: first light, be counted by Billy.
+- Day 386 morning: slept in the bed row. Billy's count missed me; walked to 427,107,-1034 to be counted. Cow walk called, then off after a zombie hit Kimberly at 350,113,-990. Holding with the group. Still no water.
+- Day 386 dusk: held with Billy's group all day, no walk called. Slept at the bed 429,107,-1037 in the row's sight. Still no water, no food of mine.
+- 22:14 act: {"actions":[{"do":"sleep"}],"reasoning":"Still night in the bed row. Keep resting here."}
+- 22:18 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1034}}],"say":"Morning, Billy. Lewis at 427,107,-1034 in your sight, health 20, hunger 20, empty-handed. Count me, please. Holding for the walk 
+- 22:26 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Lewis going to the white bed at 429,107,-1037 in the row's sight. Health 20, hunger 20, no food. Count me at
+- 22:26 act: {"actions":[{"do":"sleep"}],"reasoning":"Partly asleep at dusk in the bed row. Keep sleeping."}
+- 22:30 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1034}}],"say":"Morning, Billy. Lewis up at the bed row, 427,107,-1034 in your sight. Health 20, hunger 20, empty-handed. Counted, please. Holdin
+- 22:39 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Lewis going to the white bed at 429,107,-1037 in the row's sight. Health 20, hunger 20, no food. Count me at
+- 22:39 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 4 of 10 asleep; repeat sleep until morning."}
