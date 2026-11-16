@@ -14,3 +14,5 @@
 - 14:21 act: {"actions":[{"do":"sleep"}],"say":"Lewis with Billy at the white beds, night of day 362. Going to sleep here in the group."}
 - 14:23 act: {"say":"Meriwether here, morning. Staying by the white beds. Hunger is 17, so I keep my beef and chicken for the lowest.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":[
 - 14:25 act: {"say":"Lewis here at the white beds, health 14, hunger 17. Billy, I am in your sight at the bed row, ready for the cow walk when you call."}
+- 14:31 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1040}}],"say":"Meriwether here. Stepping toward Billy's bed so I am in your view."}
+- 14:31 act: {"actions":[],"say":"Meriwether at the white beds, health 14, hunger 17. I hold beef and chicken for the lowest. Billy, I can see no one yet; call when four are in sight."}
