@@ -1,12 +1,12 @@
 # Recent days
 
-Day 337: quiet day at the beds. Health 14, hunger 17. No east-wall cell named by Clark, so placed nothing. Told Laforge 466,112 is birch and jungle, not oak. Slept at white bed 415,107,-1065 at dusk.
+Day 338: stayed at the white beds. No east-wall cell named, placed nothing. Told Laforge no real oak spot known; birch and jungle at 466,112. Bed use refused at 415,107,-1065, slept by the sleep verb. Health 14, hunger 17.
 
-Day 336: slept at white bed 415,107,-1065. Chapman brought melon; kept it for the weakest.
+Day 337: quiet day at the beds. Slept at white bed 415,107,-1065.
 
 Day 334: went north-east past the birch to 476,110,-1112: the ground drops about six blocks toward the north-east.
 
-Bed row people: MacDonald, Troi, Clark, Kimberly, Laforge, Billy, Chapman, Picard, Worf, Bcrusher, Jason, Trini, Data, Tommy, Zack, Riker. Melon and chicken are offered here when someone is weak.
+Bed row people: MacDonald, Troi, Clark, Kimberly, Laforge, Billy, Chapman, Picard, Worf, Bcrusher, Jason, Trini, Data, Tommy, Zack, Riker, Leonardo. Melon and chicken are offered here when someone is weak.
 
 Pack: 27 oak planks, 8 oak logs, 2 melon slices, 2 beef, 1 chicken kept for the weakest, 2 oak fence, wooden sword, torch, flint.
 
