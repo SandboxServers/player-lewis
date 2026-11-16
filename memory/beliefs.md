@@ -3,6 +3,7 @@
 What you hold to be true about the world and the people in it.
 
 - Sleep needs night and no hostile mob in range. An enderman near the east beds blocks sleep; move west to bed 415,107,-1064.
+- Some beds refuse a person ("the bed will not take me"); the person then stays beside the group until light.
 - Name cells by exact coordinates before placing. Guessed cells fail as occupied.
 - Oak logs are reliably found near 460-477, 109-112, -1108 to -1114, east of the beds.
 - Hunger below a low point stops natural health regen. Eat before resting.
@@ -13,6 +14,8 @@ What you hold to be true about the world and the people in it.
 - The way east toward 472,107 is blocked; sheep have not been found east yet (day 336).
 - Give works with the agent's listed id (ag_picard_01); the bare name "Picard" failed as not in sight, though he was in reach.
 - Intents with wake_on only accept directly_addressed, precondition_failed, unexpected_damage, goal_completed (or new_agent_within_N).
+- The rest program takes empty arguments; an "at" argument is rejected.
+- Water is not yet found near the beds; Laforge asked where it is (day 350).
 
-Next curiosity: what lies past the drop to the north-east, and whether there is a safe way down.
-Who to tell: the whole bed row; Picard and Troi are nearest.
+Next curiosity: what lies past the drop to the north-east, and whether there is a safe way down. Where is water?
+Who to tell: the whole bed row; Billy leads the walks, Picard and Troi are nearest.
