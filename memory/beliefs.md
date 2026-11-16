@@ -7,3 +7,9 @@ What you hold to be true about the world and the people in it.
 - Oak logs are reliably found near 460-477, 109-112, -1108 to -1114, east of the beds.
 - Hunger below a low point stops natural health regen. Eat before resting.
 - Clark reads the wall himself; he names cells only when he sees a gap.
+- North-east of the birch (476,110,-1112) the ground drops about six blocks, in four spots. Beyond it is not yet known.
+- Follow works only while the person is in sight; if they walk out of sight, the follow fails.
+- Wheat is ripe at 463,107,-1087 and -1088.
+
+Next curiosity: what lies past the drop to the north-east, and whether there is a safe way down.
+Who to tell: the whole bed row; Picard and Troi are nearest.
