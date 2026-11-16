@@ -13,3 +13,6 @@
 - 22:30 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1034}}],"say":"Morning, Billy. Lewis up at the bed row, 427,107,-1034 in your sight. Health 20, hunger 20, empty-handed. Counted, please. Holdin
 - 22:39 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Lewis going to the white bed at 429,107,-1037 in the row's sight. Health 20, hunger 20, no food. Count me at
 - 22:39 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 4 of 10 asleep; repeat sleep until morning."}
+- 22:43 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1034}}],"say":"Morning, Billy. Lewis at 427,107,-1034 in your sight, health 20, hunger 20, empty-handed. Counted, please. Holding for your call.
+- Day 387 afternoon: held at 427,107,-1033 with Billy's group, health 20, hunger 20, empty-handed. No walk called, no water found. Next: wait for Billy's call; eat at hunger 6.
+- 22:52 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Lewis going to the white bed at 429,107,-1037 in the row's sight. Health 20, hunger 20, no food. Count me at
