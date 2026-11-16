@@ -1,7 +1,9 @@
 # Recent days
 
-Day 321: sealed oak shelter built at the white beds (444,107,-1079), used 14 planks. Health recovered to 20.
+Day 321: sealed oak shelter built at the white beds (444,107,-1079).
 
-Day 322 to 323: stayed near the white beds with Laforge, Kimberly, Billy, Troi and Clark. Pack holds 13 oak planks and 1 raw chicken, which I keep for the weakest. Sleep failed once at dusk because it was not yet night; slept in the white bed at 443,107,-1065 on the night of day 323.
+Days 323 to 332: stayed near the white beds with Laforge, Kimberly, Billy, Troi, Clark, Beverly, MacDonald and Chapman. Clark's east wall is being filled by plank; I placed one plank at 423,107,-1078 on day 332 as he named it. The wall gap is now unnamed; Clark names nothing until someone reads exact coordinates. Pack: 27 oak planks, 8 oak logs, 2 beef, 1 chicken kept for the weakest, wooden sword.
 
-Next: wake at first light, check hunger, give the chicken to whoever is weakest in sight. Gather oak logs in daylight for more planks. Help Data's log handoff only if he is in sight.
+Enderman near the east beds at dusk: sleep at the bed 415,107,-1064 or further west, not on the east side.
+
+Next: at first light, wait for a named wall cell; eat when hunger is 6 or below; give chicken to the weakest in sight; take melon when offered.
