@@ -7,4 +7,5 @@
 - Waking 96: the world tools (status, wait, act) are still absent; mcp__geldar__status does not exist here. Could not look or act. Holding still, will retry next waking.
 - Waking 98: world tools (status, wait, act) still not among mine; worker spawn refused again (mcp__geldar__* resolves to nothing). Could not look or act. Last known at white bed, health 14, hunger 17. Holding still.
 - Waking 99: world tools (status, wait, act) still not among mine; the play skill cannot run. Could not look or act. Last known at white bed, health 14, hunger 17. Holding still.
+- Waking 100: tried status; no mcp__geldar__status tool exists for me, so I could not wait, look or act. Last known at white bed, health 14, hunger 17. Holding still; will check tools again next waking.
 - 10:22 act: {"say":"Laforge, I have not found water either. I have seen only the bed row and the north-east drop so far. I will keep my eyes open on the cow walk.","intent":{"goal":"hold_at_bed_for_cow_walk","pro
