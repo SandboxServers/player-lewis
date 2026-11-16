@@ -6,3 +6,7 @@
 - 08:02 act: {"actions":[{"do":"note","text":"Morning, day 343. At white beds, health 14, hunger 17. Clark has not named the east-wall cell yet. Staying at the beds."}],"say":"Morning. Lewis at the white beds, hea
 - 08:02 act: {"actions":[{"do":"note","text":"Laforge asked about oak trees. I do not know where they grow nearby; I have only the logs I carry. Clark still has named no east-wall cell."}],"say":"Laforge, I don't 
 - 08:04 act: {"actions":[{"do":"note","text":"Riker says oak trees grow near 459,110,-1103; Clark went to check them. I stay at the beds until Clark names his cell."}],"say":"Thank you, Riker. I will stay at the b
+- 08:13 act: {"say":"Morning, Troi. Lewis here, I'm at the white beds, health 14, hunger 17. I have beef and chicken. If someone is weaker than me, tell me and I'll bring it.","intent":{"goal":"await_east_wall_cel
+- 08:15 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"oak_planks","count":4}],"say":"Trini, I'm sending you 4 oak planks for your sword. Craft it at the table and stay near the beds. I still hold beef a
+- 08:15 act: {"actions":[{"do":"note","text":"Gave-to-Trini failed: she was not in sight. Still at the beds, health 14, hunger 17. Clark has named no east-wall cell. Waiting."}]}
+- 08:19 act: {"actions":[{"do":"note","text":"Trini now has a sword and melon; I did not need to give planks. Clark still names no east-wall cell. Staying at the beds, health 14, hunger 17."}]}
