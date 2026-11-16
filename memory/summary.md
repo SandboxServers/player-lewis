@@ -1,5 +1,7 @@
 # Recent days
 
-Day 313 to 318: at the white beds (430,107,-1079) with the group, near the chest and crafting table. Health 8, hunger 17. Clark gave me 5 oak planks; Laforge (5) and Kimberly (2) were sending more. Kimberly holds the one raw chicken for the weakest. Slept in the white bed on the night of day 318 in sight of the group. The shelter is not yet built.
+Day 321: sealed oak shelter built at the white beds (444,107,-1079), used 14 planks. Health recovered to 20.
 
-Next: wake, check hunger, take the planks in sight, then finish a sealed shelter (about 25 planks in one kind). Eat the chicken if hunger is 6 or below.
+Day 322 to 323: stayed near the white beds with Laforge, Kimberly, Billy, Troi and Clark. Pack holds 13 oak planks and 1 raw chicken, which I keep for the weakest. Sleep failed once at dusk because it was not yet night; slept in the white bed at 443,107,-1065 on the night of day 323.
+
+Next: wake at first light, check hunger, give the chicken to whoever is weakest in sight. Gather oak logs in daylight for more planks. Help Data's log handoff only if he is in sight.
