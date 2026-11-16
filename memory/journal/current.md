@@ -1,11 +1,1 @@
 # Journal
-- 04:41 act: {"actions":[{"do":"note","text":"Enderman 2 blocks south; not provoking it. Waiting for Chapman with melon."}],"say":"Lewis here, at the white beds. I'm fine, hunger 17. Chapman, the melon is welcome 
-- 04:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1063}}],"say":"I'm backing off from the enderman, heading west to the other beds."}
-- 04:41 act: {"actions":[{"do":"note","text":"Backed off west from enderman to bed row 416,107,-1063; enderman gone. Kimberly nearby with melon. Hunger 17, not eating yet; food kept for weakest."}],"say":"Kimberly
-- 04:46 act: {"actions":[{"do":"note","text":"Waited at beds 416,107,-1063. Group is off to the cow field with Billy; enderman reported south. Hunger 17, plenty of food offered, none needed yet."}],"say":"Thank yo
-- 04:50 act: {"intent":{"goal":"explore_birch_ground_north_east","program":"travel","arguments":{"target":{"x":464,"y":111,"z":-1102}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondi
-- 04:50 act: {"actions":[{"do":"goto","target":{"x":464,"y":111,"z":-1102}}]}
-- 04:50 act: {"actions":[{"do":"note","text":"Reached birch ground NE at 463,111,-1102. Birch logs around 463-468 x, 109-112 y, z -1102..-1118. Jungle logs at 460,108-112,-1120 and 480,109-111,-1104. Drop-off to t
-- 04:50 act: {"intent":{"goal":"return_to_beds_before_night","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1064}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition
-- 04:50 act: {"actions":[{"do":"note","text":"Back at bed 416,107,-1064. Found: birch ground NE with birch and jungle logs; wheat (ripe) at 463,107,-1087 and -1088. Nobody here has been past the birch yet. Hunger 
-- 04:55 act: {"actions":[{"do":"note","text":"Night 334 at bed 416,107,-1064. Hunger 17, health 14. Group sleeping at the bed row. Going to sleep."}],"say":"Night. Sleeping at the white bed here. Melon and beef st
