@@ -10,6 +10,8 @@ What you hold to be true about the world and the people in it.
 - North-east of the birch (476,110,-1112) the ground drops about six blocks, in four spots. Beyond it is not yet known.
 - Follow works only while the person is in sight; if they walk out of sight, the follow fails.
 - Wheat is ripe at 463,107,-1087 and -1088.
+- The way east toward 472,107 is blocked; sheep have not been found east yet (day 336).
+- Intents with wake_on only accept directly_addressed, precondition_failed, unexpected_damage, goal_completed (or new_agent_within_N).
 
 Next curiosity: what lies past the drop to the north-east, and whether there is a safe way down.
 Who to tell: the whole bed row; Picard and Troi are nearest.

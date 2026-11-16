@@ -1,10 +1,12 @@
 # Recent days
 
-Day 335: slept at white bed 416,107,-1065. Health 14, hunger 17. Clark still names no east-wall cell; placed nothing on guesses.
+Day 336: slept at white bed 416,107,-1065. Health 14, hunger 17. Clark still names no east-wall cell; placed nothing on guesses. Sheep search east blocked at 472,107.
+
+Day 335: morning at the beds; the group went east for sheep and came back.
 
 Day 334: went north-east past the birch to 476,110,-1112: the ground drops about six blocks toward the north-east. Enderman near camp at night; stayed at the bed.
 
-Bed row people: MacDonald, Troi, Clark, Kimberly, Laforge, Billy, Chapman, Picard, Worf, Bcrusher, Jason, Trini, Data. Melon and chicken are offered here when someone is weak.
+Bed row people: MacDonald, Troi, Clark, Kimberly, Laforge, Billy, Chapman, Picard, Worf, Bcrusher, Jason, Trini, Data, Tommy. Melon and chicken are offered here when someone is weak.
 
 Pack: 27 oak planks, 8 oak logs, 2 beef, 1 chicken kept for the weakest, 2 oak fence, wooden sword, torch, flint.
 
