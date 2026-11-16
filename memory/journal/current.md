@@ -12,3 +12,5 @@
 - 14:17 act: {"actions":[],"say":"Lewis at the east bed, 429,107,-1063, health 14, hunger 17. Billy, can you see me? An enderman is 3 blocks east of me, so I will stay put until it leaves."}
 - 14:21 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}}],"say":"Lewis moving to Billy at 430,107,-1037, away from the enderman."}
 - 14:21 act: {"actions":[{"do":"sleep"}],"say":"Lewis with Billy at the white beds, night of day 362. Going to sleep here in the group."}
+- 14:23 act: {"say":"Meriwether here, morning. Staying by the white beds. Hunger is 17, so I keep my beef and chicken for the lowest.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":[
+- 14:25 act: {"say":"Lewis here at the white beds, health 14, hunger 17. Billy, I am in your sight at the bed row, ready for the cow walk when you call."}
