@@ -3,3 +3,9 @@
 - 13:55 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Lewis at the bed 416,107,-1064, dusk of day 361. Health 14, hunger 17. Going to sleep here with Riker in reach. Goodnig
 - 13:55 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Sleep at 416,107,-1064 failed with 'that block is a bed'. Trying the other bed at 415,107,-1065, Riker in reach."}
 - 14:03 say: {"text":"Lewis still at the bed 416,107,-1064, alone now that Riker has gone south. Health 14, hunger 17. Holding beef and chicken for the lowest. Call me if you want me in the hop."}
+- 14:08 act: {"actions":[{"do":"sleep"}],"say":"Lewis here, night of day 361, at the bed row. Trying to sleep with the group in reach."}
+- 14:08 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}}],"reasoning":"Enderman nearby blocks sleep. Retreat to the bed row away from it."}
+- 14:08 act: {"actions":[{"do":"sleep"}],"say":"Lewis at the bed row 416,107,-1064, night of day 361, Riker in reach. Going to sleep."}
+- 14:08 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1064}}]}
+- 14:09 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Lewis going to bed at 416,107,-1064 now. Monsters gone from sight."}
+- 14:11 act: {"actions":[],"say":"Lewis here, morning. Health 14, hunger 17. At the bed row. Enderman kept me from sleeping last night. I am in sight for Billy's hop."}
