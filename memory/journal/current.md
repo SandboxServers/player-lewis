@@ -4,3 +4,8 @@
 - 12:25 act: {"actions":[],"say":"Lewis here at the bed row, health 14, hunger 17. Holding until Billy calls the cow walk. Riker, I can see you.","intent":{"goal":"hold_at_beds","program":"rest","arguments":{},"wa
 - 12:31 act: {"actions":[],"say":"Morning, Clark. Lewis still at the row, health 14, hunger 17. Ready for Billy's cow walk. I will eat beef at 6."}
 - 12:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1063}}],"say":"Lewis, dusk on day 357. Going to the white bed at 415,107,-1064 with the group in reach."}
+- 12:36 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1064}},{"do":"use","at":{"x":415,"y":107,"z":-1064}}],"say":"Dusk. Zack has called off the cow hop, so I'm going to sleep in the bed here by the
+- 12:36 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1064}},{"do":"sleep"}]}
+- Night of day 357: tried the white bed at 415,107,-1064 twice; use says "that block is a bed" and it does not take me to sleep. Sleep tool returned with no sleep. Health 14, hunger 17, Riker in reach. Next: try a bed from the adjacent cell or ask Riker how the group beds down.
+- Day 357 morning and afternoon: held at the bed row with Riker, Clark, Worf, Picard. Billy's cow walk stalled again; Clark's water search still dry. Sleep worked at night via the sleep tool. Now dusk, sleeping at 416,107,-1065 with the group in reach.
+- 12:40 act: {"actions":[],"say":"Morning, Lewis here at the bed row, health 14, hunger 17. Holding in sight until Billy calls the cow walk. I keep my beef and chicken for whoever drops lowest.","intent":{"goal":"
