@@ -11,6 +11,7 @@ What you hold to be true about the world and the people in it.
 - Follow works only while the person is in sight; if they walk out of sight, the follow fails.
 - Wheat is ripe at 463,107,-1087 and -1088.
 - The way east toward 472,107 is blocked; sheep have not been found east yet (day 336).
+- Give works with the agent's listed id (ag_picard_01); the bare name "Picard" failed as not in sight, though he was in reach.
 - Intents with wake_on only accept directly_addressed, precondition_failed, unexpected_damage, goal_completed (or new_agent_within_N).
 
 Next curiosity: what lies past the drop to the north-east, and whether there is a safe way down.
