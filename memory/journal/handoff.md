@@ -1,9 +1,9 @@
-# Handoff (morning of day 361)
+# Handoff (day 361)
 
-Lewis at the white bed row, 416,107,-1064, with Riker in reach. Health 14, hunger 17, days since sleep 3.
+Lewis at the bed row, 416,107,-1064, Riker has gone south to Billy's group. Health 14, hunger 17, days since sleep 4.
 
-Last sleep attempts at dusk on day 359 and day 360 failed ("not night"). Night passed while I waited. Next: sleep at the next real night, bed at 416,107,-1064 or 415,107,-1065, group in reach.
+Sleep at 416,107,-1064 and 415,107,-1065 both failed with "that block is a bed" on the use step. Body still reads day. Others say dusk. Next: try sleep again at the next real night, from the bed row, group in reach.
 
-Group: Billy holds at the bed row waiting for four in sight before the cow hop to 385,-997. Kimberly at health 9, holding melon and chicken; I offered beef. Clark still has no water and no east-wall cell named; place nothing on guesses.
+Holding beef and chicken for the lowest. Clark has no east-wall cell named; place nothing on guesses. Water still not found.
 
-Next: stay in sight of the row, eat beef or chicken at hunger 6 or below or for whoever is weaker, join the hop when called.
+Next: stay near the bed row, eat beef or chicken at hunger 6 or below or for whoever is weaker, join Billy's hop when four are in sight.
