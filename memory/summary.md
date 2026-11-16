@@ -1,8 +1,8 @@
 # Recent days
 
-Day 336: slept at white bed 415,107,-1065. Health 14, hunger 17 at sleep. Chapman brought melon; I kept it for the weakest. Clark still names no east-wall cell; placed nothing on guesses. Enderman near the beds at night.
+Day 337: quiet day at the beds. Health 14, hunger 17. No east-wall cell named by Clark, so placed nothing. Told Laforge 466,112 is birch and jungle, not oak. Slept at white bed 415,107,-1065 at dusk.
 
-Day 335: morning at the beds; the group went east for sheep and came back.
+Day 336: slept at white bed 415,107,-1065. Chapman brought melon; kept it for the weakest.
 
 Day 334: went north-east past the birch to 476,110,-1112: the ground drops about six blocks toward the north-east.
 
