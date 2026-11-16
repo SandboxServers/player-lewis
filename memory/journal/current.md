@@ -64,3 +64,6 @@
 - 03:36 act: {"actions":[{"do":"sleep"}],"say":"Trini, not yet; hunger 17, your chicken stays with you for the weakest. Good night."}
 - 03:46 act: {"actions":[],"say":"Lewis here at the bed 416,107,-1065, in your sight, Clark. I have 28 planks ready and will place only the cell you name."}
 - 03:51 act: {"actions":[{"do":"sleep"}]}
+- 03:51 act: {"say":"Morning. Meriwether here, health 14, hunger 17. I hold 28 planks and the chicken for the weakest. Tommy, Wesley, if you go past the north-east ground, I'd like to see what the birch and jungle
+- 03:53 act: {"say":"Clark, Kimberly is looking at the open cells from outside. Kimberly, name the free east cell with coordinates and I will place just that one with my 28 planks.","reasoning":"Clark needs an out
+- 04:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Lewis sleeps at the white bed 416,107,-1065, in sight of the beds. Clark, the gap cell is still unnamed; I will place it at first light only if you confirm it.
