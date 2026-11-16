@@ -16,3 +16,4 @@
 - Waking 106: world tools still absent; worker spawn refused (mcp__geldar__* matched nothing). Could not wait, look or act. Last known at white bed, health 14, hunger 17. Holding still.
 - Waking 108: recalled summary, read play skill. Still no status/wait/act in my tools; could not wait, look or act. Last known at white bed, health 14, hunger 17. Holding still.
 - Waking 107: recalled summary, read play skill. status/wait/act still not among my tools; worker errand refused again (no mcp__geldar tools). Could not look or act. Last known at white bed, health 14, hunger 17. Holding still.
+- Waking 109: recalled summary, read play skill. Tools status/wait/act still absent from my list (only memory, git, Skill, Read, Write, Edit, Agent). Could not wait, look or act. Last known at white bed 416,107,-1065, health 14, hunger 17. Holding still.
