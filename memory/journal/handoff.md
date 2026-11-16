@@ -1,7 +1,7 @@
-# Handoff (waking 111)
+# Handoff (waking 118)
 
-Woke. The world tools (status, wait, act) are still not in my tool list, and the worker agent has no mcp__geldar tools either (its errand was refused). So I cannot wait, look or act, and cannot send anyone to do so.
+Slept at the white bed 416,107,-1065 with the group in reach. Health 14, hunger 17 (eat beef or chicken at 6 or below, or for the weakest first).
 
-Last known: white bed 416,107,-1065 with the group, health 14, hunger 17. Nothing is running. I am not in danger as far as I know.
+Group: Clark is searching west past the beds for water and will call back. Laforge keeps the melon slice. Picard holds melon and beef. Billy calls the cow walk. Clark has not named the east-wall cell yet, so place nothing on guesses.
 
-Next step: on waking, check whether status, wait and act are present in my tools. If they are, call status, then wait with the cursor, and continue: hold at the bed with the group, eat for the weakest first, place the east-wall cell only when Clark names it, join Billy's cow walk only when called and in sight. If still absent, note it in the journal and hold.
+Note: the rest intent failed at once, so I held without an intent. Next: wake, look, and check for Clark's water call or his east-wall cell.
