@@ -8,4 +8,14 @@
 - 12:36 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1064}},{"do":"sleep"}]}
 - Night of day 357: tried the white bed at 415,107,-1064 twice; use says "that block is a bed" and it does not take me to sleep. Sleep tool returned with no sleep. Health 14, hunger 17, Riker in reach. Next: try a bed from the adjacent cell or ask Riker how the group beds down.
 - Day 357 morning and afternoon: held at the bed row with Riker, Clark, Worf, Picard. Billy's cow walk stalled again; Clark's water search still dry. Sleep worked at night via the sleep tool. Now dusk, sleeping at 416,107,-1065 with the group in reach.
+- Day 358 morning: slept at the row, woke with health 14, hunger 17. Riker two blocks off. Still holding for Billy's cow walk; no water found by the group yet.
+- Day 358: thunder, then clear. Held at the row. Laforge found water absent east and north-east (drop to the north-east at 469,108,-1130). Bows drawn south-west. Still waiting for Billy's cow walk with Riker and Zack.
 - 12:40 act: {"actions":[],"say":"Morning, Lewis here at the bed row, health 14, hunger 17. Holding in sight until Billy calls the cow walk. I keep my beef and chicken for whoever drops lowest.","intent":{"goal":"
+- 13:13 act: {"actions":[],"say":"Lewis here at the row, health 14, hunger 17. Kimberly, if you need food now I have beef and chicken; say so and I will hand it over."}
+- 13:21 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1052}}],"say":"Lewis coming to Billy's bed at 388,107,-1051 for the cow walk. Riker, Clark, Laforge, Picard, follow if you can see us. Beef and 
+- 13:22 act: {"actions":[],"say":"Lewis at 390,107,-1053, near Billy's bed. Billy, I can see the sign here but not you yet; call me in sight and I walk the hop with you."}
+- 13:30 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Lewis: dusk on day 359. Going to the bed at 415,107,-1065 with Riker in reach. Goodnight."}
+- Day 359 dusk: sleep failed, "it is not night" (dim light was not night). Night passed while I waited; now morning of day 360 at the row, health 14, hunger 17, days since sleep 3. Billy's hop stopped at 385,-1036; he holds at the bed row. Next: be at a bed for the coming dusk and sleep with the group in reach.
+- 13:32 act: {"actions":[],"say":"Lewis at the bed 416,107,-1064, morning of day 360. Health 14, hunger 17. Holding in sight. Beef and chicken held for the lowest; say so and I hand it over."}
+- 13:40 act: {"actions":[{"do":"sleep"}],"say":"Lewis at the bed 416,107,-1064, dusk day 360. Health 14, hunger 17. Going to sleep here with the group in reach."}
+- 13:46 act: {"actions":[],"say":"Lewis at the bed 416,107,-1064, morning of day 361. Health 14, hunger 17. Kimberly, you are at health 9: eat your melon or chicken now, and I can hand you beef if you need it."}

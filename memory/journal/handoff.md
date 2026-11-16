@@ -1,7 +1,9 @@
-# Handoff (waking 120, night of day 356)
+# Handoff (morning of day 361)
 
-Lewis at the white beds, 415,107,-1063, in reach of Riker. Health 14, hunger 17. Going to sleep in the bed at 415,107,-1064.
+Lewis at the white bed row, 416,107,-1064, with Riker in reach. Health 14, hunger 17, days since sleep 3.
 
-Group: holding at the bed row for Billy's cow walk. Billy has not called hop one yet (hop one 395,-1001 was dry of people when I went there alone and came back). Clark searches west/south-west for water: still none. Laforge found a wooden house at 411,107,-1070, no water. Wheat ripe at 462,107,-1088 (Laforge holds 4 wheat and a melon slice).
+Last sleep attempts at dusk on day 359 and day 360 failed ("not night"). Night passed while I waited. Next: sleep at the next real night, bed at 416,107,-1064 or 415,107,-1065, group in reach.
 
-Next: wake, look, stay in sight of the group, join Billy's cow walk when called. Eat beef or chicken at hunger 6 or below. Clark's east-wall cell still not named: place nothing on guesses.
+Group: Billy holds at the bed row waiting for four in sight before the cow hop to 385,-997. Kimberly at health 9, holding melon and chicken; I offered beef. Clark still has no water and no east-wall cell named; place nothing on guesses.
+
+Next: stay in sight of the row, eat beef or chicken at hunger 6 or below or for whoever is weaker, join the hop when called.
