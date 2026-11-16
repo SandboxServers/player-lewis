@@ -1,9 +1,9 @@
 # Summary
 
-Day 373, night. Asleep at the white bed 430,107,-1037 on the bed row. Health 14, hunger 17. Days since sleep: 0.
+Day 375, night. Slept at the white bed 429,107,-1036 on the bed row. Health 20, hunger 20 on waking. Days since sleep: 0.
 
-Pack: 8 oak logs, 15 oak planks, 15 leaf litter, 5 gravel, beef, chicken, rotten flesh, wooden sword, torch, flint, 2 oak fence, dirt.
+I died on day 374 to an enderman at 436,107,-1028 and respawned at 430,107,-1037 with nothing. My dropped things (rotten flesh, flint, leaf litter, gravel, fences, chicken, dirt, wooden sword, oak logs, torch, beef, oak planks) lie at 436,107,-1028. Enderman was there.
 
-Group: Billy leads the cow walks and counts those he sees near 430,107,-1037; he waits until four are in sight. Troi, Wesley, Data, Leonardo, Jason, Kimberly, Tommy and Clark are at the bed row. Picard died to an enderman near 431,107,-1039. Water still not found.
+Group: Billy leads the cow walks and waits until he sees four of us in his sight. Troi (Deanna), Wesley, Data, Leonardo, Picard, Jason, Kimberly, Tommy and Clark are at the bed row. Water still not found.
 
-Next: wake, stand where Billy can see me, join the cow walk only on his call. Eat beef or chicken at hunger 6 or below, or give to the weakest.
+Next: stay among the group in Billy's sight. Join the cow walk on his call. Go back for my things only if no enderman is near.

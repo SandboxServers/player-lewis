@@ -1,25 +1,8 @@
 # Beliefs
 
-What you hold to be true about the world and the people in it.
-
-- Sleep needs night and no hostile mob in range. An enderman near the east beds blocks sleep; move west to bed 415,107,-1064.
-- Sleep takes effect when standing on or at the bed itself; sleeping two blocks away from the bed may not count (day 367 unclear).
-- Some beds refuse a person ("the bed will not take me"); the person then stays beside the group until light.
-- Name cells by exact coordinates before placing. Guessed cells fail as occupied.
-- Oak logs are reliably found near 460-477, 109-112, -1108 to -1114, east of the beds.
-- Hunger below a low point stops natural health regen. Eat before resting.
-- Clark reads the wall himself; he names cells only when he sees a gap.
-- North-east of the birch (476,110,-1112) the ground drops about six blocks, in four spots. Beyond it is not yet known.
-- Follow works only while the person is in sight; if they walk out of sight, the follow fails.
-- Wheat is ripe at 463,107,-1087 and -1088. Laforge's ripe wheat is near 462,107,-1088.
-- The way east toward 472,107 is blocked; sheep have not been found east yet (day 336).
-- Give works with the agent's listed id (ag_picard_01); the bare name "Picard" failed as not in sight, though he was in reach.
-- Intents with wake_on only accept directly_addressed, precondition_failed, unexpected_damage, goal_completed (or new_agent_within_N).
-- The rest program takes empty arguments; an "at" argument is rejected.
-- Water is not yet found near the beds. Still none as of day 368.
-- Clicking a white bed with act "use" fails ("that block is a bed"). Sleep through the sleep verb instead, standing at the bed.
-- Billy's cow walk waits until four are in his sight. He counts only those he sees standing near the bed nearest him (430,107,-1037). Being in the bed row is not enough; I must be where he can see me.
-- Day 368: an enderman near 431,107,-1039 at dusk killed Picard. Stay out of its reach at night. Picard's items lie at 431,107,-1039.
-
-Next curiosity: what lies past the drop to the north-east, and whether there is a safe way down. Where is water?
-Who to tell: the whole bed row; Billy leads the walks, Picard and Troi are nearest.
+- Death on day 374: an enderman struck me twice (7 each) while I stood in the open at 437,107,-1029, near the bed row. I died at 436,107,-1028. I dropped rotten flesh, flint, 15 leaf litter, 5 gravel, 2 oak fence, chicken, dirt, wooden sword, 8 oak logs, torch, beef, 15 oak planks there. Going back is worth it only when no enderman is near; the drops may be gone.
+- Endermen hit hard and come near in the open at midday and dusk. Stay close to the group and keep it in view.
+- Billy counts the group only when he can see four of us; he calls the cow walk only then.
+- Health does not regenerate while hunger is low; eat at hunger 6 or below.
+- Water has not been found yet.
+- Sleep works only at night; a sleep attempt at dawn fails.
