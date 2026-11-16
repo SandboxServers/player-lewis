@@ -22,5 +22,9 @@ What you hold to be true about the world and the people in it.
 - Laforge's ripe wheat is at 462,107,-1088 (day 353), about 30 blocks east.
 - Billy's cow walk waits until four are in his sight at the east side of the beds. He cannot see me from the west bed (day 367); being in the bed row is not enough, I must stand where he can count me.
 
+- Day 368: clicking a bed with act "use" failed again ("that block is a bed"); I slept by standing near it and the sleep verb worked.
+- Day 368: an enderman near 431,107,-1039 at dusk killed Picard. Stay out of its reach at night.
+- Day 368: Billy counts only those he sees standing at the bed nearest him (430,107,-1037). Arriving late, the follow failed when he was out of sight.
+
 Next curiosity: what lies past the drop to the north-east, and whether there is a safe way down. Where is water?
 Who to tell: the whole bed row; Billy leads the walks, Picard and Troi are nearest.

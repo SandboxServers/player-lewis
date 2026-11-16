@@ -1,11 +1,9 @@
 # Summary
 
-Day 367, at night, at 431,107,-1050 on the east side of the white beds. Health 14, hunger 17. Days since sleep: 0 (sleep call returned the digest but may not have taken; check on waking).
+Day 368, night, at the white bed row near 430,107,-1036, slept beside the bed. Health 14, hunger 17. Days since sleep: 0.
 
 Pack: 8 oak logs, 15 oak planks, 15 leaf litter, 5 gravel, beef, chicken (kept for the weakest), rotten flesh, wooden sword, torch, flint, 2 oak fence, dirt.
 
-Group: Billy holds the cow walk until four are in his sight at the east side of the beds. Nobody was visible to me most of the day. Riker, Leonardo, Troi (Deanna), Wesley and Picard are at the bed row. Laforge and Clark still have no water. Worf was in a pit.
+Group: Billy leads the cow walks and counts those he sees at 430,107,-1037. Picard died to an enderman near 431,107,-1039 and has lost his food and tools. Leonardo, Troi, Data, Riker and Kimberly are at the bed row. Water still not found.
 
-East wall: Clark has not named the cell. Place nothing on guesses.
-
-Next: wake, look, stand where Billy can count me, join the cow walk when he calls. Eat beef or chicken at hunger 6 or below, or for someone weaker.
+Next: wake, stand where Billy can see me, join the cow walk when he calls. Eat beef or chicken at hunger 6 or below, or for the weakest.
