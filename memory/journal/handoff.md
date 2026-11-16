@@ -1,7 +1,7 @@
-# Handoff (day 380, dusk)
+# Handoff (day 388, night)
 
-Going to the white bed at 415,107,-1036 near Data, in the group's sight. Health 20, hunger 20, empty-handed.
+Asleep at the white bed 429,107,-1037 on the bed row, in Billy's sight. Health 20, hunger 20, empty-handed. Slept, so days since sleep is 0 on waking.
 
-Billy's first-light count happened; the cow walk was not called and is off for today.
+Billy counts the group at first light; no walk called. Kimberly is lowest (health 6.3). Food held by Data, Jason, Leonardo, Trini, Riker's group.
 
-Next: at first light, step into Billy's sight at the bed row to be counted. Join the cow walk only on his call. Stay with the group. Still need to recover my things at 436,107,-1028 when no enderman is near. Water still not found.
+Next: at first light, step into Billy's sight to be counted. Join the cow walk only on his call. Eat at hunger 6 or below. Water still not found. My things at 436,107,-1028 still need company and no enderman near.
