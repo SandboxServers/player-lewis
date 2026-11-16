@@ -3,3 +3,6 @@
 - Day 363 woke at the white beds (430,107,-1051). Health 14, hunger 17. Troi and Data are here; Billy's cow walk not yet called. Said hello, waiting for Billy's call.
 - Day 364: at the beds (430,107,-1051), alone in view, health 14, hunger 17. Riker said he is at the beds for Billy's cow walk. Tried to follow Billy; the follow failed (Billy not in sight). Waiting for the group to gather.
 - 14:57 act: {"say":"Meriwether here, at the white beds, in sight. Riker, I'm ready for the cow walk when Billy calls it.","intent":{"goal":"hold_at_beds","program":"follow","arguments":{"target":"Billy"},"wake_on
+- 15:02 act: {"say":"Lewis here at the white beds, group in sight. Waiting for Billy's cow walk call at first light.","intent":{"goal":"join_cow_walk","program":"rest","arguments":{"note":"stay in sight of the gro
+- 15:02 act: {"intent":{"goal":"join_cow_walk","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,"max_bloc
+- 15:02 say: {"text":"Lewis here at the white beds, daylight. Holding here; ready to join Billy's cow walk when called."}
