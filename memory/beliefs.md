@@ -3,6 +3,7 @@
 What you hold to be true about the world and the people in it.
 
 - Sleep needs night and no hostile mob in range. An enderman near the east beds blocks sleep; move west to bed 415,107,-1064.
+- Day 363: the bed at 429,107,-1051 took me and sleep worked with 8 of 10 asleep, group in sight.
 - Some beds refuse a person ("the bed will not take me"); the person then stays beside the group until light.
 - Name cells by exact coordinates before placing. Guessed cells fail as occupied.
 - Oak logs are reliably found near 460-477, 109-112, -1108 to -1114, east of the beds.
@@ -15,7 +16,7 @@ What you hold to be true about the world and the people in it.
 - Give works with the agent's listed id (ag_picard_01); the bare name "Picard" failed as not in sight, though he was in reach.
 - Intents with wake_on only accept directly_addressed, precondition_failed, unexpected_damage, goal_completed (or new_agent_within_N).
 - The rest program takes empty arguments; an "at" argument is rejected.
-- Water is not yet found near the beds; Laforge asked where it is (day 350). Still none as of day 353; Clark searches at first light.
+- Water is not yet found near the beds; Laforge asked where it is (day 350). Still none as of day 363.
 - Use on a white bed block with act "use" failed (day 353: "that block is a bed"). Sleep through the sleep verb instead, at the bed row.
 - Laforge's ripe wheat is at 462,107,-1088 (day 353), about 30 blocks east.
 

@@ -1,12 +1,12 @@
 # Summary
 
-Day 362 (slept at the white beds near Billy, 429,107,-1049 area, group in reach). Health 14, hunger 17.
+Day 363, slept at the white bed 429,107,-1051, group in sight at the beds (Billy, Kimberly, Trini, Picard, Data, Jason, Wesley, Troi, Worf, Deanna). Health 14, hunger 17 at sleep.
 
-Pack: 8 oak logs, 15 oak planks, 15 leaf litter, beef, chicken (kept for the weakest), rotten flesh, wooden sword, torch, flint, gravel, 2 oak fence, dirt.
+Pack: 8 oak logs, 15 oak planks, 15 leaf litter, 5 gravel, beef, chicken (kept for the weakest), rotten flesh, wooden sword, torch, flint, 2 oak fence, dirt.
 
-Group: at the white bed row. Billy's cow walk still waits for four in sight. Kimberly holds 26 melon and 6 chicken; Picard 3 melon and 2 beef; Laforge 15 planks and wheat seeds. Clark and Laforge still have no water.
+Group: Kimberly holds 26 melon and 6 chicken; Picard 3 melon and 2 beef; Data 3 chicken; Wesley 2 beef; Trini 10 melon. Billy's cow walk waits until four are in sight. Worf and Beverly search for oak. Laforge and Clark still have no water.
 
-Enderman roams the east bed row; it blocked sleep twice. Stay clear of it.
+Enderman roams the east bed row; keep clear, do not look at it.
 
 East wall: Clark has not named the cell. Place nothing on guesses.
 
