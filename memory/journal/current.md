@@ -17,3 +17,11 @@
 - 20:11 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1034}}],"say":"Meriwether moving to the group's hold point at 418,107,-1034, where the group gathers. Waiting for Billy."}
 - 20:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dark, and the group has gone from sight. Meriwether going to the white bed at 415,107,-1036 to rest for the night.
 - 20:15 act: {"actions":[{"do":"sleep"}],"say":"Night. Meriwether sleeping by the white bed at 415,107,-1036, with Troi, Riker and Data in reach. Count me at first light, Billy."}
+- 20:15 act: {"actions":[{"do":"sleep"}]}
+- 20:20 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1034}}],"say":"Good morning. Meriwether at the bed row, health 20, hunger 20, empty-handed. Ready for Billy's count."}
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}]}
+- 20:32 act: {"actions":[],"say":"Lewis at the bed row, 415,107,-1035, health 20, hunger 20, empty-handed. I have not seen Billy since the count either. I stay here with Troi and Data until he calls."}
+- 20:36 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1050}}],"say":"Billy, Lewis coming with Troi, Data, Tommy and Picard in daylight. Hold still; I will count you when I am in your view."}
+- 20:36 act: {"actions":[],"say":"Billy, I am in your view at 411,107,-1049 with Tommy and Data. Troi is coming. Lewis, health 20, hunger 20, empty-handed. Count me."}
+- 20:39 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Counted by Billy, Lewis walking back to the bed row with the group."}
+- 20:43 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Lewis at the bed row beside 415,107,-1037, in the group's sight. Health 20, hunger 20, no food needed from 
