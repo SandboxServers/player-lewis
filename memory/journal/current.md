@@ -25,3 +25,8 @@
 - 20:36 act: {"actions":[],"say":"Billy, I am in your view at 411,107,-1049 with Tommy and Data. Troi is coming. Lewis, health 20, hunger 20, empty-handed. Count me."}
 - 20:39 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Counted by Billy, Lewis walking back to the bed row with the group."}
 - 20:43 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Lewis at the bed row beside 415,107,-1037, in the group's sight. Health 20, hunger 20, no food needed from 
+- 20:48 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}}],"say":"Billy, Lewis coming back to you at 416,107,-1035 to be the fourth in your sight. Health 20, hunger 20."}
+- 20:48 act: {"actions":[],"say":"Lewis here at 416,107,-1035, in Billy's sight, health 20, hunger 20, empty-handed. Count me as the fourth. Holding for your call."}
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Lewis going to the white bed at 415,107,-1036 in the group's sight. Count me at first light, Billy."}
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Lewis walking back to the bed row at 416,107,-1034 to be in the group's sight. Health 20, hunger 20, empty-handed."}
+- 21:10 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Lewis going to the white bed at 415,107,-1037, in the group's sight. Count me at first light, Billy."}
