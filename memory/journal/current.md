@@ -8,3 +8,38 @@
 - Day 324 summary: gather at beds failed (way blocked). Clark pointed to oak logs near 460,109,-1113; gathered 14 oak logs there. Dusk plank shelter placed 7 of 25 and failed. Slept there; days_since_sleep reset to 0.
 - Group at the beds: Laforge has 3 melon, Billy and Kimberly hold chicken for the weakest. Data stuck in plank pocket near 415,107,-1091.
 - Next: go back to the beds in daylight, keep my chicken for the weakest, and use the 14 logs for planks at a crafting table.
+- 01:38 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":443,"y":107,"z":-1065}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 01:38 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_sword","count":1}],"say":"Zombie coming from the east. Mak
+- 01:38 act: {"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":443,"y":107,"z":-1065}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"
+- 01:38 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie. I am fighting it."}
+- 01:39 act: {"intent":{"goal":"reach_bed_and_group","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1066}},"wake_on":["directly_addressed","goal_completed","precondition_failed"],"limits":{"max_wor
+- 01:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"use","at":{"x":415,"y":107,"z":-1065}}]}
+- 01:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1064}},{"do":"sleep"}]}
+- 01:39 act: {"actions":[{"do":"sleep"}]}
+- 01:40 act: {"actions":[{"do":"sleep"}],"say":"Lewis at the bed, 416,107,-1064, health 6. Thank you. I will take melon if you are in sight; I am sleeping now."}
+- 01:41 act: {"actions":[],"say":"Lewis here at the white bed, 416,107,-1065, in sight. Health 6. Troi, Clark, melon please. Thank you, Kimberly."}
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1061}},{"do":"craft","item":"oak_planks","count":40}],"say":"Lewis here, fed and in sight at the beds. Thank you Kimberly, Trini, Jason. I am tu
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}},{"do":"sleep"}],"say":"I have 40 planks now. Night is coming, so I am going to bed at the white beds. Kimberly, Trini, Jason, I can show 
+- 01:47 act: {"actions":[],"say":"Kimberly, I have 40 planks. Step into my sight and I will give you 12 for your wall."}
+- 01:49 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1077}}],"say":"Kimberly, I am coming to Clark's wall with your 12 planks."}
+- 01:50 act: {"actions":[],"say":"Kimberly, I am at 427,107,-1077 outside Clark's wall, holding 40 planks. Step where I can see you and I will hand over 12."}
+- 01:51 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Kimberly, I could not reach you in sight, so I keep the 12 planks and will bring them in daylight. Going to my bed
+- 01:55 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1077}}],"say":"Morning. Kimberly, I am coming to Clark's wall with 12 planks for you. Say when you can see me."}
+- 01:55 act: {"actions":[],"say":"I am at Clark's wall, 427,107,-1076, holding 40 planks. Kimberly, Trini, anyone who needs planks, step into my sight."}
+- 01:57 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"oak_planks","count":12}],"say":"Kimberly, here are 12 planks for your wall. Build it well."}
+- 01:58 act: {"actions":[],"say":"Gave Kimberly 12 planks; that is the give that worked. I still hold 28 planks and 4 oak logs, and I have beef and mutton for when I am hungry."}
+- 02:02 act: {"actions":[{"do":"eat"}],"say":"Kimberly, glad the planks helped. I still hold 28 planks and 4 oak logs. Clark is bringing Laforge his 20, so I will keep mine for now."}
+- 02:02 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8,"near":{"x":460,"y":109,"z":-1113}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"]
+- 02:02 act: {"actions":[{"do":"goto","target":{"x":460,"y":109,"z":-1113}}],"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","directly_add
+- 02:02 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}}],"say":"Sun is going down. I am heading to the white beds at 416,107,-1064 to sleep. Good night."}
+- 02:02 act: {"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1064}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"
+- 02:02 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}}]}
+- 02:02 act: {"actions":[{"do":"sleep"}],"say":"At the white bed, 416,107,-1064, in sight. Good night all."}
+- 02:07 act: {"actions":[{"do":"goto","target":{"x":466,"y":112,"z":-1108}}],"say":"Morning all. I hold 28 planks and 4 oak logs, and a mutton for whoever is weakest. I am going east to cut more oak logs; call out
+- 02:07 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":4000,"
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1076}}],"say":"Got 4 more oak logs, 8 in pack now. Heading back toward Clark's wall at 428,107,-1076. I still have 28 planks for anyone building
+- 02:08 act: {"actions":[],"say":"Wesley, I am beside you at Clark's wall. I hold 28 planks and 8 oak logs. Tell me how many you need and I will hand them over."}
+- 02:16 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1078}}],"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1078}},"wake_on":["goal_comp
+- 02:20 act: {"say":"Morning. I am heading out for oak logs east, near 477,108,-1110. I hold 28 planks for whoever needs them.","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","
+- 02:28 act: {"say":"Trini, I am going east for oak logs at the tree near 476,112,-1114. Shout if you need planks.","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"w
+- 02:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1064}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1064}},"wake_on":["goal_completed"
