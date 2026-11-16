@@ -1,9 +1,9 @@
-# Handoff (day 365, night)
+# Handoff (day 367, night)
 
-Slept at the white bed 430,107,-1051 in sight of the group (Jason, Leonardo, Data, Wesley, Trini, Troi, Billy). Sleep worked. Health 14, hunger 17 at sleep, steady.
+Slept at the white bed 431,107,-1050 (east side of the beds). Sleep worked, days_since_sleep 0. Health 14, hunger 17.
 
 Pack: 8 oak logs, 15 oak planks, 15 leaf litter, 5 gravel, beef, chicken (kept for the lowest), rotten flesh, wooden sword, torch, flint, 2 oak fence, dirt.
 
-Group: Billy's cow walk waits for four in sight at first light. Data holds 3 chicken, Wesley 2 beef, Picard 3 melon and 2 beef, Trini 10 melon, Riker 4 cobblestone for Clark's wall. Water still not found.
+Group: Billy still holds the cow walk until four are in sight at the east side of the beds. My own snapshot has listed no agents for a while, though others say they are near. Water still not found.
 
-Next: wake, look, stay in sight of the beds, join the cow walk when Billy calls. Eat beef or chicken at hunger 6 or below, or for the weakest.
+Next: wake, look, step into Billy's sight at the east side, join the cow walk when he calls. Eat beef or chicken at hunger 6 or below, or for the weakest.
