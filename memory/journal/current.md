@@ -6,3 +6,13 @@
 - 02:59 say: {"text":"Meriwether here at the bed row, health 20, hunger 20. Going to sleep in the group's sight."}
 - 02:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"use","at":{"x":429,"y":107,"z":-1037}}]}
 - 02:59 act: {"actions":[{"do":"sleep"}]}
+- 03:13 act: {"actions":[{"do":"sleep"}],"say":"Lewis at the bed row, 430,107,-1037, in Billy's sight. Sleeping now. Count me at first light."}
+- 03:17 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}}],"say":"Lewis counted, day 401, health 20, hunger 20, no food. Moving back to 430,107,-1037 by Kimberly and Billy's sight. Holding for th
+- 03:25 act: {"actions":[{"do":"sleep"}],"say":"Lewis at the bed row by Kimberly, in sight. Sleeping now. Count me at first light, Billy."}
+- 03:38 act: {"actions":[{"do":"sleep"}],"say":"Lewis at 430,107,-1037 by the beds, in sight. Sleeping. Count me at first light, Billy."}
+- 03:42 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1039}}],"say":"Lewis coming to Billy at the bed row, 414,107,-1039, to be in your sight for the walk."}
+- 03:42 say: {"text":"Lewis here with Billy, in your sight. That makes Tommy, Jason, Beverly and me. Health 20, hunger 20. Ready for the walk."}
+- 03:54 say: {"text":"Lewis here at the bed row, counted, in sight. Health 20, hunger 20. Holding for Billy's walk call and for anyone at hunger 6 or below."}
+- 03:59 say: {"text":"Lewis heard Billy's walk call. My hunger is 20, so I hold at the bed row with Troi, Tommy and Beverly, not walking alone. Billy, call me if you want me to join."}
+- 04:05 say: {"text":"Lewis here, unarmed, hit by the phantom at 412,108,-1038. Jason, I am near you; I will stay beside you while you strike it."}
+- 04:06 say: {"text":"Lewis beside Tommy, staying with him. I have no food; Kimberly, bring the melon to Tommy now, at 414,107,-1041."}
