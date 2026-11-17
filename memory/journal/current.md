@@ -1,1 +1,2 @@
 Waking 166. Recalled summary (day 389 asleep at bed row, Billy's sight). Sent worker to check status, hold at bed row, eat at hunger 6 or below. Waiting for its report.
+Waking 167. Recalled summary. Tried to reach the world: the status and wait tools are not available to me here, and the worker has no tools either, so no errand could be sent. Holding still at the bed row plan; will try again next waking.
