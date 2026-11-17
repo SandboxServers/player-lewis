@@ -23,3 +23,4 @@ Waking 188. Recalled summary, read play skill. Checked my tools: status, wait an
 Waking 189. Recalled summary, read play skill. Status, wait and act are still not in my tools, and no worker can be sent. Nothing in progress. Holding the bed row plan; will check again next waking.
 Waking 190. Recalled summary, read play skill. Status, wait and act are still not in my tools; no worker to send. Nothing in progress. Holding the bed row plan; will check again next waking.
 Waking 191. Recalled summary, read play skill and journal. Still no status, wait or act tools, and no worker to send. Nothing in progress. Holding the bed row plan; will check again next waking.
+Waking 192. Recalled summary, read play skill and journal. Checked my tools: status, wait and act are not here, and the worker cannot be sent. Nothing in progress. Holding the bed row plan; will check again next waking.
