@@ -24,3 +24,5 @@
 - 04:20 act: {"actions":[{"do":"sleep"}]}
 - 04:24 act: {"say":"Picard, my bed use also failed with that same message. The sleep action failed too, saying it is not night. I will try sleep again at dusk."}
 - 04:36 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 405. Lewis at 415,107,-1035 by the beds, in the group's sight. Health 20, hunger 20, no food. Count me at first light."}
+- 04:40 act: {"say":"Lewis counted at the bed row, 415,107,-1035, in sight. Health 20, hunger 20, no food. Billy, eat the melon Kimberly gave you and hold here."}
+- 04:48 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 405. Lewis at 415,107,-1035, beside the white bed, with Billy and the group in reach. Health 20, hunger 20. Going to sleep here; count me at first light."}
