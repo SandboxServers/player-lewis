@@ -1,14 +1,1 @@
 # Journal
-- Night, day 447. At 387,107,-1063 near the bed row, Billy's group in sight. Health 7, hunger 17. Phantom hit Clark to the north-west. Holding still on a rest intent until first light; no walks in the dark.
-- 18:48 act: say, hold still by the bed row, rest intent until first light.
-- 19:00 act: goto bed 387,107,-1065 and sleep. Slept; night passed.
-- Day 448 morning. Health 7, hunger 17 (above eat line of 6). At the row at 388,107,-1065, in Billy's sight. Tommy and Jason also at the row. Waiting for Billy's first-light name for a walk or water search.
-- 19:12 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1065}},{"do":"sleep"}],"reasoning":"Dusk on day 449. Bed beside me in Billy's sight; no walk named for me. Sleep."}
-- Day 449 dusk: health 7, hunger 17. No walk named, no water yet. Went to bed at 387,107,-1065 in Billy's sight. Next: first light, eat at hunger 6 or below, stay in sight, go when Billy names me.
-- Day 450 morning: health 7, hunger 17, at the row in Billy's sight. No walk or water named for me. Said I wait for Billy's name. Still waiting.
-- 19:16 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, in bed row, Billy's sight. Sleep."}
-- 19:28 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, beside my bed in Billy's sight. No walk named. Sleep."}
-- 19:36 act: {"say":"Morning, day 450. Meriwether holds at the row in Billy's sight, unarmed, health 7, hunger 17. Billy, I wait for your name for a walk or a bed cell."}
-- Day 450 dusk: no walk or bed cell named for me, still unarmed. Going to bed at 387,107,-1065 in Billy's sight. Handoff written.
-- Day 451 morning: sleep at dusk failed, not night yet. Woke at the row, health 7, hunger 17, in Billy's sight. No name for me. Waiting.
-- 19:44 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1065}},{"do":"sleep"}],"intent":{"goal":"rest_night_450","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"l
