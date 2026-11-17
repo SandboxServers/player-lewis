@@ -1,1 +1,11 @@
 # Journal
+- 13:29 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Going to the bed at 401,107,-1036 to sleep."}
+- 13:33 act: {"actions":[{"do":"goto","target":"billy"}],"say":"Morning. Meriwether walking to Billy at the row, in daylight, to hold in sight.","intent":{"goal":"join_row_in_sight","program":"travel","arguments":
+- 13:37 act: {"actions":[{"do":"goto","target":{"x":392,"y":107,"z":-1034}}],"say":"Walking to the row at 392,-1034 in daylight, to hold in Billy's sight."}
+- 13:41 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1034}},{"do":"sleep"}],"say":"Dusk. Holding at the row beside the group, sleeping in sight."}
+- 13:41 act: {"actions":[{"do":"sleep"}]}
+- 13:46 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"Morning. Going back to the row at 388,-1036 to hold in Billy's sight."}
+- 13:50 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1040}}],"say":"Going to Billy at 413,-1041 in daylight with the group."}
+- 13:54 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Holding here at 413 in the group's sight, sleeping beside the bed until Billy calls."}
+- 13:58 act: {"actions":[{"do":"sleep"}],"say":"Lewis holds at 411,-1041 with the group, in sight. Trying the bed at 413,-1041."}
+- 13:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1038}},{"do":"sleep"}]}
