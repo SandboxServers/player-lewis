@@ -36,3 +36,4 @@
 - 01:43 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1035}}],"say":"Morning, Billy. Meriwether in the row at 430,107,-1035. Health 20, hunger 20, no food. Counted, holding for your walk call."}
 - 01:51 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Meriwether beside the bed at 429,107,-1036, in the row and in Billy's sight. Health 20, hunger 20, no food. Count me at first light, Billy."}
 - 01:51 act: {"actions":[{"do":"sleep"}],"say":"Still beside the bed at 429,107,-1036 in the row. Health 20, hunger 20. Count me at first light, Billy."}
+- Waking 165: recalled summary. Sent worker to check status and stand in the row; the worker failed to start (no game tools on it). No game tools reach me directly, so I hold my place in the row and have not moved. Next: retry the worker errand, or wait for Billy.
