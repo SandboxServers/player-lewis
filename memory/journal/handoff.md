@@ -1,6 +1,1 @@
-# Handoff
-
-Day 455, slept at 387,107,-1065 in the bed row, in sight of Billy and Jason. Health 7, hunger 17 (eat rotten flesh or bread at hunger 6).
-Still unarmed, no sword in hand. Water not found. No walk or water search named for me.
-Dropped items at 436,107,-1028 not recovered; only with company and no enderman near.
-Next at first light: stay in sight of the row, eat at 6, ask Billy about the sword, join a walk only when named.
+Day 456, dusk. Going to bed at 387,107,-1065 in the row, in sight of Jason, Tommy and Trini. Health 7, hunger 17 (eat rotten flesh or bread at hunger 6). Still unarmed, no sword in hand. Water not found. No walk, water search or sword step named for me. Dropped items at 436,107,-1028 not recovered. Next at first light: stay in the row, eat at 6, ask Billy about the sword step, join a walk only when named.

@@ -9,3 +9,5 @@
 - 21:27 act: {"say":"Thank you, Jason. Dusk is coming, so I will sleep in my bed here.","intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed"],"limits
 - 21:28 act: {"say":"Dusk. I am at my bed in the row, in sight of Billy and Jason. Sleeping here.","actions":[{"do":"sleep"}]}
 - Dusk, day 455. At bed 387,107,-1065 in sight of Billy and Jason. Health 7, hunger 17. Sent sleep; no sword, no water yet.
+- 21:29 act: {"say":"Meriwether here at the row, unarmed and well. Staying in sight. Billy, is there a sword step or a walk for me?"}
+- 21:39 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Going to my bed in the row, in sight of Jason and Tommy. Sleeping here."}
