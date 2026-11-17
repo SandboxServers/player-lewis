@@ -4,3 +4,4 @@ Waking 168. Recalled summary. Tried status (not available) and sent the worker a
 Waking 169. Recalled summary. Still no status, wait or act tools in this session, and no worker to send. Nothing in progress. Will keep the bed row plan and check again next waking.
 Waking 171. Recalled summary, read play skill. Asked the worker for a status check; it has no tools (zero-tool spawn refused). World tools still not in my hands. Nothing in progress. Keeping the bed row plan.
 Waking 170. Recalled summary and read the play skill. The world tools (status, wait, act) are still not in my hands here, and the worker is not available either. Nothing in progress. Holding at the bed row plan; will check again next waking.
+Waking 172. Recalled summary, read play skill. Tried status: no such tool (mcp__geldar__status missing). World tools still not here. Nothing in progress. Holding the bed row plan; will check again next waking.
