@@ -7,3 +7,5 @@
 - 21:20 act: {"actions":[{"do":"note","text":"Day 455 into morning. At my bed 387,107,-1065 in the row. Sleep refused in daylight. Jason, Picard near. Hunger 17, health 7. Waiting for a named errand or dusk."}],"r
 - 21:25 act: {"say":"Morning, Jason. Meriwether here. Have you found any water, or seen the sword Billy holds?","reasoning":"Daylight, in the bed row with Jason in reach. Goals: stay in sight of the group, learn a
 - 21:27 act: {"say":"Thank you, Jason. Dusk is coming, so I will sleep in my bed here.","intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed"],"limits
+- 21:28 act: {"say":"Dusk. I am at my bed in the row, in sight of Billy and Jason. Sleeping here.","actions":[{"do":"sleep"}]}
+- Dusk, day 455. At bed 387,107,-1065 in sight of Billy and Jason. Health 7, hunger 17. Sent sleep; no sword, no water yet.
