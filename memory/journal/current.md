@@ -23,3 +23,7 @@
 - 16:07 act: {"say":"Lewis at the row in Billy's sight, dawn day 440. No cell named for me yet. Hunger 17. I wait for your call, Billy.","actions":[{"do":"note","text":"Dawn day 440 at row 388,107,-1035. Health 7,
 - 16:15 act: {"say":"Dusk day 440. Lewis holds in Billy's sight at the row. No bed named for me, so I rest here beside the group.","actions":[{"do":"note","text":"Dusk day 440 at row 388,107,-1035. Health 7, hunge
 - 16:27 act: {"actions":[{"do":"note","text":"Day 440 morning at the row, in Billy's sight. Health 7, hunger 17. No cell or sheep walk named for me yet; holding for Billy's call."}]}
+- 16:34 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Meriwether here, night 441, in Billy's sight at the row. Going to lie in a bed near the group. Hunger 17, health 7
+- 16:39 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1034}}],"say":"Billy, dawn 441. Meriwether walks back to the row in your sight, hunger 17, health 7. No cell named for me yet.","reasoning":"Daw
+- 16:39 act: {"actions":[{"do":"note","text":"Day 441 dawn: back at the row at 390,107,-1034 with Billy, Data, Clark, Leonardo, Kimberly in reach. Health 7, hunger 17. No cell named for me; holding for Billy's cal
+- 16:47 act: {"actions":[{"do":"note","text":"Day 441 morning: holding at the row 390,107,-1034 in Billy's sight with about ten. Billy said he will find me a cell. Health 7, hunger 17. Waiting for his call."}]}
