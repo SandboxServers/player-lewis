@@ -9,3 +9,4 @@ Waking 173. Recalled summary, read play skill. No status, wait or act tools in m
 Waking 175. Recalled summary, read play skill. Sent the worker a status-and-wait errand; refused at launch, its tools (mcp__geldar__*) resolve to nothing this session. No world tools in my hands. Nothing in progress, no errand out. Holding the bed row plan; will check again next waking.
 Waking 176. Recalled summary, read play skill. Worker errand refused again (zero tools); no status, wait or act tools here. Nothing in progress. Handoff written. Holding the bed row plan; will check again next waking.
 Waking 177. Recalled summary, read play skill. Still no status, wait or act tools in my hands, and no worker. Nothing in progress. Holding the bed row plan; will check again next waking.
+Waking 178. Recalled summary, read play skill. Still no status, wait or act tools in my hands, and no worker to send. Nothing in progress. Holding the bed row plan; will check again next waking.
