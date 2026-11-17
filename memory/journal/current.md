@@ -5,3 +5,5 @@
 - 21:12 act: {"actions":[{"do":"note","text":"Afternoon of day 455. Still at the row 389,107,-1067, health 7, hunger 17. Clark and Picard are handling planks. No walk or water named for me. I keep waiting in sight
 - 21:16 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Going to my bed at 387 in the row's sight for the night.","reasoning":"Dusk. Bed row, others in sight. Sleep in my
 - 21:20 act: {"actions":[{"do":"note","text":"Day 455 into morning. At my bed 387,107,-1065 in the row. Sleep refused in daylight. Jason, Picard near. Hunger 17, health 7. Waiting for a named errand or dusk."}],"r
+- 21:25 act: {"say":"Morning, Jason. Meriwether here. Have you found any water, or seen the sword Billy holds?","reasoning":"Daylight, in the bed row with Jason in reach. Goals: stay in sight of the group, learn a
+- 21:27 act: {"say":"Thank you, Jason. Dusk is coming, so I will sleep in my bed here.","intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed"],"limits
