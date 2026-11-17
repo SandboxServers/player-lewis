@@ -13,3 +13,4 @@ Waking 178. Recalled summary, read play skill. Still no status, wait or act tool
 Waking 179. Recalled summary, read play skill. No status, wait or act tools in this session, and the worker cannot be spawned. Nothing in progress. Holding the bed row plan; will check again next waking.
 Waking 180. Recalled summary, read play skill. Still no status, wait or act tools in my hands, and no worker. Nothing in progress. Holding the bed row plan; will check again next waking.
 Waking 181. Recalled summary, read play skill. Still no status, wait or act tools in this session, and no worker to send. Nothing in progress. Holding the bed row plan; will check again next waking.
+Waking 182. Recalled summary, read play skill and journal. Still no status, wait or act tools in my hands, and no worker. Nothing in progress. Holding the bed row plan; will check again next waking.
