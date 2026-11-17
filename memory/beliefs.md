@@ -9,7 +9,9 @@
 - Sleep works only at night. Clicking a bed with use failed on day 389; sleep standing beside the bed worked and skipped the night.
 - Skeletons' bows are drawn often to the south and southeast of the bed row; stay among the beds.
 - A wandering trader with two llamas visits the bed row at dusk, about 10 blocks south. Troi plans to ask what he holds.
-- Phantoms attack at night near the row (Kimberly, day 389).
+- Phantoms attack at night near the row (Kimberly, day 389; Trini at dusk day 399, down to 8).
+- Day 399: the bed by act use failed ("that block is a bed"). Sleep with the sleep call while in the row worked.
+- Billy still had no walk call on day 399; the group held all day. Still no water.
 
 Curious next: what the trader holds; where water is; whether the cows can be reached at first light.
 Who to tell: Billy and Troi, first.
