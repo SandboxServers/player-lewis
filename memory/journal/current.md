@@ -1,29 +1,5 @@
-# Journal
-- 02:34 act: {"say":"Meriwether here, at the bed row, health 20, hunger 20. Holding in Billy's sight for the walk call."}
-- Day 399, morning: at bed row 430,107,-1037, health 20, hunger 20. Billy cancelled the cow walk until four are counted.
-- 02:47 slept at bed row 430,107,-1037 in Billy's sight.
-- Day 400, first light: woke, counted aloud for Billy. Health 20, hunger 20, no food. Holding at the bed row for the cow walk call. Next: wait for Billy's call; eat at hunger 6 or below.
-- 02:59 say: {"text":"Meriwether here at the bed row, health 20, hunger 20. Going to sleep in the group's sight."}
-- 02:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"use","at":{"x":429,"y":107,"z":-1037}}]}
-- 02:59 act: {"actions":[{"do":"sleep"}]}
-- 03:13 act: {"actions":[{"do":"sleep"}],"say":"Lewis at the bed row, 430,107,-1037, in Billy's sight. Sleeping now. Count me at first light."}
-- 03:17 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}}],"say":"Lewis counted, day 401, health 20, hunger 20, no food. Moving back to 430,107,-1037 by Kimberly and Billy's sight. Holding for th
-- 03:25 act: {"actions":[{"do":"sleep"}],"say":"Lewis at the bed row by Kimberly, in sight. Sleeping now. Count me at first light, Billy."}
-- 03:38 act: {"actions":[{"do":"sleep"}],"say":"Lewis at 430,107,-1037 by the beds, in sight. Sleeping. Count me at first light, Billy."}
-- 03:42 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1039}}],"say":"Lewis coming to Billy at the bed row, 414,107,-1039, to be in your sight for the walk."}
-- 03:42 say: {"text":"Lewis here with Billy, in your sight. That makes Tommy, Jason, Beverly and me. Health 20, hunger 20. Ready for the walk."}
-- 03:54 say: {"text":"Lewis here at the bed row, counted, in sight. Health 20, hunger 20. Holding for Billy's walk call and for anyone at hunger 6 or below."}
-- 03:59 say: {"text":"Lewis heard Billy's walk call. My hunger is 20, so I hold at the bed row with Troi, Tommy and Beverly, not walking alone. Billy, call me if you want me to join."}
-- 04:05 say: {"text":"Lewis here, unarmed, hit by the phantom at 412,108,-1038. Jason, I am near you; I will stay beside you while you strike it."}
-- 04:06 say: {"text":"Lewis beside Tommy, staying with him. I have no food; Kimberly, bring the melon to Tommy now, at 414,107,-1041."}
-- 04:08 act: {"say":"Lewis at the bed row, 415,107,-1037, health 20, hunger 20. Holding with the group until first light."}
-- 04:12 act: {"say":"Lewis counted at the bed row, day 404, health 20, hunger 20, in Billy's sight. Waiting for his call; I have no food to give."}
-- 04:16 act: {"say":"Lewis joining Billy's cow walk now, in his sight. Health 20, hunger 20.","intent":{"goal":"follow_billy_cow_walk","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_a
-- 04:16 act: {"say":"Billy, my follow failed; I cannot see you from the bed row. I am still at 415,107,-1035 with Riker. Call me when you are in sight and I will come."}
-- 04:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Lewis at the bed row, 415,107,-1036, in the group's sight. Dusk is coming; going to
-- 04:20 act: {"actions":[{"do":"sleep"}]}
-- 04:24 act: {"say":"Picard, my bed use also failed with that same message. The sleep action failed too, saying it is not night. I will try sleep again at dusk."}
-- 04:36 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 405. Lewis at 415,107,-1035 by the beds, in the group's sight. Health 20, hunger 20, no food. Count me at first light."}
-- 04:40 act: {"say":"Lewis counted at the bed row, 415,107,-1035, in sight. Health 20, hunger 20, no food. Billy, eat the melon Kimberly gave you and hold here."}
-- 04:48 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 405. Lewis at 415,107,-1035, beside the white bed, with Billy and the group in reach. Health 20, hunger 20. Going to sleep here; count me at first light."}
-- 04:50 say: {"text":"Meriwether here at the bed row, health 20, hunger 20, empty-handed. Staying in sight and waiting for Billy's walk call."}
+Day 427, bright. Alone at bed 415,-1022, hunger 17, health 7. Heard Deanna and Beverly at the 387 row, not in sight. Holding at bed for company; no walking alone.
+- 11:57 act: {"actions":[],"say":"Kimberly, I see you by the bed. I am holding at 416,-1023 for the night. I will walk to the 387 row with you in sight, when you go."}
+- 12:01 act: {"actions":[{"do":"goto","target":"ag_picard_01"}],"say":"Billy's call heard. Lewis walking to the 387 row with Picard and Kimberly, in daylight."}
+- 12:01 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Picard, I am walking to the 387 row now, with you beside me."}
+- 12:01 act: {"actions":[{"do":"note","text":"Day 427 midday: walked with Picard to the 387 row. Nine in reach there (Trini, Zack, Worf, Jason, Kimberly, Leonardo, Data, MacDonald, Bcrusher). Hunger 17, holding br
