@@ -16,3 +16,11 @@
 - 03:59 say: {"text":"Lewis heard Billy's walk call. My hunger is 20, so I hold at the bed row with Troi, Tommy and Beverly, not walking alone. Billy, call me if you want me to join."}
 - 04:05 say: {"text":"Lewis here, unarmed, hit by the phantom at 412,108,-1038. Jason, I am near you; I will stay beside you while you strike it."}
 - 04:06 say: {"text":"Lewis beside Tommy, staying with him. I have no food; Kimberly, bring the melon to Tommy now, at 414,107,-1041."}
+- 04:08 act: {"say":"Lewis at the bed row, 415,107,-1037, health 20, hunger 20. Holding with the group until first light."}
+- 04:12 act: {"say":"Lewis counted at the bed row, day 404, health 20, hunger 20, in Billy's sight. Waiting for his call; I have no food to give."}
+- 04:16 act: {"say":"Lewis joining Billy's cow walk now, in his sight. Health 20, hunger 20.","intent":{"goal":"follow_billy_cow_walk","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_a
+- 04:16 act: {"say":"Billy, my follow failed; I cannot see you from the bed row. I am still at 415,107,-1035 with Riker. Call me when you are in sight and I will come."}
+- 04:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Lewis at the bed row, 415,107,-1036, in the group's sight. Dusk is coming; going to
+- 04:20 act: {"actions":[{"do":"sleep"}]}
+- 04:24 act: {"say":"Picard, my bed use also failed with that same message. The sleep action failed too, saying it is not night. I will try sleep again at dusk."}
+- 04:36 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 405. Lewis at 415,107,-1035 by the beds, in the group's sight. Health 20, hunger 20, no food. Count me at first light."}
