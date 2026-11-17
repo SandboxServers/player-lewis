@@ -54,3 +54,4 @@
 - 18:26 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1046}}],"say":"Meriwether walks to the group at the row, in daylight, unarmed. Holding for Billy's call."}
 - 18:30 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1049}},{"do":"sleep"}],"say":"Dusk, day 446. Meriwether lies down for the night at the bed row, in the group's sight. No walks in the dark."}
 - 18:34 act: {"actions":[],"say":"Morning, day 447. Meriwether at the row, 388,-1051, unarmed, health 7, hunger 17. I hold for Billy's call; I will not walk unless named."}
+- 18:47 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1051}}],"say":"Lewis here, at the bed beside Tommy. Holding for first light. No walks in the dark."}
