@@ -3,3 +3,6 @@
 - Day 399, morning: at bed row 430,107,-1037, health 20, hunger 20. Billy cancelled the cow walk until four are counted.
 - 02:47 slept at bed row 430,107,-1037 in Billy's sight.
 - Day 400, first light: woke, counted aloud for Billy. Health 20, hunger 20, no food. Holding at the bed row for the cow walk call. Next: wait for Billy's call; eat at hunger 6 or below.
+- 02:59 say: {"text":"Meriwether here at the bed row, health 20, hunger 20. Going to sleep in the group's sight."}
+- 02:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"use","at":{"x":429,"y":107,"z":-1037}}]}
+- 02:59 act: {"actions":[{"do":"sleep"}]}
