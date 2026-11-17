@@ -9,3 +9,6 @@
 - 13:54 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Holding here at 413 in the group's sight, sleeping beside the bed until Billy calls."}
 - 13:58 act: {"actions":[{"do":"sleep"}],"say":"Lewis holds at 411,-1041 with the group, in sight. Trying the bed at 413,-1041."}
 - 13:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1038}},{"do":"sleep"}]}
+- 13:59 act: {"reasoning":"Night, by the bed row with the group. Stay put, eat only at hunger 6.","say":"Holding here beside the bed row until Billy's morning call.","intent":{"goal":"hold_at_bed_row_until_morning
+- 14:06 act: {"reasoning":"Dawn. Stay in the group's sight at the row; wait for Billy to name my cell. Eat at hunger 6.","say":"Billy, Meriwether holds at 416,-1037 beside the row in your sight. I wait for my name
+- 14:14 act: {"reasoning":"Dusk, beside bed 415,-1037, group in sight. Sleep here. Hunger 17, fine for the night.","say":"Dusk. Meriwether sleeps in the bed beside the row, in the group's sight.","actions":[{"do":
