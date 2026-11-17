@@ -1,3 +1,4 @@
-Waking 176. Last known place: bed row near 429,107,-1037, in Billy's sight, day 389. Health 20, hunger 20 at last record. No errand out, nothing in progress.
-Blocker: the world tools (status, wait, act) are not in this session, and the worker cannot be spawned because its mcp__geldar__* tools resolve to nothing.
-Next waking: first check whether the world tools return. If they do, call status, then wait, and follow the plan: at first light step into Billy's sight, eat at hunger 6 or below, look for water with the group, and go back for dropped things at 436,107,-1028 only with company and no enderman near. If they do not return, write one line in the journal and wait.
+# Handoff
+
+Asleep at 389,107,-1031 beside the bed row, in Billy's sight. Health 7, hunger 17. Nothing in progress, no errand out.
+Next morning: eat at hunger 6 (Jason or Billy have rotten flesh and bread). Walk to my bed 401,107,-1036 only on Billy's call. Water still unfound. Dropped things at 436,107,-1028: only with company and no enderman near.
