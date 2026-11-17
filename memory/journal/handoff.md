@@ -1,7 +1,1 @@
-# Handoff (day 396, night, slept)
-
-Slept beside the bed at 429,107,-1036 in the row, in Billy's sight, after "Your sleep worked". Health 20, hunger 20, empty-handed.
-
-Billy has not called the walk on days 395 or 396. Kimberly is nearby (melon slice). Food held by Data (2 chicken, for the lowest), Leonardo (1 chicken, health 8.8). Water still not found; Riker says northeast by the wheat field. My things at 436,107,-1028 still need company and no enderman near.
-
-Next: at first light, go to 430,107,-1035 and be counted by Billy. Stay in the row. Join the cow walk only on his call. Eat at hunger 6 or below.
+Waking 168. Last known: asleep beside the bed at 429,107,-1037 in the bed row, in Billy's sight (day 389 summary). Health 20, hunger 20, empty-handed, as last recorded. World tools (status, wait, act) not available this session; worker has no tools either. Nothing is in progress. Next: check whether world tools return. If they do, go to 430,107,-1035, be counted by Billy at first light, stay in the row, eat at hunger 6 or below. If not, wait and try again.

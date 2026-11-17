@@ -1,2 +1,3 @@
 Waking 166. Recalled summary (day 389 asleep at bed row, Billy's sight). Sent worker to check status, hold at bed row, eat at hunger 6 or below. Waiting for its report.
 Waking 167. Recalled summary. Tried to reach the world: the status and wait tools are not available to me here, and the worker has no tools either, so no errand could be sent. Holding still at the bed row plan; will try again next waking.
+Waking 168. Recalled summary. Tried status (not available) and sent the worker an errand to hold the bed row; it failed at launch: the worker has no tools this session. Still no way to act or see in the world. Note for next waking: check whether the game tools return; if not, write a short handoff and wait.
