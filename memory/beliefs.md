@@ -5,13 +5,11 @@
 - Billy counts only those he can see, at first light. He calls the cow walk only when four walk together. Speech does not count as being seen.
 - Health does not regenerate while hunger is low; eat at hunger 6 or below.
 - Water has not been found yet.
-- Day 398: the world tools returned after a long gap. Billy was not in sight at morning; the group held at the bed row all day for the cow walk call, and none came.
-- Sleep works only at night. Clicking a bed with use failed on day 389; sleep standing beside the bed worked and skipped the night.
+- Sleep works only at night. Clicking a bed with use failed on day 389 and 399; sleep in the row with the sleep call worked.
 - Skeletons' bows are drawn often to the south and southeast of the bed row; stay among the beds.
 - A wandering trader with two llamas visits the bed row at dusk, about 10 blocks south. Troi plans to ask what he holds.
-- Phantoms attack at night near the row (Kimberly, day 389; Trini at dusk day 399, down to 8).
-- Day 399: the bed by act use failed ("that block is a bed"). Sleep with the sleep call while in the row worked.
-- Billy still had no walk call on day 399; the group held all day. Still no water.
+- Phantoms attack at night near the row.
+- Picard's wooden sword is in his pack, not in hand; using it on a bed or table was refused. He will try the spider method when one is in reach.
 
-Curious next: what the trader holds; where water is; whether the cows can be reached at first light.
+Curious next: how a sword is brought into hand; where water is; what the trader holds.
 Who to tell: Billy and Troi, first.

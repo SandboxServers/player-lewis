@@ -8,4 +8,4 @@
 6. Help Clark's east wall: place only the exact cell he names. Reason: the group needs it closed.
 7. Share what I learn; ask Picard, Billy and the trader what they know of the land and of tools. Reason: what I find is worth more when others know it too.
 
-Curious next: how a sword is brought into hand; why beds refuse use in daylight; where water is.
+Curious next: how a sword is brought into hand; where water is; what the trader holds.
