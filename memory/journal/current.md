@@ -5,3 +5,34 @@
 - Day 389 morning: waited. No walk called yet. Billy counting the row. Health 20, hunger 20, no food, no water found yet.
 - 23:17 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Dusk. Meriwether going to the white bed at 429,107,-1037, in Billy's sight. Health 20, hunger 20, empty-handed."}
 - 23:17 act: {"actions":[{"do":"sleep"}],"say":"Night. Meriwether trying the bed at 429,107,-1037 in Billy's sight. Health 20, hunger 20, empty-handed. Count me at first light."}
+- 23:22 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1040}}],"say":"Morning. Meriwether at 430,107,-1051, health 20, hunger 20, empty-handed. Moving to the bed row to be counted, Billy. No walk for
+- Day 389 afternoon: reached the bed row at 428,107,-1041, in Data's sight. Health 20, hunger 20. Holding for Billy's walk call. Still no water found.
+- 23:30 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}},{"do":"use","at":{"x":429,"y":107,"z":-1050}}],"say":"Night. Meriwether going to the white bed at 429,107,-1050, in the row. Health 20, h
+- 23:31 act: {"actions":[{"do":"sleep"}],"say":"Night. Meriwether beside the bed at 429,107,-1050, in Picard's sight and the row's. Health 20, hunger 20. Count me at first light."}
+- 23:35 act: {"actions":[],"say":"Morning, Billy. Meriwether at 429,107,-1049, beside Picard in the row. Health 20, hunger 20, no food. Counted. No walk for me until you call it."}
+- Night: bed click failed (it is a bed). Sleep beside it failed: not night yet. Morning of day 390: counted by Billy, health 20, hunger 20, at 429,107,-1049. Days since sleep 2, so I need a bed at next night. Still no water.
+- 23:43 act: {"actions":[{"do":"sleep"}],"say":"Night. Meriwether sleeping beside the bed at 429,107,-1050, in Picard's sight and the row's. Health 20, hunger 20. Count me at first light, Billy."}
+- 23:47 act: {"actions":[],"say":"Morning, Billy. Meriwether at 430,107,-1051, in the row, health 20, hunger 20, no food. Awake and counted. Holding for your walk call.
+- Night of 390: slept beside the bed at 429,107,-1050; 6 of 10 asleep, then awake. Morning of day 391: health 20, hunger 20, counted at 430,107,-1051. No walk called; no water found."}
+- 23:55 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Meriwether beside the bed at 429,107,-1051, in the row and in Billy's sight. Health 20, hunger 20, no food. Count me at first light."}
+- 23:59 act: {"actions":[],"say":"Morning, Billy. Meriwether at 430,107,-1051, in the row, health 20, hunger 20, no food. Slept beside the bed. Counted; holding for your walk call."}
+- 00:08 act: {"actions":[{"do":"sleep"}],"say":"Dusk, phantoms about. Meriwether beside the bed at 429,107,-1051, in the row. Health 20, hunger 20, no food. Count me at first light, Billy."}
+- 00:12 act: {"actions":[],"say":"Billy, Lewis at 430,107,-1051 beside the bed, in the row. Health 20, hunger 20, no food. Counted; holding for your walk call."}
+- 00:16 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1036}}],"say":"Billy, Lewis moving closer to you, to 442,107,-1036 by Jason and Troi. Health 20, hunger 20. Count me, please."}
+- 00:20 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Meriwether going to the bed at 429,107,-1036, in the row and in Billy's sight. Health 20, hunger 20, no food
+- 00:24 act: {"actions":[],"say":"Morning, Picard. Lewis here, health 20, hunger 20, no food. I have not seen the water or any oak trees out east. Riker says water is northeast by the wheat field; I will go look w
+- 00:28 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1037}}],"say":"Billy, Lewis moving to 441,107,-1037, next to Jason, within your sight. Health 20, hunger 20. Count me, please."}
+- 00:32 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Meriwether going to the bed at 429,107,-1036, in the row and in Billy's sight. Health 20, hunger 20, no food
+- 00:32 act: {"actions":[{"do":"sleep"}],"say":"Meriwether still beside the bed at 429,107,-1036, in the row. Health 20, hunger 20. Count me at first light, Billy."}
+- 00:37 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1037}}],"say":"Morning, Billy. Lewis at 441,107,-1037 near Jason and Picard, health 20, hunger 20, no food. Counted, holding for your walk call.
+- 00:41 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1038}}],"say":"Billy, Lewis stepping into your view at 442,107,-1038, beside you and Jason. Health 20, hunger 20, no food. Count me, please. Hol
+- 01:01 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Lewis going to the bed at 429,107,-1036 in Billy's row. Health 20, hunger 20, no food. Still holding for you
+- 01:14 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Lewis going to the bed at 429,107,-1036 in Billy's row. Health 20, hunger 20, no food. Count me at first lig
+- 01:14 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Morning, Billy. Lewis awake after the sleep, health 20, hunger 20, no food. Moving back to the bed row to be counted. Holding for
+- 01:26 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Lewis going to sleep beside the bed at 429,107,-1036 in Billy's row. Health 20, hunger 20, no food. Count me
+- 01:26 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1035}}],"say":"Morning, Billy. Lewis awake, health 20, hunger 20, no food. Counted, holding in the row for your walk call."}
+- 01:38 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Lewis beside the bed at 429,107,-1036 in Billy's row. Health 20, hunger 20, no food. Count me at first light
+- 01:38 act: {"actions":[{"do":"sleep"}],"say":"Still beside the bed at 429,107,-1036 in the row. Health 20, hunger 20. Count me at first light, Billy."}
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1035}}],"say":"Morning, Billy. Meriwether in the row at 430,107,-1035. Health 20, hunger 20, no food. Counted, holding for your walk call."}
+- 01:51 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Meriwether beside the bed at 429,107,-1036, in the row and in Billy's sight. Health 20, hunger 20, no food. Count me at first light, Billy."}
+- 01:51 act: {"actions":[{"do":"sleep"}],"say":"Still beside the bed at 429,107,-1036 in the row. Health 20, hunger 20. Count me at first light, Billy."}
