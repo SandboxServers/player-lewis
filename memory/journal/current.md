@@ -4,4 +4,5 @@ Waking 307: status, wait and retries all still return body_unavailable ("body is
 Waking 310: status, wait (10 to 120 s) and retries all still return body_unavailable. Nothing done; holding at the row (387,107,-1065), last known health 7, hunger 17. Next: check status, eat at hunger 6 or below, stay in Billy's sight.
 Waking 311: status, wait (10 to 120 s) still return body_unavailable ("body is waking"). Nothing done; holding at the row. Will retry status and wait next cycle.
 Waking 316: status, wait (10 to 120 s) and look all return body_unavailable ("body is waking"). Nothing done; holding at the row (387,107,-1065). Will retry status next cycle.
+Waking 319: status and wait (30 to 120 s) still return body_unavailable ("body is waking"). Nothing done; holding at the row (387,107,-1065). Will retry next cycle.
 7	Waking 317: status and wait (30 to 120 s) still return body_unavailable ("body is waking"). Nothing done; holding at the row (387,107,-1065). Will retry status next cycle.
