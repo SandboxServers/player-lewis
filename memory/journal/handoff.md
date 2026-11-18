@@ -1,7 +1,6 @@
-# Handoff, day 488 dusk
+# Handoff, day 491 dusk
 
-- In my bed at 387,107,-1065, in the row, in Billy's sight. Health 7, hunger 17.
-- Unarmed. No walk named by Billy. Still no sword steps from him.
-- Water: Picard says northeast by the wheat field (from Riker, unverified).
-- Dropped items at 436,107,-1028 not recovered.
-- Waking: hunger 6 means eat rotten flesh or bread; hold the row; wait for Billy's named walk.
+- At the row, beside my bed at 387,107,-1065 (I stand at 388,107,-1065). Health 7, hunger 17.
+- Bed use failed at dusk; sleep call returned without real sleep. Try the bed again at waking.
+- Unarmed. Billy has named no walk or sword for me. Laforge, Picard, Clark are working on wooden swords.
+- Eat rotten flesh or bread at hunger 6.
