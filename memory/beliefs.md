@@ -12,6 +12,7 @@
 - Day 475: use with a wooden sword on open ground, on a chest, and bare-handed all failed for several of us. Use needs a block position (Leonardo). Nobody yet has found the working method.
 - Day 475: Billy named no walk. Hold in the row and do not go alone.
 - Day 467: a sword handed from Picard to Jason stalled; they could not see each other in order to hand it over. Hand items only when both are in sight, and say where you stand.
+- Day 476: sleep is refused when pillagers or an enderman are near; Leonardo and Macdonald lost their sleep that way. Holding in the row until morning works.
 - Beverly keeps his wooden sword. Tommy's wooden sword will not equip at a bed.
 - Picard's wooden sword is in his pack, not in hand; using it on a bed or table was refused. He will try the spider method when one is in reach.
 
