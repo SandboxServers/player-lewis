@@ -15,6 +15,7 @@
 - Day 491: Laforge got a wooden sword into hand at the row, but cannot say how. Picard is trying for a plank from Chapman; gives keep landing on the ground.
 - Day 467: a sword handed from Picard to Jason stalled; hand items only when both are in sight.
 - Day 476: sleep is refused when pillagers or an enderman are near. Holding in the row until morning works.
+- Day 492: bed use is refused with "that block is a bed", but the sleep action works at dusk (partly asleep, 2 of 10). Daylight sleep is refused.
 
 Curious next: how a sword is brought into hand; where water is; what the trader holds.
 Who to tell: Billy and Troi, first.
