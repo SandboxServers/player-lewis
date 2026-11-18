@@ -5,3 +5,4 @@
 - 06:16 act: {"intent":{"goal":"hold_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}}
 - 06:18 act: {"intent":{"goal":"hold_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_ope
 - 06:20 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1065}}],"say":"Dusk is coming. I am going to my bed in the row."}
+- 06:21 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1065}}],"say":"Holding the row with Worf and the others. Going to my bed for the night."}
