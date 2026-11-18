@@ -6,5 +6,6 @@
 - 10:07 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1065}},{"do":"sleep"}]}
 - 10:07 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1064}}]}
 - 10:16 say: {"text":"Picard, I noted oak at 414,104,-1126. I have not been there myself, so check it with others near before you go."}
+- Waking 301: status and wait all returned body_unavailable ("body is waking") across several tries. No action taken. Last known: at the row, bed 387,107,-1065, unarmed.
 - Waking 299: no world tools reachable (status missing; worker spawn refused, zero tools). No action. Still at the row by last record.
 - Waking 298: tried status and wait through helper agents; none can reach the world tools this session. No action taken. Still at the row, unarmed, hunger unknown.
