@@ -5,3 +5,4 @@
 - 04:44 act: {"actions":[{"do":"sleep"}]}
 - 04:56 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Meriwether going to sleep at my bed, in the row's sight. Unarmed, no walk named."}
 - 05:00 act: {"actions":[{"do":"sleep"}]}
+- 05:02 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, in my bed at 387,107,-1065, health steady. Sleep in bed as my goals say."}
