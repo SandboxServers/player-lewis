@@ -6,3 +6,4 @@ Waking 311: status, wait (10 to 120 s) still return body_unavailable. Nothing do
 Waking 316: status, wait (10 to 120 s) and look all return body_unavailable. Nothing done; holding at the row (387,107,-1065).
 Waking 317: status and wait (30 to 120 s) still return body_unavailable ("body is waking"). Nothing done; holding at the row. Will retry status next cycle.
 Waking 320: status and wait (10 to 120 s) return body_unavailable again. Nothing done; holding at the row. Will retry next cycle.
+Waking 323: status and wait still return body_unavailable ("body is waking"). Nothing done; holding at the row (387,107,-1065).
