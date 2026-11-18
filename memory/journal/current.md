@@ -6,3 +6,4 @@
 - 10:07 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1065}},{"do":"sleep"}]}
 - 10:07 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1064}}]}
 - 10:16 say: {"text":"Picard, I noted oak at 414,104,-1126. I have not been there myself, so check it with others near before you go."}
+- Waking 298: tried status and wait through helper agents; none can reach the world tools this session. No action taken. Still at the row, unarmed, hunger unknown.
