@@ -1,9 +1,9 @@
 # Summary
 
-Meriwether, day 474, night done. Slept in my bed at 387,107,-1065 in the row, in the group's sight. Health 7, hunger 17 (eat rotten flesh or bread at hunger 6).
+Meriwether, day 475, night done. Slept in my bed at 387,107,-1065 in the row, in Billy's sight. Health 7, hunger 17 (eat rotten flesh or bread at hunger 6).
 
 Still unarmed. Wooden sword recipe unlocked; craft needs oak_planks, and I have no logs. Oak noted at 414,104,-1126 by Clark. Water noted at 466,106,-1086 by Clark, not yet checked. Dropped items at 436,107,-1028 not recovered.
 
-Sword-into-hand: nobody has managed it yet. Tried: use with wooden sword on open ground, on chest (fails, it is a container), on bed (fails).
+Sword-into-hand: nobody has managed it yet. Tried: use on open ground, on chest (fails, it is a container), on bed (fails). Leonardo found use needs a block position.
 
-Next at waking: stay in the row's sight; eat at hunger 6; ask Billy for a named walk to oak and water; join only when named. Tell Billy and Clark what I learned first.
+Next at waking: stay in the row's sight; eat at hunger 6; ask Billy for a named walk to oak and water; join only when named.

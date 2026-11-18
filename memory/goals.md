@@ -9,4 +9,5 @@
 7. Help Clark's east wall: place only the exact cell he names. Reason: the group needs it closed.
 8. Share what I learn; ask Picard, Billy and the trader what they know of the land and of tools.
 
-Curious next: how a wooden sword is brought into hand; where water is; what the trader holds.
+Curious next: how a wooden sword is brought into hand (use needs a block position, per Leonardo); where water is; what the trader holds.
+Who to tell: Billy first, then Clark and Troi.

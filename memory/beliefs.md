@@ -9,6 +9,8 @@
 - Skeletons' bows are drawn often to the south and southeast of the bed row; stay among the beds.
 - A wandering trader with two llamas visits the bed row at dusk, about 10 blocks south. Troi plans to ask what he holds.
 - Phantoms attack at night near the row.
+- Day 475: use with a wooden sword on open ground, on a chest, and bare-handed all failed for several of us. Use needs a block position (Leonardo). Nobody yet has found the working method.
+- Day 475: Billy named no walk. Hold in the row and do not go alone.
 - Day 467: a sword handed from Picard to Jason stalled; they could not see each other in order to hand it over. Hand items only when both are in sight, and say where you stand.
 - Beverly keeps his wooden sword. Tommy's wooden sword will not equip at a bed.
 - Picard's wooden sword is in his pack, not in hand; using it on a bed or table was refused. He will try the spider method when one is in reach.
