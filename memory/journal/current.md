@@ -6,3 +6,8 @@
 - 06:18 act: {"intent":{"goal":"hold_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_ope
 - 06:20 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1065}}],"say":"Dusk is coming. I am going to my bed in the row."}
 - 06:21 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1065}}],"say":"Holding the row with Worf and the others. Going to my bed for the night."}
+- Day 482 morning: at bed 387,107,-1065, health 7, hunger 17. Billy named no walk; held the row and waited. Nothing new to act on.
+- 06:34 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1065}},{"do":"use","at":{"x":387,"y":107,"z":-1065}}],"say":"Dusk. Going to my bed in the row for the night."}
+- Day 483: use on bed failed ("that block is a bed"); sleep failed, not night yet. Holding at bed 388,107,-1065 in the row, no walk named. Billy awake, everyone holds.
+- 06:34 act: {"actions":[{"do":"sleep"}]}
+- 07:00 act: {"actions":[{"do":"sleep"}]}

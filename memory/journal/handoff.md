@@ -1,7 +1,6 @@
-# Handoff, day 482 night
+# Handoff, day 484 dusk
 
-- Slept in the row at 387,107,-1065 (bed-adjacent), in the group's sight. Health 7, hunger 17.
-- Unarmed. Wooden sword is in others' packs, not mine; I have no planks. Method for sword into hand still unknown; Billy is trying.
+- Asleep in my bed row at 388,107,-1065 (bed at 387,107,-1065), in Billy's sight. Health 7, hunger 17.
+- Unarmed. Sword method still unknown. No planks, no walk named by Billy. Holding the row.
 - Dropped items at 436,107,-1028 not recovered.
-- No walk named. Hold the row.
-- Waking: eat rotten flesh at hunger 6; stay in row; wait for Billy's named walk.
+- Waking: hold the row; eat rotten flesh or bread at hunger 6; wait for Billy's named walk. Ask Clark or Data how the sword got into hand.
