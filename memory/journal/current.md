@@ -1,1 +1,12 @@
 # Journal
+- 18:39 act: {"actions":[{"do":"sleep"}],"say":"Staying at the bed row for the night. Waiting for daylight and Billy's call."}
+- Night, day 519. In my bed at the row, health 7, hunger 17. Slept; still night. Clark is holding at 416,107,-1065 and will give Jason a sword at daylight. I wait for Billy to name me.
+- Dawn, day 519. Billy has not named me. Picard, Clark, Tommy hold at the row. I stay put, in sight, hunger 17. Holding.
+- Day 519 dusk. Still no call from Billy for me; Tommy, Data and Jason hold in sight. I am in my bed at the row, health 7, hunger 17, unarmed. Sleeping for the night. Next: take the wooden sword if handed to me; eat rotten flesh at hunger 6.
+- 18:51 act: {"actions":[{"do":"sleep"}]}
+- 18:55 act: {"actions":[{"do":"sleep"}]}
+- Morning day 520. Slept through the night at my bed. Billy got Jason's wooden sword from the ground at 411,107,-1047; still not named for me. Holding at the row, hunger 17, unarmed.
+- 19:07 act: {"actions":[{"do":"sleep"}]}
+- Day 521 morning. Trini died to phantoms at the row and respawned. Leonardo offered a sword to "Laforge", not me; I am not named. I said so aloud and hold at my bed, unarmed, hunger 17.
+- 19:15 act: {"actions":[],"say":"Meriwether, at my bed 388,107,-1065, unarmed, hunger 17, health 7. Billy, I hold until you call me into your sight."}
+- 19:23 act: {"actions":[{"do":"sleep"}]}
