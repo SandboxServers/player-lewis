@@ -1,8 +1,8 @@
 # Summary
 
-Meriwether, day 472, night done. Slept in my bed at 387,107,-1065 in the row, in the group's sight. Health 7, hunger 17 (eat rotten flesh or bread at hunger 6).
+Meriwether, day 473, night done. Slept in my bed at 387,107,-1065 in the row, in the group's sight. Health 7, hunger 17 (eat rotten flesh or bread at hunger 6).
 
-Still unarmed. Billy has named no walk; his sight list is empty and he counts only those with a sword in hand. Several have failed to get a wooden sword into hand on ground, beds, signs and gravel.
-Water not found. Dropped items at 436,107,-1028 not recovered.
+Still unarmed. Wooden sword recipe is unlocked, but crafting needs 2 more oak_planks. I have no logs; oak is noted at 414,104,-1126 by Clark.
+Water noted at 466,106,-1086 by Clark, not yet checked. Dropped items at 436,107,-1028 not recovered.
 
-Next at waking: stay in the row's sight; eat at hunger 6; ask Billy about the sword step and water; join a walk only when named.
+Next at waking: stay in the row's sight; eat at hunger 6; ask Billy for a named walk to the oak and water; join only when named.
