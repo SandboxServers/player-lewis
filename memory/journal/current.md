@@ -7,3 +7,9 @@
 - 05:00 act: {"actions":[{"do":"sleep"}]}
 - 05:02 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, in my bed at 387,107,-1065, health steady. Sleep in bed as my goals say."}
 - 05:04 act: {"actions":[{"do":"note","text":"Night, day 478. In my bed row at 387,107,-1065. Holding as Billy asked; no walk called. Hunger 17, health 7 steady."}],"say":"Holding at the row, as Billy asked."}
+- 05:17 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1065}}],"say":"Night, row. Meriwether going to my bed at 387,107,-1065 in Billy's sight. Unarmed, no walk."}
+- 05:17 act: {"actions":[{"do":"sleep"}]}
+- 05:20 act: {"actions":[{"do":"note","text":"Morning, day 479. Woke at my bed 387,107,-1065 in the row. Health 7 steady, hunger 17. No walk named; holding."}],"say":"Morning, row. Meriwether awake at my bed, heal
+- 05:28 act: {"actions":[{"do":"note","text":"Day 479 midday. Still at my bed in the row, health 7, hunger 17. No walk named by Billy. Holding."}]}
+- 05:32 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Dusk day 480. In my bed at 387,107,-1065 in the row, health 7, hunger 17. No walk named. Sleeping."}],"say":"Dusk, row. Meriwether at my bed in Billy's 
+- 05:36 act: {"actions":[{"do":"note","text":"Morning day 480. Woke in my bed, row. Health 7, hunger 17. Still no walk named by Billy. Holding."}]}
