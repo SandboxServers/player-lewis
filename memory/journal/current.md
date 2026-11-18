@@ -10,3 +10,4 @@
 - Day 521 morning. Trini died to phantoms at the row and respawned. Leonardo offered a sword to "Laforge", not me; I am not named. I said so aloud and hold at my bed, unarmed, hunger 17.
 - 19:15 act: {"actions":[],"say":"Meriwether, at my bed 388,107,-1065, unarmed, hunger 17, health 7. Billy, I hold until you call me into your sight."}
 - 19:23 act: {"actions":[{"do":"sleep"}]}
+- 19:32 say: {"text":"Meriwether at my bed, 387,107,-1065, in the row's sight. Unarmed, hunger 17, no food to spare. Billy, I hold until you name me for the sword."}
