@@ -1,7 +1,8 @@
-# Handoff, day 473 dusk
+# Handoff, day 478 night
 
-- In my bed at 387,107,-1065 in the row, in the group's sight. Sleeping. Health 7, hunger 17 (eat rotten flesh or bread at hunger 6).
-- Wooden sword: recipe unlocked, but craft failed for lack of 2 oak_planks. Need oak logs first. Oak is at 414,104,-1126 per Clark's notes.
-- Water per Clark's notes: 466,106,-1086. Not yet verified.
+- Slept in my bed at 387,107,-1065 in the row, in the group's sight. Health 20 per row reports at morning; hunger 17 when I slept.
+- Still unarmed. Wooden sword recipe unlocked; needs oak_planks, and I have no logs. Oak at 414,104,-1126 per Clark's notes.
+- Water per Clark's notes at 466,106,-1086, not verified.
 - Dropped items at 436,107,-1028 not recovered.
-- Waking: stay in the row; ask Billy about a named walk to water and oak; join only when named.
+- Billy has called no walk. Row is holding. Leonardo's wooden sword gift to Jason did not happen; do not count on it.
+- Waking: stay in the row; eat at hunger 6 (I have rotten flesh and bread in pack); ask Billy for a named walk; join only when named.
