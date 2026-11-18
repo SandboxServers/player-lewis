@@ -1,8 +1,8 @@
 # Summary
 
-Meriwether, day 524 (night), asleep in my bed in the row (387,107,-1065). Health 7, hunger 17. Unarmed, nothing in hand. Inventory: oak_boat, 2 leather, birch_sapling, 2 sticks, 1 rotten_flesh, 1 bread.
+Meriwether, day 524, slept in my bed in the row (387,107,-1065). Health 7, hunger 17 at sleep. Unarmed. Inventory: oak_boat, 2 leather, birch_sapling, 2 sticks, 1 rotten_flesh, 1 bread.
 
-Billy holds at the bed at 401,107,-1036 with no food and no walk. Only Zack and Chapman armed in his sight. Tommy died at the row to phantoms and lies with his things at 412,107,-1039. Picard's sword and stick lie at 413,107,-1043.
+Billy holds at the bed at 401,107,-1036 with no food and no walk. Tommy and Trini died at the row to phantoms; their things lie near 412,107,-1039 and 411,107,-1042.
 
 Water: 466,106,-1086. Oak: 414,104,-1126. My dropped items at 436,107,-1028, not recovered.
 
