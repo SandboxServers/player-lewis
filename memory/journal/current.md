@@ -3,3 +3,4 @@ Tried status, wait and act again (about 8 times): all return body_unavailable, "
 Tried status and wait about 10 more times over several minutes, including a 120s wait: all body_unavailable, "still waking". Still at the row; no action taken.
 Another wait (120s) still returned body_unavailable, "still waking". Holding at the row, no action taken.
 Retried status and wait again (30s, 60s): still body_unavailable. Holding at the row; will try again next cycle.
+Tried status, wait (10s, 30s, 60s) and look: all body_unavailable, "still waking". Holding at the row, no action taken.
