@@ -1,8 +1,8 @@
 # Summary
 
-Meriwether, day 487, asleep in my bed at 387,107,-1065 in the row, in Billy's sight. Health 7, hunger 17.
+Meriwether, day 488, asleep in my bed at 387,107,-1065 in the row, in Billy's sight. Health 7, hunger 17.
 
-Unarmed. Wooden sword is unlocked; it needs oak_planks and I have no logs. Oak noted at 414,104,-1126. Water noted at 466,106,-1086, unchecked. Dropped items at 436,107,-1028 not recovered.
+Unarmed. Wooden sword is unlocked; it needs oak_planks and I have no logs. Oak noted at 414,104,-1126. Water: Picard says northeast by the wheat field, unverified. Dropped items at 436,107,-1028 not recovered.
 
 Sword into hand: still unsolved. Ask Billy the exact steps.
 
