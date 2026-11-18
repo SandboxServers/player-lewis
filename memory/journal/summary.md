@@ -1,8 +1,9 @@
 # Summary
 
-Meriwether, day 455, asleep at 387,107,-1065 in the bed row, in sight of Jason, Clark and Picard. Health 7, hunger 17 at sleep.
-Still unarmed. Billy's stone sword still not in hand.
-Clark holds 8 oak planks; hands them only in daylight, to those in his sight. Picard got 4 and made a wooden sword.
-No walk, water search or bed cell named for me. Water not yet found.
-Dropped items at 436,107,-1028: recover only with company and no enderman near.
-Next: at first light, stay in sight of the row, eat at 6, ask Billy about the sword, join a walk only when named.
+Meriwether, day 491, slept in my bed at 387,107,-1065 in the row. Health 7, hunger 17 at sleep. Unarmed.
+
+Billy has named no walk and no sword for me. Chapman's stone sword went to MacDonald. Picard is short of planks for a wooden sword.
+
+Water: Clark saw it at 466,106,-1086. Oak noted at 414,104,-1126. Dropped items at 436,107,-1028 not recovered.
+
+Next at waking: stay in the row's sight; eat rotten flesh or bread at hunger 6; wait for Billy's named walk or sword.
