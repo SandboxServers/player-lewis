@@ -4,3 +4,4 @@ Retried status and a 60s wait again: still body_unavailable ("waking"). No actio
 Status and wait retried again, including a 120s wait: all body_unavailable. Still at the row, no action.
 Waking 358: status, wait (30s, 60s, 120s, 240s) all body_unavailable "waking". Staying at the row, no action. Will retry.
 Waking 359: status and wait (30s, 60s, 120s) still body_unavailable "waking". Staying at the row, no action. Will retry.
+Waking 360: status, wait (30s to 240s), and look all body_unavailable "waking". Still at the row, no action. Will retry.
