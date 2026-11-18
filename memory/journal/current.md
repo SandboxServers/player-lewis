@@ -14,3 +14,5 @@
 - 05:32 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Dusk day 480. In my bed at 387,107,-1065 in the row, health 7, hunger 17. No walk named. Sleeping."}],"say":"Dusk, row. Meriwether at my bed in Billy's 
 - 05:36 act: {"actions":[{"do":"note","text":"Morning day 480. Woke in my bed, row. Health 7, hunger 17. Still no walk named by Billy. Holding."}]}
 - 05:40 act: {"say":"Morning. Meriwether at my bed, health 7, hunger 17, unarmed. Holding in the row until Billy names a walk.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_a
+- 05:47 act: {"actions":[{"do":"sleep"}],"say":"Still in the row, in sight of the bed. Going to sleep."}
+- 05:47 act: {"actions":[{"do":"note","text":"Day 480 night, in my bed at 387,107,-1065. Health 7, hunger 17. Sleep attempts ran; no walk named. Holding in the row."}]}
