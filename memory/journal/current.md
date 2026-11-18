@@ -6,3 +6,5 @@
 - 01:48 act: sleep attempt.
 - 01:53 say: Morning, Meriwether at my bed, holding in the row, unarmed. Asked Billy about a walk or water search today. Holding (rest intent).
 - Day 469 morning: no one named me for a walk, sword or water. Hunger 17, health 7, steady. Waiting in the row.
+- 01:55 say: {"text":"Meriwether at my bed, counted and unarmed. Billy, is there a sword step or water search for me today? I will hold until you name it."}
+- 01:55 act: {"intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
