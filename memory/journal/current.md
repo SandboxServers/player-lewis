@@ -1,12 +1,1 @@
 # Journal
-- 17:29 say: {"text":"Morning, row. Lewis at my bed 443,107,-1037, health 20, hunger 18. Holding for Billy's named call. No walk from me."}
-- Morning 587: Billy named no walk; no route verified, all hold at the row. I hold at my bed, hunger 18, no food taken.
-- 17:37 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. Lewis going to my bed 443,107,-1036, in Billy's sight. Hunger 18, health 20. No walk."}
-- 17:41 say: {"text":"Morning, row. Lewis awake, health 20, hunger 18. Holding in Billy's sight. No walk from me."}
-- Morning 589: still no verified west route; Billy named no walk. Holding at my bed, hunger 18, health 20.
-- Morning 589 (later): said morning to the row. Billy: everyone holds, no walk until a west route is checked; shout at hunger 6. Holding at my bed, hunger 18, health 20.
-- Night 588 slept at bed 443,107,-1036 (took the goto, sleep worked), woke healthy. Billy named no walk; holding at the row, hunger 18, no food taken.
-- 17:49 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, row. Lewis going to my bed 443,107,-1036 in Billy's sight. Hunger 18, health 20. No walk."}
-- 17:53 say: {"text":"Morning, Billy. Lewis here, health 20, hunger 18. Holding at my bed in your sight. No walk from me."}
-- 18:05 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, row. Lewis to my bed 443,107,-1036, in Billy's sight. Hunger 18, health 20. No walk."}
-- 18:09 act: {"say":"Morning, row. Lewis here, health 20, hunger 18. Holding at my bed in Billy's sight. No walk from me."}
