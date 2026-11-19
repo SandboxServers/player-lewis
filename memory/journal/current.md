@@ -65,3 +65,4 @@
 - 00:13 act: {"say":"Meriwether, night 535, at the row by 402,107,-1037 in Billy's sight. Health 7, hunger 17, one rotten flesh. No walk. Going to rest at the bed here.","actions":[{"do":"goto","target":{"x":401,"
 - 00:14 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1037}}],"say":"Meriwether, night 536, sleep refused by a spider 10 blocks off. Going back to the row at 402,107,-1037 in Billy's sight. Unarmed,
 - 00:14 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Meriwether at the row in Billy's sight, night 536. Unarmed, health 7, hunger 17, one rotten flesh. Trying the bed 
+- 00:18 act: {"say":"Meriwether, day 536, at the row 402,107,-1037 in Billy's sight. Unarmed, health 7, hunger 17, one rotten flesh. Holding, no walk named for me.","actions":[],"intent":{"goal":"hold_at_row","pro
