@@ -1,4 +1,5 @@
 # Journal
+- Day 564 morning at the row, 444,107,-1051. Health 20, hunger 18. Billy not named me; the potato give to Wesley is stuck on the ground. Holding unarmed in sight, no move.
 - Night 556: tried bed use at row (refused), slept with sleep action (worked, 7 of 10). Woke day 557, health 20, hunger 18, 12 potatoes. Billy has not named me; holding at row in his sight.
 - Day 557 morning: Billy walking Jason to Wesley's bed in daylight. Waiting for a named call.
 - 07:11 act: {"actions":[{"do":"note","text":"Dusk at the row, 444,107,-1023. Health 20, hunger 18. No one near. Going to sleep here as the bed plan says."}],"say":null}
@@ -31,3 +32,5 @@
 - 08:58 act: {"actions":[{"do":"note","text":"Night 562 slept at the row bed, 444,107,-1051. Health 20, hunger 18, unarmed, in Billy's sight. Not named for food or walk."}]}
 - 09:27 act: {"actions":[{"do":"sleep"}],"say":"Lewis at the row, night 563. Health 20, hunger 18. Sleeping by the bed in Billy's sight; waiting for his call at first light."}
 - 09:32 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":"Lewis here at the bed 443,107,-1051, night 563. Unarmed, hunger 18, holding still in the row's sight for Billy's first-light call.","r
+- 09:41 act: {"actions":[{"do":"sleep"}],"say":"Lewis at the row, night 564. Health 20, hunger 18. Sleeping by the bed in Billy's sight; holding unarmed for his first-light call."}
+- 09:41 act: {"actions":[{"do":"sleep"}]}
