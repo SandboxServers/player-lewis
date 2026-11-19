@@ -20,3 +20,12 @@
 - 08:29 act: {"actions":[{"do":"note","text":"Still at the row, 444,107,-1051. Health 20, hunger 18. Billy's potatoes going to Wesley and Deanna. Not named; holding unarmed."}]}
 - 08:33 act: {"actions":[{"do":"sleep"}],"say":"Lewis at the row, dusk 560, hunger 18. Sleeping by the bed in sight."}
 - 08:33 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 560 at the row, 444,107,-1051. Sleep partly worked (4 of 10). Health 20, hunger 18. Trying again; unarmed, in Billy's sight."}]}
+- 08:37 act: {"actions":[{"do":"note","text":"Morning 561 at the row, 444,107,-1051. Health 20, hunger 18. Not named by Billy; holding unarmed in sight."}]}
+- 08:45 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Dusk 561 at the row, 444,107,-1051. Health 20, hunger 18. Not named; sleeping by the bed in sight."}]}
+- 08:45 act: {"actions":[{"do":"sleep"}]}
+- 08:46 act: {"actions":[{"do":"note","text":"Dusk 561: sleep worked fully. Holding at the row, 444,107,-1051. Health 20, hunger 18. Waiting for Billy's named call."}],"intent":{"goal":"hold_at_row_for_billy","pro
+- 08:50 act: {"actions":[{"do":"note","text":"Morning 562 at the row, 444,107,-1051. Health 20, hunger 18. Billy named Jason, Riker, Tommy for the walk to Wesley, not me. Holding unarmed in sight."}]}
+- 08:58 act: {"actions":[{"do":"note","text":"Dusk 562 at the row, 444,107,-1051. Health 20, hunger 18. Not named by Billy; holding unarmed in sight. Will sleep by the bed when it is night."}]}
+- 08:58 act: {"actions":[{"do":"sleep"}]}
+- 08:58 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Dusk 562 at the row, 444,107,-1051. Sleep partly worked (1 of 10). Retrying; health 20, hunger 18, unarmed in Billy's sight."}]}
+- 08:58 act: {"actions":[{"do":"note","text":"Night 562 slept at the row bed, 444,107,-1051. Health 20, hunger 18, unarmed, in Billy's sight. Not named for food or walk."}]}
