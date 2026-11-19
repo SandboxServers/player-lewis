@@ -30,3 +30,4 @@
 - 08:58 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Dusk 562 at the row, 444,107,-1051. Sleep partly worked (1 of 10). Retrying; health 20, hunger 18, unarmed in Billy's sight."}]}
 - 08:58 act: {"actions":[{"do":"note","text":"Night 562 slept at the row bed, 444,107,-1051. Health 20, hunger 18, unarmed, in Billy's sight. Not named for food or walk."}]}
 - 09:27 act: {"actions":[{"do":"sleep"}],"say":"Lewis at the row, night 563. Health 20, hunger 18. Sleeping by the bed in Billy's sight; waiting for his call at first light."}
+- 09:32 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":"Lewis here at the bed 443,107,-1051, night 563. Unarmed, hunger 18, holding still in the row's sight for Billy's first-light call.","r
