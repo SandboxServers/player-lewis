@@ -5,3 +5,6 @@
 - Morning 565 at the row (430,107,-1023). Health 20, hunger 18, 11 potatoes. Billy's walk went to Picard; I hold and say I am waiting for Billy's word.
 - 10:20 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Night has come, Billy is at the row bed 429,107,-1036 in sight. I go to that bed and sleep there, holding in
 - 10:34 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Lewis at my bed 443,107,-1037, in Billy's sight. Health 20, hunger 18, unarmed. Holding for first light."}
+- 10:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Lewis at my bed in Billy's sight for the night. Unarmed, hunger 18, holding for Billy's first light call."}
+- 11:07 say: {"text":"Billy, Lewis here at 444,107,-1037, hunger 18, holding. My notes list oak near 414,104,-1126 and water near 466,106,-1086. Not checked by me lately; I walk only when named."}
+- 11:27 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Lewis at my bed, night 569. Unarmed, hunger 18, in Billy's sight at the row. Waiting for first light."}

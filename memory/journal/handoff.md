@@ -1,6 +1,6 @@
-# Handoff, night 567
+# Handoff, night 569
 
-- In bed at 443,107,-1037, in Billy's sight at the row. Health 20, hunger 18. Unarmed.
+- Asleep at the row bed near 443,107,-1037 (9 of 10 needed asleep), in Billy's group sight. Health 20, hunger 18. Unarmed.
 - Holding 11 potatoes, 1 rotten flesh, 2 leather, oak_boat, birch_sapling, 2 sticks.
-- No errand out. Picard's south walk found no oak. Billy's rule: wood search at first light, in sight of the row, only when named.
-- Next: at first light, wait for Billy's named call. Eat a potato when hunger drops under 18.
+- No errand out. Billy holds one wooden sword for Tommy; Riker's 2 potatoes wait for daylight and a clear line.
+- Next: at first light, wait for Billy's named call. Eat a potato when hunger drops under 18. Do not walk unless named.
