@@ -17,5 +17,7 @@
 - Day 476: sleep is refused when pillagers or an enderman are near. Holding in the row until morning works.
 - Day 492: bed use is refused with "that block is a bed", but the sleep action works at dusk (partly asleep, 2 of 10). Daylight sleep is refused.
 
+- Day 540: Billy named an armed oak walk west with five armed; unarmed hold at the row. Walk called off at dusk. Sleep at my bed in Billy's sight worked at dusk again.
+
 Curious next: how a sword is brought into hand; where water is; what the trader holds.
 Who to tell: Billy and Troi, first.
