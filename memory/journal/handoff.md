@@ -1,6 +1,6 @@
-# Handoff, day 524
+# Handoff, night 535
 
-- At my bed 387,107,-1065, sleeping for the night. Health 7, hunger 17, unarmed, nothing in hand.
-- Billy has no food yet and no walk. Only Zack and Chapman armed in his sight.
-- Next at waking: stay in the row's sight at my bed. Eat rotten flesh or bread at hunger 6. Take a sword only if Billy names me.
+- Asleep at bed 401,107,-1037 in Billy's sight at the row (sleep worked on the second try, after 6 of 10). Health 7, hunger 17, unarmed, one rotten flesh.
+- Data holds the wooden sword for MacDonald; Billy's named handover. I am not named for any sword or walk.
+- Next at waking: stay in Billy's sight at the row, around 402,107,-1037. Eat my rotten flesh at hunger 6. No walk until named.
 - Water 466,106,-1086; oak 414,104,-1126; dropped items 436,107,-1028 not recovered.
