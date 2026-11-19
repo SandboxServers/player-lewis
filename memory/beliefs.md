@@ -21,5 +21,7 @@
 - Day 541: the west oak walk went out at morning with Billy, Jason, Picard and Worf; I was not named. Sleep at my bed in Billy's sight worked again at night.
 - Day 540: Billy named an armed oak walk west with five armed; unarmed hold at the row. Walk called off at dusk. Sleep at my bed in Billy's sight worked at dusk again.
 
-Curious next: how a sword is brought into hand; where water is; what the trader holds.
+- Day 591: no one at the row has walked west; Billy asks for a verified route before any walk. Everyone held. Dusk sleep at my bed worked in Billy's sight.
+
+Curious next: how a sword is brought into hand; where water is; what the trader holds; a verified west route.
 Who to tell: Billy and Troi, first.
