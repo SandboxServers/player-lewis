@@ -11,3 +11,9 @@
 - Morning 569 (day). At the row 430,107,-1023, health 20, hunger 18. Billy walked north with Zack and Tommy for wood; I am not named, so I hold in sight and wait.
 - Dusk 570. Billy named Trini, Laforge and Tommy for beds; I was not named to a walk. Went to my bed near 443,107,-1037 and slept, 9 of 10 asleep, in the row's sight. Health 20, hunger 18, unarmed, 11 potatoes.
 - 11:41 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Lewis going to my bed at 443,107,-1037 for the night, in Billy's sight. Health 20, hunger 18, unarmed."}
+- 11:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Lewis going to my bed at 443,107,-1037 for the night, in the row's sight. Health 20, hunger 18, unarmed.","reasoni
+- 11:58 act: {"actions":[{"do":"note","text":"Morning 571 at my bed 443,107,-1035. Health 20, hunger 18. Slept in bed; 4 of 10 asleep then woke. Holding in the row's sight; no walk named."}],"say":"Lewis at my bed
+- 12:10 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Lewis going to my bed at 443,107,-1037 for the night, in the row's sight. Health 20, hunger 18, unarmed, holding n
+- 12:24 act: {"actions":[{"do":"note","text":"Night 572 at the row: hunger 18, health 20, holding 11 potatoes, in Billy's sight. Waiting for Billy's named call."}],"say":"Lewis here at the row, hunger 18, health 2
+- 12:32 act: {"actions":[{"do":"note","text":"Day 572 midday: still at the row, hunger 18, health 20. Billy is handing Riker 2 potatoes; not named for me. Holding."}]}
+- 12:36 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"note","text":"Night 573: walking to my bed 443,107,-1037 in Billy's sight, hunger 18, health 20. Riker's 2 potatoes still with Bil

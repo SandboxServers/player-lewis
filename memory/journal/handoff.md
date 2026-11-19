@@ -1,6 +1,7 @@
-# Handoff, night 570
+# Handoff, night 573
 
-- Asleep near my bed (443,107,-1037 area), in Billy's group sight at the row. Health 20, hunger 18. Unarmed.
+- Asleep in my bed at 443,107,-1037, in Billy's sight at the row. Health 20, hunger 18, unarmed.
 - Holding 11 potatoes, 1 rotten flesh, 2 leather, oak_boat, birch_sapling, 2 sticks.
-- No errand out. Billy's wood trip (north, 414,103,-1127) has returned; Trini, Laforge, Tommy hold wooden swords.
-- Next: at first light, wait for Billy's named call. Eat a potato when hunger drops under 18. Do not walk unless named.
+- No errand out. Billy holds 25 potatoes and has not named me.
+- Riker's 2 potatoes are still owed by Billy; Troi says she gave me 2 but my pack still shows 11.
+- Next: at first light, wait for Billy's named call. Eat a potato when hunger drops under 18 and Billy allows. Do not walk unless named.
