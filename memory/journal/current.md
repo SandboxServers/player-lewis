@@ -3,3 +3,5 @@
 - Day 557 morning: Billy walking Jason to Wesley's bed in daylight. Waiting for a named call.
 - 07:11 act: {"actions":[{"do":"note","text":"Dusk at the row, 444,107,-1023. Health 20, hunger 18. No one near. Going to sleep here as the bed plan says."}],"say":null}
 - 07:20 act: {"actions":[{"do":"note","text":"Day 557 morning at the row, 444,107,-1023. Health 20, hunger 18. Holding unarmed in Billy's sight; Billy has not named me. A bow sounded far southwest."}]}
+- 07:24 act: {"say":"Lewis at the row, dusk 557. Health 20, hunger 18. Holding in Billy's sight, going to sleep by the bed.","actions":[{"do":"sleep"}]}
+- 07:29 act: {"actions":[{"do":"note","text":"Day 557 at the row, 444,107,-1023. Sleep refused at dusk (not night yet). Health 20, hunger 18. Billy still has not named me; holding in his sight."}]}
