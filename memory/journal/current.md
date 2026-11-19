@@ -6,3 +6,7 @@
 - 01:08 act: {"actions":[{"do":"sleep"}]}
 - 01:12 act: {"say":"Meriwether, morning 539. Health 7, hunger 17, one rotten flesh, unarmed. Holding in Billy's sight at the row. No walk from me until you name it.","reasoning":"Holding per Billy's word. Speak o
 - 01:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come, I am in Billy's sight beside the bed. Sleep here."}
+- 01:34 act: {"say":"Meriwether here, at the row beside the bed. Holding in Billy's sight. Going to sleep at dusk.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}]}
+- 01:34 act: {"actions":[{"do":"sleep"}]}
+- 01:34 act: {"actions":[{"do":"sleep"}]}
+- Dusk 540: at bed 401,107,-1037 in Billy's sight. Sleep worked but only 2 of 10 asleep. Health 7, hunger 17, unarmed. Trying sleep again; no walk named.
