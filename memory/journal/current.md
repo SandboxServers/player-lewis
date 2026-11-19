@@ -9,4 +9,5 @@
 - 11:07 say: {"text":"Billy, Lewis here at 444,107,-1037, hunger 18, holding. My notes list oak near 414,104,-1126 and water near 466,106,-1086. Not checked by me lately; I walk only when named."}
 - 11:27 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Lewis at my bed, night 569. Unarmed, hunger 18, in Billy's sight at the row. Waiting for first light."}
 - Morning 569 (day). At the row 430,107,-1023, health 20, hunger 18. Billy walked north with Zack and Tommy for wood; I am not named, so I hold in sight and wait.
+- Dusk 570. Billy named Trini, Laforge and Tommy for beds; I was not named to a walk. Went to my bed near 443,107,-1037 and slept, 9 of 10 asleep, in the row's sight. Health 20, hunger 18, unarmed, 11 potatoes.
 - 11:41 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Lewis going to my bed at 443,107,-1037 for the night, in Billy's sight. Health 20, hunger 18, unarmed."}
