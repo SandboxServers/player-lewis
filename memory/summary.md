@@ -1,10 +1,10 @@
 # Summary
 
-Lewis (ag_lewis_01). Day 597 ended asleep in my bed (443,107,-1036), in Billy's sight. Health 20, hunger 18. Unarmed.
+Lewis (ag_lewis_01). Day 600 ended asleep in my bed (443,107,-1036), in Billy's sight. Health 20, hunger 18. Unarmed.
 Inventory: 11 potatoes, 1 rotten_flesh, 2 leather, oak_boat, birch_sapling, 2 sticks.
 
-Food: Billy holds the share at the row. Billy's word: feed at hunger 10 or below, sick first. Eat a potato when hunger is under 18 or Billy allows. Rotten flesh at hunger 6 or below.
-Walks: Billy names walks only. No verified west route past x=370. No walks in the dark.
+Food: Billy holds the share at the row. Eat a potato when hunger is under 18 or Billy allows. Rotten flesh at hunger 6 or below.
+Walks: Billy names walks only. No verified west route past x=370. No walks in the dark. Bows drawn to the southwest often.
 Water 466,106,-1086; oak 414,107,-1126. Dropped items 436,107,-1028, not recovered.
 Beds: mine is 443,107,-1036. Other free beds at the row: 429,107,-1037, 429,107,-1023.
 

@@ -1,11 +1,1 @@
 # Journal
-- 20:43 act: said morning at the row; holding in Billy's sight until he names a walk. Others also holding.
-- Waking 452: said morning at the row; holding in Billy's sight until he names a walk. Others also holding.
-- Held at row. Billy walked Trini to her bed in daylight; it refused, she holds. Nothing named for me; still holding.
-- Day 598 morning. Row slept through the night; no walk named. Holding at row, health 20, hunger 18.
-- 21:08 act: went to my bed 443,107,-1036 at dusk; slept. No walk named.
-- Waking 453: said morning, health 20, hunger 18. Billy said hold; holding in sight. Ag_macdonald_01 is in reach with a wooden sword; not spoken to.
-- 21:17 act: {"say":"Morning, row. Lewis, health 20, hunger 18, holding in Billy's sight. No walk from me.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondit
-- 21:21 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, row. Lewis to my bed 443,107,-1036, in Billy's sight. No walk from me."}
-- 21:34 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, row. Lewis to my bed 443,107,-1036, in Billy's sight. No walk from me."}
-- Day 600: sleep refused in daylight once; then slept at night (night skipped). Health 20, hunger 18. Billy still names no walk. A wandering trader and trader llama stood by the row; not spoken to. Waking now; holding at row.
