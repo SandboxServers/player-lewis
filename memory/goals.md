@@ -9,5 +9,5 @@
 7. Help Clark's east wall: place only the exact cell he names.
 8. Share what I learn; ask Picard, Billy and the trader what they know of the land and tools.
 
-Curious next: a verified route west (Billy asked for one); what the trader holds.
-Who to tell: Billy first, then Clark and Troi.
+Curious next: a verified route west (Billy asked for one); what the trader holds; what blocks Tommy's way west (oak planks).
+Who to tell: Billy first, then Troi and Tommy.
