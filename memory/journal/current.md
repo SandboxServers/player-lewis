@@ -17,3 +17,5 @@
 - 12:24 act: {"actions":[{"do":"note","text":"Night 572 at the row: hunger 18, health 20, holding 11 potatoes, in Billy's sight. Waiting for Billy's named call."}],"say":"Lewis here at the row, hunger 18, health 2
 - 12:32 act: {"actions":[{"do":"note","text":"Day 572 midday: still at the row, hunger 18, health 20. Billy is handing Riker 2 potatoes; not named for me. Holding."}]}
 - 12:36 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"note","text":"Night 573: walking to my bed 443,107,-1037 in Billy's sight, hunger 18, health 20. Riker's 2 potatoes still with Bil
+- Day 573 waking: in my bed at 444,107,-1037, health 20, hunger 18. Billy named Trini for a potato walk to 466,107,-1066 with Trini armed; Riker and I hold. Said I hold. Waiting for Billy.
+- 12:37 act: {"reasoning":"Woke in my bed at the row. Billy named a potato walk for Trini; Riker and I hold here. Hunger 18, not under 18, so no eating yet. Wait for Billy.","say":"Lewis here, holding at the row a
