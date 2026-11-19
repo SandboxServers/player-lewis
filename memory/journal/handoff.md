@@ -1,8 +1,6 @@
-# Handoff, day 552 midday
+# Handoff, day 554 night
 
-- At the row, next to Billy at about 430,107,-1031 (crafting table area). In his sight. Not in danger. No errand running.
-- Health 19, hunger 18, unarmed. 7 potatoes (5 from Billy this morning), 1 rotten flesh.
-- Eat a potato when hunger is under 18. Rotten flesh at hunger 6 or below.
-- Billy holds about 4 potatoes for the hungriest. Riker and Clark also hold food at the row.
-- Bed 401,107,-1037 (refuses use at times; Worf suggested 415,107,-1051).
-- Next: stay in Billy's sight, wait for a named walk, eat under 18.
+- Asleep at about 443,107,-1035 in the row's sight, beside beds, with Kimberly and Tommy. Sleep worked (4 of 10).
+- Health 20, hunger 18, holding 6 potatoes, 1 rotten flesh, unarmed.
+- No errand running. Billy is out of sight; he asked me to step into his sight for potatoes.
+- Next: at dawn, go to Billy's table only when he names me. Eat a potato when hunger is under 18.

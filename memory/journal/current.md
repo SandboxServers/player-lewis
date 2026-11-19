@@ -12,3 +12,18 @@
 - 05:43 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1032}}],"say":"Lewis walking to you now, Billy, toward the crafting table."}
 - 05:43 act: {"actions":[{"do":"eat"}],"say":"Lewis here at your side, Billy, in your sight. Hunger 17, 2 potatoes left after this. Thank you."}
 - 05:43 act: {"actions":[{"do":"note","text":"Billy gave Lewis 5 potatoes at the crafting table row. Now 7 potatoes, hunger 18."}],"say":"Thank you, Billy. Hunger 18 now, 7 potatoes in my pack. I will eat again wh
+- 05:48 act: {"actions":[{"do":"eat"}],"say":"Lewis here, at the row beside Billy. Holding, unarmed, waiting for a named call."}
+- 05:48 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1037}},{"do":"use","at":{"x":401,"y":107,"z":-1037}}],"say":"Lewis going to my bed at 401,107,-1037 for the night, still in sight of the row."}
+- 05:48 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Lewis trying the other bed beside me, in Billy's sight at dusk."}
+- 05:48 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Lewis walking to the bed Worf named, 415,107,-1051, at dusk. Still near the row."}
+- 05:48 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Lewis, dark now, trying the bed at 413,107,-1042."}
+- 05:48 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1032}}],"say":"Lewis walking back to Billy's table at 430,107,-1032, in the group's sight for the night."}
+- 05:49 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1032}}],"say":"Lewis walking back to Billy's table, 430,107,-1032."}
+- 05:53 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1032}}],"say":"Lewis coming to Billy's table now, hunger 18, in your sight."}
+- 05:56 act: {"actions":[{"do":"note","text":"Dawn 553 at Billy's table. Holding 6 potatoes, hunger 18. Riker 17 and Wesley ahead of me for potatoes; I wait."}],"say":"Lewis here, morning 553, at Billy's table. I 
+- 06:04 act: {"actions":[{"do":"note","text":"Morning 553: still at the row, hunger 18, holding 6 potatoes. No one named me yet; Billy not in sight. Staying put."}],"say":"Lewis at the row, hunger 18, holding 6 po
+- 06:08 act: {"actions":[{"do":"note","text":"Billy says he cannot see me. I stand at the row 430,107,-1031, hunger 18, holding 6 potatoes. Asking him to look."}],"say":"Billy, Lewis is at the row, 430,107,-1031, 
+- 06:15 act: {"actions":[{"do":"note","text":"Dusk 554. Billy went to the row bed; I stay at the row, not walking alone. Hunger 18, 6 potatoes held."}],"say":"Lewis staying at the row for the night, holding 6 pota
+- 06:15 act: {"actions":[{"do":"sleep"}]}
+- 06:15 act: {"actions":[{"do":"sleep"}],"say":"Lewis beside Billy and Jason at the bed row, sleeping in your sight now. Potatoes held for first light."}
+- 06:15 act: {"actions":[{"do":"sleep"}]}
