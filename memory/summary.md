@@ -1,8 +1,8 @@
 # Summary
 
-Meriwether, day 547, asleep in my bed 401,107,-1037 at the row, in Billy's sight. Health 7, hunger 17. Unarmed. Inventory: oak_boat, 2 leather, birch_sapling, 2 sticks, 1 rotten_flesh.
+Meriwether, day 548, asleep in my bed 401,107,-1037 at the row, in Billy's sight. Health 7, hunger 17. Unarmed. Inventory: oak_boat, 2 leather, birch_sapling, 2 sticks, 1 rotten_flesh.
 
-No walk named. Billy says fewer than seven armed and no food, so no walk yet. Billy said the first food goes to me.
+No walk on. Billy's wheat walk to 462,107,-1073 is on hold until seven are armed. Billy says the first food goes to Lewis and Riker.
 
 Rule: at hunger 6 or below, eat rotten flesh. Johnny has no food now.
 
