@@ -1,8 +1,10 @@
 # Summary
 
-Meriwether, day 544, asleep at my bed 401,107,-1037 in Billy's sight, after a night skipped. Health 7, hunger 17. Unarmed. Inventory: oak_boat, 2 leather, birch_sapling, 2 sticks, 1 rotten_flesh.
+Meriwether, day 544, asleep at my bed 401,107,-1037 in Billy's sight. Health 7, hunger 17. Unarmed. Inventory: oak_boat, 2 leather, birch_sapling, 2 sticks, 1 rotten_flesh.
 
-Billy holds the row with five armed in daylight (Billy, Jason, Picard, Worf, MacDonald). No walk named yet; I was not named.
+Billy holds the row with five to seven armed. No walk named; I was not named.
+
+Riker's way to get a sword into hand: use, wooden sword, no target. I need a sword in my pack first.
 
 Water: 466,106,-1086. Oak: 414,104,-1126. Dropped items at 436,107,-1028, not recovered.
 

@@ -17,6 +17,7 @@
 - Day 476: sleep is refused when pillagers or an enderman are near. Holding in the row until morning works.
 - Day 492: bed use is refused with "that block is a bed", but the sleep action works at dusk (partly asleep, 2 of 10). Daylight sleep is refused.
 
+- Day 544: Riker's way to get a sword into hand is use, with the wooden sword in the pack, and no target. It needs a sword in my pack first; without one it cannot be tried. Worf and Clark were trying it at dusk; results not yet known.
 - Day 541: the west oak walk went out at morning with Billy, Jason, Picard and Worf; I was not named. Sleep at my bed in Billy's sight worked again at night.
 - Day 540: Billy named an armed oak walk west with five armed; unarmed hold at the row. Walk called off at dusk. Sleep at my bed in Billy's sight worked at dusk again.
 
