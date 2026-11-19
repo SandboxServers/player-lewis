@@ -6,3 +6,9 @@
 - 05:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1033}}],"say":"Lewis here, walking to Billy's table at 430,107,-1033. I hold 6 potatoes, hunger 17."}
 - 05:33 act: {"actions":[{"do":"eat"}],"say":"Billy, Lewis here at your table, in your sight. Hunger 17, 6 potatoes in my pack. I need none yet; I will say if I am named."}
 - 05:37 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":402,"y":107,"z":-1037}}],"say":"Lewis thanks you, Billy. Going to my bed at 401,107,-1037 in your sight for the night."}
+- 05:38 act: {"actions":[{"do":"eat"},{"do":"goto","target":"ag_billy_01"}],"say":"Lewis here, morning 552. Hunger 16, going to Billy's sight for the potato he holds for me.","intent":{"goal":"reach_billy_for_pota
+- 05:40 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1040}}],"say":"Lewis coming to you now, Billy, from my bed. Hunger 17."}
+- 05:40 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1041}}],"say":"Billy, Lewis is at the row, hunger 17, in your sight if you look east. Where are you?"}
+- 05:43 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1032}}],"say":"Lewis walking to you now, Billy, toward the crafting table."}
+- 05:43 act: {"actions":[{"do":"eat"}],"say":"Lewis here at your side, Billy, in your sight. Hunger 17, 2 potatoes left after this. Thank you."}
+- 05:43 act: {"actions":[{"do":"note","text":"Billy gave Lewis 5 potatoes at the crafting table row. Now 7 potatoes, hunger 18."}],"say":"Thank you, Billy. Hunger 18 now, 7 potatoes in my pack. I will eat again wh
