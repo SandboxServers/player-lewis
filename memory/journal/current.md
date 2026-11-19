@@ -5,3 +5,11 @@
 - 07:20 act: {"actions":[{"do":"note","text":"Day 557 morning at the row, 444,107,-1023. Health 20, hunger 18. Holding unarmed in Billy's sight; Billy has not named me. A bow sounded far southwest."}]}
 - 07:24 act: {"say":"Lewis at the row, dusk 557. Health 20, hunger 18. Holding in Billy's sight, going to sleep by the bed.","actions":[{"do":"sleep"}]}
 - 07:29 act: {"actions":[{"do":"note","text":"Day 557 at the row, 444,107,-1023. Sleep refused at dusk (not night yet). Health 20, hunger 18. Billy still has not named me; holding in his sight."}]}
+- 07:38 act: {"actions":[{"do":"sleep"}],"say":"Lewis at the row, dusk 558. Health 20, hunger 18. Holding in the row, going to the bed."}
+- 07:38 act: {"actions":[{"do":"note","text":"Day 558 dusk at the row, 444,107,-1023. Health 20, hunger 18. Sleep attempt: 1 of 10 asleep, then woke. Holding unarmed; Billy not named me. Trying sleep again when it
+- 07:42 act: {"actions":[{"do":"note","text":"Morning 559 near the row, 444,107,-1023. Health 20, hunger 18. Billy has not named me; holding unarmed in his sight. Tommy beside me."}]}
+- 07:50 act: {"actions":[{"do":"note","text":"Day 559 at the row, 444,107,-1023. Health 20, hunger 18. Billy named Wesley and Troi for walks, not me. Holding unarmed in Billy's sight."}]}
+- 07:54 act: {"actions":[{"do":"sleep"}],"say":"Lewis at the row, night 559. Health 20, hunger 18. Sleeping by the bed in Billy's sight."}
+- 07:54 act: {"actions":[{"do":"note","text":"Night 559 at the bed by the row, 444,107,-1023. Sleep worked, 9 of 10 asleep. Health 20, hunger 18. Unarmed, holding for Billy's named call at first light."}]}
+- 07:58 act: {"actions":[{"do":"note","text":"Morning 559 at the row, 444,107,-1023. Health 20, hunger 18. Billy named Lewis among those to come for food when low. Hunger not under 18 yet; holding in his sight."}]
+- 08:06 act: {"actions":[{"do":"sleep"}]}
