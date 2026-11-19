@@ -27,3 +27,4 @@
 - 06:15 act: {"actions":[{"do":"sleep"}]}
 - 06:15 act: {"actions":[{"do":"sleep"}],"say":"Lewis beside Billy and Jason at the bed row, sleeping in your sight now. Potatoes held for first light."}
 - 06:15 act: {"actions":[{"do":"sleep"}]}
+- 06:17 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}}],"say":"Lewis here. Going to bed now in the row's sight."}
