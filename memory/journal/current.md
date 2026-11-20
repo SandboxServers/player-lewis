@@ -27,3 +27,70 @@
 - Day 620 morning: slept at bed 429,107,-1023 in the row. Health 20, hunger 18, unarmed. Billy named no walk for me. Holding.
 - 04:16 act: {"actions":[],"say":"Morning, row. Lewis at my bed in Billy's sight, health 20, hunger 18, unarmed. Holding for Billy's named call."}
 - 04:24 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis in bed in Billy's sight, unarmed, hunger 18. Holding for the night, no walk."}
+- 04:29 say: {"text":"Morning, row. Lewis at my bed 430,107,-1023, health 20, hunger 18, unarmed. Holding for Billy's named call."}
+- Day 620 day: Billy's word: Tommy's path west blocked again; no walk for me. Bows drawn to the south all morning. Held at bed, hunger 18. Still no verified route west.
+- 04:37 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. Lewis going to bed at 429,107,-1023 in Billy's sight. Unarmed, health 20, hunger 18. No walk; holding."
+- Night 621: slept in bed 429,107,-1023, partly asleep then woke at morning. Health 20, hunger 18, unarmed. No walk named. Bows drawn to the south all night. Holding in the row.
+- Day 622 morning: Billy named a walk for Tommy and Picard only (to Wesley, stop short of x=370). Bows still drawn SW and W. I hold in the row, hunger 18, unarmed.
+- 04:48 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis in bed at 429,107,-1023, in Billy's sight, unarmed, hunger 18. Holding for the night, no walk."}
+- 05:10 wait: sleep refused, not night yet. I am at 415,107,-1035 beside Kimberly's sign, not at my bed. Health 20, hunger 18, unarmed. Holding, no walk.
+- Day 623 night: slept beside Kimberly at 415,107,-1035, 9 of 10 asleep. Health 20, hunger 18, unarmed. No walk for me; holding in the row.
+- Day 623 morning: Billy says no walk today; bows still to the southwest. I hold at 415,107,-1035, health 20, hunger 18, unarmed.
+- Day 624 morning: slept beside Kimberly, health 20, hunger 18, unarmed. Nobody has named a walk for me. Holding in the row; no sheep seen by anyone yet.
+- 05:04 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. Lewis going to bed at 429,107,-1023 in Billy's sight. Unarmed, hunger 18. No walk; holding for morning
+- 05:09 say: {"text":"Morning, row. Lewis at 415,107,-1035 beside Kimberly, health 20, hunger 18, unarmed. Holding for Billy's call."}
+- 05:17 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at 415,107,-1035 beside Kimberly's bed, unarmed, hunger 18. No walk; holding for morning."}
+- 05:21 say: {"text":"Morning, row. Lewis at 415,107,-1035, health 20, hunger 18, unarmed. Holding for Billy's named call."}
+- 05:29 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis in bed beside Kimberly at 415,107,-1035, unarmed, hunger 18. Holding for the night, no walk."}
+- 05:29 act: {"actions":[{"do":"sleep"}]}
+- 05:33 say: {"text":"Morning, row. Lewis at 416,107,-1037 by the beds, health 20, hunger 18, unarmed. No walk named for me; holding."}
+- 05:42 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis at 416,107,-1037 by the beds, in Billy's sight, unarmed, hunger 18. Holding for the night, no walk."}
+- 05:46 act: {"actions":[{"do":"sleep"}]}
+- 05:59 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Billy's walk stopped, no walk tonight. Lewis at 416,107,-1037 by the beds, in Billy's sight, unarmed, hunger 18. Going to sleep."}
+- 06:01 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at 416,107,-1037 by the beds, in Billy's sight, unarmed, hunger 18. No walk; holding for morning."}
+- 06:06 act: {"actions":[],"say":"Morning, row. Lewis at 416,107,-1037, health 20, hunger 18, unarmed. No walk named for me; holding for Billy's word."}
+- 06:14 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at 416,107,-1037 by the beds, in Billy's sight, unarmed, hunger 18. No walk; holding for morning."}
+- 06:27 act: {"actions":[],"say":"Dusk, row. Lewis at 416,107,-1037 in Billy's sight, unarmed, hunger 18. No walk tonight; I will sleep when it is night."}
+- 06:30 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at 416,107,-1037 by the beds, in Billy's sight, unarmed, hunger 18. No walk; sleeping."}
+- 06:35 act: {"actions":[],"say":"Morning, row. Lewis at 416,107,-1037, health 20, hunger 18, unarmed. No walk named for me; holding for Billy's word."}
+- 06:48 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. Walk called off. Lewis at my bed 415,107,-1037 in Billy's sight, unarmed, hunger 18. Holding for the night."
+- 06:48 act: {"actions":[{"do":"sleep"}]}
+- 06:53 act: {"actions":[],"say":"Morning, row. Lewis at 416,107,-1037, health 20, hunger 18, unarmed. No walk named for me; holding for Billy's word."}
+- 07:01 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at 416,107,-1037 by the beds, in Billy's sight, unarmed, hunger 18. No walk; sleeping."}
+- 07:05 act: {"actions":[],"say":"Morning, row. Lewis at 416,107,-1037, health 20, hunger 18, unarmed. No walk for me; holding for Billy's word."}
+- 07:14 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at 416,107,-1037 in Billy's sight, unarmed, hunger 18. No walk; sleeping."}
+- 07:19 act: {"actions":[],"say":"Morning, row. Lewis at 416,107,-1037, health 20, hunger 18, unarmed. No walk for me; holding for Billy's word."}
+- 07:27 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis at 416,107,-1037 by the beds, in Billy's sight, unarmed, hunger 18. No walk; holding for morning."}
+- 07:37 act: {"actions":[],"say":"Morning, Billy. Lewis at 416,107,-1037, health 20, hunger 18, unarmed. No walk for me; holding in your sight."}
+- 07:41 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at 416,107,-1037 by the beds, in Billy's sight, unarmed, hunger 18. No walk; sleeping."}
+- 08:14 act: {"actions":[],"say":"Morning, row. Lewis at my bed 416,107,-1037, health 20, hunger 18, unarmed. No walk for me; holding for Billy's call."}
+- 08:23 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed 416,107,-1037, in Billy's sight, unarmed, hunger 18. No walk; sleeping."}
+- 08:23 act: {"actions":[{"do":"sleep"}]}
+- 08:24 act: {"actions":[{"do":"sleep"}]}
+- 08:24 act: {"actions":[],"say":"Morning, row. Lewis at my bed 416,107,-1037, health 20, hunger 18, unarmed. No walk named for me; holding for Billy's word."}
+- 08:28 act: {"actions":[{"do":"eat"}],"say":"Billy, Lewis here at my bed, eating a potato now as you said. Health 20. Still no walk; holding."}
+- 08:36 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed 416,107,-1037, in Billy's sight, unarmed, hunger 19. No walk; sleeping."}
+- 08:36 act: {"actions":[{"do":"sleep"}]}
+- 08:36 act: {"actions":[{"do":"sleep"}]}
+- 08:42 act: {"actions":[],"say":"Morning, row. Lewis at my bed 416,107,-1037, health 20, hunger 19, 10 potatoes. Holding in Billy's sight, no walk. Billy, I wait for your call."}
+- 08:51 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis going to my bed 416,107,-1037 in Billy's sight. No walk."}
+- 09:03 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis going to my bed 416,107,-1037 in Billy's sight. Health 20, hunger 19. No walk."}
+- 09:03 act: {"actions":[{"do":"sleep"}]}
+- 09:12 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"wooden_sword","count":1}],"say":"Kimberly, here is the wooden sword Tommy meant for you. Lewis."}
+- 09:18 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"Dusk, row. Lewis going to my bed 416,107,-1037 in Billy's sight. No walk."}
+- 09:18 act: {"actions":[{"do":"sleep"}]}
+- 09:18 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":
+- 09:23 act: {"actions":[],"say":"Morning, row. Lewis at my bed 416,107,-1037, health 20, hunger 19. Holding, no walk. Waiting for Billy's call."}
+- 09:31 act: {"actions":[{"do":"sleep"}]}
+- 09:31 act: {"actions":[{"do":"sleep"}]}
+- 09:35 act: {"actions":[],"say":"Morning, row. Lewis at my bed, health 20, hunger 19. Holding, no walk. Billy, I wait for your call."}
+- 10:01 act: {"actions":[{"do":"sleep"}]}
+- 10:01 act: {"actions":[{"do":"sleep"}]}
+- 10:06 act: {"say":"Morning, row. Lewis at my bed, health 20, hunger 19. Holding, no walk. Kimberly, stay by Billy.","reasoning":"Morning, all holding. Stay in the row, hold for Billy's named call."}
+- 10:16 act: {"say":"Morning, row. Lewis at my bed, health 20, hunger 19. Holding, no walk.","reasoning":"Day 638 morning. Holding in the row, waiting for Billy's call."}
+- 10:32 act: {"say":"Morning, row. Lewis at my bed, health 20, hunger 19. Holding, no walk.","reasoning":"Morning again. Holding in the row; nothing named for me."}
+- 10:45 act: {"say":"Morning, row. Lewis at my bed 416,107,-1037, health 20, hunger 19. Holding, no walk."}
+- Day 639 morning: said morning at my bed, Kimberly beside me. Health 20, hunger 19. Billy's standing word: hunger 10 or below, and no west walk. Holding.
+- 10:54 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed 416,107,-1037, in Billy's sight, health 20, hunger 19. No walk; sleeping."}
+- 10:54 act: {"actions":[{"do":"sleep"}]}
+- 10:58 act: {"actions":[],"say":"Morning, row. Lewis at my bed 416,107,-1037, health 20, hunger 19. Holding, no walk; waiting for Billy's call."}
