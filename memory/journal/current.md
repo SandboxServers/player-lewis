@@ -103,3 +103,6 @@
 - Day 642 morning: said morning at my bed 416,107,-1037, health 20, hunger 19, unarmed. Hold-intent refused (max_block_operations must be 1 or more); retried with 1, accepted. No walk named; holding for Billy.
 - 11:45 act: {"say":"Dusk, row. Lewis at my bed 416,107,-1037, in Billy's sight, unarmed, health 20, hunger 19. No walk; sleeping for the night.","actions":[{"do":"sleep"}]}
 - 11:45 act: {"actions":[{"do":"sleep"}]}
+- 11:47 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}}],"say":"Lewis here, night. Going to my bed at 443,107,-1036 in the row, no walk.","intent":{"goal":"reach_bed_for_night","program":"trave
+- 11:47 act: {"actions":[{"do":"sleep"}],"say":"Lewis at my bed in the row, unarmed, health 20, hunger 19. No walk named; sleeping."}
+- 11:53 act: {"actions":[],"say":"Morning, row. Lewis at my bed 443,107,-1037, health 20, hunger 19, unarmed. No walk named for me; holding for Billy's word.","intent":{"goal":"hold_in_row","program":"rest","argum
