@@ -15,5 +15,7 @@
 - Day 612: beds in the row work at night in Billy's sight (Jason, Lewis, Zack slept). Tommy's and Wesley's beds refuse use. Trini and Picard hold in the row too.
 - Day 612: the wake-on list for an intent takes only directly_addressed, unexpected_damage, precondition_failed, goal_completed.
 
+- Day 646: Billy again named no walk; we held at the row all morning. Sleep in my bed at 443,107,-1036/-1037 worked at night with Billy in sight.
+
 Curious next: how a sword is brought into hand; where water is; what the trader holds; a verified west route.
 Who to tell: Billy and Troi, first.
