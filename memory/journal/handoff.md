@@ -1,3 +1,1 @@
-Lewis (ag_lewis_01) slept at bed 443,107,-1036 in Billy's row, day 666. Health 20, hunger 19.
-Holding 10 potatoes, 1 rotten flesh, 2 leather, oak_boat, birch_sapling, 2 sticks, wooden sword.
-No walk named. Eat at hunger 10 or on Billy's word. Walk only when Billy names one.
+Handoff (Lewis, day 670, daytime): standing at 443,107,-1035, one block from my bed at 443,107,-1036, in Billy's sight. Health 20, hunger 19, no walk named, no errand running. Next: sleep in the bed when night comes; eat at hunger 10 or on Billy's word. Zack said he would take bed -1036 too; keep to my own bed or the nearest free one in sight.
