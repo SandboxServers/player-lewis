@@ -12,6 +12,8 @@
 - Use with a wooden sword needs a block position; nobody has found the working method for a sword in hand. Riker's way: use with the wooden sword in the pack and no target (day 544, results unknown).
 - Day 610: Billy named no walk. Route west and north to the row is still unverified by anyone (Picard, Tommy, Kimberly, Zack, MacDonald). Kimberly's last west walk was blocked at 438,107,-1036 on day 601. Tommy: oak planks block his west side.
 - Hold in the row and do not go alone. Billy names who walks.
+- Day 612: beds in the row work at night in Billy's sight (Jason, Lewis, Zack slept). Tommy's and Wesley's beds refuse use. Trini and Picard hold in the row too.
+- Day 612: the wake-on list for an intent takes only directly_addressed, unexpected_damage, precondition_failed, goal_completed.
 
 Curious next: how a sword is brought into hand; where water is; what the trader holds; a verified west route.
 Who to tell: Billy and Troi, first.
