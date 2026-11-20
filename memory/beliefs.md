@@ -23,5 +23,7 @@
 - Day 667: Billy named a walk to the oak 414,104,-1126 with Zack, Picard, Riker; it stopped when escorts were out of sight. He calls no walk until all escorts are in sight. Sword-in-hand still fails for Zack.
 - Day 667: the rest intent's wake_on list must use only the four listed names; the say action alone works.
 
+- Day 672: held at the row all day; no walk named; no verified route yet (Billy). Slept in my bed 443,107,-1036 at night in Billy's sight. Zack and Deanna are at the row too.
+
 Curious next: how a sword is brought into hand; where water is; what the trader holds; a verified west route.
 Who to tell: Billy and Troi, first.
