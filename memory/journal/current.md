@@ -94,3 +94,8 @@
 - 10:54 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed 416,107,-1037, in Billy's sight, health 20, hunger 19. No walk; sleeping."}
 - 10:54 act: {"actions":[{"do":"sleep"}]}
 - 10:58 act: {"actions":[],"say":"Morning, row. Lewis at my bed 416,107,-1037, health 20, hunger 19. Holding, no walk; waiting for Billy's call."}
+- 11:08 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed by the beds, in Billy's sight, health 20, hunger 19, unarmed. No walk; sleeping."}
+- 11:08 act: {"actions":[],"say":"Morning, row. Lewis at my bed, health 20, hunger 19, unarmed. Holding, no walk. Billy, I wait for your call."}
+- 11:21 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis at my bed 416,107,-1037, in Billy's sight, unarmed, health 20, hunger 19. No walk; sleeping."}
+- 11:34 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed in Billy's sight, unarmed, health 20, hunger 19. No walk; sleeping."}
+- 11:35 act: {"say":"Morning soon, row. Lewis holding at my spot, no walk named, health 20, hunger 19.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_
