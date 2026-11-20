@@ -20,5 +20,8 @@
 
 - Day 653: held at the row all day; no walk named; slept in my bed 443,107,-1036 at night in Billy's sight. The wake-on list for rest intents accepted: directly_addressed, precondition_failed, unexpected_damage, goal_completed.
 
+- Day 667: Billy named a walk to the oak 414,104,-1126 with Zack, Picard, Riker; it stopped when escorts were out of sight. He calls no walk until all escorts are in sight. Sword-in-hand still fails for Zack.
+- Day 667: the rest intent's wake_on list must use only the four listed names; the say action alone works.
+
 Curious next: how a sword is brought into hand; where water is; what the trader holds; a verified west route.
 Who to tell: Billy and Troi, first.
