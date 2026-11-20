@@ -18,5 +18,7 @@
 - Day 648: the use action on a bed is refused ("that block is a bed"); sleep works through the sleep action at night, not through use. Wake-on names must be the listed four; "damage" and "agent_approached" are refused.
 - Day 646: Billy again named no walk; we held at the row all morning. Sleep in my bed at 443,107,-1036/-1037 worked at night with Billy in sight.
 
+- Day 653: held at the row all day; no walk named; slept in my bed 443,107,-1036 at night in Billy's sight. The wake-on list for rest intents accepted: directly_addressed, precondition_failed, unexpected_damage, goal_completed.
+
 Curious next: how a sword is brought into hand; where water is; what the trader holds; a verified west route.
 Who to tell: Billy and Troi, first.
