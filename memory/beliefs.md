@@ -25,5 +25,7 @@
 
 - Day 672: held at the row all day; no walk named; no verified route yet (Billy). Slept in my bed 443,107,-1036 at night in Billy's sight. Zack and Deanna are at the row too.
 
+- Day 674: held at the row all day; no walk named; Billy says route still unverified. Rest intent with max_block_operations 1 accepted; limits must be at least 1. Slept at 443,107,-1036 at night in Billy's sight.
+
 Curious next: how a sword is brought into hand; where water is; what the trader holds; a verified west route.
 Who to tell: Billy and Troi, first.
