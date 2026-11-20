@@ -1,1 +1,1 @@
-Handoff (Lewis, day 671, night): asleep at 443,107,-1035, one block from my bed at -1036, in Billy's row and in sight. Health 20, hunger 19. No walk named, no errand running. Next: on waking, check the view; eat at hunger 10 or on Billy's word; no walk until Billy names one.
+Handoff (Lewis, day 676, woke after night sleep): slept at bed 443,107,-1036 in Billy's row. Health 20, hunger 19. No walk named; Billy says no verified route west. Next: hold at bed in sight; eat a potato at hunger 10 or on Billy's word; walk only when Billy names one with escorts in sight.
