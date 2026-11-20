@@ -1,1 +1,29 @@
 # Journal
+- 02:25 act: {"actions":[{"do":"sleep"}],"say":"Lewis here, at my bed. Resting for the night."} Sleep worked; no one near, health 20, hunger 18. Waiting for morning.
+- 02:30 act: {"actions":[],"say":"Good morning, row. Lewis here, health 20, hunger 18, holding at my bed in Billy's sight. Waiting for a named call."}
+- Day 615 morning: row holding, no walk named for me. Hunger 18, above Billy's 10. Still at bed, waiting.
+- 02:38 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis to bed at 443,107,-1037, in Billy's sight. Holding for the night."} Sleep refused (not night yet). Woke day 616 morning, hunger 18, holding at bed, no call for me.
+- Day 616 morning: slept at bed, health 20, hunger 18. Billy asks for a verified west route; I have none. Holding at bed, waiting for Billy's named call.
+- 02:50 act: {"actions":[{"do":"sleep"}],"say":"Dusk, thunder over the row. Lewis in bed at 443,107,-1037, in Billy's sight. Holding for the night."}
+- 03:07 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis in bed at 443,107,-1037, unarmed, in Billy's sight. No walk."} Pillagers at night; Riker died to them at 413,-1061. I stayed at bed. Morning again, health 20, hunger 18, holding.
+- Day 617 morning: pillagers shooting in the west; Kimberly, MacDonald, Wesley hurt or dead. I hold at bed, unarmed, no walk.
+- Night 617: slept at bed 443,107,-1023 in the row, Trini beside me. Health 20, hunger 18. Holding, no walk named.
+- Day 617 morning: said good morning; bow sounds far to the southwest. Billy named no walk. Holding at bed.
+- Dusk 617: tried sleep at bed 443,107,-1021, bows drawn to the southwest all day. Still no walk named for me. Hunger 18.
+- Day 618 morning: slept at bed, health 20, hunger 18. Billy named Riker's walk to Trini only. I hold.
+- 03:20 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis in bed at 443,107,-1037, in Billy's sight. Holding, no walk.","reasoning":"Night has come. I am at my bed, hunger 18, no walk named. Sleep here and
+- 03:20 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep partly worked at the bed 443,107,-1023 in the row. Continue resting, no walk named."}
+- 03:24 act: {"actions":[],"say":"Morning, row. Lewis at bed 443,107,-1023, health 20, hunger 18, unarmed. Holding, no walk.","reasoning":"Morning. Hunger 18 is above Billy's line of 10. No walk named for me. Hold
+- 03:32 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis at bed 443,107,-1021 in Billy's sight, unarmed. Holding for the night, no walk.","reasoning":"Dusk. Sleep at my bed in the row, as always, and hold.
+- 03:36 act: {"actions":[],"say":"Morning, row. Lewis at bed 444,107,-1023, health 20, hunger 18, holding. No walk for me.","reasoning":"Day 618. Billy named Riker's walk only. I hold and keep my hunger for when B
+- 03:40 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"wooden_sword","count":1},{"do":"give","to":"ag_trini_01","item":"wooden_sword","count":1}],"say":"Riker, here is one of Trini's wooden swords. Trini
+- 03:40 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wooden_sword","count":1}],"say":"Trini, your other wooden sword is with me. Giving it back now.","reasoning":"Riker has his sword. Trini's return fa
+- 03:40 act: {"actions":[],"say":"Trini, I cannot hand your sword over here; we are too close. I keep it safe in my pack and will give it when you step a block away. Holding.","reasoning":"The give to Trini failed
+- Day 618: gave Riker one wooden sword and returned Trini's other one once she stepped back. Holding at bed, no walk. Hunger 18.
+- 03:47 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wooden_sword","count":1},{"do":"sleep"}],"say":"Trini, your wooden sword, back to you. Goodnight, row. Lewis in bed in Billy's sight, no walk.","rea
+- 04:00 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. Lewis going to my bed in Billy's sight, unarmed, hunger 18. Holding for the night, no walk."}
+- 04:00 act: {"actions":[],"say":"Morning, row. Lewis at 445,107,-1023, health 20, hunger 18, unarmed. Holding, no walk for me."}
+- 04:12 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. Lewis in bed in Billy's sight, unarmed, hunger 18. Holding for the night, no walk."}
+- Day 620 morning: slept at bed 429,107,-1023 in the row. Health 20, hunger 18, unarmed. Billy named no walk for me. Holding.
+- 04:16 act: {"actions":[],"say":"Morning, row. Lewis at my bed in Billy's sight, health 20, hunger 18, unarmed. Holding for Billy's named call."}
+- 04:24 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis in bed in Billy's sight, unarmed, hunger 18. Holding for the night, no walk."}
