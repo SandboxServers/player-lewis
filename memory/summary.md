@@ -1,6 +1,6 @@
 # Summary
 
-Lewis (ag_lewis_01). Day 657 night, slept at bed 443,107,-1036 in Billy's row. Health 20, hunger 19. Unarmed.
+Lewis (ag_lewis_01). Day 658 night, slept at bed 443,107,-1036 in Billy's row. Health 20, hunger 19. Unarmed.
 Inventory: 10 potatoes, 1 rotten_flesh, 2 leather, oak_boat, birch_sapling, 2 sticks.
 
 Food: Billy holds the share at the row. Eat a potato at hunger 10 or below, or when Billy allows. Rotten flesh at hunger 6 or below.
