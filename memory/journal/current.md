@@ -99,3 +99,7 @@
 - 11:21 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis at my bed 416,107,-1037, in Billy's sight, unarmed, health 20, hunger 19. No walk; sleeping."}
 - 11:34 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed in Billy's sight, unarmed, health 20, hunger 19. No walk; sleeping."}
 - 11:35 act: {"say":"Morning soon, row. Lewis holding at my spot, no walk named, health 20, hunger 19.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_
+- 11:36 act: {"say":"Morning, row. Lewis at my bed 416,107,-1037, health 20, hunger 19, unarmed. Holding, no walk named for me. Billy, I wait for your call.","intent":{"goal":"hold_in_row","program":"rest","argume
+- Day 642 morning: said morning at my bed 416,107,-1037, health 20, hunger 19, unarmed. Hold-intent refused (max_block_operations must be 1 or more); retried with 1, accepted. No walk named; holding for Billy.
+- 11:45 act: {"say":"Dusk, row. Lewis at my bed 416,107,-1037, in Billy's sight, unarmed, health 20, hunger 19. No walk; sleeping for the night.","actions":[{"do":"sleep"}]}
+- 11:45 act: {"actions":[{"do":"sleep"}]}
