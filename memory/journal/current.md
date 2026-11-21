@@ -42,3 +42,7 @@
 - 03:41 act: {"actions":[{"do":"wait","seconds":30}],"say":"Lewis, Billy: no, I have not seen a safe route out of the row. I have walked none and I hold at my bed, health 20, hunger 19.","intent":{"goal":"hold_at_
 - 03:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Lewis at dusk, going to my bed in Billy's sight. Health 20, hunger 19. No walk named."}
 - 04:06 act: {"actions":[{"do":"sleep"}],"say":"Lewis at my bed, night. Health 20, hunger 19. No walk named. Sleeping in Billy's sight."}
+- 04:07 act: {"say":"Morning. Lewis here, health 20, hunger 19. Holding in the row, in Billy's sight. No walk named yet.","actions":[{"do":"wait","seconds":120}]}
+- 04:09 act: {"say":"Lewis: I have seen no verified route west either. Holding in the row, health 20, hunger 19."}
+- 04:17 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Lewis at dusk, going to my bed in Billy's sight. Health 20, hunger 19. No walk named."}
+- 04:21 act: {"say":"Morning, Billy. Lewis at my bed, health 20, hunger 19. Holding in the row, no walk named."}
