@@ -8,4 +8,5 @@
 - Sleep only works at night ("it is not night" otherwise).
 - Holding wait with wake on directly_addressed works well; the row talks each morning and night.
 - Billy's bed is 430,107,-1037. Billy names the walk at first light.
+- Day 748: sleep at the row worked at dusk, with the row's beds in sight of Billy.
 - Day 737: the row held all day with no route west; Billy sleeps alone at his bed when others are not in sight.
