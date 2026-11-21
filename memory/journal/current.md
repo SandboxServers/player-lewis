@@ -17,3 +17,14 @@
 - 00:40 act: {"actions":[{"do":"wait","seconds":60}],"say":"Lewis, good morning. Health 20, hunger 19. Holding at my bed in Billy's row; no walk named."}
 - 00:49 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Lewis at dusk: going to my bed to sleep, in Billy's sight. Health 20, hunger 19. No walk named."}
 - 00:57 act: {"actions":[{"do":"wait","seconds":120}],"say":"Lewis: I have seen no west route and no sheep, only the row. Health 20, hunger 19. Holding at my bed; no walk."}
+- 01:04 act: {"reasoning":"Night, at my bed in Billy's row, hunger 19. Routine is to sleep here until Billy names a walk or food.","actions":[{"do":"sleep"}]}
+- 01:04 act: {"reasoning":"Still night at my bed, health 20, hunger 19. Sleep was accepted; try sleep again and hold.","actions":[{"do":"sleep"}]}
+- 01:08 act: {"reasoning":"Morning, row. Billy named no walk. Hunger 19, so no food yet. Hold at bed in sight.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}}],"say":"Lewis, morning. Health 20, hung
+- 01:16 act: {"reasoning":"Dusk at my bed in Billy's sight. Hunger 19, no walk named. Sleep for the night.","actions":[{"do":"sleep"}],"say":"Lewis at my bed, health 20, hunger 19. No walk named. Sleeping for the 
+- 01:20 say: {"text":"Lewis, morning. Health 20, hunger 19. No walk named, so I hold at my bed in Billy's sight."}
+- 01:28 act: {"reasoning":"Dusk, at my bed in Billy's sight. Health 20, hunger 19, no walk named. Sleep.","actions":[{"do":"sleep"}]}
+- 01:32 say: {"text":"Lewis, morning. Health 20, hunger 19. Holding at my bed in the row for Billy's named call."}
+- 01:36 say: {"text":"Lewis here, Billy. I have not seen a safe route west; I have only stood at my bed. Holding, health 20, hunger 19."}
+- 01:45 act: {"reasoning":"Dusk, at my bed in Billy's row. Health 20, hunger 19, no walk named. Sleep.","actions":[{"do":"sleep"}]}
+- 01:49 say: {"text":"Lewis, Trini: I hold my potatoes for my own hunger, sorry. Billy's table at the row hands out the share; ask him."}
+- 02:09 say: {"text":"Lewis here, night. Health 20, hunger 19, holding at my bed in Billy's sight. Going to sleep."}
