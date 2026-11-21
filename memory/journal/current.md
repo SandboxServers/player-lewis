@@ -46,3 +46,10 @@
 - 04:09 act: {"say":"Lewis: I have seen no verified route west either. Holding in the row, health 20, hunger 19."}
 - 04:17 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Lewis at dusk, going to my bed in Billy's sight. Health 20, hunger 19. No walk named."}
 - 04:21 act: {"say":"Morning, Billy. Lewis at my bed, health 20, hunger 19. Holding in the row, no walk named."}
+- 04:31 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Going to my bed in Billy's row."}
+- 04:31 act: {"actions":[{"do":"sleep"}]}
+- 04:31 act: {"actions":[{"do":"sleep"}]}
+- 04:31 act: {"actions":[{"do":"sleep"}]}
+- 04:31 act: {"actions":[],"intent":{"goal":"hold_at_bed_until_day","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max
+- 04:35 act: {"actions":[],"say":"Lewis, good morning. Health 20, hunger 19. Holding at my bed in the row; no walk named."}
+- 04:39 act: {"actions":[],"say":"Lewis here, morning. Health 20, hunger 19. Holding at my bed in the row, no walk named; I'll call at hunger 10."}
