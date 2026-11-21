@@ -5,7 +5,7 @@
 - No verified route west past x=370 yet. Do not walk without a named route and armed escorts in sight.
 - Water 466,106,-1086; oak 414,104,-1126; cows 434,106,-1113 and 339,104,-979. Troi reports no sheep seen; cows only from old notes.
 - Sleep in my bed 443,107,-1051 (next to 443,107,-1050) or nearby bed in the row, in sight of Billy.
-- Rest intents finish at once; to hold, just wait with wake conditions.
 - Sleep only works at night ("it is not night" otherwise).
 - Holding wait with wake on directly_addressed works well; the row talks each morning and night.
-- Billy's bed is 430,107,-1037. Billy sleeps there and names the walk at first light.
+- Billy's bed is 430,107,-1037. Billy names the walk at first light.
+- Day 737: the row held all day with no route west; Billy sleeps alone at his bed when others are not in sight.
