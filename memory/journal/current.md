@@ -35,3 +35,7 @@
 - 02:22 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Lewis here. Night in the row; I go to my bed in Billy's sight. Health 20, hunger 19, no walk named."}
 - 02:34 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Lewis at dusk: to my bed in Billy's sight for the night. Health 20, hunger 19. No walk named."}
 - 02:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Lewis at dusk, going to sleep at my bed in Billy's sight. Health 20, hunger 19."}
+- 02:47 act: {"actions":[{"do":"sleep"}],"say":"Lewis here, at my bed. Night, hunger 19. Going to sleep."}
+- 02:51 act: {"actions":[],"say":"Morning, row. Lewis here, health 20, hunger 19, at my bed. Holding in sight, no walk, waiting for Billy's word."}
+- 03:11 act: {"actions":[{"do":"sleep"}],"say":"Lewis: dusk, going to sleep at my bed in Billy's sight. Health 20, hunger 19."}
+- 03:27 act: {"actions":[{"do":"sleep"}]}
