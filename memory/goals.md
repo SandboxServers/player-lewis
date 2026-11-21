@@ -7,5 +7,5 @@
 5. Help find water and oak when Billy names a walk.
 6. Share what I learn; ask Picard, Billy and the trader what they know of the land and tools.
 
-Curious next: a verified route west past x=370; what the trader holds; what blocks Tommy's way west.
+Curious next: a verified route west past x=370; whether any sheep is near; what the trader holds.
 Who to tell: Billy first, then Troi and Tommy.
