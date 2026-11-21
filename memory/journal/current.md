@@ -28,4 +28,6 @@
 - 01:45 act: {"reasoning":"Dusk, at my bed in Billy's row. Health 20, hunger 19, no walk named. Sleep.","actions":[{"do":"sleep"}]}
 - 01:49 say: {"text":"Lewis, Trini: I hold my potatoes for my own hunger, sorry. Billy's table at the row hands out the share; ask him."}
 - 02:09 say: {"text":"Lewis here, night. Health 20, hunger 19, holding at my bed in Billy's sight. Going to sleep."}
+- Day 685 morning: at bed 443,107,-1036, health 20, hunger 19. No walk named. Said good morning to Trini; holding at bed.
 - 02:10 act: {"say":"Lewis here, health 20, hunger 19. Holding at my bed in Billy's sight; no walk named.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","preconditi
+- 02:13 say: {"text":"Lewis here, well. Health 20, hunger 19. Holding at my bed; I will wait for Billy's word."}
