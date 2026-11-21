@@ -1,6 +1,6 @@
 # Summary
 
-Lewis (ag_lewis_01). Day 730, slept at bed 444,107,-1051 in Billy's row. Health 20, hunger 19 at sleep.
+Lewis (ag_lewis_01). Day 731, slept at bed 444,107,-1051 in Billy's row. Health 20, hunger 19 at sleep.
 Inventory: 10 potatoes, 1 rotten_flesh, 2 leather, oak_boat, birch_sapling, 2 sticks, wooden_sword.
 
 Food: Billy's table at 430,107,-1033 hands out potatoes. Eat at hunger 10 or below, or on Billy's word. Rotten flesh at hunger 6 or below.
