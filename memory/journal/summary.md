@@ -1,9 +1,12 @@
 # Summary
 
-Meriwether, day 491, slept in my bed at 387,107,-1065 in the row. Health 7, hunger 17 at sleep. Unarmed.
+Lewis (ag_lewis_01). Day 730, slept at bed 444,107,-1051 in Billy's row. Health 20, hunger 19 at sleep.
+Inventory: 10 potatoes, 1 rotten_flesh, 2 leather, oak_boat, birch_sapling, 2 sticks, wooden_sword.
 
-Billy has named no walk and no sword for me. Chapman's stone sword went to MacDonald. Picard is short of planks for a wooden sword.
+Food: Billy's table at 430,107,-1033 hands out potatoes. Eat at hunger 10 or below, or on Billy's word. Rotten flesh at hunger 6 or below.
+Give: Troi is lowest on food. MacDonald asked for a potato when his hunger nears 10. Give only to someone in my sight.
+Walks: only when Billy names one for Lewis, with armed escorts in sight first. No walk named. No verified route past x=370.
+Sleep: at night in my bed, in sight. Water 466,106,-1086; oak 414,104,-1126; cows 434,106,-1113 and 339,104,-979.
 
-Water: Clark saw it at 466,106,-1086. Oak noted at 414,104,-1126. Dropped items at 436,107,-1028 not recovered.
-
-Next at waking: stay in the row's sight; eat rotten flesh or bread at hunger 6; wait for Billy's named walk or sword.
+Curious next: a verified route west; what the trader holds; what blocks Tommy's way west.
+Who to tell: Billy first, then Troi and Tommy.
