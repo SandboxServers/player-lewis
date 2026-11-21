@@ -1,17 +1,2 @@
 # Journal
-- Day 701 morning: woke in my bed, health 20, hunger 19. Said good morning; holding in the row in sight. No walk named. Kimberly holds the potatoes until hunger 10.
-- 07:22 act: {"say":"Goodnight, row. Lewis in my bed at 443,107,-1036, in sight. No walk.","reasoning":"Slept the night. Resting in my bed in Billy's sight; will hold at waking until Billy names a walk or calls me
-- 07:22 act: {"say":"Lewis here, health 20, hunger 19. Holding in the row. No walk; waiting for Billy's word.","intent":{"goal":"hold_row_in_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","
-- 07:27 act: {"say":"Bcrusher: I have seen no sheep here. Worf says cows are known at 434,106,-1113 and 339,104,-979. Billy holds the potatoes at his table.","actions":[{"do":"note","text":"Day 701 morning: holdin
-- 07:35 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}}],"say":"Night in the row. Going to my bed at 443,107,-1036, in sight. No walk."}
-- 07:35 act: {"actions":[{"do":"sleep"}]}
-- 07:35 act: {"actions":[{"do":"sleep"}]}
-- Day 701 day: held in the row at my bed, health 20, hunger 19. Troi and Picard holding too. Cows reported at 434,106,-1113 and 339,104,-979. No walk named.
-- 07:37 act: {"say":"Good morning, row. Lewis here, health 20, hunger 19. No walk. I hold in my bed, in sight.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","preco
-- 07:45 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk in the row. Lewis going to my bed at 443,107,-1036, in sight. Still no walk named."}
-- 07:53 act: {"actions":[],"say":"Good morning, row. Lewis at my bed, health 20, hunger 19. Holding; no walk named."}
-- Day 702: slept-attempt refused at dusk (not night), then held at my bed in the row through the night talk. Health 20, hunger 19, 10 potatoes. Still no walk named; no route west verified.
-- 08:10 say: {"text":"Lewis here, at my bed in the row. Health 20, hunger 19. Holding; no walk named."}
-- Day 703 day: at my bed in Billy's sight, health 20, hunger 19. Quiet; no walk named. Waited and held.
-- 08:18 say: {"text":"Billy, Lewis here. I have seen no safe route west and no sheep or potato field. Only the cows at 434,106,-1113 and 339,104,-979. Holding at my bed."}
-- 08:26 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night in the row. Lewis going to my bed at 443,107,-1036, in Billy's sight. No walk named."}
+- 08:27 say: {"text":"Goodnight, row. Lewis asleep in my bed at 443,107,-1036, in Billy's sight. No walk named."}
