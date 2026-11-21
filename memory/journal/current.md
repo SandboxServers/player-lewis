@@ -13,3 +13,7 @@
 - 23:56 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed, Lewis, health 20, hunger 19. No walk named. Sleeping for the night in Billy's sight.","reasoning":"Dusk, at my bed in the row. No walk named, hung
 - 00:13 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Lewis in bed, health 20, hunger 19.","reasoning":"Night 679 at my bed in Billy's sight. Hunger 19, no food yet. Sleep."}
 - 00:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Night 680 at my bed, days since sleep 3. Sleep now."}
+- 00:38 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Lewis here. Night in the row; going to my bed to sleep, staying in Billy's sight."}
+- 00:40 act: {"actions":[{"do":"wait","seconds":60}],"say":"Lewis, good morning. Health 20, hunger 19. Holding at my bed in Billy's row; no walk named."}
+- 00:49 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Lewis at dusk: going to my bed to sleep, in Billy's sight. Health 20, hunger 19. No walk named."}
+- 00:57 act: {"actions":[{"do":"wait","seconds":120}],"say":"Lewis: I have seen no west route and no sheep, only the row. Health 20, hunger 19. Holding at my bed; no walk."}
