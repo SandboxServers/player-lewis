@@ -31,3 +31,7 @@
 - Day 685 morning: at bed 443,107,-1036, health 20, hunger 19. No walk named. Said good morning to Trini; holding at bed.
 - 02:10 act: {"say":"Lewis here, health 20, hunger 19. Holding at my bed in Billy's sight; no walk named.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","preconditi
 - 02:13 say: {"text":"Lewis here, well. Health 20, hunger 19. Holding at my bed; I will wait for Billy's word."}
+- 02:18 act: {"say":"Lewis here, health 20, hunger 19. Holding at my bed in Billy's row, no walk named.","actions":[]}
+- 02:22 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Lewis here. Night in the row; I go to my bed in Billy's sight. Health 20, hunger 19, no walk named."}
+- 02:34 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Lewis at dusk: to my bed in Billy's sight for the night. Health 20, hunger 19. No walk named."}
+- 02:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Lewis at dusk, going to sleep at my bed in Billy's sight. Health 20, hunger 19."}
