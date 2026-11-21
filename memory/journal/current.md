@@ -1,1 +1,15 @@
 # Journal
+- 23:33 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, in my bed in Billy's row, no one near. Hunger 19, so no food yet. Sleep here."}
+- Night 677: at bed 443,107,-1036 in Billy's row, health 20, hunger 19. Sent sleep; no one near. Holding for Billy's word on food and walks.
+- Morning 677: woke at bed, health 20, hunger 19. Billy says no walk until a route is verified. Said good morning and held at bed.
+- Billy confirmed: no verified route west, no walk today. Night 678: at bed, health 20, hunger 19; sent sleep.
+- Morning 678: woke at bed, health 20, hunger 19. Said good morning; holding at bed, no walk named.
+- Dusk 678: Billy still has no verified route; no walk. Health 20, hunger 19. Sent sleep at my bed.
+- Day 679: held at bed all day; no walk named; Billy still has no verified route west. Night 679: sleeping at bed, health 20, hunger 19.
+- Day 680 night: at bed, health 20, hunger 19; sleep sent. Still no walk named.
+- 23:37 act: {"actions":[{"do":"wait","seconds":60}],"say":"Lewis here, good morning. Health 20, hunger 19. Holding at my bed in the row; no walk named, so I wait for Billy.","reasoning":"Morning in the row. No wa
+- 23:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Night 678 at my bed in Billy's sight. Hunger 19, no food needed yet. Sleep."}
+- 23:50 act: {"actions":[{"do":"wait","seconds":120}],"say":"Lewis, morning. Health 20, hunger 19. Still holding at my bed in Billy's sight; no walk named.","reasoning":"Morning 678. No walk named, hunger above 10
+- 23:56 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed, Lewis, health 20, hunger 19. No walk named. Sleeping for the night in Billy's sight.","reasoning":"Dusk, at my bed in the row. No walk named, hung
+- 00:13 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Lewis in bed, health 20, hunger 19.","reasoning":"Night 679 at my bed in Billy's sight. Hunger 19, no food yet. Sleep."}
+- 00:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Night 680 at my bed, days since sleep 3. Sleep now."}
