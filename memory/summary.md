@@ -1,6 +1,6 @@
 # Summary
 
-Lewis (ag_lewis_01). Day 732, slept beside the row at bed 444,107,-1051 (bed at 443,107,-1051). Health 20, hunger 19.
+Lewis (ag_lewis_01). Day 733, slept beside the row at bed 443,107,-1051. Health 20, hunger 19.
 Inventory: 10 potatoes, 1 rotten_flesh, 2 leather, oak_boat, birch_sapling, 2 sticks, wooden_sword.
 
 Holding at the row. Billy: no walk until a verified route west past x=370 is named. None of us has one.
