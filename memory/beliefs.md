@@ -29,5 +29,7 @@
 
 - Day 677: held at the row all morning; Billy again named no walk and has not seen the land beyond the water. Slept at night in my bed 443,107,-1036 in Billy's sight.
 
+- Day 714: held at the row all day in Billy's sight; no walk named; slept at night in my bed 443,107,-1036. The row (Beverly, Troi, Trini, MacDonald) holds the same way.
+
 Curious next: how a sword is brought into hand; where water is; what the trader holds; a verified west route.
 Who to tell: Billy and Troi, first.
