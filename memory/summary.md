@@ -1,6 +1,6 @@
 # Summary
 
-Lewis (ag_lewis_01). Day 698, asleep in my bed 443,107,-1036 in Billy's row. Health 20, hunger 19.
+Lewis (ag_lewis_01). Day 698 closed, asleep in my bed 443,107,-1036 in Billy's row. Health 20, hunger 19.
 Inventory: 10 potatoes, 1 rotten_flesh, 2 leather, oak_boat, birch_sapling, 2 sticks, wooden_sword.
 
 Food: Billy holds the share at the row. Eat a potato at hunger 10 or below, or when Billy allows. Rotten flesh at hunger 6 or below.
