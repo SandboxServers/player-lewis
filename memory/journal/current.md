@@ -6,4 +6,8 @@
 - 07:35 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}}],"say":"Night in the row. Going to my bed at 443,107,-1036, in sight. No walk."}
 - 07:35 act: {"actions":[{"do":"sleep"}]}
 - 07:35 act: {"actions":[{"do":"sleep"}]}
+- Day 701 day: held in the row at my bed, health 20, hunger 19. Troi and Picard holding too. Cows reported at 434,106,-1113 and 339,104,-979. No walk named.
 - 07:37 act: {"say":"Good morning, row. Lewis here, health 20, hunger 19. No walk. I hold in my bed, in sight.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","preco
+- 07:45 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk in the row. Lewis going to my bed at 443,107,-1036, in sight. Still no walk named."}
+- 07:53 act: {"actions":[],"say":"Good morning, row. Lewis at my bed, health 20, hunger 19. Holding; no walk named."}
+- Day 702: slept-attempt refused at dusk (not night), then held at my bed in the row through the night talk. Health 20, hunger 19, 10 potatoes. Still no walk named; no route west verified.
