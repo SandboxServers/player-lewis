@@ -1,6 +1,7 @@
 # Summary
 
-Lewis (ag_lewis_01). Asleep in my bed at the row, 443,107,-1051, in Billy's sight. Day 739 ended; slept. Health 20, hunger 19 at sleep.
+Lewis (ag_lewis_01). Asleep at my bed 443,107,-1051, in Billy's sight, at the row. Day 740 ended; slept through the night.
+Health 20, hunger 19 at sleep.
 Inventory: 10 potatoes, 1 rotten_flesh, 2 leather, oak_boat, birch_sapling, 2 sticks, wooden_sword.
 
 Holding at the row. Billy: no walk until a verified route west past x=370 is named. No one has seen Tommy Oliver or the western cows.
