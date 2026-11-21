@@ -53,3 +53,8 @@
 - 04:31 act: {"actions":[],"intent":{"goal":"hold_at_bed_until_day","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max
 - 04:35 act: {"actions":[],"say":"Lewis, good morning. Health 20, hunger 19. Holding at my bed in the row; no walk named."}
 - 04:39 act: {"actions":[],"say":"Lewis here, morning. Health 20, hunger 19. Holding at my bed in the row, no walk named; I'll call at hunger 10."}
+- 04:44 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Night, near my bed, nobody near, hunger 19 so no eating yet. Sleep in bed per goal 3."}
+- 04:44 act: {"actions":[{"do":"sleep"}]}
+- 04:48 act: {"actions":[],"say":"Lewis, morning. Health 20, hunger 19. Holding at my bed in the row; no walk named, waiting for Billy.","reasoning":"Morning in the row, no walk named, hunger above 10. Hold in sig
+- 04:56 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Lewis at dusk, to my bed in Billy's sight. Health 20, hunger 19. No walk named.","reasoning":"Dusk, nobody threate
+- 05:04 act: {"actions":[],"say":"Lewis, morning. Health 20, hunger 19, holding at my bed in the row. No walk named; waiting for Billy.","reasoning":"Morning, no walk named, hunger above 10. Hold in sight of the r
