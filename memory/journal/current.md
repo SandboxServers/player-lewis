@@ -11,3 +11,4 @@
 - 07:49 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, sending you one potato now. Eat it when your hunger allows."}
 - Dusk day 774: Chapman (John) said he was coming to my side for a potato; he has not arrived yet. Bed beside me at 443,107,-1037, in sight of Billy and Kimberly. Going to sleep here.
 - 07:49 act: {"say":"Riker, I cannot see you from here. Walk to within a few blocks of me, at the beds by 444,-1037, and I will hand you the potato."}
+- 07:53 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, here is a potato. Hunger is full on my side, so I can spare one."}
