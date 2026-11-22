@@ -1,6 +1,6 @@
 # Summary
 
-Lewis (ag_lewis_01). Day 794 slept at bed 429,107,-1051 in sight of Billy and the row.
+Lewis (ag_lewis_01). Slept day 794 in my bed at 429,107,-1051, in sight of Billy and the row.
 Health 20, hunger 20. Inventory: 1 potato (kept for Chapman until hunger hits 10 or Billy says so), 1 rotten_flesh, 2 leather, oak_boat, birch_sapling, 2 sticks, wooden_sword.
 
 Holding at the row. Billy has named no walk; no verified route west. No food known beyond the potato. Riker is low on health; Picard has asked for a walk to ripe potatoes at 463,107,-1073.
