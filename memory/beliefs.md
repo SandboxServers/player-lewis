@@ -8,6 +8,7 @@
 - Sleep only works at night ("it is not night" otherwise). Sleep at dusk runs in steps: call sleep again if it says few are asleep.
 - Holding wait with wake on directly_addressed works well; the row talks each morning and night.
 - Billy's bed is 430,107,-1037. Billy names the walk at first light.
+- Day 798: the row held all day with no walk and no food. Riker at health 6 is first in line for food if Billy names it. A give needs the person in my sight; the agents list was empty, so the flesh stayed in my pack.
 - Day 780: the row held with no walk; I slept in bed at dusk, and it worked.
 - Day 748: sleep at the row worked at dusk, with the row's beds in sight of Billy.
 - Day 737: the row held all day with no route west; Billy sleeps alone at his bed when others are not in sight.
