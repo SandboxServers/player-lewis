@@ -23,3 +23,5 @@
 - 08:26 say: {"text":"Riker, Lewis here. Health 6 is too low. I'll give you one potato. Stand where I can see you and I'll hand it over."}
 - 08:31 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1050}},{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, coming to you at the bed in the row to hand over one potato."}
 - 08:31 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}]}
+- 08:32 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, here is my potato. Eat it. I'm holding at the row, in sight of Billy."}
+- 08:32 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Riker is out of my sight, so the potato stays with me for now. I'm going to my bed in the row. Holding, no walk."}
