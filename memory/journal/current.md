@@ -6,3 +6,4 @@
 - 06:54 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1054}},{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, I am coming to you with a potato, as Billy asked. Eat it and ho
 - 06:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1049}}],"say":"Riker has his potato from me. I hold 4 potatoes at the row. No walk named."}
 - 06:58 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, the row. Lewis going to bed at 443,-1051 in sight of Laforge and Chapman. Health 20, hunger 20, 4 potatoes.
+- Waking 667: world link (geldar) not connected on status, wait and look. Could not see the row or Billy. Holding still, no moves made. Will try again next cycle.
