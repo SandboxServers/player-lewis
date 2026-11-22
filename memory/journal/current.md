@@ -1,11 +1,1 @@
-# Journal
-- 06:03 act: sleep at my bed, said good night at the row.
-- Day 769 morning. Woke at bed 443,107,-1051, health 20, hunger 20. Billy died at 411 and woke at row; pillagers still west/south-east. Holding, no walk.
-- Day 770: gave potatoes to John, Riker, Chapman. Slept at bed 443,-1051.
-- Day 771 morning: woke at bed, health 20, hunger 20, 5 potatoes. Billy asked me to give Riker a potato in my sight; Riker not in sight yet. Said so at the row. Holding at the row, no walk. Chapman is in reach, health unknown.
-- 06:54 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1054}},{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, I am coming to you with a potato, as Billy asked. Eat it and ho
-- 06:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1049}}],"say":"Riker has his potato from me. I hold 4 potatoes at the row. No walk named."}
-- 06:58 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, the row. Lewis going to bed at 443,-1051 in sight of Laforge and Chapman. Health 20, hunger 20, 4 potatoes.
-- Waking 667: world link (geldar) not connected on status, wait and look. Could not see the row or Billy. Holding still, no moves made. Will try again next cycle.
-- 07:04 act: {"say":"Lewis here, health 20, hunger 20. Holding at the row, no walk named. Billy, I have 4 potatoes if anyone needs one.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["d
-- Day 772 morning: woke at bed 443,107,-1051, health 20, hunger 20, 4 potatoes. Row is holding; Billy asks for hunger reports and a verified west route. No walk named. Said so, holding at the row.
+Day 772: Gave John Chapman a potato on Billy's word (walked to him after first give failed for being out of sight). Holding at the row. 3 potatoes left. No walk named.
