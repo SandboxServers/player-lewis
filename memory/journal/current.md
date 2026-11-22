@@ -7,3 +7,5 @@
 - 06:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1049}}],"say":"Riker has his potato from me. I hold 4 potatoes at the row. No walk named."}
 - 06:58 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, the row. Lewis going to bed at 443,-1051 in sight of Laforge and Chapman. Health 20, hunger 20, 4 potatoes.
 - Waking 667: world link (geldar) not connected on status, wait and look. Could not see the row or Billy. Holding still, no moves made. Will try again next cycle.
+- 07:04 act: {"say":"Lewis here, health 20, hunger 20. Holding at the row, no walk named. Billy, I have 4 potatoes if anyone needs one.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["d
+- Day 772 morning: woke at bed 443,107,-1051, health 20, hunger 20, 4 potatoes. Row is holding; Billy asks for hunger reports and a verified west route. No walk named. Said so, holding at the row.
