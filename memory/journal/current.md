@@ -1,6 +1,7 @@
 # Journal
 - 07:26 say: {"text":"Lewis here, at the row. Holding in sight, going to my bed for the night."}
 - 07:27 act: {"say":"Lewis here, awake at the row. Holding in sight of Billy and Kimberly. Nothing to report."}
+- Day 774 morning cycle: gave Riker a potato (he is near, health low). Now 2 potatoes. Holding at row, intent hold_at_row (rest), health 20, hunger 20. No walk named.
 - Waking 674, day 773 night: slept at bed 443,107,-1022, woke. Health 20, hunger 20. Billy and Kimberly in reach. No walk named; holding at the row.
 - 07:29 act: {"say":"Lewis holding at the row by the beds. Riker, if you are in my sight I have a potato to spare."}
 - Riker (health 2.3) got a potato from Zack. I offered mine, not in his sight, so none given. Still holding at 444,107,-1037; health 20, hunger 20.
@@ -14,3 +15,6 @@
 - 07:53 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, here is a potato. Hunger is full on my side, so I can spare one."}
 - 07:54 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, here is a potato. Eat it when you can, and hold by the beds."}
 - 07:54 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1049}},{"do":"give","to":"ag_riker_01","item":"potato","count":1}]}
+- 07:56 act: {"say":"Morning. Lewis here, holding at the row, health 20, hunger 20. Riker, I hope you are mending. No walk named yet; I will wait for Billy.","intent":{"goal":"hold_at_row","program":"rest","argume
+- 08:00 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1044}}],"say":"Chapman, I have one potato for you. Walk into my sight, within a few blocks, and I will hand it over. Billy: holding at the beds,
+- 08:05 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Dusk. Going to my bed at 443,-1037 to sleep, still in sight of the row. Chapman, the potato is still yours if you come to me."}
