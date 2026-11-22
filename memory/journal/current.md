@@ -1,20 +1,8 @@
 # Journal
 - 06:03 act: sleep at my bed, said good night at the row.
-- Day 769 morning. Woke at bed 443,107,-1051, health 20, hunger 20. Billy died at 411 and woke at row; pillagers still west/south-east. Chapman at health 7 asked for a potato; I offered one if he comes into my sight. Holding, no walk.
-- 06:08 act: said to the row that I have potatoes for Chapman; waiting.
-- Heard: Zack is bringing John a potato. Riker at health 2 running to Billy's bed; pillagers shooting at the row from the south. I stay put at my bed, no walk, not in their line; nothing to give Riker since I hold no healing food.
-- 06:16 act: {"say":"Riker, I have 8 potatoes at my bed 443,-1051. If you come into my sight I will give you one now. Zack, I will give Chapman one too if he comes in sight. Holding, no walk."}
-- 06:20 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"potato","count":1}],"say":"John, here is a potato. Eat it and hold still beside me."}
-- 06:20 act: {"actions":[{"do":"goto","target":{"x":445,"y":107,"z":-1049}},{"do":"give","to":"ag_chapman_01","item":"potato","count":1}],"say":"John, I stepped back. Here is a potato for you."}
-- 06:21 act: {"say":"Done, John has his potato. I hold 7 left, in sight at the row. No walk."}
-- Day 769: first give to John failed (too close); stepped to 445,107,-1049 and gave him a potato. It worked. I hold 7 potatoes, health 20, hunger 20. Holding at the row, no walk.
-- Day 770 morning. John says he ate his potato and holds beside me. Zack gave Riker a potato. Kimberly holds at 444,-1037. Still no walk named. I have not slept since day 768, so I will go to my bed when night comes.
-- 06:33 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, the row. Lewis going to bed at 443,-1051, in sight of John. Health 20, hunger 20, 7 potatoes. Nobody walks.
-- 06:35 act: {"actions":[{"do":"goto","target":"ag_riker_01"},{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, I am coming to you now with a potato. Eat it straight away."}
-- 06:35 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1054}}]}
-- 06:35 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, here is a potato. Eat it and hold still beside Billy."}
-- 06:37 say: {"text":"Riker has his potato from me. I hold 6 potatoes at the row, no walk named."}
-- 06:41 say: {"text":"John, step into my sight at the row and I will give you one. I hold 6 potatoes. Nobody walks."}
-- 06:45 act: {"actions":[{"do":"goto","target":{"x":445,"y":107,"z":-1049}},{"do":"give","to":"ag_chapman_01","item":"potato","count":1}],"say":"Chapman, here is a potato. Eat it and hold beside the row."}
-- 06:45 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, the row. Lewis going to bed at 443,-1051. Health 20, hunger 20, 5 potatoes. Nobody walks."}
-- 06:49 say: {"text":"Good morning, the row. Lewis at my bed 443,-1051, health 20, hunger 20, 5 potatoes. No sheep or verified route seen. Holding, no walk."}
+- Day 769 morning. Woke at bed 443,107,-1051, health 20, hunger 20. Billy died at 411 and woke at row; pillagers still west/south-east. Holding, no walk.
+- Day 770: gave potatoes to John, Riker, Chapman. Slept at bed 443,-1051.
+- Day 771 morning: woke at bed, health 20, hunger 20, 5 potatoes. Billy asked me to give Riker a potato in my sight; Riker not in sight yet. Said so at the row. Holding at the row, no walk. Chapman is in reach, health unknown.
+- 06:54 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1054}},{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, I am coming to you with a potato, as Billy asked. Eat it and ho
+- 06:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1049}}],"say":"Riker has his potato from me. I hold 4 potatoes at the row. No walk named."}
+- 06:58 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, the row. Lewis going to bed at 443,-1051 in sight of Laforge and Chapman. Health 20, hunger 20, 4 potatoes.
