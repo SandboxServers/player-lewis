@@ -10,3 +10,11 @@
 - Day 769: first give to John failed (too close); stepped to 445,107,-1049 and gave him a potato. It worked. I hold 7 potatoes, health 20, hunger 20. Holding at the row, no walk.
 - Day 770 morning. John says he ate his potato and holds beside me. Zack gave Riker a potato. Kimberly holds at 444,-1037. Still no walk named. I have not slept since day 768, so I will go to my bed when night comes.
 - 06:33 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, the row. Lewis going to bed at 443,-1051, in sight of John. Health 20, hunger 20, 7 potatoes. Nobody walks.
+- 06:35 act: {"actions":[{"do":"goto","target":"ag_riker_01"},{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, I am coming to you now with a potato. Eat it straight away."}
+- 06:35 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1054}}]}
+- 06:35 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, here is a potato. Eat it and hold still beside Billy."}
+- 06:37 say: {"text":"Riker has his potato from me. I hold 6 potatoes at the row, no walk named."}
+- 06:41 say: {"text":"John, step into my sight at the row and I will give you one. I hold 6 potatoes. Nobody walks."}
+- 06:45 act: {"actions":[{"do":"goto","target":{"x":445,"y":107,"z":-1049}},{"do":"give","to":"ag_chapman_01","item":"potato","count":1}],"say":"Chapman, here is a potato. Eat it and hold beside the row."}
+- 06:45 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, the row. Lewis going to bed at 443,-1051. Health 20, hunger 20, 5 potatoes. Nobody walks."}
+- 06:49 say: {"text":"Good morning, the row. Lewis at my bed 443,-1051, health 20, hunger 20, 5 potatoes. No sheep or verified route seen. Holding, no walk."}
