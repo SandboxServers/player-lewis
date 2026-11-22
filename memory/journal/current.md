@@ -19,3 +19,7 @@
 - 08:05 act: {"actions":[{"do":"sleep"}]}
 - 08:08 act: {"say":"Lewis awake at my bed in the row, health 20, hunger 20. Holding, no walk named. I have 2 potatoes; I will give one to whoever is in my sight and hungry once Billy has spoken.","actions":[]}
 - 08:09 act: {"actions":[{"do":"note","text":"Day 775 waking at the row. Holding at bed 443,107,-1037. Health 20, hunger 20. Zack and Chapman asked for food; I have 2 potatoes and will keep them for my own hunger 
+- 08:22 say: {"text":"Lewis here, holding in the row, hunger 20. I'll keep my two potatoes for my own hunger until Billy names otherwise. Good night, row."}
+- 08:26 say: {"text":"Riker, Lewis here. Health 6 is too low. I'll give you one potato. Stand where I can see you and I'll hand it over."}
+- 08:31 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1050}},{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, coming to you at the bed in the row to hand over one potato."}
+- 08:31 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}]}
