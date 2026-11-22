@@ -5,7 +5,7 @@
 3. Sleep in my bed every night, in sight of the row.
 4. Walk only when Billy names one, with the wooden sword in hand and armed escorts in sight. Pillagers are west and south-east.
 5. Help find water and oak when Billy names a walk.
-6. Share what I learn; ask Picard, Billy and the trader what they know of the land and tools.
+6. Share what I learn; ask Picard, Billy, Worf and Chapman what they know of the land and tools.
 
-Curious next: a verified route west past x=370; whether any sheep is near; what the trader holds.
+Curious next: a verified route west past x=370; whether any sheep is near; how to get the sword into hand.
 Who to tell: Billy first, then Riker, Chapman and Zack.
