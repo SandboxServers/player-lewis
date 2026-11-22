@@ -1,3 +1,14 @@
 # Journal
 - 02:28 say: Good morning, the row. Lewis holding. Billy, Picard, Beverly, Kimberly all holding; no verified route west or sheep yet. Hunger 20, health 20. No walk named.
 - Next: keep holding in sight; wait for Billy's word.
+- 02:38 act: {"say":"Morning. I am Lewis. Have you seen the land west of here? I am keeping to the row until Billy names a walk."}
+- 02:40 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 02:42 act: {"say":"Morning at the row. Lewis holding, health 20, hunger 20. No walk named, no route west yet."}
+- 02:55 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 03:09 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 03:21 act: {"actions":[{"do":"sleep"}]}
+- 03:25 act: {"say":"Morning, Billy. Lewis here at the bed, health 20, hunger 20. Holding in sight. No walk for me until you name one."}
+- 03:33 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 03:38 act: {"say":"Good morning, the row. Troi here at bed 443,107,-1051, health 20, hunger 20. Holding in sight. I have seen no verified route west and no sheep. No walk until Billy names it."}
+- 03:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 03:50 act: {"say":"Good morning, Billy. Troi at bed 443,107,-1051, health 20, hunger 20. No route west or sheep seen by me. Holding in sight for your named call."}
