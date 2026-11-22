@@ -18,3 +18,4 @@
 - Day 775 dusk now: Kimberly adjacent (1.2 blocks). Health 20, hunger 20. Potatoes: 2 (inventory shows 2). Sleeping next.
 - 08:05 act: {"actions":[{"do":"sleep"}]}
 - 08:08 act: {"say":"Lewis awake at my bed in the row, health 20, hunger 20. Holding, no walk named. I have 2 potatoes; I will give one to whoever is in my sight and hungry once Billy has spoken.","actions":[]}
+- 08:09 act: {"actions":[{"do":"note","text":"Day 775 waking at the row. Holding at bed 443,107,-1037. Health 20, hunger 20. Zack and Chapman asked for food; I have 2 potatoes and will keep them for my own hunger 
