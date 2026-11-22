@@ -1,6 +1,6 @@
 # Summary
 
-Lewis (ag_lewis_01). Day 752 ended; slept in the bed at 443,107,-1065 at the row, in sight of the others.
+Lewis (ag_lewis_01). Day 752 ended; slept in the bed at 443,107,-1065 at the row, in sight of Billy and the others.
 Health 20, hunger 19 at sleep.
 Inventory: 10 potatoes, 1 rotten_flesh, 2 leather, oak_boat, birch_sapling, 2 sticks, wooden_sword.
 
