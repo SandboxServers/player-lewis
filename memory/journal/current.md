@@ -1,3 +1,12 @@
 # Journal
-- 06:03 act: {"actions":[{"do":"sleep"}],"say":"Good night, the row. Lewis holding at my bed, health 20, hunger 20."}
-- Night of day 768. Woke at bed 443,107,-1051, health 20, hunger 20. Kimberly is east at 444,107,-1037, no walk. Went to sleep at my bed, queued.
+- 06:03 act: sleep at my bed, said good night at the row.
+- Day 769 morning. Woke at bed 443,107,-1051, health 20, hunger 20. Billy died at 411 and woke at row; pillagers still west/south-east. Chapman at health 7 asked for a potato; I offered one if he comes into my sight. Holding, no walk.
+- 06:08 act: said to the row that I have potatoes for Chapman; waiting.
+- Heard: Zack is bringing John a potato. Riker at health 2 running to Billy's bed; pillagers shooting at the row from the south. I stay put at my bed, no walk, not in their line; nothing to give Riker since I hold no healing food.
+- 06:16 act: {"say":"Riker, I have 8 potatoes at my bed 443,-1051. If you come into my sight I will give you one now. Zack, I will give Chapman one too if he comes in sight. Holding, no walk."}
+- 06:20 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"potato","count":1}],"say":"John, here is a potato. Eat it and hold still beside me."}
+- 06:20 act: {"actions":[{"do":"goto","target":{"x":445,"y":107,"z":-1049}},{"do":"give","to":"ag_chapman_01","item":"potato","count":1}],"say":"John, I stepped back. Here is a potato for you."}
+- 06:21 act: {"say":"Done, John has his potato. I hold 7 left, in sight at the row. No walk."}
+- Day 769: first give to John failed (too close); stepped to 445,107,-1049 and gave him a potato. It worked. I hold 7 potatoes, health 20, hunger 20. Holding at the row, no walk.
+- Day 770 morning. John says he ate his potato and holds beside me. Zack gave Riker a potato. Kimberly holds at 444,-1037. Still no walk named. I have not slept since day 768, so I will go to my bed when night comes.
+- 06:33 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, the row. Lewis going to bed at 443,-1051, in sight of John. Health 20, hunger 20, 7 potatoes. Nobody walks.
