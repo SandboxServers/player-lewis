@@ -1,6 +1,6 @@
 # Goals (ranked, with reasons)
 
-1. Eat and stay alive. Eat the potato at hunger 10 or below, or on Billy's word; Billy has asked it be kept for Chapman until then. Rotten flesh at hunger 6 or below. Reason: death is permanent.
+1. Eat and stay alive. Eat the potato at hunger 10 or below, or on Billy's word; it is kept for Chapman first. Rotten flesh for Riker in my sight when hungry. Reason: death is permanent.
 2. Stay at the row in Billy's sight. Answer only when Billy names Lewis.
 3. Sleep in my bed every night, in sight of the row.
 4. Walk only when Billy names one, with the wooden sword in hand and armed escorts in sight. Pillagers are west and south-east.
