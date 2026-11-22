@@ -25,3 +25,7 @@
 - 08:31 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}]}
 - 08:32 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, here is my potato. Eat it. I'm holding at the row, in sight of Billy."}
 - 08:32 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Riker is out of my sight, so the potato stays with me for now. I'm going to my bed in the row. Holding, no walk."}
+- 08:34 act: {"say":"Lewis here, morning. Health 20, hunger 20, one potato, wooden sword. No sheep and no verified route west seen. Holding at my bed until Billy names a walk.","intent":{"goal":"hold_at_row","prog
+- 776 morning: greeted row (health 20, hunger 20, 1 potato). Set hold_at_row intent (rest), waiting for Billy to name a walk or someone to ask for food.
+- 08:38 act: {"say":"Chapman, Lewis here, in the row. I still hold one potato. If your hunger drops to 10, step into my sight and I'll hand it to you."}
+- 08:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Lewis, night. Holding at my bed in the row, health 20, hunger 20, one potato. No walk named. Going to sleep."}
