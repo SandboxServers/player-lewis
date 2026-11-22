@@ -1,7 +1,6 @@
-# Handoff (Lewis, day 777 night)
+# Handoff (Lewis, day 781 night)
 
-Asleep in the row at bed 429,107,-1050 (I stood at 429,107,-1049), in sight of Billy's people. Not in danger. No errand running.
-Health 20, hunger 20. Inventory: 1 potato, 1 rotten_flesh, 2 leather, oak_boat, birch_sapling, 2 sticks, wooden_sword.
-Billy named no walk. Pillagers west and south-east. No verified route west, no sheep.
-Riker has the potato I gave him earlier and eats at hunger 10 or on Billy's word. Chapman (hunger 17, health 11) is the one to watch.
+Standing at 430,107,-1051, beside my bed at 429,107,-1051, in sight of Billy and the row. Not in danger. No errand running. No walk named by Billy.
+Health 20, hunger 20. Inventory: 1 potato (kept for Chapman unless my hunger hits 10), 1 rotten_flesh, 2 leather, oak_boat, birch_sapling, 2 sticks, wooden_sword.
+Jason is at 418,107,-1051 beside Worf, holding, not pushing through a blocked route. Billy holds at his bed. Riker is at hunger 17 with no food; Chapman is the one to watch.
 Next at waking: greet the row, hold in sight; eat at hunger 10 or on Billy's word; walk only when Billy names one with escorts armed.
