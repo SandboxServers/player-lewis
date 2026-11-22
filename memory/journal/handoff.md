@@ -1,5 +1,6 @@
-# Handoff (Lewis, day 762 night)
+# Handoff (Lewis, day 763)
 
-Sleeping at 443,107,-1051 (white bed), at the row, in sight of Billy, Kimberly, Trini, Picard, Chapman. Health 20, hunger 20. No errand running, no walk named, no verified route west, no sheep seen.
+At bed 443,107,-1051 at the row, in sight of Billy, Laforge, Chapman, Beverly, Kimberly. Health 20, hunger 20. Not in danger, no errand running, no walk named, no route west verified, no sheep seen.
 Inventory: 9 potatoes, 1 rotten_flesh, 2 leather, oak_boat, birch_sapling, 2 sticks, wooden_sword.
+Sleep at the bed failed once because it was not yet night; retry sleep at night.
 Next at waking: greet Billy, hold in sight; eat at hunger 10 or on Billy's word; walk only when Billy names one with escorts armed.
