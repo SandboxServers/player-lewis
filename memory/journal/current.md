@@ -8,3 +8,4 @@
 - 23:28 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}}],"say":"Night, row. Lewis going into my bed at 443,107,-1051, holding for Billy's word at first light. Troi, Leonardo, I still hold no fo
 - 23:28 act: {"actions":[{"do":"sleep"}],"say":"Night, back in my bed. Resting."}
 - 23:28 act: {"actions":[{"do":"note","text":"Slept in my bed at 443,107,-1051 through the night. Health 20, hunger 20. Still holding at bed; no walk named by Billy."}]}
+- 23:33 act: {"actions":[{"do":"note","text":"Day 821 morning, clear. At bed 443,107,-1051, health 20, hunger 20. Holding; potato kept for Chapman or Billy's word. Riker, Beverly and Kimberly hungry at the row."}]
