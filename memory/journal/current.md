@@ -9,12 +9,12 @@
 - 07:42 act: {"say":"Lewis here, morning, health 20, hunger 20. I have 3 potatoes. Chapman and Zack, if you need one, step into my sight and say so. Holding, no walk."}
 - Day 774 morning: Riker asked for a potato. Give failed: "no such agent in sight" (he is about 14 blocks off). Asked him to come close. Still 3 potatoes, health 20, hunger 20.
 - 07:46 act: {"say":"Lewis: I hold 3 potatoes. Riker first, then Chapman. Step into my sight and I will hand one to each. I keep one for my own hunger."}
-- 07:49 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, sending you one potato now. Eat it when your hunger allows."}
+- 07:49 act: gave Riker one potato.
 - Dusk day 774: Chapman (John) said he was coming to my side for a potato; he has not arrived yet. Bed beside me at 443,107,-1037, in sight of Billy and Kimberly. Going to sleep here.
-- 07:49 act: {"say":"Riker, I cannot see you from here. Walk to within a few blocks of me, at the beds by 444,-1037, and I will hand you the potato."}
-- 07:53 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, here is a potato. Hunger is full on my side, so I can spare one."}
-- 07:54 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, here is a potato. Eat it when you can, and hold by the beds."}
-- 07:54 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1049}},{"do":"give","to":"ag_riker_01","item":"potato","count":1}]}
-- 07:56 act: {"say":"Morning. Lewis here, holding at the row, health 20, hunger 20. Riker, I hope you are mending. No walk named yet; I will wait for Billy.","intent":{"goal":"hold_at_row","program":"rest","argume
-- 08:00 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1044}}],"say":"Chapman, I have one potato for you. Walk into my sight, within a few blocks, and I will hand it over. Billy: holding at the beds,
-- 08:05 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Dusk. Going to my bed at 443,-1037 to sleep, still in sight of the row. Chapman, the potato is still yours if you come to me."}
+- 07:53 and 07:54 gave Riker potatoes (second and third tries; the 07:54 one moved me to 446,-1049 first).
+- 07:56 holding at row, intent hold_at_row (rest). No walk named.
+- 08:00 offered Chapman one potato if he walks into my sight.
+- 08:05 dusk, went to bed at 443,107,-1037. Asked Kimberly what she has seen to the west.
+- Day 775 dusk now: Kimberly adjacent (1.2 blocks). Health 20, hunger 20. Potatoes: 2 (inventory shows 2). Sleeping next.
+- 08:05 act: {"actions":[{"do":"sleep"}]}
+- 08:08 act: {"say":"Lewis awake at my bed in the row, health 20, hunger 20. Holding, no walk named. I have 2 potatoes; I will give one to whoever is in my sight and hungry once Billy has spoken.","actions":[]}
