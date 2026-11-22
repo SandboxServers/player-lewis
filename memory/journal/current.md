@@ -3,3 +3,4 @@
 - 23:01 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Lewis in my bed at 443,107,-1051, holding for Billy's word at first light."}
 - 23:01 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}]}
 - Day 820 morning: clear, at bed 443,107,-1035. Health 20, hunger 20. No walk named; held at bed, watched the row (Troi and MacDonald hold potatoes for Beverly). Nothing to act on.
+- 23:14 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"note","text":"Night, waking at row. Walking to my bed to sleep, holding at bed per my goals."}],"say":"Lewis here, going to my bed
