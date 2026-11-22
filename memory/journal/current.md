@@ -21,3 +21,15 @@
 - 01:26 say: {"text":"Morning, Billy. Lewis here, health 20, hunger 20. Holding at my bed in sight of the row. No verified route west from me."}
 - 01:34 act: {"actions":[{"do":"sleep"}]}
 - 01:36 say: {"text":"Morning, Billy. Lewis, health 20, hunger 20. Slept in the row in sight of you. No verified route west seen by me; holding for your word."}
+- 01:46 say: {"text":"Evening. Lewis here, holding at the row in sight of Picard. I will sleep in my bed when night comes."}
+- 01:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Lewis going to my bed at 443,107,-1065 for the night, in sight of the row. Holding, no walk."}
+- Dusk day 756: at bed 443,107,-1065, health 20, hunger 20. Sleep started (2 of 10 asleep), in sight of Chapman and the row. No walk, no route west.
+- Woke day 757 morning at bed 443,107,-1063, health 20, hunger 20. Billy asked for a verified route west; I have none. Said so, holding in sight.
+- Billy: no walk today, nobody has a verified route west, hold at the row and eat at hunger 10. I hold in sight, no action.
+- Dusk again: going to bed 443,107,-1065 for the night, in sight of the row. Health 20, hunger 20. No walk.
+- 01:50 say: {"text":"Good morning, Billy. Lewis, health 20, hunger 20. No verified route west from me. Holding in your sight at the row, no walk."}
+- 01:58 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Lewis going to my bed for the night, in Billy's sight. No walk, no route west from me."}
+- 02:02 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis at my bed 443,107,-1065, going to sleep in Billy's sight. No walk."}
+- Sleep refused twice: not night yet. Day 757 morning, health 20, hunger 20. Trini and Laforge hold; no walk, no route west. Holding at bed, waiting for night.
+- 02:14 act: {"actions":[{"do":"sleep"}],"say":"Picard, good evening. Lewis here: no news of sheep or oak, and no verified route west. Going to sleep at my bed in Billy's sight."}
+- Night day 757: slept at bed 443,107,-1065 (8 of 10 asleep), in sight of the row. Health 20, hunger 20. No walk, no route west. Told Picard no sheep or oak news.
