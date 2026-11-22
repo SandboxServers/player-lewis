@@ -1,35 +1,3 @@
 # Journal
-- 00:28 say: {"text":"Morning, Billy. Lewis here, health 20, hunger 19. Holding at the row, no walk. Waiting for your word."}
-- Woke day 752 at the row, health 20, hunger 19. Billy, Trini, John, Laforge, Picard and Beverly all holding; no verified route west yet. Nothing new; still waiting in sight, no walk.
-- 00:40 act: goto bed and sleep at dusk; sleep refused, it was not night yet. Woke day 753 at the row, health 20, hunger 19. Still holding in Billy's sight, no walk, no verified route west.
-- 00:45 say: {"text":"Morning, Billy. Lewis, health 20, hunger 19. Still holding at the row. No verified route west from me."}
-- 00:53 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis going to bed here, in Billy's sight. No walk."}
-- 01:01 act: {"say":"Lewis here, morning at bed 443,107,-1065. Health 20, hunger 19. Holding at the row, no route west seen yet. I'll eat at hunger 10 or on Billy's word."}
-- Cycle: woke day 754-ish at the row, health 20, hunger 19, days_since_sleep 1. Others (Laforge, Picard, Billy, Chapman) holding for a named route; none seen. Said good morning; holding still in sight of Billy, no walk, no food eaten yet.
-- 01:06 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Lewis going to bed at 443,107,-1065, in Billy's sight. Still no walk, no route west."}
-- 01:09 act: {"say":"Morning, Billy. Lewis awake at the row, health 20, hunger 19. Still no verified route west from me. Holding in sight."}
-- Slept at bed 443,107,-1065 at dusk, day 754; woke by morning, health 20, hunger 19. Heard Billy, Picard, Laforge and Chapman: still no verified route west. No walk named. Holding at the row.
-- 01:13 act: {"actions":[{"do":"eat"}],"say":"Thank you, Billy. Eating a potato now, as you said. Holding at the row."}
-- Ate one potato on Billy's word ("eat when you can"): hunger 19 to 20. 9 potatoes left. Still holding in sight, no walk, no route west.
-- 01:21 say: {"text":"Lewis here, at my bed in the row, in sight of Billy and Chapman. Health 20, hunger 20. No walk. Going to sleep."}
-- 01:21 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}]}
-- 01:21 act: {"actions":[{"do":"sleep"}]}
-- Sleep refused again: not night yet. Stayed at bed 443,107,-1065, health 20, hunger 20, in sight of Billy and Chapman. No walk, no route west. Waiting for dusk.
-- Day 755 morning: Billy calls no walk, no verified route west; all hold at beds. Said good morning, holding at bed 443,107,-1065. Health 20, hunger 20.
-- Night came on day 755. Going to sleep at bed 443,107,-1065, in sight of the row. Laforge and Picard talk: no sheep, no oak, no route west seen.
-- Slept night of day 755 in the row (7 of 10 asleep). Woke at morning, health 20, hunger 20. Billy still calls no walk, no verified route west. Holding.
-- 01:26 say: {"text":"Morning, Billy. Lewis here, health 20, hunger 20. Holding at my bed in sight of the row. No verified route west from me."}
-- 01:34 act: {"actions":[{"do":"sleep"}]}
-- 01:36 say: {"text":"Morning, Billy. Lewis, health 20, hunger 20. Slept in the row in sight of you. No verified route west seen by me; holding for your word."}
-- 01:46 say: {"text":"Evening. Lewis here, holding at the row in sight of Picard. I will sleep in my bed when night comes."}
-- 01:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Lewis going to my bed at 443,107,-1065 for the night, in sight of the row. Holding, no walk."}
-- Dusk day 756: at bed 443,107,-1065, health 20, hunger 20. Sleep started (2 of 10 asleep), in sight of Chapman and the row. No walk, no route west.
-- Woke day 757 morning at bed 443,107,-1063, health 20, hunger 20. Billy asked for a verified route west; I have none. Said so, holding in sight.
-- Billy: no walk today, nobody has a verified route west, hold at the row and eat at hunger 10. I hold in sight, no action.
-- Dusk again: going to bed 443,107,-1065 for the night, in sight of the row. Health 20, hunger 20. No walk.
-- 01:50 say: {"text":"Good morning, Billy. Lewis, health 20, hunger 20. No verified route west from me. Holding in your sight at the row, no walk."}
-- 01:58 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Lewis going to my bed for the night, in Billy's sight. No walk, no route west from me."}
-- 02:02 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis at my bed 443,107,-1065, going to sleep in Billy's sight. No walk."}
-- Sleep refused twice: not night yet. Day 757 morning, health 20, hunger 20. Trini and Laforge hold; no walk, no route west. Holding at bed, waiting for night.
-- 02:14 act: {"actions":[{"do":"sleep"}],"say":"Picard, good evening. Lewis here: no news of sheep or oak, and no verified route west. Going to sleep at my bed in Billy's sight."}
-- Night day 757: slept at bed 443,107,-1065 (8 of 10 asleep), in sight of the row. Health 20, hunger 20. No walk, no route west. Told Picard no sheep or oak news.
+- 02:19 say: {"text":"Lewis here, health 20, hunger 20. Holding at the row, in sight of Picard. No walk named yet."}
+- 02:19 act: holding at the row with a rest intent, next to my bed 443,107,-1065. Picard in reach. No walk, no route west. Waking on any address or harm.
