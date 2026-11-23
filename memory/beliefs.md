@@ -15,4 +15,5 @@
 - Day 858: Worf ate at hunger 10 and had no food left. Billy and Bcrusher hold potatoes for Leonardo and Trini. Armed friends are absent; nobody in the row carries a weapon.
 - Day 859: Riker reports cows at 434,106,-1113 and 339,104,-979. Still no sheep.
 - Day 863: Billy handed potatoes to Worf (5) and Zack (3) in sight, in daylight. Holding at the row works while Billy names nothing for me.
+- Day 877: Dusk sleep at my bed worked; Billy, Riker and Troi also went to bed. Morning greeting in the row is the usual rhythm. Beverly still weakest (health 7.3). Billy sent Bcrusher, Worf and Zack to feed her by daylight.
 - Day 873: Billy walks to my sword only when armed Kimberly is in his sight. Phantoms come at night; Kimberly fights them and drops to health 9. Sleeping in my bed in the row is safe enough so far.
