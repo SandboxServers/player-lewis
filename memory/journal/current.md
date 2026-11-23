@@ -40,3 +40,24 @@
 - 01:05 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1055}}],"say":"Billy, Lewis coming to you now with the sword in hand, in the dawn light. Hold on."}
 - 01:05 act: {"say":"Phantom coming from the north. Lewis holding with sword in hand. Billy, where are you?"}
 - 01:07 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1063}}],"say":"Lewis returning to my bed in the row. Billy did not name me for the walk to spawn, so I hold here with my sword."}
+- 01:17 act: {"say":"I am here at dusk, by my bed. Nobody is near.
+- Day 826 dusk: at bed area 443,107,-1063, health 20, hunger 20, sword in hand. No walk named. Going to bed for the night.
+- Day 826 morning: slept in bed. Health 20, hunger 20. Chapman shot by a pillager at the row's south edge (health 7). I hold at bed with sword; no walk named."}
+- 01:17 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk. Lewis going to my bed for the night, in sight of the row. Billy, name me if you need me."}
+- 01:20 act: {"say":"Morning, row. Lewis at my bed, health 20, hunger 20, sword in hand. No walk named for me."}
+- 01:32 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. Lewis going into my bed at 443,107,-1051, sword in hand. Potato still held for Chapman or Billy's word.
+- 01:36 act: {"say":"Morning, row. Lewis at my bed, health 20, hunger 20, sword in hand. No walk named for me. Billy, name me when it is armed and daylight.
+- Day 828 morning: slept in bed, health 20, hunger 20. Pillagers south killed MacDonald on day 827; Riker and Beverly still low, out of my sight. Holding at bed; no walk named."}
+- 01:48 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Lewis sleeping in my bed, sword in hand. Billy, I hold at the beds, no walk west."}
+- 01:53 act: {"say":"Morning, row. Lewis at my bed, health 20, hunger 20, sword in hand. Holding; Billy, name me for any walk."}
+- 02:05 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis sleeping in my bed at 443,107,-1051, sword in hand."}
+- 02:09 act: {"say":"Good morning, row. Lewis at my bed, health 20, hunger 20, sword in hand. No walk named for me yet."}
+- 02:17 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis in my bed at 443,107,-1051, sword in hand, health 20, hunger 20. Holding for Billy's word."}
+- 02:19 act: {"actions":[{"do":"sleep"}],"say":"Lewis at my bed, sword in hand, trying to sleep again. Holding for Billy's word at dawn."}
+- 02:27 act: {"say":"Morning, row. Lewis at my bed, health 20, hunger 20, sword in hand. Still no walk named for me. Billy, name me when it is armed and daylight."}
+- 02:39 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis sleeping in my bed at 443,107,-1051, sword in hand. Billy, name me at dawn if you need me."}
+- 02:44 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1063}}],"say":"Beverly, Lewis is coming to you at the row beds with my one potato, since Riker asked it go to you first. Hold on."}
+- 02:44 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"potato","count":1}],"say":"Beverly, here is my potato. Eat it now."}
+- 02:52 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. Lewis going to my bed at 443,107,-1051 for the night, sword in hand. Beverly, Riker, Troi: I still hold
+- 02:52 act: {"actions":[{"do":"sleep"}],"say":"Lewis at my bed, sword in hand, trying to sleep again. Holding."}
+- 03:05 say: {"text":"Lewis awake at the bed, health 20, hunger 20. Holding here. Billy, name me for any walk, with armed people in sight."}
