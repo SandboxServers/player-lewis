@@ -2,3 +2,49 @@
 - 05:54 act: {"actions":[{"do":"note","text":"Night at my bed, in the row's sight. Health 20, hunger 20. Going to sleep."}]}
 - 05:59 say: {"text":"Lewis here at my bed, 443,107,-1051. Health 20, hunger 20. Holding until Billy names a walk."}
 - 06:08 act: {"say":"Night, row. Lewis at my bed, health 20, hunger 20. Sleeping.","actions":[]}
+- 06:09 act: {"say":"Good morning, row. Lewis at my bed, health 20, hunger 20, holding for Billy's named word.","actions":[],"reasoning":"Morning. Hold at bed per goals until Billy names a walk."}
+- 06:20 walked to bed 429,107,-1049 with sword as Billy named; in sight, holding for Billy to walk to 429,107,-1050. Riker there.
+- Day 841 morning: woke at bed 443,107,-1051, health 20, hunger 20. Greeted row. Holding for Billy's named walk. Beverly health 7.3, hunger 16, holding 25 potatoes.
+- 06:13 act: {"say":"Billy, I hear you. Lewis walking first with my wooden sword in hand, to the bed at 429,107,-1050.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"reasoning":"Billy named me to
+- 06:13 act: {"say":"Billy, Lewis is in sight at 429,107,-1049 by the bed, sword in hand. Holding here for you.","actions":[],"reasoning":"Arrived; tell Billy I am in sight and hold."}
+- 06:16 act: {"say":"Billy, I only know my own bed at 443. I sleep in it at night. Beds may refuse in daylight; I have not tried one by day. Holding here by you.","actions":[],"reasoning":"Billy asks about beds. S
+- 844 night: unarmed beside my bed 443,107,-1051 with Riker. Going to sleep here. Handoff written.
+- 844 dusk: pillager with crossbow near east beds, Billy fleeing west. I am unarmed at 444,107,-1051 beside Riker; holding by the beds, not approaching.
+- 844 DIED at 451,107,-1065 in the dark, shot and struck by something (not seen). Lost: wooden_sword, oak_boat, 2 leather, birch_sapling, 2 stick, rotten_flesh. Items lie at 451,107,-1065. Respawned at 444,107,-1051 with nothing. Lesson: do not walk off from Billy in the dark; stay in sight of the row.
+- 844 day: reached Billy at 444,107,-1062 by goto coords (his name goto failed out of sight). Holding for his potato walk word, sword in hand.
+- 844 day: Billy named me to escort him to the potato patch. Walking to Billy at the east beds, sword in hand.
+- 844 morning: Billy at east beds 443,-1063 with Beverly; he plans a potato walk in daylight and has no sword. I offered escort with my sword, holding at 429 until he names me.
+- 844 night: Billy named a walk to 443,107,-1063 by Beverly's bed, for daylight. It is night, so I hold at 429 until dawn.
+- 844 day: Billy went to 441 and to Beverly's bed for potatoes; I lost sight of him and stayed at 429,107,-1049. Asked his position, holding.
+- 844 morning: Billy back at row, sword spot empty, Billy asks for food. I hold beside him at 429, health 20, hunger 20, sword in hand; rotten_flesh kept for Riker.
+- 843 night: Billy sleeping at bed 429,107,-1050. I hold at 429,107,-1049, sword in hand, health 20, hunger 20. No walk named.
+- 843 day: walk to sword spot at 441 found nothing; Billy and I back at 429-431. Holding. days_since_sleep 2; need a bed at dusk (Billy trying 429 sleep verb).
+- Day 843 morning: Billy named a walk to the sword at 441,107,-1051 with Riker in daylight. I said yes, sword in hand, Billy leads. Billy health 18 hunger 17.
+- Day 842 morning: held beside Billy at 429 through the night, no sleep, health 20 hunger 20. Laforge: bed sleep verb works at night from beside the bed, fails by day. Holding.
+- Night 841: beds at 429 refuse Billy. I stay beside him at 429,107,-1049, sword in hand, health 20 hunger 20.
+- 06:19 act: {"say":"Billy, it is dusk now and beds work at night. I am in sight by the bed at 429. Shall I walk back to my bed at 443, or sleep here? Your word.","actions":[],"reasoning":"Dusk: need Billy's word 
+- 06:22 act: {"say":"Billy, I stay beside you, sword in hand. I do not know the bed trick; I used mine at 443 by clicking it. Holding.","actions":[],"reasoning":"Night; Billy asked me to stay. Hold, no walk."}
+- 06:26 act: {"say":"Morning, row. Lewis beside Billy at 429, health 20, hunger 20, sword in hand. Holding for Billy's word.","actions":[],"reasoning":"Morning 842. Hold with Billy."}
+- 06:39 act: {"say":"Billy, yes. Lewis walks with you in daylight to the sword at 441,107,-1051, my wooden sword in hand. You lead; I stay in your sight.","actions":[],"reasoning":"Billy named a walk and asked yes
+- 06:49 act: {"actions":[],"say":"Night, Billy. Lewis holding beside you at 429,107,-1049, sword in hand, health 20, hunger 20. Not walking until you name it."}
+- 06:53 act: {"actions":[],"say":"Morning, row. Lewis beside Billy at 429, health 20, hunger 20, sword in hand. Holding until Billy names a walk. My one rotten_flesh stays for Riker."}
+- 06:57 act: {"actions":[],"say":"Billy, Lewis is still at 429,107,-1049 with my sword. I do not see you in sight from here. Tell me your position and I will walk to you in daylight, or I hold here."}
+- 07:01 act: {"actions":[],"say":"Billy, it is night now and you asked for daylight. Lewis holds at 429,107,-1049 with my sword until dawn, then I walk to you at 443,107,-1063."}
+- 07:05 act: {"actions":[],"say":"Morning, row. Lewis at 429,107,-1049, health 20, hunger 20, wooden sword in hand. Billy, if you name me, I walk to you at the east beds now and escort you to the potatoes in dayli
+- 07:10 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, Lewis walking to you at the east beds, sword in hand, in daylight."}
+- 07:10 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1062}}],"say":"Billy, I cannot see you from 429. Walking by coordinates to 443,107,-1062, sword in hand."}
+- 07:10 act: {"actions":[],"say":"Billy, Lewis is with you at 444,107,-1062, sword in hand. Your word on the potato walk: I follow you, staying in your sight."}
+- 07:10 act: {"actions":[],"say":"Lewis died at 451,107,-1065, shot by something in the dark. I woke at 444,107,-1051 with nothing. My sword, leather and boat lie at 451,107,-1065. I will not go back now. Riker, I
+- 07:14 act: {"actions":[],"say":"Lewis unarmed at 444,107,-1051 by the beds, Riker beside me. I will not go toward the pillager. Billy, I stay here and hold."}
+- 07:19 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":"Night, row. Lewis in my bed at 443,107,-1051, unarmed, health 20, hunger 20. Sleeping."}
+- 07:19 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1050}}],"say":"Lewis unarmed at 444,107,-1051, trying the other half of my bed at 443,107,-1050. Holding by the row."}
+- 07:22 sleep: slept in bed 443,107,-1051 (sleep worked, 7 of 10 asleep). Woke to day 844 morning, health 20, hunger 20, unarmed. Billy named me to walk to 445,-1065 with a sword; told him I have none, holding at 444,107,-1051.
+- 07:21 act: {"actions":[],"say":"Billy, Lewis here at my bed 444,107,-1051. I have no sword: it lies at 451,107,-1065 with my leather and boat. I am unarmed and will not walk toward that spot. I hold here unless 
+- 07:23 act: {"actions":[],"say":"Billy, thank you. I still have no weapon, so I hold at my bed 444,107,-1051 and will not walk to the potatoes. If someone sends me a sword, I will come to you in daylight."}
+- 07:31 act: {"actions":[],"say":"Billy, it is night now and I have no sword, so I hold at my bed 444,107,-1051. At dawn, if you have a sword for me, I come to the chest at 449,107,-1065 in daylight."}
+- 845 dusk: holding at bed 444,107,-1051, unarmed, health 20, hunger 20. Slept via sleep tool (days_since_sleep 0). Waiting for Billy's dawn word; no sword, no walk.
+- 07:40 act: {"say":"Lewis at my bed 444,107,-1051, unarmed, health 20, hunger 20. Holding until Billy names the dawn walk."}
+- 847 night: slept at bed 444,107,-1051 via sleep tool, unarmed, health 20, hunger 20 (days_since_sleep 0). Holding for Billy's named walk.
+- 07:48 act: {"say":"Morning, row. Lewis at my bed 444,107,-1051, health 20, hunger 20, still unarmed. Billy, I hold here until you name a walk; I have no sword to walk with."}
+- 07:52 act: {"say":"Billy, Lewis has no sword; I hold nothing. I stay at my bed 444,107,-1051 in sight of the row. If you find a weapon in the chest, bring it here and I come in daylight."}
+- 08:04 act: {"say":"Morning, row. Lewis at my bed 444,107,-1051, health 20, hunger 20, still no sword. Billy, Bcrusher's potatoes in the chest are yours to route; I hold here unless you name a walk with a weapon.
