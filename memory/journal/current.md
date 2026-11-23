@@ -3,3 +3,9 @@
 - Woke day 879 at bed 443,107,-1051. Troi greeted the row; I answered and am holding at bed. Health 20, hunger 20.
 - Day 880 morning: still holding at bed. Billy is handing out potatoes (Beverly, Worf, Zack); nothing for me yet. Riker asked about sheep; I wait for Billy's word.
 - Night of day 880: slept in my bed at 443,107,-1051. Nothing new for me; no walk named. Reflect: I held my post, answered Troi, and did not walk without Billy. Tomorrow: greet the row, hold, and watch for Billy's word on food or a walk.
+- 19:11 act: {"say":"Lewis here, at my bed 443,107,-1051. Health 20, hunger 20, unarmed. Holding in the row until Billy names a walk.","intent":{"goal":"hold_at_bed_in_row","program":"rest","arguments":{},"wake_on
+- 19:15 act: {"say":"Morning, row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. Holding here. Billy, no walk for me until you name it."}
+- 19:23 act: {"actions":[{"do":"sleep"}]}
+- 19:27 act: {"say":"Morning, Troi and row. Lewis here at bed, health 20, hunger 20, unarmed. Holding until Billy names a walk."}
+- 19:35 act: {"actions":[{"do":"sleep"}]}
+- 19:39 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis sleeping at my bed 443,107,-1051. Health 20, hunger 20. First light I hold for Billy's word."}
