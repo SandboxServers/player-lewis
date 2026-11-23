@@ -9,3 +9,11 @@
 - 19:27 act: {"say":"Morning, Troi and row. Lewis here at bed, health 20, hunger 20, unarmed. Holding until Billy names a walk."}
 - 19:35 act: {"actions":[{"do":"sleep"}]}
 - 19:39 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis sleeping at my bed 443,107,-1051. Health 20, hunger 20. First light I hold for Billy's word."}
+- 19:43 act: {"say":"Morning, Troi and Riker. Lewis at bed, health 20, hunger 20, unarmed. Holding for Billy's word."}
+- 19:51 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Lewis sleeping at my bed 443,107,-1051. Health 20, hunger 20. Holding for Billy at first light."}
+- 19:55 act: {"actions":[],"say":"Morning, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, no sword. Holding here until Billy names a walk."}
+- 20:08 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Lewis sleeping at my bed 443,107,-1051. Health 20, hunger 20."}
+- 20:12 act: {"actions":[],"say":"Morning, row. Lewis at my bed 443,107,-1051, health 20, hunger 20. Riker, I have seen no sheep or sword material yet. Holding for Billy's walk."}
+- 20:20 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis sleeping at my bed 443,107,-1051, health 20, hunger 20. No walk named; holding."}
+- 20:36 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis sleeping at my bed 443,107,-1051, health 20, hunger 20."}
+- 20:52 say: {"text":"Good morning, row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. No walk named; holding here."}
