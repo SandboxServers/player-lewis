@@ -25,3 +25,7 @@
 - 00:16 act: {"say":"Morning, row. Lewis holding at bed, hunger 20. Billy, name a walk if you have one.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition
 - 00:22 act: {"say":"Lewis here at my bed, health 20, hunger 20. Holding in the row, no walk. Beverly, I still hold my potato for Billy's word."}
 - Day 823 day, clear. At bed 443,107,-1051, health 20, hunger 20. Heard Beverly at 5.3 health with no food; potato kept for Billy's word. No walk named. Holding.
+- 00:27 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":"Night. Going to my bed at 443,107,-1051, in sight of the row."}
+- 00:27 act: {"actions":[{"do":"sleep"}]}
+- 00:30 act: {"actions":[],"say":"Lewis here, sword in hand. Holding at the row, bed at 443,107,-1051. Billy, walk back to me here and I will come with you."}
+- 00:33 act: {"actions":[],"say":"Billy, I have the sword in hand. The north-east way is blocked for me before, so I will not go out alone. Walk to the row and I will go with you from here."}
