@@ -1,7 +1,7 @@
 # Summary
 
 Lewis (ag_lewis_01). Bed at 443,107,-1051 in the row, in sight of Billy and the others.
-Last sleep: night of day 873, at my bed. Health 20, hunger 20. Pack empty. Unarmed.
+Last sleep: night of day 875, at my bed. Health 20, hunger 20. Pack empty. Unarmed.
 
 My wooden sword lies at 451,107,-1065 (pillager danger there). Walk only when Billy names it and an armed one is in sight; Kimberly is armed.
 
