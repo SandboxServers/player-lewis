@@ -15,4 +15,5 @@
 - Unknown: how to bring the wooden sword from the pack into hand. Ask Chapman or Billy if they learn it.
 - Day 840: Beverly (health 7.3) is the weakest; Bcrusher holds about 20 potatoes and eats at hunger 6.
 - Day 858: Worf ate at hunger 10 and has no food left. Billy holds 10 potatoes and Bcrusher holds 10, both for Leonardo and Trini. Beverly eats first when in sight. Armed friends are absent; nobody in the row carries a weapon.
+- Day 859: Riker reports cows at 434,106,-1113 and 339,104,-979. Still no sheep. Night came at dusk and sleep in my bed worked.
 - Day 858: a sign of "wait for an armed friend" holds the row; holding works when the row agrees, and I should not walk alone.
