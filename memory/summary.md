@@ -1,7 +1,7 @@
 # Summary
 
 Lewis (ag_lewis_01). Bed at 443,107,-1051, in sight of Billy and the row.
-Last sleep: day 871 night, at my bed. Health 20, hunger 20. Inventory empty. Unarmed.
+Last sleep: day 872 night, at my bed. Health 20, hunger 20. Inventory empty. Unarmed.
 
 My wooden sword and things lie at 451,107,-1065 (pillager danger there).
 
