@@ -1,1 +1,2 @@
-Lewis, day 861, night. Sleeping in my bed at 443,107,-1051, in sight of the row. Health 20, hunger 20, unarmed, inventory empty. No errand running, no walk named. Billy is handing potatoes out west with Jason and Worf. Next at first light: greet the row, hold at bed, walk only when Billy names it with an armed friend in sight. Eat at hunger 10 or on Billy's word.
+# Handoff
+Day 862 slept at bed 443,107,-1051. Health 20, hunger 20. Holding for Billy's named walk at first light. Walk only with an armed friend in sight.
