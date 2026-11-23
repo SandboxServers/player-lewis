@@ -21,3 +21,5 @@
 - 23:55 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Lewis sleeping in my bed, holding for Billy's word."}
 - 00:11 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis sleeping in my bed at 443,107,-1051, holding for Billy's word."}
 - 00:16 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Lewis at my bed at 443,107,-1051, sword in hand, health 20, hunger 20. Holding for Billy's word."}
+- Day 823 morning, clear. At bed 443,107,-1051, health 20, hunger 20. Troi holds at 432,107,-1041 waiting for Billy to name a walk. No walk for me. Holding at bed with a rest intent; greeted the row.
+- 00:16 act: {"say":"Morning, row. Lewis holding at bed, hunger 20. Billy, name a walk if you have one.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition
