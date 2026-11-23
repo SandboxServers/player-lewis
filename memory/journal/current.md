@@ -7,3 +7,4 @@
 - Thunder, dim. Billy: no walk until an armed friend is in sight in full day. Beverly still holds potatoes for Leonardo and Trini. Still at bed.
 - 10:04 act: {"say":"Good morning, row. Lewis here at my bed, health 20, hunger 20. Holding for Billy's word."}
 - Day 853 morning: bright, clear, at bed. Riker greeted the row, holding for Billy. Said good morning; no walk named. Waiting at bed.
+- 10:17 act: {"say":"Night, row. Lewis at my bed, health 20, hunger 20, unarmed. Holding for Billy's word at first light."}
