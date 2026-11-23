@@ -3,3 +3,12 @@
 - 13:52 act: {"say":"Night, row. Lewis at my bed, health 20, hunger 20, unarmed. Holding until first light.","actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}]}
 - 13:52 act: {"actions":[{"do":"sleep"}]}
 - Day 864 night: bed use at 443,107,-1051 failed ("that block is a bed"); plain sleep worked, 9 of 10 asleep. Morning: Billy handing potatoes to Worf and Zack in daylight. No walk named for me. Holding at bed, health 20, hunger 20.
+- 14:05 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night. Going to bed at 443,107,-1051, in sight of the row."}
+- Day 865 night: at bed 444,107,-1051, health 20, hunger 20, unarmed, nobody near. Sleep sent; waiting for morning. No walk named.
+- 14:05 act: {"actions":[{"do":"sleep"}]}
+- Day 865 morning: slept through, health 20, hunger 20. Billy holds 8 potatoes for Worf 5, Zack 3; Beverly weakest. No walk named for me. Holding at bed.
+- Day 866 morning: still at bed 443,107,-1051, health 20, hunger 20, unarmed. Billy gave Worf 5 potatoes. No walk named for me; holding.
+- 14:09 act: {"actions":[],"say":"Morning. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. Holding for Billy's word. No sheep or sword material seen by me."}
+- 14:33 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. Holding until Billy names the morning."}
+- Day 866 night: asleep at bed 443,107,-1051 in the row, health 20, hunger 20. No walk named. Waiting for first light.
+- 14:33 act: {"actions":[{"do":"sleep"}]}
