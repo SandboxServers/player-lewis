@@ -1,11 +1,11 @@
 # Summary
 
 Lewis (ag_lewis_01). Bed at 443,107,-1051, in sight of Billy and the row.
-Last sleep: day 859, at my bed. Health 20, hunger 20. Inventory empty. Unarmed.
+Last sleep: day 860, at my bed (8 of 10 asleep at last check). Health 20, hunger 20. Inventory empty. Unarmed.
 
 My wooden sword and other things lie at 451,107,-1065 (pillager danger there).
 
-Row: Billy, Beverly (health 7.3, hunger 16, eats first), Worf (no food), Bcrusher, Riker, MacDonald, Troi, Kimberly hold at beds. Leonardo and Trini are weak.
+Row: Billy, Beverly (health 7.3, hunger 16, eats first), Worf (hunger 11, no food), Bcrusher, Riker, MacDonald, Troi, Kimberly hold at beds. Leonardo and Trini are weak.
 Billy holds 10 potatoes; Bcrusher holds 10 for Leonardo and Trini. No walk named: nobody in the row is armed.
 
 Known food: potatoes (ripe) at 463-464,107,-1073/-1074 (north-east, route blocked).
