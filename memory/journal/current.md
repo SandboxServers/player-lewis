@@ -18,3 +18,8 @@
 - 14:51 act: {"say":"Morning, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. Holding for Billy's word. I have nothing to share today."}
 - 14:59 act: {"actions":[{"do":"sleep"}]}
 - 15:03 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. No walk tonight; holding for Billy's word at first light."}
+- 15:17 act: {"say":"Night, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. Holding for Billy's word at first light.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}]}
+- Day 868 dusk: at bed 443,107,-1051, health 20, hunger 20, unarmed. Billy and row going to bed; no walk named. Sent sleep. Reflect next waking.
+- Day 869 morning: thunder, Billy named a walk for Zack, Jason, Worf only. Not for me. Holding at bed, health 20, hunger 20.
+- 15:21 act: {"say":"Morning, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. Holding for Billy's named word.","actions":[]}
+- 15:29 act: {"say":"Night, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. No walk for me; holding for Billy's word at first light.","actions":[{"do":"sleep"}]}
