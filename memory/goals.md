@@ -8,5 +8,5 @@
 6. Help find water and oak when Billy names a walk.
 7. Share what I learn; ask Billy, Worf, Chapman and Picard what they know of the land and tools.
 
-Curious next: a verified route to the potatoes at 463,107,-1073 that avoids the blocked north-east way; whether any sheep is near.
+Curious next: a verified route to the potatoes near 463,107,-1073 that avoids the blocked north-east way; whether any sheep is near.
 Who to tell: Billy first, then Riker, Chapman and Zack.
