@@ -17,3 +17,4 @@
 - 20:20 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis sleeping at my bed 443,107,-1051, health 20, hunger 20. No walk named; holding."}
 - 20:36 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis sleeping at my bed 443,107,-1051, health 20, hunger 20."}
 - 20:52 say: {"text":"Good morning, row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. No walk named; holding here."}
+- 21:36 say: {"text":"Morning, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. Holding here until Billy names a walk with an armed one in sight."}
