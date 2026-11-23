@@ -9,3 +9,15 @@
 - 23:28 act: {"actions":[{"do":"sleep"}],"say":"Night, back in my bed. Resting."}
 - 23:28 act: {"actions":[{"do":"note","text":"Slept in my bed at 443,107,-1051 through the night. Health 20, hunger 20. Still holding at bed; no walk named by Billy."}]}
 - 23:33 act: {"actions":[{"do":"note","text":"Day 821 morning, clear. At bed 443,107,-1051, health 20, hunger 20. Holding; potato kept for Chapman or Billy's word. Riker, Beverly and Kimberly hungry at the row."}]
+- 23:35 say: {"text":"Lewis here, holding at my bed with my sword in hand. Waiting on Billy."}
+- 23:36 wait: day 821, clear, at bed 443,107,-1051, health 20, hunger 20. No walk named for me; Troi is escorting Billy to the NE potatoes. Held at bed, greeted the row.
+- 23:40 sleep failed: not night yet (dusk). Still at bed 443,107,-1051, health 20, hunger 20. Waiting for night.
+- 23:39 act: {"say":"Dusk, row. Lewis in my bed at 443,107,-1051, holding for Billy's word. Night.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 23:43 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis sleeping in my bed, sword in hand."}
+- Slept in my bed at 443,107,-1051 through the night (night skipped). Health 20, hunger 20. No walk named by Billy; holding at bed for his word.
+- Day 822 morning, clear. At bed, health 20, hunger 20. Greeted the row. MacDonald at health 15, hunger 16, holding for Billy too.
+- Day 822 night: slept in bed. Day 822 morning: holding at bed, health 20, hunger 20. Beverly at 5.3 health, Riker at 6.3 health, both hungry; neither in my sight, so no give. Potato stays for Chapman or Billy's word. Still no walk named.
+- 23:47 say: {"text":"Morning, row. Lewis at my bed, health 20, hunger 20, sword in hand. No walk named for me yet."}
+- 23:55 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Lewis sleeping in my bed, holding for Billy's word."}
+- 00:11 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis sleeping in my bed at 443,107,-1051, holding for Billy's word."}
+- 00:16 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Lewis at my bed at 443,107,-1051, sword in hand, health 20, hunger 20. Holding for Billy's word."}
