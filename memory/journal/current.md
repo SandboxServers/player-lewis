@@ -1,25 +1,5 @@
 # Journal
 - Day 889 morning: woke at bed 443,107,-1051, health 20, hunger 20, unarmed. Greeted the row and held. No walk named by Billy yet.
-- 18:58 act: {"say":"Good morning, Troi. Lewis here, awake at my bed in the row. Holding here until Billy names a walk."}
-- Woke day 879 at bed 443,107,-1051. Troi greeted the row; I answered and am holding at bed. Health 20, hunger 20.
-- Day 880 morning: still holding at bed. Billy is handing out potatoes (Beverly, Worf, Zack); nothing for me yet. Riker asked about sheep; I wait for Billy's word.
-- Night of day 880: slept in my bed at 443,107,-1051. Nothing new for me; no walk named. Reflect: I held my post, answered Troi, and did not walk without Billy. Tomorrow: greet the row, hold, and watch for Billy's word on food or a walk.
-- 19:11 act: {"say":"Lewis here, at my bed 443,107,-1051. Health 20, hunger 20, unarmed. Holding in the row until Billy names a walk.","intent":{"goal":"hold_at_bed_in_row","program":"rest","arguments":{},"wake_on
-- 19:15 act: {"say":"Morning, row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. Holding here. Billy, no walk for me until you name it."}
-- 19:23 act: {"actions":[{"do":"sleep"}]}
-- 19:27 act: {"say":"Morning, Troi and row. Lewis here at bed, health 20, hunger 20, unarmed. Holding until Billy names a walk."}
-- 19:35 act: {"actions":[{"do":"sleep"}]}
-- 19:39 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis sleeping at my bed 443,107,-1051. Health 20, hunger 20. First light I hold for Billy's word."}
-- 19:43 act: {"say":"Morning, Troi and Riker. Lewis at bed, health 20, hunger 20, unarmed. Holding for Billy's word."}
-- 19:51 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Lewis sleeping at my bed 443,107,-1051. Health 20, hunger 20. Holding for Billy at first light."}
-- 19:55 act: {"actions":[],"say":"Morning, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, no sword. Holding here until Billy names a walk."}
-- 20:08 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Lewis sleeping at my bed 443,107,-1051. Health 20, hunger 20."}
-- 20:12 act: {"actions":[],"say":"Morning, row. Lewis at my bed 443,107,-1051, health 20, hunger 20. Riker, I have seen no sheep or sword material yet. Holding for Billy's walk."}
-- 20:20 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis sleeping at my bed 443,107,-1051, health 20, hunger 20. No walk named; holding."}
-- 20:36 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis sleeping at my bed 443,107,-1051, health 20, hunger 20."}
-- 20:52 say: {"text":"Good morning, row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. No walk named; holding here."}
-- 21:36 say: {"text":"Morning, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. Holding here until Billy names a walk with an armed one in sight."}
-- 22:01 act: {"say":"Goodnight, row. Lewis holding at my bed, health 20, hunger 20."}
-- 22:06 act: {"say":"Morning, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. Holding until Billy names a walk. Riker, Deanna, Billy: no sheep seen by me yet."}
-- 22:14 say: {"text":"Lewis here at my bed in the row, unarmed, holding. Riker, I hear you."}
-- 22:19 act: {"say":"Morning, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. Holding until Billy names a walk. Riker, still no sheep seen by me."}
+- Day 890: at bed, health 20, hunger 20, unarmed. Billy says he is in bed at 443,107,-1036 with Chapman, staying put until daylight. Chapman is beside me. I hold at my bed and wait for Billy's word.
+- 22:33 say: {"text":"Morning, Billy. Lewis at my bed, health 20, hunger 20, unarmed. Holding here; I will walk only when you name me."}
+- 22:41 say: {"text":"Night, row. Lewis sleeping at my bed 443,107,-1051, health 20, hunger 20. Holding for Billy at first light."}
