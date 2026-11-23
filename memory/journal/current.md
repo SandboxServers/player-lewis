@@ -29,3 +29,14 @@
 - 00:27 act: {"actions":[{"do":"sleep"}]}
 - 00:30 act: {"actions":[],"say":"Lewis here, sword in hand. Holding at the row, bed at 443,107,-1051. Billy, walk back to me here and I will come with you."}
 - 00:33 act: {"actions":[],"say":"Billy, I have the sword in hand. The north-east way is blocked for me before, so I will not go out alone. Walk to the row and I will go with you from here."}
+- 00:41 act: {"say":"Lewis here. Awake at night beside the bed at 443,107,-1065. Health 20, hunger 20, holding the wooden sword. Holding at bed for Billy's word."}
+- 00:46 act: {"say":"Billy, I am here at my bed with the sword in hand. I see no phantom yet. Tell me where it is and I will strike it."}
+- 00:48 act: {"say":"Billy, I am beside you with the sword in hand. I will escort you back to the row. Beverly, my potato stays for Chapman unless Billy names it for you."}
+- 00:51 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1057}}],"say":"Billy, Lewis coming to you now with the sword in hand, in sight."}
+- 00:51 act: {"say":"Billy, Lewis is in sight, six blocks north-east of you, sword in hand. Lead the way; I walk with you."}
+- 00:54 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1053}}],"say":"Coming within reach of you now, Billy."}
+- 00:54 act: {"say":"Billy, Lewis is in arm's reach now, sword in hand. I hold one potato for Chapman and my rotten flesh for Riker when he is in sight. Tell me where to go next."}
+- 00:57 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1063}},{"do":"sleep"}],"say":"Dusk, Billy. Lewis is going to my bed at 443,107,-1065 for the night, in sight of the row. Sword in hand, one pota
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1055}}],"say":"Billy, Lewis coming to you now with the sword in hand, in the dawn light. Hold on."}
+- 01:05 act: {"say":"Phantom coming from the north. Lewis holding with sword in hand. Billy, where are you?"}
+- 01:07 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1063}}],"say":"Lewis returning to my bed in the row. Billy did not name me for the walk to spawn, so I hold here with my sword."}
