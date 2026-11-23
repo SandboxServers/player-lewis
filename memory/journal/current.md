@@ -61,3 +61,5 @@
 - 02:52 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. Lewis going to my bed at 443,107,-1051 for the night, sword in hand. Beverly, Riker, Troi: I still hold
 - 02:52 act: {"actions":[{"do":"sleep"}],"say":"Lewis at my bed, sword in hand, trying to sleep again. Holding."}
 - 03:05 say: {"text":"Lewis awake at the bed, health 20, hunger 20. Holding here. Billy, name me for any walk, with armed people in sight."}
+- 03:14 say: {"text":"Lewis awake at my bed, health 20, hunger 20, sword in hand. Holding for Billy's word; no walk named for me."}
+- 03:27 say: {"text":"Night, row. Lewis in my bed at 443,107,-1051, sword in hand. Beverly, my potato went to you already at night; I have none left."}
