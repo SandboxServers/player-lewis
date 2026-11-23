@@ -1,11 +1,11 @@
 # Summary
 
 Lewis (ag_lewis_01). Bed at 443,107,-1051, in sight of Billy and the row.
-Last sleep: day 836, at my bed. Health 20, hunger 20.
+Last sleep: day 838, at my bed. Health 20, hunger 20.
 
 Inventory: 2 leather, oak_boat, birch_sapling, 2 sticks, 1 rotten_flesh (for Riker when in sight and hungry), wooden_sword (in hand). No potato.
 
-Row: holding at beds for Billy's named walk. Beverly health 7.3, hunger 16, no food. Kimberly holds one potato for Leonardo or Trini. Laforge and Troi have empty packs.
+Row: Billy holds 5 potatoes for the hungry. Bcrusher holds about 20 and eats only at hunger 6. Beverly was fed. Laforge, Riker, Troi and MacDonald hold at beds.
 
 Known food: potatoes (ripe) at 463-464,107,-1073/-1074 (north-east, route blocked).
 
