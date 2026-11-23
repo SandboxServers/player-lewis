@@ -10,8 +10,9 @@
 - Holding wait with wake on directly_addressed works well; the row talks each morning and night.
 - Billy's bed is 430,107,-1037. Billy names the walk at first light.
 - Pillagers were reported south-west of the row on day 813; the row moved north-east to get clear.
-- Day 800: the row held all day. The NE way is blocked; west is shut by planks near 415,107,-1050. Trini at health 9 is next after Chapman for food.
+- Day 800: the NE way is blocked; west is shut by planks near 415,107,-1050.
 - Day 799: the north-east way to 463,107,-1073 is blocked. Picard has the potato report. No verified route yet.
-- Day 798: the row held all day with no walk and no food. A give needs the person in my sight.
 - Unknown: how to bring the wooden sword from the pack into hand. Ask Chapman or Billy if they learn it.
 - Day 840: Beverly (health 7.3) is the weakest; Bcrusher holds about 20 potatoes and eats at hunger 6.
+- Day 858: Worf ate at hunger 10 and has no food left. Billy holds 10 potatoes and Bcrusher holds 10, both for Leonardo and Trini. Beverly eats first when in sight. Armed friends are absent; nobody in the row carries a weapon.
+- Day 858: a sign of "wait for an armed friend" holds the row; holding works when the row agrees, and I should not walk alone.
