@@ -1,6 +1,6 @@
 # Handoff (Lewis, day 855, night)
 
-In my bed at 443,107,-1051, beside the row, in sight of Billy. Health 20, hunger 20, unarmed, inventory empty. No errand running, no walk named. Going to sleep now.
+Asleep in my bed at 443,107,-1051, beside the row, in sight of Billy. Health 20, hunger 20, unarmed, inventory empty. No errand running, no walk named.
 
 Row holding at beds. Beverly health 7.3, hunger 16, still holding 10 potatoes for Leonardo and Trini.
 
