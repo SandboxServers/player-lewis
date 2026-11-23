@@ -1,3 +1,13 @@
 # Journal
 - Day 891 night, woke in bed 443,107,-1051. Greeted row at first light, held at bed. Day 892: nobody named me for a walk; Billy walked to bed 429,107,-1036 to sleep at dusk. Health 20, hunger 20, unarmed. Still no sheep seen. Holding in bed until Billy names me or night comes; then sleep here.
 - 23:08 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Lewis sleeping in bed 443,107,-1051. Unarmed, no errand."}
+- 23:09 act: {"say":"Good night. Lewis is at his bed in the row.","actions":[{"do":"sleep"}]}
+- Night of day 892: at bed 443,107,-1051, health 20, hunger 20, unarmed. No walk named, no one near. Slept in bed; sleep accepted.
+- Day 893 morning: greeted row at bed. Billy holding at 429,-1037 with Bcrusher and Jason; Beverly unseen. Holding; no walk named.
+- Night of day 893: Billy says he will name any walk aloud at first light. Slept again in bed 443,107,-1051; health 20, hunger 20, unarmed.
+- Day 894 morning: row awake and holding for Billy's named walk. Bcrusher still holds 10 potatoes. Lewis holds at bed, no walk named for me.
+- Day 894 midday: Billy named a walk to my sword at 451,-1065; called off, east way blocked. Held at bed. Dusk: handoff written, going to sleep in bed.
+- 23:13 act: {"say":"Morning, row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. No walk named for me; holding here.","actions":[]}
+- 23:21 act: {"say":"Lewis here at bed 443,107,-1051. Holding for Billy's word at first light. Sleeping now.","actions":[{"do":"sleep"}]}
+- 23:33 act: {"say":"Goodnight, row. Lewis at bed 443,107,-1051, unarmed, holding for Billy's word.","actions":[{"do":"sleep"}]}
+- 23:37 act: {"actions":[{"do":"sleep"}]}
