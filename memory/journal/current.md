@@ -19,3 +19,4 @@
 - 20:52 say: {"text":"Good morning, row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. No walk named; holding here."}
 - 21:36 say: {"text":"Morning, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. Holding here until Billy names a walk with an armed one in sight."}
 - 22:01 act: {"say":"Goodnight, row. Lewis holding at my bed, health 20, hunger 20."}
+- 22:06 act: {"say":"Morning, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. Holding until Billy names a walk. Riker, Deanna, Billy: no sheep seen by me yet."}
