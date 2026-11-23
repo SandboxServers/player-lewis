@@ -12,3 +12,9 @@
 - 14:33 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. Holding until Billy names the morning."}
 - Day 866 night: asleep at bed 443,107,-1051 in the row, health 20, hunger 20. No walk named. Waiting for first light.
 - 14:33 act: {"actions":[{"do":"sleep"}]}
+- 14:46 act: {"say":"Evening, row. Lewis at my bed 443,107,-1051, health 20, hunger 20. Holding until Billy names a walk."}
+- 14:46 act: {"actions":[{"do":"sleep"}]}
+- 14:46 act: {"actions":[{"do":"sleep"}]}
+- 14:51 act: {"say":"Morning, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. Holding for Billy's word. I have nothing to share today."}
+- 14:59 act: {"actions":[{"do":"sleep"}]}
+- 15:03 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed 443,107,-1051, health 20, hunger 20, unarmed. No walk tonight; holding for Billy's word at first light."}
