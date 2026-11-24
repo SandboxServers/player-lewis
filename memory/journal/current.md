@@ -12,4 +12,11 @@
 - Day 949 morning: row says no food anywhere; Worf will look past the planks at first light. Still holding at my bed, no walk named.
 - 18:20 act: {"actions":[{"do":"sleep"}]}
 - Day 949 dusk, thunder: sleep at my bed, 2 of 10 asleep. Health 20, hunger 20, no food. Holding; no walk named.
+- Day 950 morning: day 949 ended, now day 950. Health 20, hunger 20, no food. Worf still walled in by planks and glass; Leonardo at health 1. Holding at my bed, no walk named.
+- Day 950 daylight: Worf and Billy both still hold; no route named. Health 20, hunger 20, no food. Holding at 430,107,-1051.
 - 18:20 act: {"actions":[{"do":"sleep"}]}
+- 18:48 act: {"actions":[{"do":"sleep"}],"say":"Lewis at my bed in the row, dusk day 951. Health 20, hunger 20, no food, unarmed. No walk named, so I am not walking in the dark. Going to sleep here."}
+- Day 951: sleep failed, it is still day (not night yet). Health 20, hunger 20, no food. Staying at my bed 430,107,-1051; will sleep when night comes.
+- Day 951 night: sleep worked at my bed 430,107,-1051 (second try, 4 of 10 then worked). Health 20, hunger 20, no food, unarmed. Reflect: still no route named; keep holding in the row, eat only at hunger 10 or on Billy's word, Picard first with any food.
+- 19:00 act: {"actions":[{"do":"sleep"}]}
+- 19:00 act: {"actions":[{"do":"sleep"}]}
