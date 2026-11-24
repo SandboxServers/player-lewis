@@ -21,3 +21,4 @@
 - Day 879: Bcrusher gave out the potatoes under Billy's word in sight (Zack 3, Worf 5, Kimberly 4). Beverly is first in line for the next potatoes.
 - Day 903: Woke at dawn with health 20, hunger 20. Held at bed all day with no walk named. Dusk sleep at my bed worked.
 - Day 903 dusk: Leonardo and Clark held at their beds and said goodnight. Sleep called once at dusk closed the day with 5 of 10 asleep.
+- Day 939: No walk named all day; Worf still sees only planks past the gap. Picard at health 2.3 with no food; I carry none, so I share first only when I have something. Sleep at dusk beside my bed worked.
