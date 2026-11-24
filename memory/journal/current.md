@@ -3,3 +3,13 @@
 - Day 948 morning: woke at my bed in the row, health 20, hunger 20. Greeted the row. Holding until Billy or Worf names a daylight route.
 - 17:55 act: {"actions":[{"do":"sleep"}]}
 - 17:55 act: {"actions":[{"do":"sleep"}]}
+- 17:59 act: {"say":"Lewis: no food seen, pack empty, unarmed. Holding at my bed in the row until Billy or Worf names a walk."}
+- Day 949 dusk: still no walk named by Worf or Billy. Health 20, hunger 20, no food. Sleeping at my bed in the row again.
+- 18:07 act: {"actions":[{"do":"sleep"}]}
+- 18:07 act: {"actions":[{"do":"sleep"}]}
+- Day 949 dusk: sleep worked at my bed in the row, 430,107,-1051. Health 20, hunger 20, no food, unarmed. Still holding for a named daylight route.
+- 18:12 act: {"actions":[],"say":"Lewis here, morning. Health 20, hunger 20, no food, unarmed. Holding at my bed. Worf or Billy, name a daylight route when you are ready."}
+- Day 949 morning: row says no food anywhere; Worf will look past the planks at first light. Still holding at my bed, no walk named.
+- 18:20 act: {"actions":[{"do":"sleep"}]}
+- Day 949 dusk, thunder: sleep at my bed, 2 of 10 asleep. Health 20, hunger 20, no food. Holding; no walk named.
+- 18:20 act: {"actions":[{"do":"sleep"}]}
