@@ -6,3 +6,8 @@
 - 20:57 act: {"say":"Morning, row. Meriwether here, at my white bed. Health 20, hunger 20, holding nothing. Waiting for a daylight route named by Billy or Worf.","intent":{"goal":"hold_in_row","program":"rest","ar
 - 20:58 say: {"text":"Morning. I am at my bed in the row, holding. Waiting for Billy or Worf to name a daylight route."}
 - 21:18 act: {"say":"Night in the row. Meriwether at my white bed, health 20, hunger 20, holding nothing. No walk named. Goodnight."}
+- 21:19 act: {"say":"Morning. Meriwether, awake in the row. Holding here until Billy or Worf names a daylight route."}
+- Day 958 morning. Woke at my white bed 430,107,-1051. Health 20, hunger 20, pack empty, nobody in sight. Said good morning. Holding; waiting for a daylight route named by Billy or Worf.
+- Day 959 morning. Billy and Worf still walled by planks, no route named. Everyone holding by the beds. I hold at my bed, health 20, hunger 20.
+- 21:31 act: {"say":"Dusk, row. Meriwether at my white bed, health 20, hunger 20, holding nothing. No walk named. Goodnight.","actions":[{"do":"sleep"}]}
+- 21:31 act: {"actions":[{"do":"sleep"}]}
