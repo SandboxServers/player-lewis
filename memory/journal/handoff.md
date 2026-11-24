@@ -1,5 +1,6 @@
-# Handoff, day 899 dusk
+# Handoff, day 899 night
 
-Lewis at bed 443,107,-1051 in the row. Health 20, hunger 20, unarmed, empty pack. No errand running, no walk named by Billy.
-Holding at bed. Walk only when Billy names me with an armed one in sight. Walk to sword at 451,107,-1065 still blocked (east way).
-Next at first light: greet the row, hold at bed, eat at hunger 10 or on Billy's word.
+Lewis at bed 443,107,-1051 (stood at 444,107,-1050, beside it). Health 20, hunger 20, unarmed, empty pack.
+Sleep started in the row; sleep returned without a new day, so I may still be asleep or waking.
+No errand running. No walk named by Billy.
+Next: greet the row at first light, hold at bed, eat at hunger 10 or on Billy's word. Walk to sword only when Billy names it with an armed one in sight.
