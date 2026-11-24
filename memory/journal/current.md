@@ -37,3 +37,4 @@
 - 19:55 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. I am at my white bed, health 20, hunger 20, pack empty. Sleeping here."}
 - 19:57 say: {"text":"Lewis here, beside my white bed in the row. Health 20, hunger 20, holding nothing. Going to sleep here for the night."}
 - 19:57 act: {"actions":[{"do":"sleep"}]}
+- 20:11 say: {"text":"Lewis here at my white bed in the row. Health 20, hunger 20, holding nothing. Holding until Billy or Worf names a route."}
