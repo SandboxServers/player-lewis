@@ -35,3 +35,5 @@
 - Day 953 daylight: Worf says still walled, no route named; Zack ready to walk when named. Still holding at 430,107,-1051, health 20, hunger 20.
 - Day 954 morning: row still walled, Worf names no route. Holding at my bed, health 20, hunger 20, no food, unarmed. Zack hunger 16, Trini and Beverly low; nothing I can give.
 - 19:55 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. I am at my white bed, health 20, hunger 20, pack empty. Sleeping here."}
+- 19:57 say: {"text":"Lewis here, beside my white bed in the row. Health 20, hunger 20, holding nothing. Going to sleep here for the night."}
+- 19:57 act: {"actions":[{"do":"sleep"}]}
