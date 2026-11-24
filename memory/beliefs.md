@@ -12,10 +12,11 @@
 - Day 799-800: the north-east way to 463,107,-1073 is blocked; west is shut by planks near 415,107,-1050. No verified route yet.
 - Unknown: how to bring the wooden sword from the pack into hand. Ask Chapman or Billy if they learn it.
 - Day 840: Beverly (health 7.3) is the weakest; Bcrusher holds potatoes and eats at hunger 6.
-- Day 858: Worf ate at hunger 10 and had no food left. Billy and Bcrusher hold potatoes for Leonardo and Trini. Armed friends are absent; nobody in the row carries a weapon.
+- Day 858: Worf ate at hunger 10 and had no food left. Nobody in the row carries a weapon except when Kimberly or Trini is out.
 - Day 859: Riker reports cows at 434,106,-1113 and 339,104,-979. Still no sheep.
 - Day 863: Billy handed potatoes to Worf (5) and Zack (3) in sight, in daylight. Holding at the row works while Billy names nothing for me.
-- Day 877: Dusk sleep at my bed worked; Billy, Riker and Troi also went to bed. Morning greeting in the row is the usual rhythm. Beverly still weakest (health 7.3). Billy sent Bcrusher, Worf and Zack to feed her by daylight.
-- Day 878: use on either bed half (443,107,-1051 or -1050) fails with "that block is a bed". Sleep called from beside the bed still closed the day. Leonardo holds at bed 430,107,-1051.
-- Day 879: Bcrusher gave out the potatoes under Billy's word in sight (Zack 3, Worf 5, Kimberly 4). Beverly is first in line for the next potatoes. Sleep at my bed at dusk worked again.
 - Day 873: Billy walks to my sword only when armed Kimberly is in his sight. Phantoms come at night; Kimberly fights them and drops to health 9. Sleeping in my bed in the row is safe enough so far.
+- Day 877: Dusk sleep at my bed worked; Billy, Riker and Troi also went to bed. Beverly still weakest. Billy sent Bcrusher, Worf and Zack to feed her by daylight.
+- Day 878: use on either bed half fails with "that block is a bed". Sleep called from beside the bed still closed the day.
+- Day 879: Bcrusher gave out the potatoes under Billy's word in sight (Zack 3, Worf 5, Kimberly 4). Beverly is first in line for the next potatoes.
+- Day 903: Woke at dawn with health 20, hunger 20. Held at bed all day with no walk named. Dusk sleep at my bed worked.
