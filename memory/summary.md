@@ -5,8 +5,8 @@ Health 20, hunger 20. Pack empty. Unarmed.
 
 My wooden sword lies at 451,107,-1065 (pillager danger there). Walk only when Billy names it and an armed one is in sight.
 
-Row: Billy (lead), Beverly (health 7), Worf, Zack, Leonardo, Trini (armed), Jason, Riker (health 11), Troi/Deanna (health 2.3 at last word, no food), Kimberly, Chapman/John, Bcrusher, William (Clark).
+Row: Billy (lead), Beverly (health 7, hunger 16, holds 10 potatoes), Worf, Zack, Leonardo, Trini (armed), Jason, Riker (health 11, hunger 17, no food), Troi/Deanna (health 20), Kimberly, Chapman/John, Bcrusher, William (Clark).
 
-Known food: 10 potatoes held by Bcrusher, owed Zack 3 and Worf 5. Potatoes near 463-468,107,-1073..-1075 (north-east, route blocked). Cows at 434,106,-1113 and 339,104,-979. No sheep seen.
+Known food: 10 potatoes held by Bcrusher/Beverly, owed Zack 3 and Worf 5. Potatoes near 463-468,107,-1073..-1075 (north-east, route blocked). Cows at 434,106,-1113 and 339,104,-979. No sheep seen.
 
 Next: greet the row at first light and hold at bed. Walk only when Billy names me and someone is armed. Eat at hunger 10 or on Billy's word.
