@@ -23,3 +23,6 @@
 - 19:05 act: {"say":"Morning, row. Lewis here at my bed, health 20, hunger 20, unarmed, no food. Holding until Worf or Billy names a daylight route."}
 - 19:13 act: {"actions":[{"do":"sleep"}]}
 - 19:17 act: {"say":"Morning, row. Lewis at my bed 430,107,-1051, health 20, hunger 20, unarmed, no food. Still holding for Worf's or Billy's named daylight route."}
+- 19:23 act: {"say":"Lewis here, at the row by the white bed, unarmed, no food, holding. I will walk only when Billy or Worf names a route."}
+- 19:27 act: {"actions":[{"do":"sleep"}],"say":"Lewis: holding at my bed 430,107,-1051, health 20, hunger 20, no food. Worf, no route yet, so I am staying by the bed for the night."}
+- 19:27 act: {"actions":[{"do":"sleep"}]}
