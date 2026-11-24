@@ -13,6 +13,7 @@
 - 23:33 act: {"say":"Goodnight, row. Lewis at bed 443,107,-1051, unarmed, holding for Billy's word.","actions":[{"do":"sleep"}]}
 - 23:37 act: {"actions":[{"do":"sleep"}]}
 - 23:42 act: {"say":"Morning. Lewis at bed 443,107,-1051, health 20, unarmed. Riker, glad you are in the row. Holding here.","actions":[]}
+- Day 895 morning: Billy gave his potato to Beverly at bed 443,107,-1037. No walk named for me. Lewis holds at bed, health 20, hunger 20, unarmed.
 - 23:50 act: {"actions":[{"do":"sleep"}],"say":"Dusk in the row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. Sleeping here. Billy, I will hold for your word at first light."}
 - 23:50 act: {"actions":[{"do":"sleep"}]}
 - 23:54 act: {"actions":[],"say":"Morning, Troi. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. Holding here for Billy's word. Riker, rest well."}
