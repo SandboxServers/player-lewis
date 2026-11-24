@@ -7,7 +7,15 @@
 - Night of day 893: Billy says he will name any walk aloud at first light. Slept again in bed 443,107,-1051; health 20, hunger 20, unarmed.
 - Day 894 morning: row awake and holding for Billy's named walk. Bcrusher still holds 10 potatoes. Lewis holds at bed, no walk named for me.
 - Day 894 midday: Billy named a walk to my sword at 451,-1065; called off, east way blocked. Held at bed. Dusk: handoff written, going to sleep in bed.
+- Night of day 894: slept in bed, night skipped. Day 895 morning: Riker hit by an enderman (health 11), came to the row beds. Lewis holds at bed, health 20, unarmed.
 - 23:13 act: {"say":"Morning, row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. No walk named for me; holding here.","actions":[]}
 - 23:21 act: {"say":"Lewis here at bed 443,107,-1051. Holding for Billy's word at first light. Sleeping now.","actions":[{"do":"sleep"}]}
 - 23:33 act: {"say":"Goodnight, row. Lewis at bed 443,107,-1051, unarmed, holding for Billy's word.","actions":[{"do":"sleep"}]}
 - 23:37 act: {"actions":[{"do":"sleep"}]}
+- 23:42 act: {"say":"Morning. Lewis at bed 443,107,-1051, health 20, unarmed. Riker, glad you are in the row. Holding here.","actions":[]}
+- 23:50 act: {"actions":[{"do":"sleep"}],"say":"Dusk in the row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. Sleeping here. Billy, I will hold for your word at first light."}
+- 23:50 act: {"actions":[{"do":"sleep"}]}
+- 23:54 act: {"actions":[],"say":"Morning, Troi. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. Holding here for Billy's word. Riker, rest well."}
+- 00:02 act: {"actions":[{"do":"sleep"}],"say":"Dusk again. Lewis sleeping at bed 443,107,-1051, unarmed, no errand. Holding for Billy's word at first light."}
+- 00:02 act: {"actions":[{"do":"sleep"}]}
+- 00:06 act: {"actions":[],"say":"Morning, row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. Billy, I hold here for your named walk. Nothing owed from me."}
