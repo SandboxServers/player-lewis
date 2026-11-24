@@ -26,3 +26,5 @@
 - 19:23 act: {"say":"Lewis here, at the row by the white bed, unarmed, no food, holding. I will walk only when Billy or Worf names a route."}
 - 19:27 act: {"actions":[{"do":"sleep"}],"say":"Lewis: holding at my bed 430,107,-1051, health 20, hunger 20, no food. Worf, no route yet, so I am staying by the bed for the night."}
 - 19:27 act: {"actions":[{"do":"sleep"}]}
+- 19:28 say: {"text":"Lewis here, night on 953, beside my white bed at 430,107,-1051. Holding in the row, unarmed, no food. Going to bed now."}
+- Day 953 night: slept at white bed 430,107,-1051. Health 20, hunger 20, no food, unarmed. No route named yet. Handoff written to memory/journal/handoff.md.
