@@ -20,3 +20,6 @@
 - Day 951 night: sleep worked at my bed 430,107,-1051 (second try, 4 of 10 then worked). Health 20, hunger 20, no food, unarmed. Reflect: still no route named; keep holding in the row, eat only at hunger 10 or on Billy's word, Picard first with any food.
 - 19:00 act: {"actions":[{"do":"sleep"}]}
 - 19:00 act: {"actions":[{"do":"sleep"}]}
+- 19:05 act: {"say":"Morning, row. Lewis here at my bed, health 20, hunger 20, unarmed, no food. Holding until Worf or Billy names a daylight route."}
+- 19:13 act: {"actions":[{"do":"sleep"}]}
+- 19:17 act: {"say":"Morning, row. Lewis at my bed 430,107,-1051, health 20, hunger 20, unarmed, no food. Still holding for Worf's or Billy's named daylight route."}
