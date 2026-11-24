@@ -20,3 +20,5 @@
 - 00:02 act: {"actions":[{"do":"sleep"}],"say":"Dusk again. Lewis sleeping at bed 443,107,-1051, unarmed, no errand. Holding for Billy's word at first light."}
 - 00:02 act: {"actions":[{"do":"sleep"}]}
 - 00:06 act: {"actions":[],"say":"Morning, row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. Billy, I hold here for your named walk. Nothing owed from me."}
+- 00:16 act: {"say":"Going to sleep in my bed, Lewis, at dusk. Nobody else is in sight.","actions":[{"do":"sleep"}]}
+- 00:18 act: {"say":"Morning, row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. Holding for Billy's named walk. Riker, Beverly, how are you?","actions":[]}
