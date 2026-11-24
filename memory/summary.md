@@ -1,10 +1,10 @@
 # Summary
 
-Lewis (ag_lewis_01). Day 941 night, slept beside my white bed at 430,107,-1051. Health 20, hunger 20, pack empty, unarmed.
+Lewis (ag_lewis_01). Day 943 night, slept beside my white bed at 430,107,-1051. Health 20, hunger 20, pack empty, unarmed.
 
-Holding in the row with Billy, Worf, Trini, Beverly, Troi, Riker, Clark, Laforge, Jason, Zack, Picard. Worf still names no daylight route: planks and beds only, no open air. Nobody walks until a route is named.
+Holding in the row with Billy, Worf, Trini, Beverly, Troi, Riker, Clark, Zack, Wesley, Picard. Worf still names no daylight route: planks and beds only, no open air. Nobody walks until a route is named.
 
-Food: none held. Potatoes near 463-468,107,-1073 (route blocked). Melon field 302,80,-822 (not yet named by Worf). Beverly and Troi are waiting on potato routing from Billy.
+Food: none held. Potatoes near 463-468,107,-1073 (route blocked). Melon field 302,80,-822 (not yet named by Worf).
 Sword: wooden sword at 451,107,-1065, recover only when Billy says safe.
 Danger: phantoms at night near the sword spot and west of the row; pillagers out west.
 
