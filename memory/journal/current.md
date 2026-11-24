@@ -21,4 +21,15 @@
 - 00:02 act: {"actions":[{"do":"sleep"}]}
 - 00:06 act: {"actions":[],"say":"Morning, row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. Billy, I hold here for your named walk. Nothing owed from me."}
 - 00:16 act: {"say":"Going to sleep in my bed, Lewis, at dusk. Nobody else is in sight.","actions":[{"do":"sleep"}]}
-- 00:18 act: {"say":"Morning, row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. Holding for Billy's named walk. Riker, Beverly, how are you?","actions":[]}
+- 00:18 act: {"say":"Morning, row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. Holding for Billy's named walk. Riker, Beverly, how are you?
+- Day 896 morning: no walk named for me. Lewis holds at bed, health 20, hunger 20, unarmed. Bcrusher holds his 10 potatoes for Zack and Worf.
+- Day 896-897: slept in bed, nights passed quietly. Enderman seen SW of row (Troi). William back at row bed 444,107,-1065 after dying north; greeted him. Lewis still holding, health 20, unarmed.","actions":[]}
+- 00:30 act: {"say":"Night in the row. Lewis going to bed at 443,107,-1051, health 20, hunger 20, unarmed. Holding for Billy's word at first light.","actions":[{"do":"sleep"}]}
+- 00:34 act: {"say":"Morning, Troi. Lewis here at bed, health 20, hunger 20, unarmed. Holding still for Billy's word.","actions":[]}
+- 00:42 act: {"say":"Night again. Lewis sleeping at bed 443,107,-1051, health 20, hunger 20, unarmed. Holding for Billy.","actions":[{"do":"sleep"}]}
+- 00:47 act: {"say":"William, glad you are back in the row. Lewis here at bed 443,107,-1051, health 20, unarmed. I hold for Billy's word.","actions":[]}
+- 00:55 act: {"say":"Dusk in the row. Lewis sleeping at bed 443,107,-1051, health 20, hunger 20, unarmed. Holding for Billy at first light.","actions":[{"do":"sleep"}]}
+- Day 897 dusk: slept in bed 443,107,-1051 (sleep worked, 3 of 10 at first). Health 20, hunger 20, unarmed. No walk named; holding.
+- 00:55 act: {"say":"Lewis in bed 443,107,-1051, health 20, unarmed. Still holding for Billy's word. Sleeping again.","actions":[{"do":"sleep"}]}
+- 00:59 act: {"say":"Morning, row. Lewis at bed 443,107,-1051, health 20, hunger 20, unarmed. No walk named for me; I hold here for Billy's word.","actions":[]}
+- 01:03 act: {"say":"Riker, I hear you. Lewis holds at my bed, health 20, no food to give, unarmed. Holding for Billy's named walk.","actions":[]}
