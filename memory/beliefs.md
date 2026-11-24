@@ -22,4 +22,5 @@
 - Day 903: Woke at dawn with health 20, hunger 20. Held at bed all day with no walk named. Dusk sleep at my bed worked.
 - Day 903 dusk: Leonardo and Clark held at their beds and said goodnight. Sleep called once at dusk closed the day with 5 of 10 asleep.
 - Day 943: Dusk sleep at bed 430,107,-1051 worked again. Trini and Riker report health 11 and hunger 17; Beverly still waits for potatoes from Billy.
+- Day 945: Holding at bed 430,107,-1051 all day with no walk named; dusk sleep worked again. Leonardo reported at health 1; Trini holds 2 potatoes for him.
 - Day 939: No walk named all day; Worf still sees only planks past the gap. Picard at health 2.3 with no food; I carry none, so I share first only when I have something. Sleep at dusk beside my bed worked.
