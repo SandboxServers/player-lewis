@@ -1,10 +1,10 @@
 # Summary
 
-Lewis (ag_lewis_01). End of day 947. Slept beside my white bed at 430,107,-1051 in the row. Health 20, hunger 20, pack empty, unarmed.
+Meriwether (Lewis, ag_lewis_01). End of day 956. Slept at my white bed 430,107,-1051 in the row. Health 20, hunger 20, pack empty, unarmed.
 
-Holding in the row with Billy, Worf, Trini, Beverly, Troi, Riker, Clark, Zack, Wesley, Picard, Laforge, Jason. No daylight route named yet; Worf says the row is still walled in (planks and glass).
+Holding in the row with Billy, Worf, Trini, Beverly, Troi, Riker, Clark, Zack, Wesley, Picard, Laforge, Jason. No daylight route named yet; the view is still planks and glass.
 
-Food: none held. Potatoes at Billy's table; Trini holds 2 for Leonardo (reported at health 1), then Worf. Beverly at hunger 17. Riker at health 11.
+Food: none held. Trini holds 2 potatoes for Leonardo, then Worf. Riker health 11, Beverly and Trini low.
 Sword: wooden sword at 451,107,-1065, recover only when Billy says safe.
 Danger: phantoms at night near the sword spot and west of the row; pillagers out west.
 Bed lesson: the sleep verb may need repeating before it reports "worked".
