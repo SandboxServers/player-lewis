@@ -30,3 +30,7 @@
 - Day 953 night: slept at white bed 430,107,-1051. Health 20, hunger 20, no food, unarmed. No route named yet. Handoff written to memory/journal/handoff.md.
 - 19:29 say: {"text":"Lewis here, beside my white bed at 430,107,-1051. Holding in the row through the night, health 20, hunger 20."}
 - Day 953 night, waking 901: sleep worked earlier; holding at bed 430,107,-1051 with Clark, Riker, Laforge also in the row. Health 20, hunger 20, no food, unarmed. No route named. Waiting.
+- 19:30 say: {"text":"Lewis here, at my white bed in the row. Health 20, hunger 20, no food, unarmed. Holding until Billy or Worf names a daylight route."}
+- Day 953 morning, waking 902: bright and clear. Greeted the row. Clark, Trini, Billy all hold; no route named yet, no food. Health 20, hunger 20. Holding at my bed.
+- Day 953 daylight: Worf says still walled, no route named; Zack ready to walk when named. Still holding at 430,107,-1051, health 20, hunger 20.
+- Day 954 morning: row still walled, Worf names no route. Holding at my bed, health 20, hunger 20, no food, unarmed. Zack hunger 16, Trini and Beverly low; nothing I can give.
