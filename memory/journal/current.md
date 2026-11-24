@@ -1,4 +1,5 @@
 # Journal
+- Day 919 night, held by the beds at 430,-1051 unarmed, health 20, hunger 20; no attack. Day 919 morning: Billy at row gap holds for Worf's named walk; Trini holds 2 potatoes for Leonardo. Still no walk for me.
 - Day 910, dusk to night. Beds at 429,-1037 and -1036 refused "use" ("that block is a bed"). Asked which bed works.
 - Day 911 morning: Worf named a potato walk, then held because the east way is blocked. I stayed unarmed in the row, health 20, hunger 20.
 - Day 911 dusk: holding at 429,107,-1039 in the row. Billy's bed is at 416,107,-1037; I will try it in daylight, not in the dark. Leonardo is at health 1, and Trini holds two potatoes for him.
@@ -9,3 +10,34 @@
 - 05:50 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1042}}],"say":"Health 10. The pillager is 11 blocks east now. I am going further west out of its line and will hold there, unarmed."}
 - 05:50 act: {"actions":[{"do":"goto","target":{"x":393,"y":107,"z":-1048}}],"say":"Health 6. Still being shot from the east, so I am breaking line to the south-west, behind the sign row. Unarmed."}
 - 05:51 act: {"actions":[],"say":"I died to the pillager's arrows out at 393,-1047; I wake at the spawn, 430,107,-1051, with nothing. I will stay in the row, away from the open west, and wait for a named daylight 
+- 05:55 say: {"text":"Lewis here, unarmed, standing in the row at 430,107,-1051. I will hold here until Billy names a walk."}
+- Day 912 (waking 882): night, dim, health 20, hunger 20, unarmed at 430,107,-1051. Nothing new named. Said I hold in the row. Waiting for Billy's word; no walk, no food, no bed yet.
+- 06:04 say: {"text":"Lewis, unarmed, holding at 430,107,-1051. Worf, I will not walk until you name a daylight walk with an armed escort in sight."}
+- Day 913 morning: still holding at the row, health 20, hunger 20, unarmed. Worf (armed) will name a walk in full light; Trini has two potatoes for Leonardo. No walk named for me yet.
+- Day 913 dusk-to-morning: others slept in their beds (Riker 430,-1065, Jason 416,-1050). I tried bed 443,107,-1051 at dawn of 913: refused, "that block is a bed." Still no bed I can use. Staying in the row, unarmed, health 20, hunger 20.
+- Day 913 midday: Worf says beds take us only at dusk; by day they refuse. Plan: at dusk, try bed 443,107,-1051 again while in the row. Picard is at health 2.3, hunger 17; Leonardo is low too. Food goes in line order.
+- Day 914 dusk: Worf and Deanna at their beds; Zack and Jason holding in sight. I tried bed 443,107,-1051 at dusk, as planned. Health 20, hunger 20, unarmed.
+- Day 914 dusk result: bed 443,107,-1051 refused again at dusk ("that block is a bed"). Beds still do not take me. Holding in the row until morning; no bed for me tonight, no walk.
+- Day 915 midday: Worf went north-east to 425,107,-1090 with Zack and Jason, armed, for food. Worf named no walk for me, so I hold unarmed in the row at 441,107,-1051. Health 20, hunger 20.
+- Day 914 dusk again: Worf's walk north-east was blocked by walls and bodies, and he held in sight. No walk for me. Holding at 441,107,-1051, unarmed, health 20, hunger 20. No bed for me; not sleeping in the open.
+- Day 915 morning: night passed in the row. Zack, Laforge, Picard and Riker are at beds; Worf and Jason hold near. Still no walk named for me. Holding at 441,107,-1051, unarmed, health 20, hunger 20.
+- Day 915 midday: Worf named an armed east walk toward the potatoes at 463,107,-1073 for Zack, Jason, Billy, Riker and Laforge. It was blocked, and he held in the row. Worf gave Jason a wooden sword. I was not named and stay in the row, unarmed. Still no food for me.
+- 06:16 act: {"say":"Lewis: others are sleeping in their beds, so I will try the bed at 443,107,-1051, which I have not tried, staying in the row.","actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1051}},{"d
+- 06:16 say: {"text":"Lewis: the bed at 443,107,-1051 refused me too. Worf, Billy, Jason: which bed do you sleep in, and does it take you at night only? I hold in the row."}
+- 06:28 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1051}},{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":"Lewis: dusk now, in the row, unarmed. Trying the bed at 443,107,-1051 as planned. W
+- 06:57 act: {"say":"Lewis: dusk, holding at 441,107,-1051 in the row, unarmed, health 20, hunger 20. No walk for me tonight. Still no working bed; I will not try the same refused beds again."}
+- 07:27 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1050}}],"say":"Lewis: a phantom is attacking me here, health 18. I am unarmed and moving to stand by Worf and Zack at 417,-1050, inside the row.
+- 07:28 act: {"actions":[],"say":"Lewis: health back to 20, no phantom in sight. Holding in the row beside Billy and Zack, unarmed. I will not walk in the dark. Worf, name a daylight walk when it is light."}
+- 07:28 act: {"actions":[{"do":"goto","target":{"x":409,"y":107,"z":-1051}}],"say":"Lewis: a phantom is hitting me from above, health 11, unarmed. Moving west out of its line, staying in the row by the signs. Bill
+- 07:29 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1050}}],"say":"Lewis: health 5, still being hit and alone. Moving east to the beds at 429,-1050 where Picard and Riker are holding, to be in sig
+- 07:29 act: {"actions":[],"say":"Lewis: at 426,107,-1050 by the beds, health 5 and steady, no phantom in sight. Holding unarmed. Worf, Billy, any armed person: I need food and a named daylight walk."}
+- 07:33 act: {"actions":[],"say":"Lewis here at 426,107,-1050, health 5, hunger 17, unarmed, in sight of Riker and Picard. No food with me. Holding until Worf names a walk."}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1053}}],"say":"Lewis: phantom above me at health 3.3, unarmed, no food. Moving toward Worf and Zack's side of the row, out from under it. No wal
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1053}}],"say":"Lewis at health 1.3, hunger 17, unarmed, no food. Billy, I am moving to stand beside you at 417,-1053 in your sight. Morning now.
+- 07:48 say: {"text":"Lewis here beside Billy, health 1.3, hunger 17, unarmed, no food. Worf, when you name a daylight walk, I will follow in sight."}
+- 07:59 say: {"text":"Lewis: a phantom killed me at 418,-1053 and I woke at spawn 430,-1051 with nothing, health 20, hunger 20. Holding by the beds, unarmed. Billy, Worf, Laforge: stay in sight and tell me where y
+- 08:11 act: {"actions":[],"say":"Lewis at spawn 430,107,-1051 by the beds, unarmed, health 20, hunger 20, night. Holding in sight of the row. Watching for food and Worf's word."}
+- 08:19 act: {"actions":[],"say":"Lewis at 430,107,-1051, health 20, hunger 20, unarmed, no food. Holding. Worf, I walk only when you name a daylight route with armed escort. Picard needs food first, from Trini's 
+- 08:32 act: {"actions":[],"say":"Lewis here at 430,107,-1051, health 20, hunger 20, unarmed, no food. Holding by the beds for Worf's named daylight route. Worf, Zack, Leonardo: I hear you."}
+- 08:40 act: {"actions":[],"say":"Lewis at dusk, 430,107,-1051, health 20, hunger 20, unarmed, no food. Holding by the beds in sight of the row. I will not walk in the dark."}
+- 08:44 act: {"actions":[],"say":"Lewis at 430,107,-1051, health 20, unarmed, no food. Deanna, I am holding at the beds in the row. Billy, get under cover at the gap if you can."}
