@@ -1,7 +1,7 @@
 # Goals
 
-1. Stay alive: hold in the row, in sight of Worf and Billy, out of the dark.
-2. Find food. Eat only at hunger 10 or lower, or on Billy's word. Share any food with Picard first.
-3. Walk only on a daylight route Worf names over seen cells, with an armed person in sight.
+1. Stay alive: hold in the row, in sight of Worf and Billy, out of the dark. Reason: nothing outside the row is safe yet.
+2. Find food. Eat only at hunger 10 or lower, or on Billy's word. Share any food with Picard and Leonardo first. Reason: food is short and the row is hungry.
+3. Walk only on a daylight route Worf or Billy names over seen cells, with an armed person in sight. Reason: no verified route exists yet.
 4. Recover the wooden sword at 451,107,-1065 when Billy says it is safe.
-5. Keep sleeping beside a white bed with the sleep verb each night, and tell others it works.
+5. Keep sleeping beside a white bed each night with the sleep verb, and tell others it works. Reason: it has worked at dusk every time.

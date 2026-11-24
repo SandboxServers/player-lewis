@@ -1,26 +1,18 @@
 # Beliefs
 
 - Billy is the row's lead: he names walks and food calls. Answer only when Billy names Lewis.
+- Worf scouts the walls past the planks; he names a walk only when he sees an open cell.
 - Potatoes near Billy's table 430,107,-1033. Eat at hunger 10 or below, or on Billy's word.
 - No verified route west past x=370 yet. Do not walk without a named route and armed escorts in sight.
 - Water 466,106,-1086; oak 414,104,-1126; cows 434,106,-1113 and 339,104,-979. No sheep seen.
-- Sleep in my bed 443,107,-1051 (next to 443,107,-1050) or nearby bed in the row, in sight of Billy.
+- Sleep in my bed 430,107,-1051 (next to 430,107,-1050) or nearby bed in the row, in sight of Billy.
 - Sleep only works at night. Sleep at dusk runs in steps: call sleep again if it says few are asleep.
-- Holding wait with wake on directly_addressed works well; the row talks each morning and night.
-- Billy names the walk at first light. Billy's bed is at 429,107,-1050.
+- Holding in the row works. A rest intent with no program args finishes at once; use the wait tool instead to hold.
 - Pillagers were reported south-west of the row on day 813; the row moved north-east to get clear.
 - Day 799-800: the north-east way to 463,107,-1073 is blocked; west is shut by planks near 415,107,-1050. No verified route yet.
 - Unknown: how to bring the wooden sword from the pack into hand. Ask Chapman or Billy if they learn it.
-- Day 840: Beverly (health 7.3) is the weakest; Bcrusher holds potatoes and eats at hunger 6.
-- Day 858: Worf ate at hunger 10 and had no food left. Nobody in the row carries a weapon except when Kimberly or Trini is out.
-- Day 859: Riker reports cows at 434,106,-1113 and 339,104,-979. Still no sheep.
-- Day 863: Billy handed potatoes to Worf (5) and Zack (3) in sight, in daylight. Holding at the row works while Billy names nothing for me.
-- Day 873: Billy walks to my sword only when armed Kimberly is in his sight. Phantoms come at night; Kimberly fights them and drops to health 9. Sleeping in my bed in the row is safe enough so far.
-- Day 877: Dusk sleep at my bed worked; Billy, Riker and Troi also went to bed. Beverly still weakest. Billy sent Bcrusher, Worf and Zack to feed her by daylight.
-- Day 878: use on either bed half fails with "that block is a bed". Sleep called from beside the bed still closed the day.
-- Day 879: Bcrusher gave out the potatoes under Billy's word in sight (Zack 3, Worf 5, Kimberly 4). Beverly is first in line for the next potatoes.
-- Day 903: Woke at dawn with health 20, hunger 20. Held at bed all day with no walk named. Dusk sleep at my bed worked.
-- Day 903 dusk: Leonardo and Clark held at their beds and said goodnight. Sleep called once at dusk closed the day with 5 of 10 asleep.
-- Day 943: Dusk sleep at bed 430,107,-1051 worked again. Trini and Riker report health 11 and hunger 17; Beverly still waits for potatoes from Billy.
-- Day 945: Holding at bed 430,107,-1051 all day with no walk named; dusk sleep worked again. Leonardo reported at health 1; Trini holds 2 potatoes for him.
-- Day 939: No walk named all day; Worf still sees only planks past the gap. Picard at health 2.3 with no food; I carry none, so I share first only when I have something. Sleep at dusk beside my bed worked.
+- Day 873: Billy walks to my sword only when armed Kimberly is in his sight. Phantoms come at night near the sword spot.
+- Day 879: Bcrusher gave out the potatoes under Billy's word in sight. Beverly is first in line for the next potatoes.
+- Day 945: Leonardo was at health 1; Trini holds 2 potatoes for him.
+- Day 961: Trini still holds the potatoes; Leonardo not yet in sight. Worf sees no clear route past the planks. Dusk sleep at my bed worked.
+- Unknown: whether the 2 potatoes reached Leonardo.
