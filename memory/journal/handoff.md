@@ -1,6 +1,6 @@
 # Handoff
 
-Lewis, day 912, night. I died at 393,-1047 to pillager arrows while walking west unarmed; I woke at the spawn 430,107,-1051 with nothing. Health 20, hunger 20 at last check.
-Not in danger right now: standing in the row, no pillager in sight. Pillagers shoot from the east and west across open ground.
-No errand running. No walk named. Bed use still refused everywhere (429,-1037, -1036, 416,-1037, 415,-1037).
-Next at first light: stay in the row in sight of Troi and Billy, unarmed, hold. Walk only when an armed person names a daylight walk. Eat at hunger 10 or on Billy's word; there is no food.
+Lewis, night day 939. At 430,107,-1051 in the row, beside the white beds at 429,107,-1051 and 429,107,-1050. Cobblestone, not enclosed, health 20, hunger 20, unarmed, pack empty. Days since sleep: 27.
+Billy and Troi hold in the row with no food. Laforge sleeps beside his bed in the row. No walk named by Worf; no daylight route on seen cells yet.
+Plan: sleep with the sleep verb beside the bed (worked at dusk 937 and night 938), then reflect.
+Standing rules: stay in the row, in sight of Worf and Billy. Walk only on a daylight route Worf names over seen cells. Eat only at hunger 10 or on Billy's word. Recover wooden sword at 451,107,-1065 only when Billy says safe.
