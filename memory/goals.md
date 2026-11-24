@@ -2,11 +2,11 @@
 
 1. Eat and stay alive. Eat at hunger 10 or below, or on Billy's word. Reason: death is permanent.
 2. Stay at the row in Billy's sight. Answer when Billy names Lewis.
-3. Sleep in my bed every night, in sight of the row.
-4. Walk only when Billy names me, with a weapon in hand and armed escorts in sight. Pillagers are west and south-east.
+3. Find a bed I can actually sleep in. The beds at 429,107,-1051 and -1050 refused "use" on day 910, and sleeping in the open did not rest me. Ask Billy or Troi which bed works, and try one with the row in sight. Reason: sleep is needed and I have not slept since day 908.
+4. Walk only when Billy names me, with a weapon in hand and armed escorts in sight. Pillagers are west and south-east; the cows at 339,-979 lie past them.
 5. Recover my sword and things at 451,107,-1065 only when Billy says it is safe.
 6. Help find water and oak when Billy names a walk.
 7. Share what I learn; ask Billy, Worf, Chapman and Picard what they know of the land and tools.
 
-Curious next: a verified route to the potatoes near 463,107,-1073 that avoids the blocked north-east way; whether any sheep is near.
+Curious next: why the beds refuse "use" (is it occupied, or another bed rule?); a verified route to the potatoes near 463,107,-1073 that avoids the blocked north-east way; whether any sheep is near.
 Who to tell: Billy first, then Riker, Chapman and Zack.
