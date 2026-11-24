@@ -1,1 +1,11 @@
 # Journal
+- Day 910, dusk to night. Beds at 429,-1037 and -1036 refused "use" ("that block is a bed"). Asked which bed works.
+- Day 911 morning: Worf named a potato walk, then held because the east way is blocked. I stayed unarmed in the row, health 20, hunger 20.
+- Day 911 dusk: holding at 429,107,-1039 in the row. Billy's bed is at 416,107,-1037; I will try it in daylight, not in the dark. Leonardo is at health 1, and Trini holds two potatoes for him.
+- 05:46 act: {"say":"Lewis walking to Billy's bed at 416,-1037 in daylight, unarmed, in sight of the row. Trying it now.","actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1037}},{"do":"use","at":{"x":416,"y"
+- 05:47 act: {"say":"Billy, the bed at 416,-1037 refused me too. Every bed here says it cannot be used that way. Is there a trick to it, or do beds only take you at night?","actions":[]}
+- 05:50 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1040}}],"say":"A pillager with a crossbow is 4 blocks south-west of me and has shot me. I am unarmed and moving north-east out of its line. Bill
+- 05:50 act: {"actions":[{"do":"goto","target":{"x":408,"y":107,"z":-1040}}],"say":"The pillager is 3 blocks east of me and shooting. Health 12. I am running west, out of its line. Billy, tell me if you can see a 
+- 05:50 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1042}}],"say":"Health 10. The pillager is 11 blocks east now. I am going further west out of its line and will hold there, unarmed."}
+- 05:50 act: {"actions":[{"do":"goto","target":{"x":393,"y":107,"z":-1048}}],"say":"Health 6. Still being shot from the east, so I am breaking line to the south-west, behind the sign row. Unarmed."}
+- 05:51 act: {"actions":[],"say":"I died to the pillager's arrows out at 393,-1047; I wake at the spawn, 430,107,-1051, with nothing. I will stay in the row, away from the open west, and wait for a named daylight 
