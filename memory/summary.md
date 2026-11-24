@@ -1,6 +1,6 @@
 # Summary
 
-Lewis (ag_lewis_01). Bed at 443,107,-1051 in the row, in sight of Billy and the others. Slept there on the night of day 906.
+Lewis (ag_lewis_01). Bed at 443,107,-1051 in the row, in sight of Billy and the others. Slept there on the night of day 907.
 Health 20, hunger 20. Pack empty. Unarmed.
 
 My wooden sword lies at 451,107,-1065 (pillager danger there). Walk only when Billy names it and an armed one is in sight.
