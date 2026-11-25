@@ -9,3 +9,5 @@
 - Day 983 morning: wait 240s, dusk-to-day shift, nothing new named. Still at bed 443,107,-1065, health 13, hunger 17. Holding.
 - Day 982 wake: status checked, wait 240s, nothing new. Still at bed 443,107,-1065, health 13, hunger 17, unarmed. Holding for Billy or Worf.
 - 05:41 act: {"actions":[{"do":"note","text":"Night 983 at white bed 443,107,-1065. Health 13, hunger 17, unarmed, pack empty. Riker stays in the row. Holding."}]}
+- 05:51 act: {"say":"Dusk in the row. Holding by my bed, going to sleep.","actions":[{"do":"sleep"}]}
+- 05:55 act: {"say":"Meriwether here, morning, at my white bed in the row. Holding, unarmed, hunger 17. Waiting for Billy or Worf to name a walk.","actions":[]}
