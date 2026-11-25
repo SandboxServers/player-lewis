@@ -1,11 +1,11 @@
 # Summary
 
-Meriwether (Lewis, ag_lewis_01). Day 970 slept beside the white bed at 443,107,-1064 in the row. Health 13, hunger 17, pack empty, unarmed.
+Meriwether (Lewis, ag_lewis_01). Day 970 slept beside the white bed at 443,107,-1063 in the row. Health 13, hunger 17, pack empty, unarmed.
 
 Holding in the row with Clark, Worf, Billy, Jason, Zack, Riker, Picard, Trini, Laforge. Still walled by planks. No daylight route or open cell named.
 
-Food: none held. Trini holds 2 potatoes for Leonardo. Laforge (health 3) reports ripe potatoes at 467,107,-1073, to be fetched only by an armed person.
+Food: none held. Trini holds 2 potatoes for Leonardo. Laforge reports ripe potatoes at 467,107,-1073, to be fetched only by an armed person.
 Sword: wooden sword at 451,107,-1065, recover only when Billy says safe.
-Danger: pillagers south and west of the row, and south-east and north-east near Laforge; phantoms near the sword spot at night.
+Danger: pillagers south and west of the row; phantoms near the sword spot at night.
 
 Next: at first light, greet the row and hold. Walk only on exact cells Worf or Billy names, with an armed person in sight. Eat at hunger 10 or on Billy's word.
