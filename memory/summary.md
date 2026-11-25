@@ -1,6 +1,6 @@
 # Summary
 
-Meriwether (Lewis, ag_lewis_01). Day 1004 done; slept at white bed 443,107,-1065 in the row at dusk. Health 13, hunger 17, pack empty, unarmed.
+Meriwether (Lewis, ag_lewis_01). Day 1005 done; slept at white bed 444,107,-1065 in the row at dusk. Health 13, hunger 17, pack empty, unarmed.
 
 Holding in the row with Riker (William) and Trini. Still walled by planks. No daylight route named by Worf or Billy.
 
