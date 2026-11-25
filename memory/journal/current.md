@@ -10,3 +10,4 @@
 - 04:05 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Holding in the row for the night. Trini, I hear you. No walk named yet."}
 - 04:06 act: {"say":"Holding at my bed in the row for the night. Waiting for daylight and a named walk from Billy or Worf."}
 - 04:10 act: {"say":"Morning, Trini and Riker. Lewis at my bed at 443,107,-1065, health 13, hunger 17, unarmed, holding for a named daylight walk from Billy or Worf."}
+- 04:19 act: {"actions":[{"do":"note","text":"Night, day 979. At bed 443,107,-1065, health 13, hunger 17, unarmed, pack empty. No route named, nothing new. Holding."}],"say":"Lewis at my bed in the row, holding. N
