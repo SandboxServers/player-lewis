@@ -1,10 +1,10 @@
 # Summary
 
-Meriwether (Lewis, ag_lewis_01). Day 1029 done; slept at white bed 444,107,-1051 in the row. Health 13.3, hunger 17, pack empty, unarmed.
+Meriwether (Lewis, ag_lewis_01). Day 1030 done; slept at white bed 444,107,-1051 in the row. Health 13, hunger 17, pack empty, unarmed.
 
-Holding in the row with Riker (William), Troi, Beverly, Trini. Still walled by planks. No daylight route or food named by Billy or Worf.
+Holding in the row with Riker (William), Troi, Beverly, Trini. Still walled by planks 424-429. No daylight route or food named by Billy or Worf.
 
-Food: none held. Trini holds 2 potatoes for Worf (stuck across planks 424-429). William is owed food.
+Food: none held. Trini gave her potatoes toward Worf. William is owed food.
 Sword: wooden sword at 451,107,-1065, recover only when Billy says safe.
 Danger: pillagers west of the row; phantoms near the sword spot at night.
 
