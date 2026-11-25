@@ -8,3 +8,4 @@ Day 973 night: at my white bed 443,107,-1065 in the row. Health 13, hunger 17, n
 - 02:44 act: {"actions":[{"do":"sleep"}]}
 - 02:49 say: {"text":"Good morning. Meriwether at my bed, health 13, hunger 17, no food. Holding in the row until Billy or Worf names a route."}
 - Day 975 morning: Trini greeted the row, holding two potatoes for Leonardo. I greeted back and held at my bed. Nothing new to act on; still waiting for a named route.
+- Day 975 night: at bed 443,107,-1065, health 13, hunger 17, no food, no route named. Going to sleep here.
