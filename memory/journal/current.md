@@ -7,3 +7,7 @@
 - 10:56 act: {"actions":[]}
 - 10:56 act: {"actions":[{"do":"sleep"}]}
 - 11:08 act: {"actions":[{"do":"sleep"}]}
+- 11:08 act: {"say":"It is dark and the row is quiet. I am going to sleep in my white bed.","actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 11:08 act: {"actions":[{"do":"sleep"}]}
+- Night, dark, hunger 17, health 13, alone at my white bed 444,107,-1065. Sleep worked. No food, no route named. Holding.
+- 11:13 act: {"say":"Meriwether here, at my white bed in the row. Morning. Health 13, hunger 17, no food, unarmed. Holding. Billy or Worf, name a daylight route and I will walk with an armed person.","actions":[]}
