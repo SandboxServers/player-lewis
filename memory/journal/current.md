@@ -31,3 +31,10 @@ Waking in the row at white bed 444,107,-1051. Health 13, hunger 17, pack empty. 
 - 16:35 act: {"actions":[],"say":"Riker, Lewis here at my bed 444,107,-1051, hunger 17, empty-handed. I know no open cell east to 463-470; I have seen only planks. Billy or Worf, name the cells and I walk with an 
 - 16:47 act: {"say":"Lewis, day 1017, at my bed 444,107,-1051. Health 13, hunger 17, empty-handed. No open cell named for me yet; I hold until Billy or Worf names exact cells."}
 - 16:59 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis at my bed 444,107,-1051, health 13, hunger 17, empty-handed. No route named; I hold until light."}
+- 17:03 act: {"say":"Morning, row. Lewis at my bed 444,107,-1051, health 13, hunger 17, empty-handed. Still no open cell named. Whoever sees a clear cell past 423, name it and I come armed-in-sight. Holding."}
+- 17:12 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed 444,107,-1051, hunger 17, nothing held. No route named; holding until light."}
+- 17:12 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed 444,107,-1051, hunger 17, nothing held. No route named; holding until light."}
+- 17:16 act: {"actions":[],"say":"Morning, row. Lewis at my bed 444,107,-1051, health 13, hunger 17, empty-handed. Still no open cell named past 423. Billy or Worf, name the exact cells and I come with an armed pe
+- 17:20 act: {"actions":[],"say":"Lewis, day 1018, at my bed 444,107,-1051. I agree with Trini's plan only as Billy or Jason sets it: the cell named, seen, and broken in daylight with a sword in sight. I am unarme
+- 17:24 act: {"actions":[{"do":"sleep"}],"say":"Riker, Lewis at my bed 444,107,-1051, hunger 17, nothing held. Breaking nothing on a name alone. Sleeping here."}
+- 17:24 act: {"actions":[{"do":"sleep"}]}
