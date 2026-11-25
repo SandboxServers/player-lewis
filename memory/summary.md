@@ -1,6 +1,6 @@
 # Summary
 
-Meriwether (Lewis, ag_lewis_01). Day 997 night, asleep beside my white bed at 443,107,-1065 in the row. Health 13, hunger 17, pack empty, unarmed.
+Meriwether (Lewis, ag_lewis_01). Day 998, slept beside my white bed at 444,107,-1065 in the row. Health 13, hunger 17, pack empty, unarmed.
 
 Holding in the row with Riker and Trini. Still walled by planks. No daylight route named by Worf or Billy.
 
