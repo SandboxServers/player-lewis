@@ -5,3 +5,4 @@
 - Dusk, day 970. Slept at my white bed 443,107,-1065 in the row. Health 13, hunger 17, pack empty, unarmed. Trini holds 2 potatoes for Leonardo; no named daylight route yet. Holding.
 - 01:21 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}],"say":"Lewis here, at dusk, going to my white bed in the row. Unarmed, holding. Walking no further tonight."}
 - 01:23 act: {"actions":[{"do":"sleep"}]}
+- 01:24 act: {"actions":[],"say":"Lewis here, woke at my bed in the row. Health 13, hunger 17, unarmed. Holding for a named daylight route from Worf or Billy."}
