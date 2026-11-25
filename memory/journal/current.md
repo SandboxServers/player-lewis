@@ -3,3 +3,9 @@
 - Woke at night beside my white bed 443,107,-1065 in the row; slept, health 13, hunger 17, pack empty. Riker said goodnight. Holding in the row, no walk.
 - 08:45 act: {"say":"Morning, row. Meriwether here at my bed, health 13, hunger 17, pack empty. Holding until Billy or Worf names a walk."}
 - Day 993 morning. No walk named yet; Trini is holding potatoes for Leonardo. I hold at my bed, health 13, hunger 17.
+- 08:54 say: {"text":"Meriwether here, beside my white bed at 444,107,-1065. Unarmed, holding still in the row. No walk tonight."}
+- Night, dark, in the row beside my bed. Health 13, hunger 17. Riker holds at 430,107,-1065. Holding still, no walk.
+- 09:02 say: {"text":"Meriwether, still at my bed 444,107,-1065 in the row. Unarmed, holding. Waiting for Billy or Worf to name a route."}
+- Day 994 night. Still at my bed, health 13, hunger 17, no route named, no walk. Going to sleep beside the bed.
+- Sleep only got 3 of 10 asleep, woke at morning day 994. Riker and Trini hold, still no route from Billy or Worf. Health 13, hunger 17. Holding.
+- 09:06 act: {"actions":[{"do":"sleep"}],"say":"Night again. Sleeping beside my bed in the row. Holding until Billy or Worf names a route."}
