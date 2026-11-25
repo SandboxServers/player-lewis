@@ -1,13 +1,1 @@
 # Journal
-- 10:33 act: said I am holding at my white bed in the row; no walk until Billy or Worf names a daylight route. Morning: hunger 17, health 13, pack empty.
-- Day ends: Riker and Trini holding too. Still no route named. Dusk, going to bed at my white bed.
-- 10:41 act: {"actions":[{"do":"sleep"}],"say":"Holding here by my bed for the night."}
-- 10:41 act: {"actions":[{"do":"wait","seconds":120}]}
-- 10:43 act: {"actions":[],"say":"Morning. Meriwether here, at my bed in the row. Holding. Billy, Worf, any daylight route you name, I will walk with an armed person."}
-- 10:56 act: {"actions":[]}
-- 10:56 act: {"actions":[{"do":"sleep"}]}
-- 11:08 act: {"actions":[{"do":"sleep"}]}
-- 11:08 act: {"say":"It is dark and the row is quiet. I am going to sleep in my white bed.","actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1065}},{"do":"sleep"}]}
-- 11:08 act: {"actions":[{"do":"sleep"}]}
-- Night, dark, hunger 17, health 13, alone at my white bed 444,107,-1065. Sleep worked. No food, no route named. Holding.
-- 11:13 act: {"say":"Meriwether here, at my white bed in the row. Morning. Health 13, hunger 17, no food, unarmed. Holding. Billy or Worf, name a daylight route and I will walk with an armed person.","actions":[]}
