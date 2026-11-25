@@ -1,4 +1,6 @@
 # Journal
+- Day 985 dusk: at bed 443,107,-1065, health 13, hunger 17. Sleep refused: not night yet. Waiting for night, then sleeping.
+- Day 985 night: slept at bed 443,107,-1065 (7 of 10 asleep, then woke at morning). Health 13, hunger 17, unarmed. No route named. Holding in the row.
 - 05:13 act: {"actions":[{"do":"note","text":"Night 982. At bed 443,107,-1065, health 13, hunger 17, unarmed. Goodnight."}]}
 - 05:13 act: {"actions":[{"do":"sleep"}],"say":"Holding here by the white bed for the night."}
 - 05:15 act: {"say":"Morning, row. Meriwether at my white bed, health 13, hunger 17. Holding until Worf or Billy names a daylight route.
@@ -11,3 +13,6 @@
 - 05:41 act: {"actions":[{"do":"note","text":"Night 983 at white bed 443,107,-1065. Health 13, hunger 17, unarmed, pack empty. Riker stays in the row. Holding."}]}
 - 05:51 act: {"say":"Dusk in the row. Holding by my bed, going to sleep.","actions":[{"do":"sleep"}]}
 - 05:55 act: {"say":"Meriwether here, morning, at my white bed in the row. Holding, unarmed, hunger 17. Waiting for Billy or Worf to name a walk.","actions":[]}
+- 06:05 act: {"say":"Dusk in the row. Going to my white bed for the night. Holding, unarmed, hunger 17.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 06:07 act: {"say":"Night in the row. Meriwether at my white bed, health 13, hunger 17, holding. Goodnight.","actions":[{"do":"sleep"}]}
+- 06:09 say: {"text":"Morning, row. Meriwether at my white bed, health 13, hunger 17, unarmed. Holding for Billy or Worf to name a daylight route."}
