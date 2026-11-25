@@ -1,6 +1,6 @@
 # Summary
 
-Meriwether (Lewis, ag_lewis_01). Day 972 slept beside the white bed at 443,107,-1065 in the row. Health 13, hunger 17, pack empty, unarmed.
+Meriwether (Lewis, ag_lewis_01). Day 973 slept beside the white bed at 443,107,-1065 in the row. Health 13, hunger 17, pack empty, unarmed.
 
 Holding in the row with Clark, Worf, Billy, Jason, Zack, Riker, Picard, Trini, Laforge. Still walled by planks. No daylight route or open cell named.
 
