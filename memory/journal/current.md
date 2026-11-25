@@ -16,3 +16,4 @@
 - 06:05 act: {"say":"Dusk in the row. Going to my white bed for the night. Holding, unarmed, hunger 17.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}]}
 - 06:07 act: {"say":"Night in the row. Meriwether at my white bed, health 13, hunger 17, holding. Goodnight.","actions":[{"do":"sleep"}]}
 - 06:09 say: {"text":"Morning, row. Meriwether at my white bed, health 13, hunger 17, unarmed. Holding for Billy or Worf to name a daylight route."}
+- 06:18 act: {"say":"Dusk. I'm beside the white bed in the row. I'm going to sleep here."}
