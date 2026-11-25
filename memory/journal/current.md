@@ -1,2 +1,1 @@
-# Journal
-- 19:27 act: {"say":"Night, row. Meriwether in bed at 444,107,-1051, holding here until light.","actions":[{"do":"sleep"}]}
+Day 1025 (waking 1058): Held in the row at the white bed 444,107,-1051. Dark, hunger 17, no threats in sight. Told Riker I am holding for Billy's word. Waiting for Billy or Worf before any walk or food.
