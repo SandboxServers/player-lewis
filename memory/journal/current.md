@@ -38,3 +38,5 @@ Waking in the row at white bed 444,107,-1051. Health 13, hunger 17, pack empty. 
 - 17:20 act: {"actions":[],"say":"Lewis, day 1018, at my bed 444,107,-1051. I agree with Trini's plan only as Billy or Jason sets it: the cell named, seen, and broken in daylight with a sword in sight. I am unarme
 - 17:24 act: {"actions":[{"do":"sleep"}],"say":"Riker, Lewis at my bed 444,107,-1051, hunger 17, nothing held. Breaking nothing on a name alone. Sleeping here."}
 - 17:24 act: {"actions":[{"do":"sleep"}]}
+- 17:26 act: {"say":"Meriwether here at the white bed 444,107,-1051. Holding nothing, health 13, hunger 17. Waiting on Billy's word for a safe route to food."}
+- Day 1019, daylight, clear. At white bed 444,107,-1051, health 13.3, hunger 17, pack empty, unarmed. Said so to the row. Beverly and Trini hold at their beds; no route named. Days since sleep 9. Holding; no walk without a named cell.
