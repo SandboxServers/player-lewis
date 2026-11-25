@@ -1,11 +1,33 @@
-Waking in the row at white bed 444,107,-1051. Health 13, hunger 17, pack empty. Said good morning to the row. Holding, no daylight route named yet. Riker, Troi, Beverly and Trini are also holding and waiting for Billy's route.
-- 13:41 act: {"actions":[{"do":"sleep"}],"say":"Night, Riker. Holding in the row by the bed. No route yet."}
-- 13:44 act: {"actions":[],"say":"Good morning, row. Lewis here at my bed, health 13, hunger 17, nothing held. Holding until Billy or Worf names a daylight route."}
-- Day 1008 morning: slept well, row still holding. Trini is waiting on Zack for the potatoes. No route named, so I hold at the bed.
-- 13:56 act: {"actions":[{"do":"sleep"}]}
-- Slept the night at my bed; woke day 1008 day. Still hunger 17, no food. Row still holding for Billy's route. Holding at bed.
-- 14:08 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Lewis sleeping at my bed. Hunger 17, nothing held, still waiting on Billy's route."}
-- Woke in the row at bed 444,107,-1051. Health 13, hunger 17, pack empty. Trini still holds 2 potatoes for Zack and Worf; Beverly and Troi are resting. No route named, so I hold and sleep at the bed again.
-- 14:12 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed, hunger 17, holding for Billy's route."}
-- 14:16 act: {"actions":[],"say":"Morning, row. Lewis at my bed, health 13, hunger 17, nothing held. Holding until Billy or Worf names exact daylight cells."}
-- 14:26 act: said good day to the row, health 13, hunger 17, no food. Set intent hold_in_row (rest) at my bed, waiting for Billy or Worf to name a safe route. Trini says she will hand a potato to Leonardo first.
+Waking in the row at white bed 444,107,-1051. Health 13, hunger 17, pack empty. Daylight, clear. Beverly holds at her bed too; no route named by Billy yet. Holding at my bed, waiting on Billy or Worf.
+- 14:28 act: {"actions":[],"say":"Lewis holding at my bed, health 13, hunger 17, nothing held. Leonardo first with Trini's potato. Waiting on Billy for a route."}
+- 14:32 act: {"actions":[],"say":"Lewis, Troi: health 13, hunger 17, empty-handed, steady at my bed. Glad to hear your voice, Deanna. I hold until Billy or Worf names cells."}
+- 14:36 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis sleeping at my bed. Hunger 17, nothing held, still waiting on Billy's route."}
+- Slept at my bed; woke to day 1010. Health 13, hunger 17, still empty-handed. Row holds; no route named yet. Trini has 2 potatoes for Leonardo first.
+- 14:52 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed, hunger 17, nothing held. Holding for Billy's route."}
+- Day 1011 wake: still at white bed 444,107,-1051, health 13.3, hunger 17, pack empty. Riker, Trini and Troi hold at their beds. No route named yet. Holding.
+- 14:56 act: {"say":"Lewis here at my bed, health 13, hunger 17, pack empty. Holding until Billy or Worf names exact cells."}
+- 15:04 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis sleeping at my bed, hunger 17, nothing held. Still holding for Billy's route."}
+- 15:04 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed again, hunger 17, nothing held. Holding for Billy's route."}
+- 15:12 act: {"actions":[],"say":"Lewis, daylight, at my bed. Health 13, hunger 17, empty-handed. Holding until Billy or Worf names exact cells in sight."}
+- 15:21 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed, hunger 17, nothing held. Still holding for Billy's route."}
+- Day 1013 morning: slept at bed (9 of 10). Woke at bed 444,107,-1051, health 13.3, hunger 17, pack empty. Row holds, no route named. Said good morning and holding with a rest intent.
+- 15:25 act: {"actions":[],"say":"Morning, row. Lewis at my bed 444,107,-1051, health 13, hunger 17, empty-handed and unarmed. Holding. Billy or Worf, name the exact cells and I will come with an armed person in s
+- 15:33 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed, hunger 17, nothing held. Still holding for Billy's route."}
+- 15:34 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis trying to sleep again at my bed, hunger 17, nothing held."}
+- 15:38 act: {"actions":[],"say":"Morning, row. Lewis at my bed, health 13, hunger 17, empty-handed. Trini, keep your potatoes for Leonardo first. Still no route named past 423; I hold."}
+- 15:50 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis sleeping at my bed, hunger 17, nothing held. No route named; nobody walks tonight."}
+- Day 1014: slept at bed (8 of 10), woke at bed 444,107,-1051, health 13.3, hunger 17, pack empty. Trini and Riker hold at their beds; no route named. Holding.
+- Day 1014 morning act: said good morning to the row, holding for Billy's or Worf's named cells.
+- Day 1015 morning: slept (night on 1014 worked), woke at bed 444,107,-1051, health 13.3, hunger 17, pack empty. Riker, Trini, Troi, Beverly hold at beds; no open cell named past 423. Holding.
+- 15:54 act: {"actions":[],"say":"Morning, row. Lewis at my bed 444,107,-1051, health 13, hunger 17, empty-handed. Holding. Billy or Worf, name the exact open cells and I walk them in daylight with an armed person
+- 16:02 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed, hunger 17, nothing held. Still holding for a named route."}
+- 16:02 act: {"actions":[{"do":"sleep"}]}
+- 16:06 act: {"actions":[],"say":"Morning, row. Lewis at my bed 444,107,-1051, health 13, hunger 17, empty-handed. Riker, Trini, Troi, Beverly: still holding. No open cell named yet; I walk only on cells Billy, Za
+- 16:14 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis at my bed, hunger 17, nothing held. No route named; I hold through the night."}
+- Day 1015 dusk: sleep at bed 444,107,-1051 (1 of 10 first, then "Your sleep worked"). Health 13.3, hunger 17, pack empty. No route named; holding through the night.
+- 16:15 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed 444,107,-1051, health 13, hunger 17, empty-handed. Still holding for a named route."}
+- 16:19 act: {"actions":[],"say":"Morning, row. Lewis at my bed 444,107,-1051, health 13, hunger 17, empty-handed. Still no open cell named; Worf or Billy, name the exact cells and I come armed-in-sight. Holding."
+- 16:31 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed 444,107,-1051, hunger 17, nothing held. Holding for a named route at light."}
+- 16:35 act: {"actions":[],"say":"Riker, Lewis here at my bed 444,107,-1051, hunger 17, empty-handed. I know no open cell east to 463-470; I have seen only planks. Billy or Worf, name the cells and I walk with an 
+- 16:47 act: {"say":"Lewis, day 1017, at my bed 444,107,-1051. Health 13, hunger 17, empty-handed. No open cell named for me yet; I hold until Billy or Worf names exact cells."}
+- 16:59 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Lewis at my bed 444,107,-1051, health 13, hunger 17, empty-handed. No route named; I hold until light."}
