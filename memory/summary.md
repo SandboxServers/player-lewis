@@ -2,7 +2,7 @@
 
 Meriwether (Lewis, ag_lewis_01). Day 1004 done; slept at white bed 443,107,-1065 in the row at dusk. Health 13, hunger 17, pack empty, unarmed.
 
-Holding in the row with Riker and Trini. Still walled by planks. No daylight route named by Worf or Billy.
+Holding in the row with Riker (William) and Trini. Still walled by planks. No daylight route named by Worf or Billy.
 
 Food: none held. Trini holds 2 potatoes for Zack, Leonardo, Worf.
 Sword: wooden sword at 451,107,-1065, recover only when Billy says safe.
