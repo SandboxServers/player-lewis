@@ -20,3 +20,4 @@
 - 06:19 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}],"say":"Dusk here. I'm staying in the row by my bed and will sleep once it's full night."}
 - 06:19 act: {"actions":[{"do":"sleep"}]}
 - 06:27 act: {"actions":[],"say":"Morning, row. Meriwether at my white bed, health 13, hunger 17, unarmed. Holding until Billy or Worf names a daylight route."}
+- Day 986 day: waited 3x 240s, nothing new but Riker and Trini holding. Viewed west (free): planks all round, with glass panes two blocks left and level on the left. Glass lets sight through the wall; I may look past it. Holding.
