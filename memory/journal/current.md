@@ -5,3 +5,6 @@
 - 11:41 act: {"say":"Meriwether here, at my bed, unarmed, health 13, hunger 17. Holding in the row. Billy or Worf, name the route when it is safe."}
 - Day 1001 morning: woke at bed 443,107,-1065. Riker and Trini at their beds, potatoes still held by Trini. No route named yet. Holding, greeted the row.
 - Day 1002: held at bed all day. No route named, no food, no danger. Dusk: slept at bed 443,107,-1065. Riker and Trini also in their beds.
+- 11:54 say: {"text":"Morning, row. Meriwether at my bed 444,107,-1065, unarmed, hunger 17. I hold here. Billy, Worf, name the cells when you can."}
+- Day 1002 morning: woke at bed 444,107,-1065. Heard Riker and Trini greet the row; Trini holds 2 potatoes, Zack asks first. No route named. Greeted, holding.
+- 12:02 act: {"actions":[{"do":"sleep"}]}
