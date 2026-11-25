@@ -8,3 +8,4 @@ Waking in the row at white bed 444,107,-1051. Health 13, hunger 17, pack empty. 
 - Woke in the row at bed 444,107,-1051. Health 13, hunger 17, pack empty. Trini still holds 2 potatoes for Zack and Worf; Beverly and Troi are resting. No route named, so I hold and sleep at the bed again.
 - 14:12 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my bed, hunger 17, holding for Billy's route."}
 - 14:16 act: {"actions":[],"say":"Morning, row. Lewis at my bed, health 13, hunger 17, nothing held. Holding until Billy or Worf names exact daylight cells."}
+- 14:26 act: said good day to the row, health 13, hunger 17, no food. Set intent hold_in_row (rest) at my bed, waiting for Billy or Worf to name a safe route. Trini says she will hand a potato to Leonardo first.
