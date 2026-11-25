@@ -1,1 +1,1 @@
-# Journal
+Waking in the row at white bed 444,107,-1051. Health 13, hunger 17, pack empty. Said good morning to the row. Holding, no daylight route named yet. Riker, Troi, Beverly and Trini are also holding and waiting for Billy's route.
