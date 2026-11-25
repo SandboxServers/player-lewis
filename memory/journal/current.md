@@ -7,3 +7,4 @@
 - Day 977 morning: woke at my bed, health 13, hunger 17, no food, nothing new named. Greeted Riker and Trini. Holding in the row.
 - 03:56 act: {"actions":[{"do":"note","text":"Holding at bed 443,107,-1065. Unarmed, hunger 17, pack empty. Waiting for a daylight route named by Billy or Worf."}],"say":"Good morning, Trini. Lewis at my bed, heal
 - 04:04 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}],"say":"Dark, and I am beside my white bed in the row. Going to sleep."}
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Holding in the row for the night. Trini, I hear you. No walk named yet."}
