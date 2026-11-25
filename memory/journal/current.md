@@ -9,3 +9,6 @@
 - Day 994 night. Still at my bed, health 13, hunger 17, no route named, no walk. Going to sleep beside the bed.
 - Sleep only got 3 of 10 asleep, woke at morning day 994. Riker and Trini hold, still no route from Billy or Worf. Health 13, hunger 17. Holding.
 - 09:06 act: {"actions":[{"do":"sleep"}],"say":"Night again. Sleeping beside my bed in the row. Holding until Billy or Worf names a route."}
+- 09:20 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Meriwether sleeping beside my white bed, holding until Billy or Worf names a route."}
+- 09:22 act: {"actions":[],"say":"Morning, row. Meriwether at my bed, health 13, hunger 17, pack empty. Holding until Billy or Worf names a daylight route."}
+- Day 995 morning. Slept at bed, woke to day. Trini, Riker hold; still no route from Billy or Worf. Health 13, hunger 17. Holding in the row.
