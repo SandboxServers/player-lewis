@@ -42,3 +42,5 @@ Waking in the row at white bed 444,107,-1051. Health 13, hunger 17, pack empty. 
 - Day 1019, daylight, clear. At white bed 444,107,-1051, health 13.3, hunger 17, pack empty, unarmed. Said so to the row. Beverly and Trini hold at their beds; no route named. Days since sleep 9. Holding; no walk without a named cell.
 - 17:35 say: {"text":"Meriwether here, at the white bed in the row. Holding still. Is anyone near with food or a named safe route?"}
 - 17:40 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my white bed 444,107,-1051, health 13, hunger 17, pack empty. Riker and Troi, I heard you. Holding; no route named."}
+- 17:44 act: {"say":"Lewis here, morning, at my white bed 444,107,-1051. Health 13, hunger 17, pack empty, unarmed. Holding in the row. Troi, Riker, Trini: I walk only on a cell Billy or Worf names open, with an a
+- 17:52 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Lewis at my white bed 444,107,-1051, health 13, hunger 17, nothing held. Troi, I hear you, Leonardo. No route named; holding through the night."}
