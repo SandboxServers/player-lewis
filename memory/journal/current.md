@@ -8,3 +8,4 @@
 - Day 983 morning: second wait 240s, Trini still holding potatoes for Leonardo (not in sight). Still no route named. Holding.
 - Day 983 morning: wait 240s, dusk-to-day shift, nothing new named. Still at bed 443,107,-1065, health 13, hunger 17. Holding.
 - Day 982 wake: status checked, wait 240s, nothing new. Still at bed 443,107,-1065, health 13, hunger 17, unarmed. Holding for Billy or Worf.
+- 05:41 act: {"actions":[{"do":"note","text":"Night 983 at white bed 443,107,-1065. Health 13, hunger 17, unarmed, pack empty. Riker stays in the row. Holding."}]}
