@@ -14,3 +14,4 @@
 - 04:20 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Still here by the bed. Hunger 17, no food held. Resting until Billy or Worf names a route."}
 - 04:22 act: {"actions":[],"say":"Morning, Trini and Riker. Lewis at my bed, health 13, hunger 17, unarmed. Holding for a daylight walk named by Billy or Worf."}
 - 04:30 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Trini, I hold no food, so I cannot help Leonardo. I will rest at my bed and wait for Billy or Worf."}
+- 04:47 act: {"say":"Meriwether here, morning on 981. Health 13, hunger 17, unarmed. Holding at my bed in the row. I wait for Billy or Worf to name a daylight route.","actions":[]}
