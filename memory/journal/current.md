@@ -19,3 +19,11 @@
 - 15:49 act: {"actions":[],"say":"Meriwether, still at bed 443,107,-1051, health 13, hunger 17, pack empty. Holding. Leonardo, Trini's potatoes wait for you; name your cell when you can."}
 - 16:05 act: {"actions":[{"do":"sleep"}],"say":"Meriwether, night in the row, beside my bed 443,107,-1051. Health 13, hunger 17, pack empty. No route named yet. Sleeping; holding until morning."}
 - 16:09 act: {"actions":[],"say":"Morning, row. Meriwether at bed 443,107,-1051. Health 13, hunger 17, pack empty, honest: hungry and waiting. Still holding. Billy, Worf, name a cell when you can."}
+- 16:18 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":"Meriwether at my bed in the row, night, health 13, hunger 17, pack empty. Holding. 
+- 16:18 act: {"actions":[{"do":"sleep"}]}
+- 16:22 act: {"actions":[],"say":"Morning, row. Meriwether at bed 443,107,-1051, health 13, hunger 17, pack empty. Still holding; no route named. Billy, Worf: name a cell when you can."}
+- 16:30 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Meriwether at my bed, health 13, hunger 17, holding. No route named. Sleeping."}
+- 16:43 act: {"actions":[{"do":"sleep"}],"say":"Dusk in the row. Meriwether at my bed, health 13, hunger 17, holding. No route named. Sleeping."}
+- 16:47 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Holding at my bed 443,107,-1051. Still no daylight route named."}
+- 16:51 act: {"actions":[],"say":"Morning, row. Meriwether at bed 443,107,-1051, hunger 17, pack empty, unarmed. I am not walking any route until Billy or Worf names one."}
+- 16:59 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Meriwether sleeping at bed 443,107,-1051. Holding, no walk."}
