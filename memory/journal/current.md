@@ -24,3 +24,6 @@
 - 00:00 act: {"actions":[{"do":"sleep"}]}
 - 00:04 act: {"actions":[],"say":"Lewis, morning, at my bed 444,107,-1051. Health 13, hunger 17, empty-handed. Trini says 420 reads open. Billy, Worf: name the exact cell and I will follow it in sight."}
 - 00:12 act: {"actions":[{"do":"sleep"}],"say":"Lewis at my bed 444,107,-1051 for the night. Health 13, hunger 17, no food, no route named. Trini, Worf: 420 yes or no, then I follow. Troi, I hold, I am listening."
+- 00:13 act: {"actions":[{"do":"sleep"}],"say":"Lewis at my bed in the row, holding for the night. Hunger 17, no food. At light I wait for Worf's word on the route."}
+- 00:17 act: {"actions":[],"say":"Lewis, morning, at my bed 444,107,-1051. Health 13, hunger 17, empty-handed. Troi, I am holding. Worf, Billy: name an open cell and I will follow it in sight."}
+- 00:25 act: {"actions":[{"do":"sleep"}]}
