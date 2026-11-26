@@ -9,4 +9,5 @@
 - Eat only at hunger 10 or lower, or on Billy's word.
 - Holding still with no named route is the row's current rule; waiting costs nothing but hunger.
 - Day 1067: still no named route. Trini, Beverly and Deanna also hold and wait for Billy. Sleeping at the bed worked again (day 1067).
+- Day 1070: still no named route; sleeping at the bed worked again (day 1070).
 - Curiosity still open: whether the row's glass panes let the eye see past the wall. Not yet tested. Tell Billy and Worf first.
