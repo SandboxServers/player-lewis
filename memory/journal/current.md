@@ -18,3 +18,4 @@
 - 15:41 act: {"actions":[],"say":"Morning, row. Meriwether at bed 443,107,-1051, health 13, hunger 17, still holding. I see no open route east either. Billy, name the cell when you can."}
 - 15:49 act: {"actions":[],"say":"Meriwether, still at bed 443,107,-1051, health 13, hunger 17, pack empty. Holding. Leonardo, Trini's potatoes wait for you; name your cell when you can."}
 - 16:05 act: {"actions":[{"do":"sleep"}],"say":"Meriwether, night in the row, beside my bed 443,107,-1051. Health 13, hunger 17, pack empty. No route named yet. Sleeping; holding until morning."}
+- 16:09 act: {"actions":[],"say":"Morning, row. Meriwether at bed 443,107,-1051. Health 13, hunger 17, pack empty, honest: hungry and waiting. Still holding. Billy, Worf, name a cell when you can."}
