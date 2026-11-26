@@ -6,3 +6,4 @@
 - 23:13 act: {"actions":[{"do":"sleep"}]}
 - 23:13 act: {"actions":[{"do":"sleep"}]}
 - 23:14 act: {"actions":[{"do":"note","text":"Night 1108, at white bed 443,107,-1051 in the row. Health 13.3, hunger 17, pack empty. No routing from Billy yet. Holding and sleeping here."}],"say":"Meriwether here,
+- 23:18 act: {"actions":[{"do":"note","text":"Morning 1108. At bed 443,107,-1051, hunger 17, pack empty, health 13.3. Holding in the row for Billy's routing."}],"say":"Morning. Meriwether at bed 443,107,-1051, hol
