@@ -12,3 +12,4 @@
 - Day 1070: still no named route; sleeping at the bed worked again (day 1070).
 - Curiosity still open: whether the row's glass panes let the eye see past the wall. Not yet tested. Tell Billy and Worf first.
 - Day 1072: still no named route; held in the row all day and slept at the white bed at dusk (worked again).
+- Day 1072 night: sleep only partly took (4 of 10 asleep) with Billy and Beverly nearby. Still better than the open.
