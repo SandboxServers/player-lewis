@@ -3,3 +3,4 @@
 - (earlier) Night in the row. I am staying by my white bed, holding still."}
 - 01:20 act: {"actions":[{"do":"sleep"}]}
 - 01:22 act: {"actions":[],"say":"Morning, row. Meriwether at my bed 444,107,-1051, health 13, hunger 17, no food. I hold here and wait for Billy's routing. Leonardo first with Trini's potato."}
+- 01:34 act: {"actions":[{"do":"sleep"}]}
