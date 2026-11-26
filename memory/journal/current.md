@@ -4,3 +4,4 @@
 - 02:55 slept at bed; woke at day. Said I am holding at the white bed until Billy or Worf names a route. Overheard the row still holding; Trini's potatoes go to Leonardo first. Waiting.
 - 03:05 say: Meriwether here, still at my bed in the row. No food on me. I hold, and I wait for Billy or Worf to name a route.
 - day 1048: still at bed 444,107,-1051, hunger 17, health 13 steady. Trini's potatoes wait for light. Dusk now; going to sleep at the bed.
+- day 1048 (new cycle): said holding at bed, unarmed, no food. Trini, Troi and Riker are holding; route past 423 still unconfirmed. Waiting for Billy's word; not moving.
