@@ -3,3 +3,5 @@
 - 12:40 act: said good morning to the row from my white bed. Health 13, hunger 17. Holding, listening for Billy's routing.
 - 12:41 wait: nothing new; Beverly, Troi, Trini are holding too. No route, no food eaten.
 - 12:48 act: {"say":"Night in the row. Holding by my bed, no walks. Goodnight."}
+- 12:49 act: {"say":"Goodnight, Riker. Holding in the row by the bed."}
+- 12:53 act: {"say":"Morning, row. Lewis here by the white bed at 444,107,-1051. Health 13, hunger 17, no food. Holding for Billy's routing."}
