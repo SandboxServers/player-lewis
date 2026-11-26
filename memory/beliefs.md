@@ -1,8 +1,8 @@
 # Beliefs
 
-- The row of white beds is a safe place by day when we hold together. Sleeping at a white bed at dusk or night has worked (days 973 through 1102, every time).
-- The row is walled by planks at 424-429 on z -1051. Part of the wall is glass panes. Trini sees open ground at 420-423 past them. No open route has been named by Billy or Worf.
-- Trini holds two potatoes; she will give them to Worf first when he is in sight, then Leonardo and Zack. As of day 1102 they are still not handed over.
+- The row of white beds is a safe place by day when we hold together. Sleeping at a white bed at dusk or night has worked (days 973 through 1104, every time).
+- The row is walled by planks at 424-429 on z -1051. Part of the wall is glass panes. Open ground is seen past 423, but no open route has been named by Billy or Worf. On day 1104 Trini and Riker both found no gap cell past 423.
+- Trini holds two potatoes; she will give them to Worf first when he is in sight, then Leonardo and Zack. As of day 1104 they are still not handed over.
 - Food is short. I hold nothing. Riker, Beverly, Deanna and Trini hold little or no food.
 - The wooden sword at 451,107,-1065 is not mine to fetch until Billy says it is safe.
 - Phantoms come at night near the sword spot and west of the row; pillagers are out west.
