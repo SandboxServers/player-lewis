@@ -6,3 +6,4 @@
 - 17:57 say: {"text":"Meriwether here, beside the white bed in the row. Holding, hunger 17, no route named. Going to sleep for the night."}
 - 17:57 act: {"actions":[{"do":"sleep"}]}
 - 17:57 act: {"actions":[{"do":"sleep"}]}
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}}],"say":"Holding by my bed for the night. Hunger 17, nothing to eat yet."}
