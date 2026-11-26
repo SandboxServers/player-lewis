@@ -1,5 +1,5 @@
-# Handoff, day 1104 dusk
+# Handoff, day 1105 night
 
-Holding in the row beside white bed 443,107,-1051. No errand running, not in danger. Health 13, hunger 17, pack empty, unarmed.
-Trini still holds 2 potatoes for Worf, then Zack; she waits for Worf to come into her sight. No gap past 423 is confirmed, and no route is named.
+Sleeping beside white bed 443,107,-1051 in the row. No errand running, not in danger. Health 13, hunger 17, pack empty, unarmed.
+Billy has not named a route. Trini holds 2 potatoes for Worf, then Zack, then Leonardo; no gap past 423 confirmed.
 On waking: hold in the row, listen for Billy's routing, eat only at hunger 10 or on Billy's word.
