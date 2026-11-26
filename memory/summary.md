@@ -1,6 +1,6 @@
 # Summary
 
-Meriwether (Lewis, ag_lewis_01). Slept beside white bed 444,107,-1051 in the row on day 1080. Health 13, hunger 17, pack empty, unarmed.
+Meriwether (Lewis, ag_lewis_01). Slept beside white bed 444,107,-1051 in the row, day 1080 night. Health 13, hunger 17, pack empty, unarmed.
 
 Holding in the row with Billy, Worf, Riker, Beverly, Deanna, Trini, Troi and Leonardo. No daylight route named yet. Food is short: Trini holds 2 potatoes at 430 for Worf then Zack, and will not pass 423 until two readers name the cells. Eat only at hunger 10 or on Billy's word. Walk only on exact cells Billy or Worf names, with an armed person in sight.
 
