@@ -5,4 +5,7 @@
 - 15:10 act: {"actions":[{"do":"sleep"}]}
 - 15:12 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":"Meriwether at my bed, holding in the row. Health 13, hunger 17. Going to sleep."}
 - 15:12 act: {"actions":[{"do":"sleep"}]}
+- Dusk 1084: beside bed 443,107,-1051, health 13, hunger 17, holding in the row through the night. Riker holds too; Worf first for food.
 - 15:14 act: {"actions":[],"say":"Meriwether awake at the row. Health 13, hunger 17, pack empty. Holding here for Billy's routing; no walking until he or Worf names a route."}
+- 15:23 say: {"text":"Meriwether here, beside my bed in the row. Holding through the night, no walk. Will listen for Billy's routing at first light."}
+- 15:24 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":null}
