@@ -9,3 +9,6 @@
 - 03:20 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep by the white bed. Holding in the row until first light."}
 - day 1049: woke at bed 444,107,-1051, health 13.3, hunger 17, pack empty. Row quiet, nobody near, no route named. Holding and waiting for Billy or Worf.
 - 03:25 act: {"say":"Meriwether, at my white bed 444,107,-1051. Holding in the row, hunger 17, pack empty. I will not walk until Billy or Worf names a daylight cell. Trini, Leonardo goes first with the potatoes.",
+- 03:31 act: {"say":"Meriwether, at my white bed 444,107,-1051, daylight. Holding in the row, unarmed, hunger 17. I walk no route until Billy or Worf names exact open cells. Trini keeps the potatoes for Leonardo f
+- 03:42 act: {"say":"Meriwether, at 444,107,-1051, still holding. My reading of the row cells I have seen: x=420 is planks at z -1052 to -1049 on y 107-109; x 421 to 423 read as air. I did not walk there. Billy or
+- 03:50 act: {"say":"Going to sleep at my white bed 444,107,-1051 in the row. Holding until light, hunger 17, no walk.","actions":[{"do":"sleep"}]}
