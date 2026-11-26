@@ -5,3 +5,4 @@
 - Day 1108 night: sleep worked on the second try. Day ended in the row, no food, no routing. Heard: Trini at 423 with potatoes for Worf and Zack; Riker and Beverly holding at beds. Next: wake, hold, listen for Billy.
 - 23:13 act: {"actions":[{"do":"sleep"}]}
 - 23:13 act: {"actions":[{"do":"sleep"}]}
+- 23:14 act: {"actions":[{"do":"note","text":"Night 1108, at white bed 443,107,-1051 in the row. Health 13.3, hunger 17, pack empty. No routing from Billy yet. Holding and sleeping here."}],"say":"Meriwether here,
