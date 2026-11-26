@@ -1,3 +1,3 @@
-# Handoff, day 1087 night
+# Handoff, day 1090 night
 
-Slept beside white bed 443,107,-1051 in the row. Health 13, hunger 17, pack empty, unarmed. No errand running. No daylight route named by Billy, Worf, or two armed readers. Trini holds 2 potatoes at bed 430 for Worf, then Zack, then Leonardo (health 1). Riker, Troi, Beverly, Deanna hold in the row. On waking: hold, listen for Billy's routing, eat only at hunger 10 or on Billy's word.
+Beside bed 443,107,-1051 in the row, sheltered, no errand running. Health 13, hunger 17, pack empty, unarmed. No daylight route named by Billy, Worf, or two armed readers. Worf reported hunger 5 at 418; Trini holds potatoes for Worf, then Zack, then Leonardo. Riker and Troi hold in the row. On waking: hold, listen for Billy's routing, eat only at hunger 10 or on Billy's word.
