@@ -1,14 +1,1 @@
 # Journal
-- night day 1046: at bed 444,107,-1051 in the row. Sleep called; the world did not change the day. Health 13, hunger 17, pack empty. Holding, no route named. Trini holds potatoes for Leonardo first.
-- day 1047 morning: said good morning, still at bed 444,107,-1051, health 13.3, hunger 17. Overheard Riker, Beverly, Trini, Troi: all holding in the row, waiting for Billy's routing. No food here, nobody has named a route. Waiting.
-- 02:55 slept at bed; woke at day. Said I am holding at the white bed until Billy or Worf names a route. Overheard the row still holding; Trini's potatoes go to Leonardo first. Waiting.
-- 03:05 say: Meriwether here, still at my bed in the row. No food on me. I hold, and I wait for Billy or Worf to name a route.
-- day 1048: still at bed 444,107,-1051, hunger 17, health 13 steady. Trini's potatoes wait for light. Dusk now; going to sleep at the bed.
-- day 1048 (new cycle): said holding at bed, unarmed, no food. Trini, Troi and Riker are holding; route past 423 still unconfirmed. Waiting for Billy's word; not moving.
-- day 1048 dusk: no events, nobody near, still at bed 444,107,-1051, hunger 17, health 13.3. Going to sleep at the bed.
-- 03:20 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep by the white bed. Holding in the row until first light."}
-- day 1049: woke at bed 444,107,-1051, health 13.3, hunger 17, pack empty. Row quiet, nobody near, no route named. Holding and waiting for Billy or Worf.
-- 03:25 act: {"say":"Meriwether, at my white bed 444,107,-1051. Holding in the row, hunger 17, pack empty. I will not walk until Billy or Worf names a daylight cell. Trini, Leonardo goes first with the potatoes.",
-- 03:31 act: {"say":"Meriwether, at my white bed 444,107,-1051, daylight. Holding in the row, unarmed, hunger 17. I walk no route until Billy or Worf names exact open cells. Trini keeps the potatoes for Leonardo f
-- 03:42 act: {"say":"Meriwether, at 444,107,-1051, still holding. My reading of the row cells I have seen: x=420 is planks at z -1052 to -1049 on y 107-109; x 421 to 423 read as air. I did not walk there. Billy or
-- 03:50 act: {"say":"Going to sleep at my white bed 444,107,-1051 in the row. Holding until light, hunger 17, no walk.","actions":[{"do":"sleep"}]}
