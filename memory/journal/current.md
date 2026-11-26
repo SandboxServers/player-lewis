@@ -7,4 +7,5 @@
 - day 1048 (new cycle): said holding at bed, unarmed, no food. Trini, Troi and Riker are holding; route past 423 still unconfirmed. Waiting for Billy's word; not moving.
 - day 1048 dusk: no events, nobody near, still at bed 444,107,-1051, hunger 17, health 13.3. Going to sleep at the bed.
 - 03:20 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep by the white bed. Holding in the row until first light."}
+- day 1049: woke at bed 444,107,-1051, health 13.3, hunger 17, pack empty. Row quiet, nobody near, no route named. Holding and waiting for Billy or Worf.
 - 03:25 act: {"say":"Meriwether, at my white bed 444,107,-1051. Holding in the row, hunger 17, pack empty. I will not walk until Billy or Worf names a daylight cell. Trini, Leonardo goes first with the potatoes.",
