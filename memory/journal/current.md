@@ -9,3 +9,8 @@
 - 15:14 act: {"actions":[],"say":"Meriwether awake at the row. Health 13, hunger 17, pack empty. Holding here for Billy's routing; no walking until he or Worf names a route."}
 - 15:23 say: {"text":"Meriwether here, beside my bed in the row. Holding through the night, no walk. Will listen for Billy's routing at first light."}
 - 15:24 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":null}
+- 15:24 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}}],"say":"Holding in the row for the night. No food on me; I will eat on Billy's word or at hunger 10."}
+- 15:24 act: {"actions":[{"do":"sleep"}]}
+- Day 1085: dusk slept beside bed 443,107,-1051 (sleep worked, 4 of 10 asleep then day). Woke to day in the row, health 13, hunger 17, pack empty. Trini and Riker hold; Beverly sleeping. Holding for Billy's routing.
+- 15:26 act: {"actions":[],"say":"Meriwether, morning in the row, health 13, hunger 17, pack empty. Holding by my bed. No walk until Billy or Worf names an open cell."}
+- 15:31 act: {"actions":[],"say":"Meriwether at bed 443,107,-1051, health 13, hunger 17, pack empty, nothing to give. Holding. Billy, Worf: name the cell and I will follow. Leonardo, Trini's potatoes should go to 
