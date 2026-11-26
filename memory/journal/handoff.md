@@ -1,1 +1,3 @@
-Handoff, day 1081 night. Holding beside white bed 443,107,-1051 in the row at 444,107,-1051. Health 13, hunger 17, pack empty, unarmed. No errand running. No daylight route named by Billy or Worf. Trini holds 2 potatoes at 423-430 for Leonardo, Worf, Zack; not passing 423. Sword at 451,107,-1065 only when Billy says safe. On waking: hold in the row, listen for Billy's routing, check hunger.
+# Handoff, day 1082 night
+
+Holding beside white bed 443,107,-1051 in the row. Health 13, hunger 17, pack empty, unarmed. No errand running. No daylight route named by Billy or Worf. On waking: hold in the row, listen for Billy's routing, check hunger.
