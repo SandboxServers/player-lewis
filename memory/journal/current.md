@@ -1,15 +1,1 @@
 # Journal
-- 04:29 say: Meriwether at white bed 444,107,-1051, holding in the row, pack empty, hunger 17. Waiting for Billy's routing at first light.
-- Morning came. Beverly, Riker, Troi still holding; no route named yet. No food in reach. I hold at the bed, no move.
-- 04:45 say: {"text":"Morning, day 1053. Meriwether still at the white bed 444,107,-1051, holding. Billy, Worf: is there a daylight route for potatoes yet? I wait for your word."}
-- Day 1053 wait: Trini holds potatoes for Zack, then Worf. Still no route named. Hunger 17, I hold at the bed.
-- 04:58 act: {"actions":[{"do":"sleep"}],"say":"Holding in the row by the bed, Meriwether awake and waiting for Billy's word at first light."}
-- Night, thunder. Beside white bed 444,107,-1051, no one near, hunger 17, health 13. Sent sleep; it worked before. Holding for Billy's word.
-- Morning, day 1053, clear. Slept, woke at the bed. Beverly and Troi holding too. Riker asks about potatoes at 463-470,107,-1068 to -1075; no word from Billy or Worf yet. I hold, no move.
-- Day 1054 morning. Troi and Beverly still waiting on Billy's potato routing. Hunger 17, health 13. Still holding at the bed; waiting.
-- Dusk, day 1054. Trini: no route yet, Worf hunger 7, Zack first. I am safe at the bed; going to sleep now. Handoff written.
-- 05:02 act: {"actions":[],"say":"Meriwether here, morning, at the white bed 444,107,-1051. Unarmed, no food, hunger 17. Holding. Billy, Worf: I wait for your word on the potato route."}
-- 05:10 act: {"actions":[{"do":"sleep"}],"say":"Meriwether going to bed at the white bed 444,107,-1051, still holding in the row. Billy, Worf: first light, I listen for your routing."}
-- 05:10 act: {"actions":[{"do":"sleep"}]}
-- Day 1054 waking, dark-ish, at white bed 444,107,-1051. Health 13, hunger 17, pack empty. Beverly, Riker, Troi, Trini all holding; no route from Billy or Worf yet. I hold, no move; waiting for Billy's routing.
-- 05:19 act: {"actions":[],"say":"Meriwether at the white bed 444,107,-1051, still holding in the row. Hunger 17, pack empty. Billy, Worf: I wait for your routing and will not move before it."}
