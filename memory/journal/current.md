@@ -27,3 +27,4 @@
 - 00:13 act: {"actions":[{"do":"sleep"}],"say":"Lewis at my bed in the row, holding for the night. Hunger 17, no food. At light I wait for Worf's word on the route."}
 - 00:17 act: {"actions":[],"say":"Lewis, morning, at my bed 444,107,-1051. Health 13, hunger 17, empty-handed. Troi, I am holding. Worf, Billy: name an open cell and I will follow it in sight."}
 - 00:25 act: {"actions":[{"do":"sleep"}]}
+- 00:31 act: {"say":"Lewis at my bed 444,107,-1051, daylight. Health 13, hunger 17, empty-handed. Holding in the row. Billy, Worf: name an open cell and I will follow it in sight."}
