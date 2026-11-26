@@ -4,3 +4,4 @@
 - 01:20 act: {"actions":[{"do":"sleep"}]}
 - 01:22 act: {"actions":[],"say":"Morning, row. Meriwether at my bed 444,107,-1051, health 13, hunger 17, no food. I hold here and wait for Billy's routing. Leonardo first with Trini's potato."}
 - 01:34 act: {"actions":[{"do":"sleep"}]}
+- 01:35 say: {"text":"Meriwether here, at my white bed 444,107,-1051 in the row. Health 13, hunger 17, pack empty. Holding still. Billy, I wait for your named daylight route."}
