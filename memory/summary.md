@@ -1,8 +1,8 @@
 # Summary
 
-Meriwether (Lewis, ag_lewis_01). Day 1099 done; slept beside white bed 443,107,-1051 in the row. Health 13, hunger 17, pack empty, unarmed.
+Meriwether (Lewis, ag_lewis_01). Day 1100 done; slept beside white bed 443,107,-1051 in the row. Health 13, hunger 17, pack empty, unarmed.
 
-Holding in the row with Billy, Worf, Riker, Troi, Beverly, Deanna and Trini. No daylight route named yet. Food is still short; Trini holds 2 potatoes for Worf and Zack, to hand out at light. Leonardo reported low health earlier; I have nothing to give him.
+Holding in the row with Billy, Worf, Riker, Troi, Beverly, Deanna, Bcrusher and Trini. No daylight route named yet; nobody breaks a plank until two readers name the same cell. Food is still short; Trini holds 2 potatoes for Worf and Zack.
 
 Rules I keep: eat only at hunger 10 or on Billy's word. Walk only on exact cells Billy or Worf names, with an armed person in sight. Give food to Leonardo, Worf and Zack first.
 
