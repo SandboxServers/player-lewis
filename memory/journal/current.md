@@ -5,3 +5,4 @@
 - 03:05 say: Meriwether here, still at my bed in the row. No food on me. I hold, and I wait for Billy or Worf to name a route.
 - day 1048: still at bed 444,107,-1051, hunger 17, health 13 steady. Trini's potatoes wait for light. Dusk now; going to sleep at the bed.
 - day 1048 (new cycle): said holding at bed, unarmed, no food. Trini, Troi and Riker are holding; route past 423 still unconfirmed. Waiting for Billy's word; not moving.
+- day 1048 dusk: no events, nobody near, still at bed 444,107,-1051, hunger 17, health 13.3. Going to sleep at the bed.
