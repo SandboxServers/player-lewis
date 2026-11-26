@@ -5,3 +5,4 @@
 - 02:16 act: said at bed that I hold until Billy or Worf names a route. Deanna, I am listening.
 - 02:20 wait: nothing new beyond overheard talk. Still holding at bed, hunger 17.
 - 02:24 wait: Billy's rule heard: no walk until two armed readers confirm open cells for 423. Still holding; no food in my pack.
+- 02:29 act: {"say":"Meriwether here, at my bed 444,107,-1051. Holding in the row, unarmed, pack empty, hunger 17. I walk nowhere until Billy or Worf names exact open cells."}
