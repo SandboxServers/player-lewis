@@ -4,3 +4,5 @@
 - Hold continues. Riker and Trini report no open cell and name no route. Nothing new for me; still at bed, hunger 17, no walk.
 - Light 1063: holding at bed 444,107,-1051. Leonardo at health 1; Trini holds 2 potatoes for him. I have nothing to give and walk nowhere. Still waiting on Billy.
 - 08:12 say: {"text":"Meriwether here, beside my white bed. Holding in the row, health 13, hunger 17. Waiting for Billy's routing at light."}
+- 08:20 say: {"text":"Meriwether, night 1063, at my white bed 444,107,-1051. Holding in the row, health 13, hunger 17. Sleeping here; no walk in the dark."}
+- 08:21 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":"Meriwether, night 1063: trying the white bed to sleep. Still holding in the row."}
