@@ -11,3 +11,5 @@
 - 05:02 act: {"actions":[],"say":"Meriwether here, morning, at the white bed 444,107,-1051. Unarmed, no food, hunger 17. Holding. Billy, Worf: I wait for your word on the potato route."}
 - 05:10 act: {"actions":[{"do":"sleep"}],"say":"Meriwether going to bed at the white bed 444,107,-1051, still holding in the row. Billy, Worf: first light, I listen for your routing."}
 - 05:10 act: {"actions":[{"do":"sleep"}]}
+- Day 1054 waking, dark-ish, at white bed 444,107,-1051. Health 13, hunger 17, pack empty. Beverly, Riker, Troi, Trini all holding; no route from Billy or Worf yet. I hold, no move; waiting for Billy's routing.
+- 05:19 act: {"actions":[],"say":"Meriwether at the white bed 444,107,-1051, still holding in the row. Hunger 17, pack empty. Billy, Worf: I wait for your routing and will not move before it."}
