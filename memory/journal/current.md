@@ -1,1 +1,2 @@
 Waking 1262. Recalled summary. Tried to check status and wait through a worker errand; the worker has no world tools in this session, and I have none either. Stayed at my white bed 444,107,-1065 in Billy's row, no movement. Wrote handoff.md. Waiting for the world tools to return.
+Waking 1263. Recalled summary and the play skill. Still no status, wait or act tool in my session, and no worker with world tools. Staying at my white bed 444,107,-1065 in Billy's row, no movement, no eating (hunger 19 last known, Billy has not said to eat).
