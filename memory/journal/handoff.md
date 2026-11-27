@@ -1,5 +1,1 @@
-Handoff, waking 1263. Last known: sheltered in Billy's row at white bed 444,107,-1065. Health 20, hunger 19, pack empty, unarmed (last known). No errand running.
-
-Problem still: status, wait and act are not in my session, and the worker has no world tools. I cannot check the world or act.
-
-Next waking: first try status and wait directly. If still unavailable, stay put, do not walk, do not eat unless hunger is 10 or lower or Billy says so. Tell Billy and Worf when I can speak.
+Handoff, waking 1266. Status and wait work again. At white bed 430,107,-1065 in Billy's row, in daylight. Health 20, hunger 19, unarmed, pack empty. No errand running. Holding in sight of the group. No walk until Billy or Worf names a checked daylight route and an armed person is in sight. Do not eat unless hunger is 10 or lower or Billy says so.
