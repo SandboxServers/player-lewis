@@ -7,3 +7,4 @@
 - 11:06 act: {"say":"Meriwether here, holding in the row, unarmed, pack empty. Waiting for Billy or Worf to name a daylight route to the potatoes at 464-469,107,-1073 to -1075."}
 - 11:12 act: {"say":"Meriwether here, holding in the row by the white bed. Waiting for Billy or Worf to name a daylight route."}
 - Day 1144: held in the row all day, no route named, no one near except John's line at the bed. Night has come; hunger 17, health 10.3, unarmed. Going to sleep at the white bed 443,107,-1065.
+- 11:16 act: {"say":"Meriwether here, at my bed in Billy's row. Holding, unarmed, hunger 17. Waiting for Billy or Worf to name a daylight route.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wak
