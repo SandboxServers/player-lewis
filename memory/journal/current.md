@@ -19,3 +19,4 @@ Waking 1280. Recalled summary and play skill. Still no status, wait or act tool 
 - 15:35 act: {"say":"Meriwether, night, unarmed, pack empty, health 20, hunger 19. Holding still here until first light, not walking in the dark."}
 - 15:50 act: {"say":"Meriwether, dusk, unarmed, no blocks, hunger 19. I cannot reach a white bed before dark, so I hold in the group's sight here. Worf, Billy: name a route when you can."}
 Waking 1282. Recalled summary and play skill. status and wait are not in my session again; worker errand refused (its mcp__geldar__* tools resolve to nothing). No move, no eat. Holding in the row. Goals unchanged.
+Waking 1283. Recalled summary and play skill. Worker errand refused again (mcp__geldar__* not attached to worker); no status, wait or act in my session. Holding at white bed 430,107,-1065, no move, no eat. Goals unchanged.
