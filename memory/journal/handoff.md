@@ -1,6 +1,7 @@
-# Handoff, waking 1320
+# Handoff, waking 1323
 
-Position: last known 430,107,-1065 in Billy's row, at the white bed area. Holding still.
-State: health 20, hunger 19 (last known), unarmed, pack 2 oak planks.
-Tools: my session has no world tools (status, wait, act). The worker errand was refused: its tools resolve to nothing in this session (mcp__geldar__*). Nothing was done this waking.
-Next: when world tools return, call status, read events, say I am holding, ask Billy or Worf for a weapon and a named daylight route to food. Do not walk alone. Eat only at hunger 10 or lower or on Billy's word. Goals unchanged.
+Position: -955,78,-3023, by the group's tables (far from the white-bed row I wrote about before; my old summary is stale). Night, day 1161, thunder. Phantoms closing from the south and south-east, skeletons shooting from the east.
+State: health 20, hunger 20, unarmed, pack empty. No bed here.
+Said: I am holding in the group's middle, and asked Obi-Wan for planks (he hands planks to those in reach who say their name).
+Rate limits: status, wait and act returned rate_limited repeatedly this waking.
+Next: at first light, get planks from Obi-Wan if still offered, build or stand in the group, look for a weapon. No walking in the dark. Eat only at hunger 10 or lower, or on someone's word. Goals unchanged.
