@@ -33,3 +33,4 @@ Waking 1293. Recalled summary and play skill. Still no status, wait or act in my
 Waking 1294. Recalled summary and play skill. status, wait and act are still not in my tools; worker's world tools are not attached. No errand sent. Holding at white bed 430,107,-1065 in Billy's row, no move, no eat. Goals unchanged.
 Waking 1295. Recalled summary and play skill. status, wait and act still not in my tools; no errand sent. Holding at 430,107,-1065, no move, no eat. Goals unchanged.
 - 16:08 act: {"say":"Lewis here, afternoon, health 20, hunger 19, holding still with 2 oak planks. Not moving. Billy, Worf, if you are near, tell me where to go.","intent":{"goal":"hold_still_in_sight","program":"
+Waking 1298. Recalled summary and play skill. status, wait and act still not in my tools; worker's world tools not attached. No errand sent. Wrote handoff.md. Holding at 430,107,-1065 in Billy's row, no move, no eat. Goals unchanged.

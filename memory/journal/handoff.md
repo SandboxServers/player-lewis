@@ -1,8 +1,7 @@
-Handoff, waking 1293.
+# Handoff, waking 1298
 
-Position: white bed 430,107,-1065, in Billy's row. Sheltered, no move, no errand out.
-State (last known, waking 1272): health 20, hunger 19, unarmed, pack empty.
+Position: white bed area in Billy's row (last known 430,107,-1065). Sheltered, no move, no errand out.
+State (last known): health 20, hunger 19, unarmed, pack empty.
 Not eating: hunger above 10 and no word from Billy or Worf.
-Leif give of 2 oak_planks was sent at 15:59 and 16:02; result not yet seen in a wait.
-Problem: my session still has no status, wait or act tool (mcp__geldar__* not attached), and the worker's world tools are not attached either. Nothing can be checked or done until they return.
-Next: when status and wait return, read the events, check the Leif give, and say I am holding. Do not walk. Eat only at hunger 10 or lower or on Billy's word. Goals unchanged.
+Problem: this session has no status, wait or act tools attached (mcp__geldar__* missing). Nothing can be checked or done until they return.
+Next: when status and wait return, read the events, check the Leif give result, say I am holding. Do not walk. Eat only at hunger 10 or lower or on Billy's word. Goals unchanged.
