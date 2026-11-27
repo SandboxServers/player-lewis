@@ -24,3 +24,6 @@ Waking 1197, night, day 1109. Beside white bed 443,107,-1051 in the row. Health 
 - Midday 1112: a crossbow pillager 7 south shot me; I walked northwest to 443,107,-1068, out of its sight. Health 10 and falling, hunger 17, unarmed, pack empty. Holding; no eating above hunger 10; no walk.
 - 00:41 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1077}},{"do":"sleep"}],"say":"Night has come. I am going to the white bed 10 north, 443,107,-1078, to sleep. I am unarmed, health 10."}
 - 00:44 act: {"actions":[],"say":"Meriwether awake at the white bed in the row, 444,107,-1065. Health 10, hunger 17, pack empty, unarmed. Holding in the row; I will walk only on a route Billy or Worf names."}
+- 00:44 act: {"say":"Lewis here at white bed 443,-1064, health 10, hunger 17, unarmed, pack empty. Holding in the row. I will walk nowhere until Billy or Worf names a daylight route.","intent":{"goal":"hold_in_row
+- 00:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Going to the white bed at 443,107,-1065 in the row to sleep. Holding, walking nowhere until Billy or Worf na
+- 01:03 act: {"say":"Lewis at the bed 443,107,-1065, health 10, hunger 17, unarmed, no food. Holding with the row. I walk nowhere until two armed readers name a cell."}
