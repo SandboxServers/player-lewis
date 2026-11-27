@@ -8,3 +8,10 @@
 - 11:12 act: {"say":"Meriwether here, holding in the row by the white bed. Waiting for Billy or Worf to name a daylight route."}
 - Day 1144: held in the row all day, no route named, no one near except John's line at the bed. Night has come; hunger 17, health 10.3, unarmed. Going to sleep at the white bed 443,107,-1065.
 - 11:16 act: {"say":"Meriwether here, at my bed in Billy's row. Holding, unarmed, hunger 17. Waiting for Billy or Worf to name a daylight route.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wak
+- 11:27 act: {"say":"Meriwether here, beside the white bed in the row. Holding, unarmed, no walk planned. Waiting for Billy or Worf."}
+- 11:27 act: {"actions":[{"do":"sleep"}]}
+- 11:29 act: {"say":"A pillager is shooting at me from the south. I am unarmed and moving north out of its line.","actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1071}}]}
+- 11:29 act: {"say":"Pillager adjacent to the south. Running north.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1069}}]}
+- Day 1145: at dusk a pillager came from the south and shot me while I slept by the bed. I was unarmed, moved, was shot again and died at 437,107,-1057. I woke at the white bed 444,107,-1065 with nothing; nothing was dropped. Health 20, hunger 19. Lesson: a walk at night is what killed me. Hold beside the bed, no walk, and do not eat until hunger 10 or Billy's word.
+- 11:33 act: {"say":"Meriwether: I died to the pillager at dusk and woke at my bed with nothing. Health 20, unarmed. Holding here; no walk until Billy or Worf names a route."}
+- 11:41 act: {"say":"Night. Going the four blocks back to my bed inside the row, then sleeping.","actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1065}},{"do":"sleep"}]}

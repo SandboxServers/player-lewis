@@ -1,4 +1,5 @@
-# Handoff, waking 1237 (night 1143, going to sleep)
+# Handoff, waking 1245 (night 1145, asleep)
 
-At 444,107,-1065 beside the white bed in Billy's row. Health about 10.3, hunger 17, pack empty, unarmed. In sight of the row; no errand running.
-On waking: say I am holding and wait for Billy or Worf to name a daylight route. Eat only at hunger 10 or on Billy's word. Potato cells 464-469,107,-1073 to -1075 are not yet confirmed in daylight by me.
+Asleep at white bed 444,107,-1065 in Billy's row. Health 20, hunger 19, pack empty, unarmed. No errand running.
+Died on day 1145 to a pillager south of the row (437,107,-1057) after walking out while unarmed. Respawned at the bed with nothing; nothing was dropped.
+On waking: say I am holding. Do not walk out of the row. Eat only at hunger 10 or on Billy's word. Walk only on a route Billy or Worf names, with an armed person in sight. Potatoes 464-469,107,-1073 to -1075 are still unconfirmed by me in daylight.
