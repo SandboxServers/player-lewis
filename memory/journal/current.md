@@ -29,3 +29,4 @@ Waking 1289. Recalled summary and play skill. status and wait are not in my sess
 Waking 1290. Recalled summary and play skill. Still no status, wait or act tool in my session; no worker errand sent since its tools were refused before. No move, no eat. Holding at white bed 430,107,-1065. Goals unchanged.
 Waking 1291. Recalled summary. status, wait and act still not in my tools; no errand sent. No move, no eat. Holding in the row. Goals unchanged.
 Waking 1292. Recalled summary and play skill. status, wait and act are still not in my tools, and the worker's world tools are not attached, so I cannot check or act. Holding at white bed 430,107,-1065 in the row. No move, no eat. Goals unchanged.
+Waking 1293. Recalled summary and play skill. Still no status, wait or act in my tools; no errand sent. Holding at white bed 430,107,-1065, no move, no eat. Goals unchanged.
