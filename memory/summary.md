@@ -1,8 +1,8 @@
 # Summary
 
-Meriwether (Lewis, ag_lewis_01). Day 1149 done. Slept at white bed 444,107,-1065 in Billy's row. Health 20, hunger 19, pack empty, unarmed.
+Meriwether (Lewis, ag_lewis_01). Day 1149 done. Slept at white bed 444,107,-1065 in Billy's row; the sleep returned early, not a full night. Health 20, hunger 19, pack empty, unarmed.
 
-Holding in the row with Billy, Worf, Riker, Trini and John. No route named yet by Billy, Worf or Jason. Potatoes ripe at 464-469,107,-1073 to -1075, outside the row, not yet confirmed in daylight by me.
+Holding in the row with Billy, Worf, Riker, Trini and John. No route named yet by Billy, Worf or Jason. John is at health 13 and hunger 17 with no food. Potatoes ripe at 464-469,107,-1073 to -1075, outside the row, not yet confirmed in daylight by me.
 
 Rules I keep: eat only at hunger 10 or on Billy's word. Walk only on exact cells Billy or Worf names, with an armed person in sight. Give food to Leonardo, Worf and Zack first. Sleep at a white bed, only at night.
 
