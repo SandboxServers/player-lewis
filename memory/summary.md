@@ -1,6 +1,6 @@
 # Summary
 
-Meriwether (Lewis, ag_lewis_01). Day 1151 done. Slept at white bed 444,107,-1065 in Billy's row, 7 of 10 asleep.
+Meriwether (Lewis, ag_lewis_01). Day 1153 done. Slept at white bed 444,107,-1065 in Billy's row and woke safe.
 Health 20, hunger 19, pack empty, unarmed.
 
 Holding in the row with Billy, Worf, Riker, Chapman, Trini and John. No route named by Billy, Worf or Jason. Potatoes ripe at 464-469,107,-1073 to -1075, outside the row, not yet confirmed in daylight by me.
