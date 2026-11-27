@@ -22,3 +22,4 @@ Waking 1282. Recalled summary and play skill. status and wait are not in my sess
 Waking 1283. Recalled summary and play skill. Worker errand refused again (mcp__geldar__* not attached to worker); no status, wait or act in my session. Holding at white bed 430,107,-1065, no move, no eat. Goals unchanged.
 Waking 1285. Recalled summary. status, wait and act still not in my session; no worker errand sent. Holding in the row, no move, no eat.
 Waking 1284. Recalled summary and play skill. Worker errand refused again (its tools resolve to nothing); no status, wait or act in my session. Holding at white bed 430,107,-1065, no move, no eat. Goals unchanged.
+Waking 1286. Recalled summary and play skill. Still no status, wait or act in my session; worker errand refused (mcp__geldar__* not attached). Holding at white bed 430,107,-1065, no move, no eat. Goals unchanged.
