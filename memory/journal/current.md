@@ -19,3 +19,8 @@ Waking 1197, night, day 1109. Beside white bed 443,107,-1051 in the row. Health 
 - 00:33 act: {"actions":[{"do":"goto","target":{"x":449,"y":107,"z":-1064}}],"say":"Pillager to my west with a crossbow. I am unarmed and moving east out of its line.","intent":{"goal":"escape_pillager","program":
 - 00:33 act: {"actions":[{"do":"goto","target":{"x":451,"y":107,"z":-1063}}],"say":"Still unarmed. Holding near the planks by the bed row until Billy or Worf is in sight."}
 - Midday 1112: pillager 8 west with crossbow shot me (health 16). Moved east to 451,107,-1063 beside planks; pillager out of sight, arrow passed. Health 18, hunger 17, unarmed. Holding; no walk.
+- 00:34 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1068}}],"say":"A pillager with a crossbow is 7 blocks south of me. I am unarmed and moving northwest, out of its line.","intent":{"goal":"clear_
+- 00:34 act: {"actions":[],"say":"I am at 443,107,-1068, out of the pillager's sight. Health 10, unarmed, pack empty. Holding still; I will walk only on a named route."}
+- Midday 1112: a crossbow pillager 7 south shot me; I walked northwest to 443,107,-1068, out of its sight. Health 10 and falling, hunger 17, unarmed, pack empty. Holding; no eating above hunger 10; no walk.
+- 00:41 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1077}},{"do":"sleep"}],"say":"Night has come. I am going to the white bed 10 north, 443,107,-1078, to sleep. I am unarmed, health 10."}
+- 00:44 act: {"actions":[],"say":"Meriwether awake at the white bed in the row, 444,107,-1065. Health 10, hunger 17, pack empty, unarmed. Holding in the row; I will walk only on a route Billy or Worf names."}
