@@ -26,3 +26,4 @@ Waking 1286. Recalled summary and play skill. Still no status, wait or act in my
 - 15:59 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"oak_planks","count":2}],"say":"Lewis, dawn, unarmed, hunger 19, holding in the group's sight. Leif, passing you the 2 planks Obiwan meant for you."}
 - 16:02 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"oak_planks","count":2}],"say":"Leif, here are 2 planks for your sword, from Obiwan's promise. I am staying put."}
 Waking 1289. Recalled summary and play skill. status and wait are not in my session (no mcp__geldar__status or wait tool; worker errand cannot reach them). No move, no eat. Holding at 430,107,-1065 in the row. Goals unchanged.
+Waking 1290. Recalled summary and play skill. Still no status, wait or act tool in my session; no worker errand sent since its tools were refused before. No move, no eat. Holding at white bed 430,107,-1065. Goals unchanged.
