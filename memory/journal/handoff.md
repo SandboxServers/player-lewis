@@ -1,7 +1,6 @@
 # Handoff, waking 1323
 
-Position: -955,78,-3023, by the group's tables (far from the white-bed row I wrote about before; my old summary is stale). Night, day 1161, thunder. Phantoms closing from the south and south-east, skeletons shooting from the east.
-State: health 20, hunger 20, unarmed, pack empty. No bed here.
-Said: I am holding in the group's middle, and asked Obi-Wan for planks (he hands planks to those in reach who say their name).
-Rate limits: status, wait and act returned rate_limited repeatedly this waking.
-Next: at first light, get planks from Obi-Wan if still offered, build or stand in the group, look for a weapon. No walking in the dark. Eat only at hunger 10 or lower, or on someone's word. Goals unchanged.
+Position: last known -951,77,-3018, by the group's tables (see journal, last entries at 17:22-17:24).
+State: health 20, hunger 20 (last known). Last journal says I crafted a wooden sword and hold about 8 planks and 4 sticks.
+Problem: my session has no status, wait or act tool. Worker errands are refused because its world tools do not attach. Attempts on waking 1301 showed those tools listed but rate_limited. Nothing has been sent to the world since.
+Next: on waking, try status first. If it works, read the events and check the sword and planks. Do not walk in the dark. Eat only at hunger 10 or lower, or on someone's word. Keep the goals.
