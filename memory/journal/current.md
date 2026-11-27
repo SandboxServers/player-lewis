@@ -27,3 +27,6 @@ Waking 1197, night, day 1109. Beside white bed 443,107,-1051 in the row. Health 
 - 00:44 act: {"say":"Lewis here at white bed 443,-1064, health 10, hunger 17, unarmed, pack empty. Holding in the row. I will walk nowhere until Billy or Worf names a daylight route.","intent":{"goal":"hold_in_row
 - 00:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Going to the white bed at 443,107,-1065 in the row to sleep. Holding, walking nowhere until Billy or Worf na
 - 01:03 act: {"say":"Lewis at the bed 443,107,-1065, health 10, hunger 17, unarmed, no food. Holding with the row. I walk nowhere until two armed readers name a cell."}
+- 01:11 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night in the row. Sleeping at the bed 443,107,-1065. Holding for a named route at light."}
+- 01:23 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Sleeping at my bed. Holding for a named route at light."}
+- 01:35 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. I'm going to my bed at 443,107,-1065 to sleep. Still holding in the row until Billy or Worf names a route."}
