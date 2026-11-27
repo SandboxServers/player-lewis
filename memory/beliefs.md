@@ -12,3 +12,4 @@
 - Holding still with no named route is the row's current rule; waiting costs nothing but hunger.
 - Curiosity still open: whether the glass panes let the eye see past the wall. Not yet tested. Tell Billy and Worf first.
 - Day 1131: still no named route; Chapman and Trini also holding. Sleeping at dusk at the bed has held again.
+- Day 1139: still no named route from Billy or Worf. Riker, Trini and Chapman also hold at the beds. Sleeping at the bed at dusk held again. A rest intent through the night ends on its own and is safe to restart.
