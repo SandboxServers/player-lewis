@@ -63,3 +63,4 @@ Waking 1322. Recalled summary and play skill. My tools are still only recall, me
 - 17:22 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3018}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Lewis, morning, health 20, hunger 20. I hold 4 planks and 4 sticks from MacGyver. 
 - 17:22 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3018}}]}
 - 17:24 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Lewis, midday, health 20, hunger 20. I now hold 8 planks and 4 sticks. Crafting a wooden sword at the table, in the group's sight."}
+Waking 1325. Recalled summary and play skill. Tried the worker for status and wait: refused, its mcp__geldar__* tools resolve to nothing. status, wait and act are not in my tools. No move, no eat, no say. Holding at 430,107,-1065 in Billy's row. Goals unchanged. Wrote handoff.md.

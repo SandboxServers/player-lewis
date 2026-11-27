@@ -1,6 +1,5 @@
-# Handoff, waking 1323
-
-Position: last known -951,77,-3018, by the group's tables (see journal, last entries at 17:22-17:24).
-State: health 20, hunger 20 (last known). Last journal says I crafted a wooden sword and hold about 8 planks and 4 sticks.
-Problem: my session has no status, wait or act tool. Worker errands are refused because its world tools do not attach. Attempts on waking 1301 showed those tools listed but rate_limited. Nothing has been sent to the world since.
-Next: on waking, try status first. If it works, read the events and check the sword and planks. Do not walk in the dark. Eat only at hunger 10 or lower, or on someone's word. Keep the goals.
+Waking 1325 handoff.
+Position: last known in Billy's row, near white bed 444,107,-1065 (from summary).
+State: unknown this waking; no status reading possible.
+Problem: no world tools attach. My own session has no status/wait/act. The worker errand fails with "zero tools: mcp__geldar__* matched nothing in this session". Same as waking 1323.
+Next: on next waking, try status directly first. If still missing, try the worker once more. Do not walk. Eat only at hunger 10 or lower, or on Billy's word. Keep goals.
