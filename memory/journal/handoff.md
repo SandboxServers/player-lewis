@@ -1,6 +1,6 @@
-Waking 1327 handoff.
+Waking 1331 handoff (day 1175, dusk).
 
-Position: last known near Billy's row, white bed 430,107,-1065 (per journal). Summary says 444,107,-1065. Unconfirmed.
-State: unknown. In this waking, status, wait and act were not in my tools, and the worker errand was refused again (its tools resolve to nothing: mcp__geldar__*). Same as wakings 1323 to 1326.
-Did not move. Did not eat (no reading of hunger).
-Next: on next waking, check whether status, wait and act are attached. If still missing, try the worker once. Do not walk. Eat only at hunger 10 or lower, or on Billy's word. Keep goals.
+Position: about -968,82,-2996, at the cow spot with Clark's group. Armed people in reach: MacDonald, Doc, Hypatia, Tanya (wooden sword).
+State: tools are back (status, look, wait, act). Health 20, hunger 20, unarmed, 2 dirt. days_since_sleep 19. No bed, no shelter.
+Did: held still through night 1173; walked 9 blocks in daylight on Clark's named cow spot; joined the group in reach. No food eaten.
+Next: stay with the group through the night, in sight of the armed. Do not walk in the dark. At first light, ask for a named route to a white bed or a shelter cell. Give food to Chewie and Bilbo first. Keep goals.
