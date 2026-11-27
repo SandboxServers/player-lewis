@@ -3,3 +3,5 @@ Waking 1263. Recalled summary and the play skill. Still no status, wait or act t
 Waking 1264. Recalled summary and play skill. status and wait are still not in my session (no mcp__geldar__status tool). Staying put at white bed 444,107,-1065, no walking, no eating. Will try again next waking.
 Waking 1265. Recalled summary and play skill. mcp__geldar__status and mcp__geldar__wait are not in my session (no such tool). Staying put at white bed 444,107,-1065 in Billy's row, no walking, no eating (hunger 19 last known). Will try again next waking.
 - 15:10 say: {"text":"Meriwether, awake at the white bed 430,-1065. Health 20, hunger 19, unarmed, pack empty. Holding in the row until Billy or Worf names a daylight route."}
+Waking 1268. Recalled summary and play skill. Worker errand failed (no world tools). Retried with planner errand for status and wait; result pending. Not moving, not eating, in the row at white bed 430,107,-1065.
+Planner errand also failed: status and wait are not attached to any helper. No readings. Still holding at the white bed, no move, no eat. Goals unchanged. Will try the world tools again next waking.
