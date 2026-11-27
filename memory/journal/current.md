@@ -4,3 +4,4 @@
 - Night 1143: still holding at the bed, no route named, no one in sight, hunger 17. Going to sleep beside the white bed.
 - 11:01 act: {"say":"Lewis here, at the white bed 444,107,-1065 in Billy's row. Holding for the night, unarmed, hunger 17. I walk only on a route Billy or Worf names.","actions":[]}
 - 11:01 act: {"actions":[{"do":"sleep"}]}
+- 11:06 act: {"say":"Meriwether here, holding in the row, unarmed, pack empty. Waiting for Billy or Worf to name a daylight route to the potatoes at 464-469,107,-1073 to -1075."}
