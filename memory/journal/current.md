@@ -8,3 +8,7 @@
 - 04:23 act: {"say":"Meriwether here, day 1123, morning. Holding at my bed in the row. Unarmed, pack empty, hunger 17. Waiting for Billy or Worf to name a daylight route."}
 - 04:33 act: {"actions":[{"do":"sleep"}]}
 - 04:38 act: {"say":"Meriwether here, awake at my white bed in the row, day 1124. Still holding. Unarmed, pack empty, hunger 17. Waiting for Billy or Worf to name a daylight route."}
+- 04:57 act: {"say":"Holding in the row, Meriwether here. Dark now, going to my bed for the night.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}]}
+- 04:57 act: {"actions":[{"do":"sleep"}]}
+- Day 1125 dusk: sleep refused, not night yet. Dawn came; I am holding at my bed, health 10.3, hunger 17, unarmed. Trini holding at the beds too. No route named. Waiting for Billy or Worf.
+- 05:13 act: {"actions":[{"do":"sleep"}]}
