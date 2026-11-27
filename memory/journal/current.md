@@ -8,3 +8,4 @@
 - 14:49 act: {"actions":[],"say":"Meriwether, still at my bed in Billy's row. Holding, unarmed, hunger 19. No walk until Billy or Worf names a checked daylight route."}
 - 14:53 act: {"actions":[{"do":"sleep"}],"say":"Meriwether, night, at my bed in Billy's row. Holding still, unarmed, hunger 19. Going to rest; first light, I wait for a named daylight route."}
 - 15:01 act: {"actions":[],"say":"Meriwether, dawn, at my bed in the row. Holding unarmed, hunger 19. I am not joining the melon walk unless Billy or Worf names a checked route with me in sight."}
+- 15:03 act: {"say":"Meriwether here, holding in the row at my bed, hunger 19, unarmed. I will walk only on a daylight route that Billy or Worf names.","intent":{"goal":"hold_in_row_for_route","program":"rest","ar
