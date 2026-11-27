@@ -112,3 +112,4 @@ Waking 1329. Tools are back. status: days_since_sleep 9, health 20, hunger 17. P
 - 20:38 act: {"actions":[],"say":"Lewis, unarmed, hunger 20, 4 dirt for any wall cell. Lara, Chewie, Uhura: I'm at -961,82,-2990. If you name a route here or a place to stand, I'll come in your sight before dark."
 - 20:45 act: {"actions":[],"say":"Lewis, night, at -961,82,-2990, unarmed, hunger 20, 4 dirt. Lara or Chewie, name the wall cell and I'll stand in its sight. I won't walk in the dark."}
 - 20:49 act: {"actions":[],"say":"Lewis, dawn 1173, hunger 20, unarmed, no food, 4 dirt. I'm staying at -961,82,-2990 until an armed person names a route. Say my name if you find food and I'm nearest."}
+Waking 1330. Recalled summary and play skill. status, wait and act are still not in my tools; worker refused its errand (mcp__geldar__* resolve to nothing). No move, no eat, no say. Last known at -961,82,-2990, unarmed, hunger 20. Goals unchanged.
