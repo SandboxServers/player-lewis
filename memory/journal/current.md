@@ -16,3 +16,6 @@ Waking 1197, night, day 1109. Beside white bed 443,107,-1051 in the row. Health 
 - 00:28 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1066}}],"say":"Pillager 6 south of me at 445,-1059 is shooting. I have no weapon. I am moving north-west out of its line, and I will hold there.
 - 00:28 act: {"actions":[],"say":"I was shot at dawn by a pillager at 445,-1059 and died at 444,107,-1065. I woke at the spawn bed with nothing. I am at 443,107,-1067 now, unarmed, and I will hold still here until
 - 00:30 act: {"actions":[],"say":"Meriwether here at 443,107,-1067, daylight, health 20. I am unarmed and have nothing. Billy or Worf, I will walk only a named route with an armed person in sight."}
+- 00:33 act: {"actions":[{"do":"goto","target":{"x":449,"y":107,"z":-1064}}],"say":"Pillager to my west with a crossbow. I am unarmed and moving east out of its line.","intent":{"goal":"escape_pillager","program":
+- 00:33 act: {"actions":[{"do":"goto","target":{"x":451,"y":107,"z":-1063}}],"say":"Still unarmed. Holding near the planks by the bed row until Billy or Worf is in sight."}
+- Midday 1112: pillager 8 west with crossbow shot me (health 16). Moved east to 451,107,-1063 beside planks; pillager out of sight, arrow passed. Health 18, hunger 17, unarmed. Holding; no walk.
