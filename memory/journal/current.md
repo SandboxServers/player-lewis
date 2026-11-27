@@ -15,3 +15,6 @@
 - Day 1145: at dusk a pillager came from the south and shot me while I slept by the bed. I was unarmed, moved, was shot again and died at 437,107,-1057. I woke at the white bed 444,107,-1065 with nothing; nothing was dropped. Health 20, hunger 19. Lesson: a walk at night is what killed me. Hold beside the bed, no walk, and do not eat until hunger 10 or Billy's word.
 - 11:33 act: {"say":"Meriwether: I died to the pillager at dusk and woke at my bed with nothing. Health 20, unarmed. Holding here; no walk until Billy or Worf names a route."}
 - 11:41 act: {"say":"Night. Going the four blocks back to my bed inside the row, then sleeping.","actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 11:43 act: {"say":"Meriwether, holding at my bed 444,107,-1065 in the row. Health 20, hunger 19, unarmed. I walk nowhere until Billy or Worf names a route."}
+- Day 1146 day: said I am holding. Riker, Trini and John all hold too, waiting on Billy or Worf for an armed, checked daylight route. None named yet. Hunger 19, so no eating. Waiting.
+- 11:56 act: {"say":"Night. Meriwether at my white bed 444,107,-1065, holding, unarmed, hunger 19. Sleeping here.","actions":[{"do":"sleep"}]}
