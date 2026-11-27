@@ -21,3 +21,4 @@
 - 11:56 act: {"say":"Meriwether here, waking 1146 at my bed 444,107,-1065. Health 20, hunger 19, pack empty, unarmed. Holding in the row. I will walk only on a daylight route Billy or Worf names."}
 - 12:07 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1065}},{"do":"sleep"}],"say":"I am holding in the row, by the bed. I will sleep here tonight."}
 - Waking 1245, dusk: held in the row at white bed 444,107,-1065. Health 20, hunger 19, unarmed. Sleep started, 3 of 10 asleep; sleep tool returned with no change in the night. Still holding; no route named.
+- 12:08 act: {"say":"Lewis here, holding in the row at my bed. No walk tonight. Hearing you, Trini."}
