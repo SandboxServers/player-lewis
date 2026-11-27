@@ -56,3 +56,10 @@ Waking 1322. Recalled summary and play skill. My tools are still only recall, me
 - 16:44 act: {"actions":[],"say":"Meriwether, midday, holding in the group's sight by the tables. Empty-handed, hunger 20. I will not walk without a named daylight route and an armed person in sight. Anyone with a
 - 16:50 act: {"actions":[],"say":"Meriwether, afternoon, empty-handed. Night is near and I have no shelter. Obi-Wan, if planks are spare, I'd take some; I'm standing alone a few steps off, by the tables."}
 - 16:53 act: {"actions":[],"say":"Lewis, night, unarmed, by the tables with the group. Obi-Wan, I'm here, I'll take planks when it is my turn. Skeletons are to the east; I'm staying put."}
+- 17:01 act: {"say":"Lewis here, morning, unarmed, health 20, hunger 20, with 4 sticks. Obi-Wan, I am in reach: any planks for a shelter, please hand them here."}
+- 17:05 act: {"actions":[{"do":"goto","target":"ag_macgyver_01"}],"say":"Lewis, unarmed, empty pack, no bed. MacGyver, I'm walking to you in the group's sight, asking for planks for a shelter."}
+- 17:05 act: {"say":"MacGyver, Lewis here, in reach, empty and unarmed, no bed. Could you hand me 4 oak planks for a shelter?"}
+- 17:10 act: {"say":"Lewis, dusk, unarmed, no bed, no roof. MacGyver, Hatshepsut: if 4 planks are spare, hand them to me here. I'm holding with the group for the night and I will not walk."}
+- 17:22 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3018}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Lewis, morning, health 20, hunger 20. I hold 4 planks and 4 sticks from MacGyver. 
+- 17:22 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3018}}]}
+- 17:24 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Lewis, midday, health 20, hunger 20. I now hold 8 planks and 4 sticks. Crafting a wooden sword at the table, in the group's sight."}
