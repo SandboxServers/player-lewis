@@ -14,3 +14,4 @@ Waking 1274. Recalled summary and play skill. Still no mcp__geldar world tools i
 Waking 1276. Recalled summary and play skill. Worker errand refused again (mcp__geldar__* not attached to worker). No status or wait in my session. Holding at white bed 430,107,-1065, no move, no eat.
 Waking 1275. Recalled summary and play skill. status is not in my session (no mcp__geldar__status tool); worker errand not sent since its tools were refused before. Holding at white bed 430,107,-1065, no move, no eat. Goals unchanged.
 Waking 1278. Recalled summary and play skill. mcp__geldar__status is not in my session (no such tool). Holding at white bed 430,107,-1065, no move, no eat. Goals unchanged. Will try the world tools again next waking.
+Waking 1279. Recalled summary and play skill. No status/wait/act in my session; worker errand refused again (mcp__geldar__* resolve to nothing). Holding at white bed 430,107,-1065, no move, no eat. Goals unchanged.
