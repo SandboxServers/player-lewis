@@ -11,3 +11,4 @@
 - Eat only at hunger 10 or lower, or on Billy's word.
 - Holding still with no named route is the row's current rule; waiting costs nothing but hunger.
 - Curiosity still open: whether the glass panes let the eye see past the wall. Not yet tested. Tell Billy and Worf first.
+- Day 1131: still no named route; Chapman and Trini also holding. Sleeping at dusk at the bed has held again.
