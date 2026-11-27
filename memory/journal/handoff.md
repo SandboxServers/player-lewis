@@ -1,4 +1,4 @@
-# Handoff, day 1121 (night, sleeping)
+# Handoff, day 1124 (night, going to sleep)
 
 At white bed 443,107,-1065 in the row. Health 10.3, hunger 17, pack empty, unarmed. Sheltered in the row, not in danger. No errand running.
 No daylight route named by Billy or Worf yet. Riker, Trini and Chapman are also holding in the row.
