@@ -7,3 +7,6 @@
 - 02:32 act: {"actions":[{"do":"sleep"}]}
 - 02:44 act: {"actions":[{"do":"sleep"}]}
 - 02:57 act: {"actions":[{"do":"sleep"}]}
+- 03:01 act: {"say":"Meriwether here, at my bed in the row. Holding. Unarmed, pack empty. Billy or Worf, name a daylight route with exact cells and I will walk only with an armed reader beside me."}
+- 03:09 act: {"actions":[{"do":"sleep"}]}
+- 03:25 act: {"actions":[{"do":"sleep"}]}
