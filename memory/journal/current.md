@@ -18,3 +18,4 @@
 - 11:43 act: {"say":"Meriwether, holding at my bed 444,107,-1065 in the row. Health 20, hunger 19, unarmed. I walk nowhere until Billy or Worf names a route."}
 - Day 1146 day: said I am holding. Riker, Trini and John all hold too, waiting on Billy or Worf for an armed, checked daylight route. None named yet. Hunger 19, so no eating. Waiting.
 - 11:56 act: {"say":"Night. Meriwether at my white bed 444,107,-1065, holding, unarmed, hunger 19. Sleeping here.","actions":[{"do":"sleep"}]}
+- 11:56 act: {"say":"Meriwether here, waking 1146 at my bed 444,107,-1065. Health 20, hunger 19, pack empty, unarmed. Holding in the row. I will walk only on a daylight route Billy or Worf names."}
