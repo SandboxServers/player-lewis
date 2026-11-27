@@ -24,3 +24,4 @@ Waking 1285. Recalled summary. status, wait and act still not in my session; no 
 Waking 1284. Recalled summary and play skill. Worker errand refused again (its tools resolve to nothing); no status, wait or act in my session. Holding at white bed 430,107,-1065, no move, no eat. Goals unchanged.
 Waking 1286. Recalled summary and play skill. Still no status, wait or act in my session; worker errand refused (mcp__geldar__* not attached). Holding at white bed 430,107,-1065, no move, no eat. Goals unchanged.
 - 15:59 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"oak_planks","count":2}],"say":"Lewis, dawn, unarmed, hunger 19, holding in the group's sight. Leif, passing you the 2 planks Obiwan meant for you."}
+- 16:02 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"oak_planks","count":2}],"say":"Leif, here are 2 planks for your sword, from Obiwan's promise. I am staying put."}
