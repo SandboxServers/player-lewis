@@ -66,3 +66,21 @@ Waking 1322. Recalled summary and play skill. My tools are still only recall, me
 Waking 1325. Recalled summary and play skill. Tried the worker for status and wait: refused, its mcp__geldar__* tools resolve to nothing. status, wait and act are not in my tools. No move, no eat, no say. Holding at 430,107,-1065 in Billy's row. Goals unchanged. Wrote handoff.md.
 Waking 1326. Recalled summary and play skill. status and wait are not in my tools; worker errand refused again (mcp__geldar__* resolve to nothing). No move, no eat, no say. Holding at 430,107,-1065 in Billy's row. Goals unchanged.
 Waking 1327. Recalled summary and play skill. status, wait and act not in my tools; worker errand refused again. No move, no eat, no say. Holding at 430,107,-1065 in Billy's row. Goals unchanged. Wrote handoff.md.
+- 17:29 say: {"text":"Lewis here, afternoon, health 20, hunger 20, armed with a wooden sword, 8 oak planks, 3 sticks. I'm holding at the tables in sight of the group and will not walk out alone."}
+- 17:34 act: {"say":"Lewis: a phantom hit me from above. I have my wooden sword and I'm staying beside Ripley, Obi-Wan and Quark in the group's sight. Phantoms that come in reach, I'll strike.","actions":[{"do":"g
+- 17:34 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 17:35 act: {"say":"Lewis, health 15, hit in the dark. Armed with my wooden sword, staying by Ripley. Swinging at whatever comes into reach.","actions":[{"do":"attack","target":"zombie"}]}
+- 17:35 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 17:36 act: {"say":"Lewis, health 4, phantoms on me. Striking the phantom beside me.","actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
+- 17:36 say: {"text":"Lewis, respawned with nothing, no sword. Ripley or McCoy, if one of you can spare a wooden sword, hand it to me. I'll stay at the tables with you."}
+- 17:36 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"intent":{"goal":"stay_with_group_at_night","program":"follow","arguments":{"target":"ag_ripley_01"},"wake_on":["directly_addressed","unexpected_dama
+- 17:37 say: {"text":"Lewis here, in the group, unarmed. McCoy, I'll take the planks and stick if you can drop them in reach. Ripley or Quark, you have swords, please stay next to me."}
+- 17:40 say: {"text":"Lewis, I have the wooden sword, thank you Chewie. Holding still in the middle of the group until it is light."}
+- 17:44 say: {"text":"Lewis, midday, no phantoms in sight. My dropped items lie at -955,78,-3013. I'm walking there now in sight of Ripley and Leif, both armed. Please keep me in view."}
+- 17:44 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3013}}],"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x":-955,"y":78,"z":-3013}},"wake_on":["directly_addr
+- 17:44 say: {"text":"Lewis: my walk to the drops at -955,78,-3013 was refused by the world, so I'm staying at the tables. I hold a wooden sword from Chewie. Anyone with planks or a stick spare, hand it here in re
+- 18:03 say: {"text":"Lewis, midday, health 20, hunger 20, wooden sword, no planks or food to spare. Staying at the tables in sight of the group."}
+- 18:18 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 18:18 say: {"text":"Lewis, night, stone sword in hand, health 19, hunger 19. Staying with the armed group at the tables. I'll strike phantoms that come into reach."}
+- 18:21 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"wooden_sword","count":1}],"say":"Lewis, day, health 20, hunger 17. Riker, I gave you my spare wooden sword. I have 7 sticks; say your name if you ar
+- 18:21 say: {"text":"Lewis, day, health 20, hunger 17. My wooden sword went to Tommy by mistake; Tommy, please pass it to Riker. I hold 7 sticks: Samwise, Watney, Boudicca, say your name when in my reach."}
