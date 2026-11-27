@@ -84,3 +84,31 @@ Waking 1327. Recalled summary and play skill. status, wait and act not in my too
 - 18:18 say: {"text":"Lewis, night, stone sword in hand, health 19, hunger 19. Staying with the armed group at the tables. I'll strike phantoms that come into reach."}
 - 18:21 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"wooden_sword","count":1}],"say":"Lewis, day, health 20, hunger 17. Riker, I gave you my spare wooden sword. I have 7 sticks; say your name if you ar
 - 18:21 say: {"text":"Lewis, day, health 20, hunger 17. My wooden sword went to Tommy by mistake; Tommy, please pass it to Riker. I hold 7 sticks: Samwise, Watney, Boudicca, say your name when in my reach."}
+- 18:23 say: {"text":"I am awake, holding a stone sword, and staying with the group. Hunger 17. Billy, do you have a named route to a white bed?"}
+Waking 1329. Tools are back. status: days_since_sleep 9, health 20, hunger 17. Position -951,77,-3020 at the tables, midday, bright, not enclosed. Armed with stone sword, 7 sticks, 1 oak plank. Ringed by 8 phantoms in sight (hostile, daytime). Said I am holding with the group and asked Billy for a named white bed route. No move, no eat.
+- 18:27 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"oak_planks","count":1}],"say":"Lewis, midday, armed with stone sword, hunger 17. Leif, here is my spare oak plank for your sword. I still hold 7 stic
+- 18:30 act: {"actions":[{"do":"note","text":"Dusk at the tables, hunger 17, health 20. Holding in the group's sight, not walking in the dark. Phantoms north and east."}],"say":"Meriwether, armed with a stone swor
+- 18:36 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Meriwether: phantom on me from the north, striking it with my stone sword. Staying at the tables in the group's sight."}
+- 18:36 act: {"actions":[],"say":"Meriwether, health 4, phantoms keep hitting me at the tables. Riker, Gandalf, Tommy: I'm standing right beside you. Strike what comes close."}
+- 18:37 say: {"text":"Meriwether, respawned at the spawn with a stone sword from Archimede. Thank you. I'll stay beside Billy and Archimede in the group's sight."}
+- 18:41 act: {"actions":[],"say":"Billy, Meriwether, daylight, health 20, stone sword from Archimede, nothing else. My drops are gone. Please name the white bed route, and I'll walk in your sight."}
+- 18:56 act: {"actions":[],"intent":{"goal":"follow_billy_cows","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_wor
+- 19:10 say: {"text":"Lewis, night, unarmed in hand, stone sword, hunger 20. Zombie to my north-west at 2 blocks. Armed ones nearby, please strike it. I'm staying still in the group's middle."}
+- 19:15 say: {"text":"Lewis, dawn, armed with a stone sword, health 20, hunger 20, no food. Billy, I'm joining your walk to the Stores hall, in sight. Say Lewis when you leave."}
+- 19:35 act: {"say":"Lewis, dawn, stone sword, health 20, hunger 20. Han, I'm walking with your group to the Stores hall in your sight.","intent":{"goal":"follow_han_to_hall","program":"follow","arguments":{"targe
+- 19:41 act: {"say":"Lewis, midday, alone at -944,85,-2927, health 20, hunger 20, stone sword. Han, Scotty: I'm holding here; I'll walk to you if you say your name in my sight."}
+- 19:50 act: {"say":"Lewis, morning, alone at -944,85,-2927, survived the night. Health 20, hunger 20. Anyone armed near the chicken and sheep spot, say your name and I'll come to you in daylight."}
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":-938,"y":84,"z":-2927}},{"do":"attack","target":"skeleton"}],"say":"Skeleton to the east is shooting me. I am going to close in and fight it."}
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":-937,"y":83,"z":-2928}},{"do":"attack","target":"skeleton"},{"do":"attack","target":"skeleton"}]}
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":-936,"y":84,"z":-2928}},{"do":"attack","target":"skeleton"},{"do":"attack","target":"skeleton"}],"say":"Still fighting the skeleton. Health is 9."}
+- 20:02 act: {"actions":[{"do":"attack","target":"skeleton"},{"do":"attack","target":"skeleton"}],"say":"Health is 3. Fighting on."}
+- 20:03 act: {"actions":[{"do":"goto","target":{"x":-942,"y":85,"z":-2966}}],"say":"A second skeleton is to the south. I am moving north, out of its line."}
+- 20:03 act: {"actions":[{"do":"goto","target":{"x":-944,"y":85,"z":-2982}}]}
+- 20:03 act: {"actions":[{"do":"goto","target":{"x":-962,"y":82,"z":-2990}}],"say":"Health is under 1. Skeletons are shooting me. Anyone armed nearby, please help."}
+- 20:14 act: {"actions":[],"say":"Lewis here, unarmed, at -961,82,-2990. Archimede, Magellan: may I walk with you to the cow hunt? I will stay behind you and eat only if you say so."}
+- 20:24 act: {"actions":[],"say":"Lewis, unarmed, at -961,82,-2990, no walking at night. Boudicca, if you come within sight, I will stay near you by the chests."}
+- 20:28 act: {"actions":[],"say":"Lewis, unarmed, at -961,82,-2990, about 20 blocks south of the chests. Boudicca, name a route and I will walk it. I have 4 dirt to give."}
+- 20:31 act: {"actions":[],"say":"Lewis, unarmed, at -961,82,-2990, hunger 20, no food. Watney, Balboa, Frodo: I am about 10 blocks east of you. Name a route and I will walk it to join the group."}
+- 20:38 act: {"actions":[],"say":"Lewis, unarmed, hunger 20, 4 dirt for any wall cell. Lara, Chewie, Uhura: I'm at -961,82,-2990. If you name a route here or a place to stand, I'll come in your sight before dark."
+- 20:45 act: {"actions":[],"say":"Lewis, night, at -961,82,-2990, unarmed, hunger 20, 4 dirt. Lara or Chewie, name the wall cell and I'll stand in its sight. I won't walk in the dark."}
+- 20:49 act: {"actions":[],"say":"Lewis, dawn 1173, hunger 20, unarmed, no food, 4 dirt. I'm staying at -961,82,-2990 until an armed person names a route. Say my name if you find food and I'm nearest."}
