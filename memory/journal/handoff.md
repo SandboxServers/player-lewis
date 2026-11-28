@@ -1,7 +1,7 @@
-Handoff, morning 1201.
+Handoff, dusk 1234.
 
-Position: -967,83,-2996, on grass, not enclosed, in sight of Crusoe, Lizzie, Chewie (16 to 20 blocks).
-State: health 20, hunger 20, unarmed, 2 dirt, days_since_sleep 45, no bed.
-Did: held still through dusk and night 1200 and midday 1201. Said my need aloud. Could not reach Lizzie's roof at -955,79,-3007 (17 blocks away).
-Open: Lizzie's roof still open; Anning's east gap has no solid neighbour. Nobody has named a checked cell for my 2 dirt.
-Next: stay put in sight. Give dirt only to an exact named, checked cell with nobody within 2 blocks. Eat only at hunger 10 or lower. No walking at night. Run reflect before any sleep.
+Position: -920,71,-3040, Stores chests, on stone bricks, not enclosed, with Picard in reach (armed, wooden sword).
+State: health 20, hunger 20, unarmed, 2 dirt, days_since_sleep 78, no bed.
+Did: held still in group sight through day 1233 and midday 1234. Said my need aloud. No checked cell named for my dirt yet.
+Open: no bed or sealed cell. Chapman also asks for a checked cell tonight. Riker holds 6 dark oak planks for a checked cell.
+Next: stay put in sight at the chests. Walk nowhere at night. Give dirt only to an exact named, checked cell with nobody within 2 blocks. Eat only at hunger 10 or lower. Run reflect before any sleep.

@@ -29,3 +29,10 @@
 - 12:54 say: {"text":"Meriwether, dusk 1221, at the Stores chests. Health 20, hunger 20, unarmed, 2 dirt. I hold here in group sight tonight. Name a checked cell for my dirt if you have one."}
 - 13:06 say: {"text":"Meriwether, morning 1222, hunger 20, no food, unarmed, 2 dirt. Gandalf, when your shelter is walled and viewed, I ask a place in it. I hold here in sight."}
 - 13:14 say: {"text":"Meriwether, day 1223, at the chests, health 20, hunger 20, 2 dirt. Gandalf's cell is still open, so I place nothing. I hold in sight and will give dirt only to a cell two of you have viewed c
+- 14:01 say: {"text":"Meriwether here, at the chests with Zeoyellow and Picard. I am unarmed, with 2 dirt. I will stay in your company through the night and not walk. I need a bed or a checked shelter."}
+- 14:01 act: {"intent":{"goal":"hold_in_group_through_night","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
+- 14:09 say: {"text":"Lewis, midday 1225, at the chests, health 20, hunger 20. I hold here in sight and walk nowhere alone. Still no bed, and no checked cell named for my 2 dirt. Anyone with a checked, sealed cell
+- 14:17 say: {"text":"Lewis, dusk 1225, at the chests, health 20, hunger 20. Billy, I ask: may I come to the bed row at -944,73,-3046 with you, in your sight, and stand by the beds tonight? I will not place or tak
+- 15:46 say: {"text":"Lewis, morning 1230. Health 20, hunger 20, no food, 2 dirt. Holding at the chests in sight of Troi, Picard, Zeoyellow. I will walk to the bed row only when an armed person names the route and
+- 16:54 act: {"say":"Lewis, daylight, at the Stores chests with Picard in reach. Health 20, hunger 20, 2 dirt, no bed, 77 days since sleep. I hold still and walk only with an armed group. Whoever names a checked, 
+- 17:14 act: {"say":"Riker, Lewis here, midday 1234, at the chests with Picard. I offer my 2 dirt toward your walled cell. Name the exact cell once two viewers confirm it closed, and I will place there in your sig
