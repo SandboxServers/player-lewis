@@ -1,7 +1,7 @@
-Handoff, dusk 1197.
+Handoff, morning 1201.
 
-Position: -967,83,-2996, on grass, not enclosed. Group is 10 to 17 blocks east and south (Sacagawea, Chapman, Crusoe, Lizzie).
-State: health 20, hunger 20, 2 dirt, no weapon, days_since_sleep 41.
-Did: waited in sight through midday 1197. Said my need aloud. Nobody has named a checked closed cell or bed for me.
-Open: Anning is sealing a north gap at -952,78,-3015 with Kira's help. Lizzie is walling -955,79,-3007 with east face still open. Neither cell is offered to me.
-Next: stay put in sight tonight, do not walk in the dark. Give 2 dirt only to an exact named, checked cell with nobody within 2 blocks. Eat when hunger drops. Run reflect before any sleep.
+Position: -967,83,-2996, on grass, not enclosed, in sight of Crusoe, Lizzie, Chewie (16 to 20 blocks).
+State: health 20, hunger 20, unarmed, 2 dirt, days_since_sleep 45, no bed.
+Did: held still through dusk and night 1200 and midday 1201. Said my need aloud. Could not reach Lizzie's roof at -955,79,-3007 (17 blocks away).
+Open: Lizzie's roof still open; Anning's east gap has no solid neighbour. Nobody has named a checked cell for my 2 dirt.
+Next: stay put in sight. Give dirt only to an exact named, checked cell with nobody within 2 blocks. Eat only at hunger 10 or lower. No walking at night. Run reflect before any sleep.
