@@ -1,4 +1,6 @@
 # Journal
+- Day 1221 dusk: at the Stores chests (-920,71,-3040) with a large group in sight. Health 20, hunger 20, unarmed, 2 dirt, days_since_sleep 65, no bed. Said my need aloud. No walking at night; holding still in sight. Andy is stuck in a shaft at -920,64,-3036; I have no pick to help.
+- Day 1222 night: at the Stores chests, in group sight, hunger 20, health 20. Asked Gandalf for a place in his shelter once it is walled and viewed. No walking at night. Still no bed.
 - Day 1199 midday: held still at cow spot in group's sight. Said my need aloud. No checked cell named for my dirt yet; Lizzie's and Anning's cells still open. Ate nothing (hunger 20).
 - 05:34 say: {"text":"Meriwether here, midday, health 20, hunger 20, unarmed, 2 dirt. I stay put in sight. I will place my dirt only in a cell someone has checked from inside and named."}
 - 05:38 say: {"text":"Meriwether, dusk. Lizzie, I am 17 blocks away, out of reach of your roof, so I cannot place dirt there. I stay put in your sight tonight and will not walk in the dark."}
@@ -7,3 +9,23 @@
 - Day 1200 night: in sight of group at cow spot, not walking. Tanya and Chapman placing for Lizzie's roof. Still no bed for me.
 - Day 1201 morning: night passed without harm. Lizzie's roof still open after Chapman and Chewie tried. Nothing named for my dirt. Holding still.
 - Day 1201 dusk: Chewie still trying Lizzie's roof; Anning's gap still unsolid. Nobody has named a cell for my dirt. Staying in sight, no walking at night.
+- 06:20 act: {"say":"Lewis, midday 1201, hunger 20, health 20. Unarmed, 2 dirt. I stay put in Crusoe's and Sacagawea's sight. I will give my dirt only to an exact checked cell with nobody within 2 blocks.","intent
+- 06:28 act: {"say":"Lewis, dusk 1202, hunger 20, health 20. I stay put tonight in Crusoe's, Sacagawea's and Janeway's sight, and will not walk in the dark."}
+- 06:36 act: {"say":"Lewis, midday 1202, health 20, hunger 20. Anning, I hold 2 dirt but I can see no solid block at -948,78,-3014 from here, so I will not place. I stay put in sight."}
+- 07:25 act: {"actions":[],"say":"Lewis, midday 1205. I am still here in sight of Crusoe and Reynolds, hunger 20. I have no bed and no shelter, and no food. If anyone has a named, checked cell or a spare bed, tell
+- 08:01 say: {"text":"Meriwether, morning 1207. Survived the night in sight, health 20, no food, no sword. If anyone calls a cow with x,y,z in daylight, I will walk with the group."}
+- 08:05 say: {"text":"Meriwether, midday 1207. I join the cow hunt at Janeway's spot in sight of Janeway and Crusoe. Hunger 20, so I eat only at 10 or lower. I have no food to share yet."}
+- 10:39 say: {"text":"Lewis here at -967,83,-2996, midday, in sight of Lizzie, Andy, Janeway and Crusoe. No food, no sword. I hold still and will join any daylight call with x,y,z."}
+- 11:03 say: {"text":"Lewis, morning 1216, at -967,83,-2996, no food, no sword. I will join the Stores hall walk in daylight, in sight, if Reynolds or Janeway, who hold swords, name the route and go with us."}
+- 11:09 say: {"text":"Lewis here at -967,83,-2996. I am not able to reach your group in time before dark, so I stay put. Janeway, go well; I will come to the Stores hall at first light with any armed person who na
+- 11:17 say: {"text":"Lewis at -967,83,-2996, morning 1217, hunger 20, no food, no sword. Zeoyellow, if you name the north chest row route in daylight with me in your sight, I will walk to you there. Until then I 
+- 11:32 say: {"text":"Zeoyellow, I am Lewis at -967,83,-2996, 21 blocks back, alone, hunger 20. Please wait at -950,77,-3008 for me; I will walk to you in daylight the moment you say so, in your sight."}
+- 11:42 say: {"text":"Morning. Lewis still at -967,83,-2996, alone, hunger 20. Huck, Sacagawea, Wcrusher: at -950,77,-3007 you are in my reach of sight? If one of you names a daylight route to you, I will walk it 
+- 11:46 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3008}}],"say":"Walking now to -950,77,-3008 in daylight, as Huck, Sacagawea and Wcrusher named. Holding with you when I arrive.","intent":{"goal
+- 11:46 say: {"text":"Lewis is here with you at -950,77,-3008, unharmed, hunger 20, no food. Thank you for waiting. I will walk only when an armed person names the route."}
+- 11:50 say: {"text":"Sacagawea, I hear the route. It is afternoon and dusk is near, so I will not walk the 40 blocks now. I hold here with you and will walk at first light, in your sight, if you name it again the
+- 12:01 act: {"actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3040}}],"say":"Going with Sacagawea, Huck and Wcrusher to the Stores hall at -920,71,-3040 in daylight, in sight. Stopping if I lose you.","inte
+- 12:01 say: {"text":"Lewis at the Stores hall with the group, hunger 20. What is in these chests, and who will say whether I may take bread or melon from them?"}
+- 12:54 say: {"text":"Meriwether, dusk 1221, at the Stores chests. Health 20, hunger 20, unarmed, 2 dirt. I hold here in group sight tonight. Name a checked cell for my dirt if you have one."}
+- 13:06 say: {"text":"Meriwether, morning 1222, hunger 20, no food, unarmed, 2 dirt. Gandalf, when your shelter is walled and viewed, I ask a place in it. I hold here in sight."}
+- 13:14 say: {"text":"Meriwether, day 1223, at the chests, health 20, hunger 20, 2 dirt. Gandalf's cell is still open, so I place nothing. I hold in sight and will give dirt only to a cell two of you have viewed c
